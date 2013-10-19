@@ -4,7 +4,7 @@ import java.text.*;
 //import java.text.SimpleDateFormat;
 
 String endPoint = "OkavangoHeartrate";
-//ArrayList<HRObject> hrList = new ArrayList();
+
 IntDict personDict = new IntDict();
 
 HashMap<String, ArrayList> hrMap;
@@ -16,7 +16,9 @@ int noSpeedcount = 0;
 int noHRSpeed = 0;
 
 void setup() {
-	size(1280, 720);
+	//size(1280, 720, "processing.core.PGraphicsRetina2D");
+    size(1280, 720, P3D);
+    //hint(ENABLE_RETINA_PIXELS);
 	background(0);
 	stroke(255);
 	fill(255);
@@ -37,34 +39,6 @@ void setup() {
 
 	String[] keys = personDict.keyArray();
 	hrMap = new HashMap(keys.length);
-
-/*
-	for (String person : keys){
-		println("person: "+person);
-		ArrayList<HRObject> hrList = new ArrayList();
-
-		for (int i = 0; i<features.size(); i++){
-			JSONObject feature = features.getJSONObject(i);
-			JSONObject properties = feature.getJSONObject("properties");
-
-			if (person.equals(properties.getString("Person"))){
-				HRObject hro = new HRObject();	
-				hro.id = feature.getInt("id");
-
-				hro.distance = properties.getInt("Distance");
-				//hro.speed = properties.getFloat("Speed");
-				//hro.hr = properties.getFloat("HR");
-				hro.dateTime = properties.getString("DateTime");
-
-				hro.tpos = new PVector(random(width), random(height));
-
-				hrList.add(hro);
-			}
-		
-		}
-		hrMap.put(person, hrList);
-	}
-*/
 	
 	// Get data to hashmap
 	for (int i = 0; i<features.size(); i++){
@@ -114,8 +88,11 @@ void setup() {
 		for (HRObject o : (ArrayList<HRObject>)me.getValue()){
 			//println(me.getKey() + " dateTime: "+o.dateTime);
 			//println("o.dateTime.getTime(): "+o.dateTime.getTime());
+
 			o.tpos = new PVector(map(o.dateTime.getTime(), 1379051558000L, 1379090232000L, 0, width), 
 								 map(o.hr, 0, 3, height, 0));
+			
+			// o.tpos = new PVector(random(width), random(height));
 		}
 	}
 	println("noHRcount: "+noHRcount);
@@ -125,18 +102,10 @@ void setup() {
 
 void draw() {
 	background(0);
-	
-	// Loop through 1000 objects
-	for(int i = 0; i < 1000; i++) {
-		if(((ArrayList<HRObject>)hrMap.get("GB")).get(i).hr != -1) {
-			((ArrayList<HRObject>)hrMap.get("GB")).get(i).update();
-			((ArrayList<HRObject>)hrMap.get("GB")).get(i).render();
-		}
-	}
 
 	// Loop through all objects
-	// for (HRObject o : (ArrayList<HRObject>)hrMap.get("Steve")){
-	// 	o.update();
-	// 	o.render();
-	// }
+	for (HRObject o : (ArrayList<HRObject>)hrMap.get("Steve")){
+		o.update();
+		o.render();
+	}
 }

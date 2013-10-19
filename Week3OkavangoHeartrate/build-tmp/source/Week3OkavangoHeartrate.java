@@ -23,7 +23,7 @@ public class Week3OkavangoHeartrate extends PApplet {
 //import java.text.SimpleDateFormat;
 
 String endPoint = "OkavangoHeartrate";
-//ArrayList<HRObject> hrList = new ArrayList();
+
 IntDict personDict = new IntDict();
 
 HashMap<String, ArrayList> hrMap;
@@ -35,7 +35,9 @@ int noSpeedcount = 0;
 int noHRSpeed = 0;
 
 public void setup() {
-	size(1280, 720);
+	//size(1280, 720, "processing.core.PGraphicsRetina2D");
+    size(1280, 720, P3D);
+    //hint(ENABLE_RETINA_PIXELS);
 	background(0);
 	stroke(255);
 	fill(255);
@@ -116,8 +118,6 @@ public void setup() {
 
 		hro.energyConsumption = properties.getFloat("EnergyConsumption");
 
-		//hro.tpos = new PVector(random(width), random(height));
-
 		hro.person = properties.getString("Person");
 		if(!hrMap.containsKey(hro.person)) {
 			hrMap.put(hro.person, new ArrayList<HRObject>());
@@ -135,8 +135,11 @@ public void setup() {
 		for (HRObject o : (ArrayList<HRObject>)me.getValue()){
 			//println(me.getKey() + " dateTime: "+o.dateTime);
 			//println("o.dateTime.getTime(): "+o.dateTime.getTime());
+
 			o.tpos = new PVector(map(o.dateTime.getTime(), 1379051558000L, 1379090232000L, 0, width), 
 								 map(o.hr, 0, 3, height, 0));
+			
+			// o.tpos = new PVector(random(width), random(height));
 		}
 	}
 	println("noHRcount: "+noHRcount);
@@ -146,18 +149,12 @@ public void setup() {
 
 public void draw() {
 	background(0);
-	
-	for(int i = 0; i < 1000; i++) {
-		if(((ArrayList<HRObject>)hrMap.get("GB")).get(i).hr != -1) {
-			((ArrayList<HRObject>)hrMap.get("GB")).get(i).update();
-			((ArrayList<HRObject>)hrMap.get("GB")).get(i).render();
-		}
-	}
 
-	// for (HRObject o : (ArrayList<HRObject>)hrMap.get("Steve")){
-	// 	o.update();
-	// 	o.render();
-	// }
+	// Loop through all objects
+	for (HRObject o : (ArrayList<HRObject>)hrMap.get("Steve")){
+		o.update();
+		o.render();
+	}
 }
 class DateComparator implements Comparator<HRObject> {
 	public @Override
