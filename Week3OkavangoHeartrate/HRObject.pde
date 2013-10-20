@@ -6,7 +6,7 @@ class HRObject {
 	int distance;
 	
 	float speed;
-	Float hr;
+	float hr;
 	String person;
 	//int verticalSpeed;
 	//String contentType;
@@ -17,8 +17,16 @@ class HRObject {
 	float temperature;
 	int altitude;
 
+	float period;
+
 	PVector pos = new PVector();
-	PVector tpos = new PVector();
+	PVector tpos;// = new PVector();
+
+	HRObject(float heartRate) {
+		hr = heartRate;
+		if(hr > 0) period = 1 / hr * 1000;
+		else period = -1;
+	}
 
 	void update() {
 		pos.lerp(tpos, 0.1);
@@ -26,8 +34,9 @@ class HRObject {
 
 	void render() {
 		pushMatrix();
-		translate(pos.x, pos.y);
+		translate(tpos.x, tpos.y);
 		//text(person, 0, 0);
+		fill(255);
 		ellipse(0, 0, 1, 1);
 		//line(0, 0, 0, height - pos.y);
 		popMatrix();
