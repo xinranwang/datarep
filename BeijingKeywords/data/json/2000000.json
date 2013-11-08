@@ -1,0 +1,574 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Family cats are being stolen in Beijing to meet the demand for cat meat in Cantonese-style restaurants, which have been opening up across the city (M)",
+        "headline": {"main": "Diners's Taste Leads to Cat-Nabbing in Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "RESTAURANTS"
+          },
+          {
+            "name": "subject",
+            "value": "CATS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2000-01-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2000/01/02/world/diners-s-taste-leads-to-cat-nabbing-in-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Among the more persistent fables in the West is that the pork in seedy Chinese restaurants may actually be the meat of stray cats.    But some Chinese pay good money to eat cat, in a Cantonese dish called Dragon and Tiger Fight that combines the meat",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd237788eb7c8105d7ca180",
+        "source": "The New York Times",
+        "word_count": 511,
+        "lead_paragraph": "Among the more persistent fables in the West is that the pork in seedy Chinese restaurants may actually be the meat of stray cats. But some Chinese pay good money to eat cat, in a Cantonese dish called Dragon and Tiger Fight that combines the meat of snakes and cats."
+      },
+      {
+        "abstract": "Chen Jinlong, leader of Zhong Gong movement, one of China's largest meditative healing societies, is sentenced to two years in prison for allegedly practicing medicine without proper qualifications and harming patients; action is latest in government's effort to determine which such groups should be allowed and which should be banned as superstitious cults; Zhong Gong was founded in 1988, four years earlier than Falun Gong movement, which has been banned as evil cult after more than 10,000 members held illegal demonstration in Beijing (M)",
+        "headline": {"main": "China Imprisons a Leader of a Healing-by-Meditation Society"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN JINLONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "ZHONG GONG"
+          },
+          {
+            "name": "organizations",
+            "value": "FALUN GONG"
+          },
+          {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+          },
+          {
+            "name": "subject",
+            "value": "RELIGIOUS CULTS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2000-01-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2000/01/20/world/china-imprisons-a-leader-of-a-healing-by-meditation-society.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A leader of one of China's largest meditative healing societies has been sentenced to prison for illegally practicing medicine, the latest move in the government's tortured effort to determine which such groups should be allowed and which should be b",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd220358eb7c8105d7a38e0",
+        "source": "The New York Times",
+        "word_count": 543,
+        "lead_paragraph": "A leader of one of China's largest meditative healing societies has been sentenced to prison for illegally practicing medicine, the latest move in the government's tortured effort to determine which such groups should be allowed and which should be banned as superstitious cults. Last week a court in the eastern province of Zhejiang sentenced Chen Jinlong, 51, the local leader of the Zhong Gong movement, to two years for providing medical care without proper qualifications and harming patients, a human rights monitor in Hong Kong reported. Court officials confirmed the verdict."
+      },
+      {
+        "abstract": "Chinese officials deny rumors that Lin Youfang, wife of Beijing's top Communist Party official Jia Qinglin, was detained as part of investigation of huge smuggling scheme in Fujian Province, and that he divorced her to salvage his political career (M)",
+        "headline": {"main": "Beijing Abuzz Over Smuggling Scandal"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LIN YOUFANG"
+          },
+          {
+            "name": "persons",
+            "value": "JIA QINGLIN"
+          },
+          {
+            "name": "glocations",
+            "value": "FUJIAN PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "SMUGGLING"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2000-01-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2000/01/27/world/beijing-abuzz-over-smuggling-scandal.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "For the last week, rumors have flown around Beijing that the wife of the city's top Communist Party official was detained as part of an investigation of a huge smuggling scheme in the southeastern province of Fujian.    Party officials even told fore",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd233c18eb7c8105d7c444e",
+        "source": "The New York Times",
+        "word_count": 651,
+        "lead_paragraph": "For the last week, rumors have flown around Beijing that the wife of the city's top Communist Party official was detained as part of an investigation of a huge smuggling scheme in the southeastern province of Fujian. Party officials even told foreign reporters privately that Beijing's party secretary, Jia Qinglin, divorced his wife of 30 years, Lin Youfang, last month to salvage his political career, even providing the date of the marriage's demise."
+      },
+      {
+        "abstract": "Ai Jia World Furniture Center in Beijing, China, pays teenage cyclists equivalent of $80 month to advertise for company by riding in formation around city; photo (M)",
+        "headline": {"main": "Beijing Journal; Who Needs TV? They Pedal Hard to Peddle Ads"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "AI JIA WORLD FURNITURE CENTER"
+          },
+          {
+            "name": "subject",
+            "value": "BICYCLES AND BICYCLING"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING"
+          },
+          {
+            "name": "subject",
+            "value": "FURNITURE"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2000-02-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2000/02/03/world/beijing-journal-who-needs-tv-they-pedal-hard-to-peddle-ads.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "On a recent bitter-cold morning, the 15 teenagers suited up in neon-yellow warm-up jackets and matching baseball caps, climbed on 15 identical mountain bikes and rode off in formation onto the icy Beijing streets.    From a distance they resembled a ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd237758eb7c8105d7c9e66",
+        "source": "The New York Times",
+        "word_count": 879,
+        "lead_paragraph": "On a recent bitter-cold morning, the 15 teenagers suited up in neon-yellow warm-up jackets and matching baseball caps, climbed on 15 identical mountain bikes and rode off in formation onto the icy Beijing streets. From a distance they resembled a bicycle club or an athletic team at practice as they wove deftly in and out of traffic for hours. But this was neither leisure nor sport. It was work."
+      },
+      {
+        "abstract": "Beijing police block Lu Wenhe, Chinese citizen who has lived in US for 20 years, from delivering $25,000 in foreign donations to help families of people who were killed in crackdown on Tiananmen student democracy movement in June 1989 (M)",
+        "headline": {"main": "China Blocks Donations For Tiananmen Victims"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LU WENHE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "FINANCES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2000-02-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2000/02/09/world/china-blocks-donations-for-tiananmen-victims.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The police have blocked a messenger from delivering $25,000 in foreign donations to help the families of people who were killed in the crackdown on the Tiananmen student democracy movement in June 1989, calling such aid a threat to national security,",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1f3308eb7c8105d74b459",
+        "source": "The New York Times",
+        "word_count": 779,
+        "lead_paragraph": "The police have blocked a messenger from delivering $25,000 in foreign donations to help the families of people who were killed in the crackdown on the Tiananmen student democracy movement in June 1989, calling such aid a threat to national security, The messenger, Lu Wenhe, a Chinese citizen who has lived in the United States for 20 years, was detained in Beijing in late December while on his way to meet a woman whose 17-year-old son was shot dead by soldiers in 1989. After three days of questioning in which his passport was confiscated and he was threatened with prison, he gave the purpose of his visit."
+      },
+      {
+        "abstract": "Some 82,000 rural migrants in Beijing, nearly half of them from Sichuan, rummage through city's waste, extracting everything of value and selling it to recycling factories; sprawling enterprise was organized over last dozen years by few migrant 'garbage kings' who have divided up city and made fortunes as middlemen; most of garbage pickers lack documents required for outsiders to live in Beijing; they live in constant fear of police harassment and deportation to their former homes; photos (M)",
+        "headline": {"main": "Amid Garbage and Disdain, China Migrants Find a Living"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "SICHUAN PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SOCIAL CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "WASTE MATERIALS AND DISPOSAL"
+          },
+          {
+            "name": "subject",
+            "value": "RECYCLING OF WASTE MATERIALS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2000-02-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2000/02/11/world/amid-garbage-and-disdain-china-migrants-find-a-living.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The odor in  the air could be a bit sweeter  actually, a lot sweeter. And the flies and rats could be, well, less numerous.    Still, He Dayang and his wife are happy to be living here, with their ruddy-cheeked little daughter, in a shack beside a fe",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd237778eb7c8105d7ca03a",
+        "source": "The New York Times",
+        "word_count": 1530,
+        "lead_paragraph": "The odor in the air could be a bit sweeter actually, a lot sweeter. And the flies and rats could be, well, less numerous. Still, He Dayang and his wife are happy to be living here, with their ruddy-cheeked little daughter, in a shack beside a fetid city dump."
+      },
+      {
+        "abstract": "Erik Eckholm travel article on Beihai Park, one of Beijing, China's remaining hutong neighborhoods, which reveals remnants of century-old way of life; map; photos (M)",
+        "headline": {"main": "Back in Time In Old Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIHAI PARK (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "GEOGRAPHIC PROFILES"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2000-02-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2000/02/13/travel/back-in-time-in-old-beijing.html",
+        "news_desk": "Travel Desk",
+        "snippet": "IT is still possible, just barely, to get a glimpse of what daily life for Beijingers was like at the last turn of the century. You can't do it by touring the Forbidden City or by competing for dubious antiques in the ersatz Qing dynasty market of Li",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd237768eb7c8105d7c9f98",
+        "source": "The New York Times",
+        "word_count": 2324,
+        "lead_paragraph": "IT is still possible, just barely, to get a glimpse of what daily life for Beijingers was like at the last turn of the century. You can't do it by touring the Forbidden City or by competing for dubious antiques in the ersatz Qing dynasty market of Liulichang. But you can by taking a relaxed stroll through one of the city's oldest residential quarters, near the string of willow-lined lakes to the northwest of the Forbidden City above Beihai Park. In my first week in Beijing, I was introduced to a particular walk that transformed my impression of what is generally a frenzied, frazzling city, stripped of its history. I have retraced the same path several times since, always finding something different and always feeling rejuvenated by the slowed pace, the human scale and just enough remnants of the old days to fire the imagination."
+      },
+      {
+        "abstract": "Vance Hyndman letter on lakes around Beijing (S)",
+        "headline": {"main": "Beijing Memories"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HYNDMAN, VANCE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "24",
+        "pub_date": "2000-03-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2000/03/12/travel/l-beijing-memories-174777.html",
+        "news_desk": "Travel Desk",
+        "snippet": " To the Editor:     Erik Eckholm's article on the lakes in northwest Beijing (''Back in Time in Old Beijing,'' Feb. 13) brought back pleasant memories from my own time living in that neighborhood in autumn 1998. I, too, liked to enter from the west s",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd230ce8eb7c8105d7bf936",
+        "source": "The New York Times",
+        "word_count": 135,
+        "lead_paragraph": "To the Editor: Erik Eckholm's article on the lakes in northwest Beijing (''Back in Time in Old Beijing,'' Feb. 13) brought back pleasant memories from my own time living in that neighborhood in autumn 1998. I, too, liked to enter from the west side, particularly because of the fantastic view across the lake to the Drum and Bell Towers. Also in the Houhai neighborhood are palaces from the Qing dynasty, including the famous Prince Gong Mansion, which is very popular with Chinese vacationers."
+      },
+      {
+        "abstract": "Most Taiwanese living in Beijing say they are happy and feel at home in China despite its warning that it 'would not sit idly by' if Taiwan moved toward formal independence; photo (M)",
+        "headline": {"main": "It's Mostly Business as Usual For the Taiwanese in Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-TAIWAN"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2000-03-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2000/03/16/world/it-s-mostly-business-as-usual-for-the-taiwanese-in-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "This week at the Great Hall of the People, Chinese leaders threatened military action against Taiwan, warning that China ''would not sit idly by'' if the island it claims as its own moved toward formal independence.    But it was business as usual he",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd230c98eb7c8105d7bf6bd",
+        "source": "The New York Times",
+        "word_count": 1395,
+        "lead_paragraph": "This week at the Great Hall of the People, Chinese leaders threatened military action against Taiwan, warning that China ''would not sit idly by'' if the island it claims as its own moved toward formal independence. But it was business as usual here at the Purple Vine, an elegant Taiwan-style teahouse run by a businessman from Taipei that is snuggled between the Great Hall and China's leadership compound -- and counts many mainland officials as loyal customers."
+      },
+      {
+        "abstract": "Police prevent widow of revered American journalist from meeting with prominent critic of 1989 army crackdown on student democracy demonstrators in Beijing; Edgar Snow's sympathetic portraits of Communist revolution earned him title of 'friend of China'; his widow, Lois Wheeler Snow, and her son, Christopher, are halted at gate of People's University in Beijing, where they sought to visit with Ding Zilin to support her efforts to provide money and consolation to relatives of those killed by army in Tiananmen Square crackdown; Ding's own 17-year-old son was among dead; fact that authorities feel compelled to keep apart these two women is renewed reminder of sensitivity in Communist Party about Tiananmen Square demonstrations and their violent suppression (M)",
+        "headline": {"main": "China Blocks Visit to Critic Of Crackdown At Tiananmen"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SNOW, CHRISTOPHER"
+          },
+          {
+            "name": "persons",
+            "value": "SNOW, EDGAR"
+          },
+          {
+            "name": "persons",
+            "value": "SNOW, LOIS WHEELER"
+          },
+          {
+            "name": "persons",
+            "value": "DING ZILIN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2000-04-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2000/04/02/world/china-blocks-visit-to-critic-of-crackdown-at-tiananmen.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The widow of Edgar Snow, the American journalist who was celebrated here as a ''friend of China'' for his sympathetic portraits of the Communist revolution, was prevented by the police today from meeting a prominent critic of the 1989 army crackdown ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd221158eb7c8105d7a4d09",
+        "source": "The New York Times",
+        "word_count": 672,
+        "lead_paragraph": "The widow of Edgar Snow, the American journalist who was celebrated here as a ''friend of China'' for his sympathetic portraits of the Communist revolution, was prevented by the police today from meeting a prominent critic of the 1989 army crackdown on student democracy demonstrators. Surrounded by at least two dozen plainclothes officers, several of them carrying ill-concealed video cameras in book bags, Lois Wheeler Snow, 79, and her 50-year-old son, Christopher Snow, were halted at the gate of People's University this morning."
+      }
+    ],
+    "meta": {
+      "time": 49,
+      "hits": 33,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,890 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "David Carr The Media Equation column contends consumers today decide what is news and drive media agendas; cites NBC's efforts Aug 8 trying to plug online leaks of Beijing Olympics opening ceremony in order to protect its taped prime-time broadcast 12 hours later; holds for last few years, locus of control has been shifting and consumers not only expect to customize their media experience, they demand it as condition of engagement; says at times, consumer algorithm does not just drive choice of time or platforms, it drives news process itself (M)",
+        "headline": {
+          "kicker": "THE MEDIA EQUATION",
+          "main": "All of Us, The Arbiters Of News"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NBC INC"
+          },
+          {
+            "name": "organizations",
+            "value": "NATIONAL BROADCASTING CO"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDINGS AND DOWNLOADS (VIDEO)"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "BLOGS AND BLOGGING (INTERNET)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/11/business/media/11carr.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "In the age of Twitter and YouTube, crowds are driving the media agendas.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CARR",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID CARR"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd267cf8eb7c8105d81d3d1",
+        "source": "The New York Times",
+        "word_count": 1068,
+        "lead_paragraph": "Early on in any journalist's career, the young reporter is besieged by advice from all sides. Flacks, sources and run-of-the-mill busybodies will pound on the phone about why the reporter isn't covering this or that story. And then, a sage editor will appear and counsel the newbie: ''We decide what the news is.'' That truism still attains; it's just the meaning of the pronoun has changed. Yes, we decide what is news as long as ''we'' now includes every sentient human with access to a mouse, a remote or a cellphone."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "How Lezak Won Gold in 4x100-Meter Relay "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "GOLD"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "persons",
+            "value": "LEZAK, JASON"
+          },
+          {
+            "name": "persons",
+            "value": "PHELPS, MICHAEL"
+          },
+          {
+            "name": "persons",
+            "value": "SPITZ, MARK"
+          },
+          {
+            "name": "persons",
+            "value": "BERNARD, ALAIN"
+          },
+          {
+            "name": "persons",
+            "value": "WEBER-GALE, GARRETT"
+          },
+          {
+            "name": "persons",
+            "value": "SULLIVAN, EAMON"
+          },
+          {
+            "name": "persons",
+            "value": "BOUSQUET, FREDERICK"
+          },
+          {
+            "name": "persons",
+            "value": "JONES, CULLEN"
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/interactive/2008/08/11/sports/olympics/20080811-lezak.html",
+        "news_desk": null,
+        "snippet": "The Times\u2019s Karen Crouse analyzes how Jason Lezak performed in the anchor leg for the U.S. men\u2019s swimming team.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a85b31c22dfde670be86d",
+        "source": null,
+        "word_count": 35,
+        "lead_paragraph": "The Times\u2019s Karen Crouse analyzes how Jason Lezak performed in the anchor leg for the U.S. men\u2019s swimming team."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Kitajima Wins Gold, Sets Record in 100-Meter Breaststroke"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "KITAJIMA, KOSUKE"
+          },
+          {
+            "name": "persons",
+            "value": "HANSEN, BRENDAN"
+          },
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/11/sports/olympics/11clarey.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Japan\u2019s Kosuke Kitajima sliced 0.22 seconds off the world mark of 59.13 set by world champion Brendan Hansen of the United States.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CLAREY",
+            "role": "reported",
+            "firstname": "Christopher"
+          }],
+          "original": "By CHRISTOPHER CLAREY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/10/sports/11kitajima_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/10/sports/11kitajima_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 450,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/10/sports/11kitajima_650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 450,
+              "xlarge": "images/2008/08/10/sports/11kitajima_650.jpg",
+              "xlargewidth": 650
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/08/10/sports/11kitajima_337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/08/10/sports/11kitajima_337.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd267cf8eb7c8105d81d3d5",
+        "source": "The New York Times",
+        "word_count": 437,
+        "lead_paragraph": "One of swimming's finest rivalries is now looking lopsided. For the last four years, Kosuke Kitajima of Japan and Brendan Hansen of the United States have pushed each in the breaststroke, developing mutual respect and lower numbers in the breast stroke. But Kitajima is the man firmly in command at these Olympics, and on Monday he roared back on the second lap of the 100 breaststroke to win the gold medal in 58.91 seconds, taking Hansen's world record of 59.13 seconds along the way."
+      },
+      {
+        "abstract": "Ten world records have been set at Beijing Olympics making it likely that total will eventually surpass 14 established at 2000 Sydney Olmpics; eight swimming world records have been set in first three days of competition; advances in training, technology and pool design have contributed to records for swimmers, who enjoy financial incentives that allow them to remain in sport longer than they would have in past; some swimming officials question whether numerous records devalues each one and whether human performance is being unduly aided by technology; photos; graphs (M)",
+        "headline": {"main": "As Records Fall, Technology Muddies the Water"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "PHELPS, MICHAEL"
+          },
+          {
+            "name": "persons",
+            "value": "LEZAK, JASON"
+          },
+          {
+            "name": "glocations",
+            "value": "SYDNEY (AUSTRALIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDS AND ACHIEVEMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/12/sports/olympics/12records.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Some officials ask whether so many records devalue each one, and whether technology unduly aids performance.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Front Page; Health; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "LONGMAN",
+              "role": "reported",
+              "firstname": "Jeré"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "KOLATA",
+              "role": "reported",
+              "firstname": "Gina"
+            }
+          ],
+          "original": "By JERÉ LONGMAN and GINA KOLATA; Karen Crouse contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/12/sports/12records.2.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/12/sports/12records.2.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 280,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/12/sports/12records.2.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 280,
+              "xlarge": "images/2008/08/12/sports/12records.2.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2963f8eb7c8105d872031",
+        "source": "The New York Times",
+        "word_count": 1378,
+        "lead_paragraph": "He swam so improbably fast, making up so much ground in a foaming, desperate attempt to reach the wall first in the 4x100-meter relay, that Jason Lezak not only won a gold medal for the United States on Monday, but he also helped to shatter the world record by nearly four seconds. That race alone would have provided an astonishing day of swimming at the Summer Olympics, but it was the third world record of the morning and the seventh in three days of competition. An eighth record was set later Monday, matching the total number broken at the 2004 Athens Games."
+      },
+      {
+        "abstract": "US men's Olympic volleyball team coach Hugh McCutcheon, whose father-in-law Todd Bachman was stabbed to death by Tang Yongming, who later committed suicide, at Drum Tower, Beijing, day before volleyball team's opening match, says that whether he returns to coach during tournament will depend on condition of his mother-in-law Barbara, who was stabbed while trying to help Bachman; Bachman's daughter Elizabeth Bachman-McCutcheon, McCutcheon's wife, witnessed attack; photo (M)",
+        "headline": {"main": "U.S. Coach Keeps Focus On Family After Killing"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BACHMAN-MCCUTCHEON, ELIZABETH"
+          },
+          {
+            "name": "persons",
+            "value": "BACHMAN, BARBARA"
+          },
+          {
+            "name": "persons",
+            "value": "TANG YONGMING"
+          },
+          {
+            "name": "persons",
+            "value": "BACHMAN, TODD"
+          },
+          {
+            "name": "persons",
+            "value": "MCCUTCHEON, HUGH"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+          },
+          {
+            "name": "subject",
+            "value": "COACHES AND MANAGERS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "VOLLEYBALL"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "SUICIDES AND SUICIDE ATTEMPTS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-08-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/12/sports/olympics/12coach.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Coach Hugh McCutcheon has stepped aside to tend to his family after his father-in-law was murdered in China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRANCH",
+            "role": "reported",
+            "firstname": "John"
+          }],
+          "original": "By JOHN BRANCH"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 280,
+          "width": 600,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2008/08/12/sports/12coach.600.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 280,
+            "xlarge": "images/2008/08/12/sports/12coach.600.jpg",
+            "xlargewidth": 600
+          }
+        }],
+        "_id": "4fd2972a8eb7c8105d8735b7",
+        "source": "The New York Times",
+        "word_count": 528,
+        "lead_paragraph": "The night before he was murdered, Todd Bachman sent a text message to his son-in-law, Hugh McCutcheon. It was during the opening ceremony, and Bachman was there, watching McCutcheon and the United States men's volleyball team that McCutcheon coaches march into the stadium. ''We're very happy to be able to share in this wonderful event,'' the message read."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Olympic Pictures of the Day, Aug. 12 "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2008/08/12/sports/olympics/0812-OLYPOD2_index.html",
+        "news_desk": null,
+        "snippet": "The Chinese men walked away with gymnastics gold, while in the pool, records continued to fall.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a89811c22dfde670c28a5",
+        "source": null,
+        "word_count": 22,
+        "lead_paragraph": "The Chinese men walked away with gymnastics gold, while in the pool, records continued to fall."
+      },
+      {
+        "abstract": "Retired Olympians are making money as corporate sponsors; ability to cash in on one's former fame peaks every four years because corporate sponsors prefer to work with athletes when their signature sports are in news; former Olympians who are endorsing products include Nadia Comaneci, Mark Spitz, Julie Foudy, Jackie Joyner-Kersee, Janet Evans and Josh Davis; photos (L)",
+        "headline": {
+          "kicker": "ADVERTISING",
+          "main": "For Retired Olympians, Marketing Is the Game"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+          },
+          {
+            "name": "persons",
+            "value": "COMANECI, NADIA"
+          },
+          {
+            "name": "persons",
+            "value": "FOUDY, JULIE"
+          },
+          {
+            "name": "persons",
+            "value": "EVANS, JANET"
+          },
+          {
+            "name": "persons",
+            "value": "JOYNER-KERSEE, JACKIE"
+          },
+          {
+            "name": "persons",
+            "value": "SPITZ, MARK"
+          },
+          {
+            "name": "persons",
+            "value": "DAVIS, JOSH"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "JOHNSON & JOHNSON INC"
+          },
+          {
+            "name": "organizations",
+            "value": "AT&T CORP"
+          },
+          {
+            "name": "organizations",
+            "value": "COCA-COLA CO"
+          },
+          {
+            "name": "subject",
+            "value": "GYMNASTICS"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "BOTOX (DRUG)"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2008-08-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/12/business/media/12adco.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Even for alumni, the ability to cash in on one\u2019s former fame comes only once every four years, because corporate sponsors prefer to work with athletes when their signature sports are in the news.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Health; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CLIFFORD",
+            "role": "reported",
+            "firstname": "Stephanie"
+          }],
+          "original": "By STEPHANIE CLIFFORD"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/12/business/adco75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/12/business/adco75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 280,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/12/business/adco600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 280,
+              "xlarge": "images/2008/08/12/business/adco600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd266128eb7c8105d81a946",
+        "source": "The New York Times",
+        "word_count": 897,
+        "lead_paragraph": "NADIA COMANECI and Mark Spitz are endorsing Botox. The soccer player Julie Foudy is promoting Cabot cheese and Kleenex, and the track star Jackie Joyner-Kersee is working with Medco, the health benefits manager. One swimmer, Janet Evans, is with John Hancock, while another, Josh Davis, is with Mutual of Omaha. The Olympics are not just moneymakers for the current athletes, but for former ones as well. Even for the alumni, the ability to cash in on one's former fame peaks every four years, because corporate sponsors prefer to work with athletes when their signature sports are in the news."
+      },
+      {
+        "abstract": "Profile of Chinese badminton star Lin Dan, who has become celebrity, teen idol and media powerhouse (M)",
+        "headline": {"main": "Badminton Sees a Star On the Rise In China"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LIN DAN"
+          },
+          {
+            "name": "glocations",
+            "value": "LAOS"
+          },
+          {
+            "name": "glocations",
+            "value": "SOUTH AFRICA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BADMINTON"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-08-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/13/sports/olympics/13badminton.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The crazy badminton fans in this badminton-crazy country have never known an artist like Lin Dan.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BISHOP",
+            "role": "reported",
+            "firstname": "Greg"
+          }],
+          "original": "By GREG BISHOP"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b3c28eb7c8105d8a591f",
+        "source": "The New York Times",
+        "word_count": 743,
+        "lead_paragraph": "Badminton's bad boy emerged from the tunnel, his hair arranged in the usual male-model spikes. Immediately the chants started. Lin Dan! Chin-a! Lin Dan! Chin-a!"
+      },
+      {
+        "abstract": "Human rights advocates and family members say Chinese religious dissident Hua Huiqi has escaped from police custody; Hua was detained with his brother Hua Huilin on Aug 9 on their way to church service in Beijing where Pres Bush was to worship; both men were roughed up before Hua Huilin was released; Hua Huiqi is pastor of underground 'house church' that operates outside tightly controlled religious bureaucracy (M)",
+        "headline": {"main": "Chinese Religious Dissident Escapes From Police Custody"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "persons",
+            "value": "HUA HUILIN"
+          },
+          {
+            "name": "persons",
+            "value": "HUA HUIQI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF RELIGION"
+          },
+          {
+            "name": "subject",
+            "value": "BUREAUCRATIC RED TAPE"
+          },
+          {
+            "name": "subject",
+            "value": "CHRISTIANS AND CHRISTIANITY"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2008-08-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/13/world/asia/13protest.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Hua Huiqi\u2019s escape from police custody is sure to irritate the Chinese government when it is eager to keep international attention focused on the Olympic Games.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b3c28eb7c8105d8a595b",
+        "source": "The New York Times",
+        "word_count": 721,
+        "lead_paragraph": "Hua Huiqi, a religious dissident detained Sunday on his way to a church service where President Bush was to worship, has escaped from police custody, human rights advocates and family members said. Mr. Hua, 46, slipped away from his guards on Sunday night, after they fell asleep at a makeshift detention center, and immediately went into hiding, according to relatives and an e-mail message that he sent to the organization Human Rights in China."
+      },
+      {
+        "abstract": "Voice purported to be that of 9-year-old Lin Miaoke, who performed during Olympic opening ceremonies in what would become one of evening's most indelible images, was actually that of Yang Peiyi; officials decided that Lin presented better visual image than Yang; after China's news service publicized story, reader comments voiced outrage over cold calculation used to appraise girls; organizers also acknowledge that one sequence of fireworks shows to television viewers included digitally enhanced computer graphics; photo (M)",
+        "headline": {"main": "In Grand Olympic Show, Some Sleight of Voice"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "YANG PEIYI"
+          },
+          {
+            "name": "persons",
+            "value": "LIN MIAOKE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "ETHICS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FIREWORKS"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/13/sports/olympics/13beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "At the Olympic opening ceremony, 9 year-old Lin Miaoke\u2019s voice was perfect. Too perfect.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY; Huang Yuanxi contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/12/sports/olympics/12singer2-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/12/sports/olympics/12singer2-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/12/sports/olympics/12singer2-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2008/08/12/sports/olympics/12singer2-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/08/12/sports/olympics/12singer2-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/08/12/sports/olympics/12singer2-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd2b3bf8eb7c8105d8a56dc",
+        "source": "The New York Times",
+        "word_count": 1073,
+        "lead_paragraph": "Pigtailed and smiling, Lin Miaoke, age 9, stood in a red dress and white shoes during Friday's Olympic opening ceremonies and performed ''Ode to the Motherland'' in what would become one of the evening's most indelible images: a lone child, fireworks blazing overhead, singing a patriotic ballad before an estimated one billion viewers. Except that her proud father, Lin Hui, noticed ''that the voice was a little different from hers.'' On Tuesday, Mr. Lin said in a telephone interview that he had assumed ''the difference might be caused by the acoustics.''"
+      }
+    ],
+    "meta": {
+      "time": 15,
+      "hits": 367,
+      "offset": 240
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,338 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Richard Rosenthal letter points out superiority of bicycles to automobiles as mode of transportation in cities like Beijing (S)",
+        "headline": {"main": "Beijing Loses if Bikes Disappear"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ROSENTHAL, RICHARD"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BICYCLES AND BICYCLING"
+          },
+          {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+          }
+        ],
+        "print_page": "32",
+        "pub_date": "1998-11-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/11/06/opinion/l-beijing-loses-if-bikes-disappear-718858.html",
+        "news_desk": "Editorial Desk",
+        "snippet": " To the Editor:    Your Nov. 3 Beijing Journal calls bicycles ''archaic'' compared with cars. Here's how archaic bicycles are: Cars pollute the air, bicycles don't; cars cause congestion and gridlock, bicycles don't; cars are noisy, in large part the",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20d7a8eb7c8105d77d92c",
+        "source": "The New York Times",
+        "word_count": 110,
+        "lead_paragraph": "To the Editor: Your Nov. 3 Beijing Journal calls bicycles ''archaic'' compared with cars. Here's how archaic bicycles are: Cars pollute the air, bicycles don't; cars cause congestion and gridlock, bicycles don't; cars are noisy, in large part the result of drivers who use their horns to vent their emotional disturbance and psychological immaturity, and bikes are quiet."
+      },
+      {
+        "abstract": "William Yates letter says that restricting use of bicycles is huge step backward by Beijing's government (S)",
+        "headline": {"main": "Beijing Loses if Bikes Disappear"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "YATES, WILLIAM"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BICYCLES AND BICYCLING"
+          },
+          {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+          }
+        ],
+        "print_page": "32",
+        "pub_date": "1998-11-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/11/06/opinion/l-beijing-loses-if-bikes-disappear-718874.html",
+        "news_desk": "Editorial Desk",
+        "snippet": " To the Editor:    Restricting the use of bicycles -- a popular and pollution-free mode of transportation -- is a huge step backward by on the part of Beijing's government (Beijing Journal, Nov. 3).  ",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1e1618eb7c8105d7296eb",
+        "source": "The New York Times",
+        "word_count": 89,
+        "lead_paragraph": "To the Editor: Restricting the use of bicycles -- a popular and pollution-free mode of transportation -- is a huge step backward by on the part of Beijing's government (Beijing Journal, Nov. 3)."
+      },
+      {
+        "abstract": "Jeff Prant letter warns that global environmental consequences of billion Chinese owning private cars will be catastrophe (S)",
+        "headline": {"main": "Beijing Loses if Bikes Disappear"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "PRANT, JEFF"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BICYCLES AND BICYCLING"
+          },
+          {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "32",
+        "pub_date": "1998-11-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/11/06/opinion/l-beijing-loses-if-bikes-disappear-718866.html",
+        "news_desk": "Editorial Desk",
+        "snippet": " To the Editor:  ",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1e1618eb7c8105d7296e6",
+        "source": "The New York Times",
+        "word_count": 52,
+        "lead_paragraph": "To the Editor:"
+      },
+      {
+        "abstract": "Beijing's boisterous soccer fans have provoked public campaign against their increasingly flagrant use of obscenities to berate opposing teams, referees and poorly performing members of their hometown professional team (M)",
+        "headline": {"main": "China Tells Rowdy Sports Fans: Keep It Clean"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SOCCER"
+          },
+          {
+            "name": "subject",
+            "value": "PORNOGRAPHY AND OBSCENITY"
+          }
+        ],
+        "print_page": "13",
+        "pub_date": "1998-11-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/11/12/world/china-tells-rowdy-sports-fans-keep-it-clean.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "British soccer louts they are not, but Beijing's boisterous fans have provoked a public campaign against their increasingly flagrant use of obscenities to berate opposing teams, referees and poorly performing members of their hometown professional te",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20c388eb7c8105d77b469",
+        "source": "The New York Times",
+        "word_count": 493,
+        "lead_paragraph": "British soccer louts they are not, but Beijing's boisterous fans have provoked a public campaign against their increasingly flagrant use of obscenities to berate opposing teams, referees and poorly performing members of their hometown professional team. One phrase in particular is screamed by Beijing fans with startling abandon, with hundreds of people sometimes chanting it in unison. Long used as an insulting epithet in the streets, it includes a crude reference to female anatomy. For purposes of public discussion and earnest condemnation, the press here has called it the ''Beijing curse.''"
+      },
+      {
+        "abstract": "Some two hundred people who have lost money in multimillion-dollar futures-market scam hold protest in Beijing, China (S)",
+        "headline": {"main": "March of the Sadly Bilked"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+          },
+          {
+            "name": "subject",
+            "value": "FUTURES AND OPTIONS TRADING"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "13",
+        "pub_date": "1998-11-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/11/12/world/march-of-the-sadly-bilked.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Some two hundred people who had lost money in a multimillion-dollar futures-market scam held a protest in Beijing today, marching from Tiananmen Square down a major avenue. The police formed a human wall to prevent them from entering the square.   ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd216ab8eb7c8105d791551",
+        "source": "The New York Times",
+        "word_count": 80,
+        "lead_paragraph": "Some two hundred people who had lost money in a multimillion-dollar futures-market scam held a protest in Beijing today, marching from Tiananmen Square down a major avenue. The police formed a human wall to prevent them from entering the square."
+      },
+      {
+        "abstract": "Beijing says it wll bid for 2008 Summer Olympic Games; Mayor Jia Qinglin submits proposal to Chinese Olympic Committee, which will decide whether to apply to International Olympic Committee; importance of bid to Chinese leaders noted (M)i",
+        "headline": {"main": "Beijing Says It Will Bid For Olympics Set for 2008"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "JIA QINGLIN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINESE OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "13",
+        "pub_date": "1998-11-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/11/26/world/beijing-says-it-will-bid-for-olympics-set-for-2008.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The city of Beijing announced today that it plans to bid for the 2008 Summer Olympic Games.    In a ceremony at the Great Hall of the People, suggesting top-level endorsement, Mayor Jia Qinglin submitted the proposal to the head of the Chinese Olympi",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd216ae8eb7c8105d7917b7",
+        "source": "The New York Times",
+        "word_count": 457,
+        "lead_paragraph": "The city of Beijing announced today that it plans to bid for the 2008 Summer Olympic Games. In a ceremony at the Great Hall of the People, suggesting top-level endorsement, Mayor Jia Qinglin submitted the proposal to the head of the Chinese Olympic Committee, which is to decide in January whether to apply to the International Olympic Committee."
+      },
+      {
+        "abstract": "New opera house, Shanghai Grand Theater, designed by French architect Jean-Marie Charpentier, recently opened in Shanghai; city officials are proud that they were able to complete new theater, which cost $150 million and took four years to build, while planned Beijing opera house remains mired in beaucratic wrangling; general manager Le Shengli comments; photo (M)a",
+        "headline": {"main": "In China, a New House of Cautious Openness"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LE SHENGLI"
+          },
+          {
+            "name": "persons",
+            "value": "CHARPENTIER, JEAN-MARIE"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OPERA"
+          },
+          {
+            "name": "subject",
+            "value": "SHANGHAI GRAND THEATER (SHANGHAI)"
+          }
+        ],
+        "print_page": "33",
+        "pub_date": "1998-12-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/12/06/theater/in-china-a-new-house-of-cautious-openness.html",
+        "news_desk": "Arts and Leisure Desk",
+        "snippet": "WHEN enthusiastic applause erupted at the final curtain for a recent production of Verdi's ''Aida,'' the first opera to appear in Shanghai's sparklingly attractive new opera house, Bonko Chan thought that he might collapse with a heart attack.    ''W",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts; Theater",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FAISON",
+            "role": "reported",
+            "firstname": "Seth"
+          }],
+          "original": "By SETH FAISON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ef678eb7c8105d744341",
+        "source": "The New York Times",
+        "word_count": 1319,
+        "lead_paragraph": "WHEN enthusiastic applause erupted at the final curtain for a recent production of Verdi's ''Aida,'' the first opera to appear in Shanghai's sparklingly attractive new opera house, Bonko Chan thought that he might collapse with a heart attack. ''We only performed three nights, but that was enough for me,'' said Mr. Chan, a freight-company executive who produced ''Aida'' in his spare time. ''I checked into a hospital with exhaustion.''"
+      }
+    ],
+    "meta": {
+      "time": 24,
+      "hits": 37,
+      "offset": 30
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

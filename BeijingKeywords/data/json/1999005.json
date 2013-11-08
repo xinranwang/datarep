@@ -1,0 +1,315 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Second of two articles on controversy over work of American charity Operation Smile, which provided free surgery for poor Chinese to repair cleft palates and cleft lips; project's assembly-line approach left Beijing hospital with large new debts and its doctors with task of addressing complications, redoing faulty operations and calming some angry families; Dr William P Magee Jr, project founder, defends quality of care, phone interview; photos (M)",
+        "headline": {"main": "Whirlwind of Facial Surgery By Foreigners Upsets China"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "MAGEE, WILLIAM P JR"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "OPERATION SMILE"
+          },
+          {
+            "name": "subject",
+            "value": "SURVEYS AND SERIES"
+          },
+          {
+            "name": "subject",
+            "value": "PLASTIC SURGERY"
+          },
+          {
+            "name": "subject",
+            "value": "CLEFT PALATE"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1999-11-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/11/25/world/whirlwind-of-facial-surgery-by-foreigners-upsets-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "''I am the father of Patient 088, and I'd like to express my gratitude but also say I am very dissatisfied,'' Zhao Kang wrote in a letter to the Plastic Surgery Hospital in Beijing, in the shaky characters of a man with little education. Instead of f",
+        "type_of_material": "Series",
+        "blog": [],
+        "section_name": "World; Front Page; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "ROSENTHAL",
+              "role": "reported",
+              "firstname": "Elisabeth"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "ABELSON",
+              "role": "reported",
+              "firstname": "Reed"
+            }
+          ],
+          "original": "By ELISABETH ROSENTHAL with REED ABELSON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd22d078eb7c8105d7b9af0",
+        "source": "The New York Times",
+        "word_count": 1899,
+        "lead_paragraph": "''I am the father of Patient 088, and I'd like to express my gratitude but also say I am very dissatisfied,'' Zhao Kang wrote in a letter to the Plastic Surgery Hospital in Beijing, in the shaky characters of a man with little education. Instead of fixing his son's disfiguring cleft lip, as he had wanted, surgeons fixed the son's cleft palate, which the father said had not affected his speech. But it was not Chinese surgeons the farmer was complaining about. It was a team from the American charity Operation Smile, which had raised the hopes of many parents like Mr. Zhao by bringing its doctors here in August 1998 and offering free surgery for children with cleft palates and lips."
+      },
+      {
+        "abstract": "Photo of preparations for celebration, Beijing, of Macao's return to Chinese sovereignty after 442 years of Portuguese rule",
+        "headline": {"main": "Beijing Prepares a Welcoming Party"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "PORTUGAL"
+          },
+          {
+            "name": "glocations",
+            "value": "MACAO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1999-12-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/12/09/world/beijing-prepares-a-welcoming-party.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Photo of preparations for celebration, Beijing, of Macao's return to Chinese sovereignty after 442 years of Portuguese rule",
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1f07b8eb7c8105d746705",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Tens of millions of rural Chinese who seek better lives in cities are shortchanged on education; cities like Beijing permit children of migrants, most of whom are actually longtime resident working low-end jobs, attend public schools only if they pay stiff fees that few can afford; unlicensed schools, some run by people with no more than a junior high school education, have grown up to serve these families, but they receive no government aid; China's system of residential permits and the privileges of official urban residents, who make up less than one-third of national population, seem certain to rankle more and more in the years ahead, especially as global competition kills off marginal producers and forces more Chinese from farms and to the cities; photo (M)",
+        "headline": {"main": "For China's Rural Migrants, an Education Wall"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SOCIAL CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "MIGRANT LABOR"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+          },
+          {
+            "name": "subject",
+            "value": "RESIDENCE REQUIREMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "POPULATION SHIFTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1999-12-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/12/12/world/for-china-s-rural-migrants-an-education-wall.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "By some measures, the Xingzhi primary school in western Beijing is a huge success. Started in 1994 with just 9 students, it now has 1,266 students from all over the country, and had to turn away hundreds of applicants this fall.     Its founder, Li S",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd21c7a8eb7c8105d79cb55",
+        "source": "The New York Times",
+        "word_count": 1410,
+        "lead_paragraph": "By some measures, the Xingzhi primary school in western Beijing is a huge success. Started in 1994 with just 9 students, it now has 1,266 students from all over the country, and had to turn away hundreds of applicants this fall. Its founder, Li Shumei, and her husband, Yi Benyao, who both moved here from a dead-end town in central China, have taken this private school from a hut in a vegetable patch to the converted grounds of a paint factory in just five years. While its classrooms may be crowded and a bit shabby, the sing-song recitations and the happy riot at recess testify to real school spirit."
+      },
+      {
+        "abstract": "French architect Paul Andreu, who enjoys worldwide reputation for designing visually striking, passenger-friendly airport terminals, wins Chinese design competition to build new national theater complex in Beijing; $360 million egg-shaped complex, with opera house, concert hall and two theaters, is to open by 2003; photo; renderings (M)",
+        "headline": {
+          "kicker": "ART/ARCHITECTURE",
+          "main": "An Airport Architect's Great Leap Forward"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ANDREU, PAUL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "THEATERS (BUILDINGS)"
+          },
+          {
+            "name": "subject",
+            "value": "MUSIC"
+          },
+          {
+            "name": "subject",
+            "value": "AIRPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "subject",
+            "value": "OPERA"
+          },
+          {
+            "name": "subject",
+            "value": "STATIONS AND TERMINALS (PASSENGER)"
+          },
+          {
+            "name": "subject",
+            "value": "THEATER"
+          }
+        ],
+        "print_page": "50",
+        "pub_date": "1999-12-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/12/19/theater/art-architecture-an-airport-architect-s-great-leap-forward.html",
+        "news_desk": "Arts and Leisure Desk",
+        "snippet": "HAVING designed 30 airport terminals around the world, Paul Andreu can hardly escape being known as an airport architect. Not that there is anything amiss with that. Airports today are what railroad stations were at the turn of the century, gateways ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts; Theater",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "RIDING",
+            "role": "reported",
+            "firstname": "Alan"
+          }],
+          "original": "By ALAN RIDING"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd202368eb7c8105d7679c9",
+        "source": "The New York Times",
+        "word_count": 1584,
+        "lead_paragraph": "HAVING designed 30 airport terminals around the world, Paul Andreu can hardly escape being known as an airport architect. Not that there is anything amiss with that. Airports today are what railroad stations were at the turn of the century, gateways that every year provide tens of millions of travelers with their first and last impressions of a city. And if Mr. Andreu keeps being invited to build airports, it is because this engineer-turned-architect enjoys a worldwide reputation for designing visually striking and passenger-friendly terminals. Parisians above all have come to appreciate his work (without necessarily knowing his name) as the designer of five elegant modules for Air France's ever-expanding Terminal 2 at Charles de Gaulle airport north of Paris. Elsewhere in France, he has built new airport terminals in Nice, Bordeaux and Guadeloupe, while his works abroad include terminals in Cairo, Jakarta, Shanghai, Dar-es-Salaam, Bangkok and Athens. For good measure, he also designed the high-speed train station at Charles de Gaulle airport and the cross-Channel railroad terminal in Calais."
+      },
+      {
+        "abstract": "Locally produced Web sites and chat rooms are spreading rapidly in China, giving country's estimated seven million Internet users forum for public debate and discussion--even degree of dissent--that previously was unavailable; on local Internet, Chinese are exposed to information and opinions that could never appear in tightly controlled Chinese media, on topics like crackdown on pro-democracy protesters in Tiananmen Square, and mistreatment of people with AIDS; for government, Internet has been useful tool at times, but also double-edged sword; Information Min Wu Jichuan has announced that government ministries would monitor Internet sites, but did not elaborate on what form monitoring would take (M)",
+        "headline": {"main": "Web Sites Bloom in China, and Are Weeded"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WU JICHUAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1999-12-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/12/23/world/web-sites-bloom-in-china-and-are-weeded.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "On a recent evening, Zhang Aijing sat at her terminal at the Internet division of People's Daily, watching comments drop from cyberspace into the Communist Party newspaper's chat room.    Ms. Zhang is an ''editor'' assigned to ''anchor'' discussions,",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd202368eb7c8105d767937",
+        "source": "The New York Times",
+        "word_count": 1667,
+        "lead_paragraph": "On a recent evening, Zhang Aijing sat at her terminal at the Internet division of People's Daily, watching comments drop from cyberspace into the Communist Party newspaper's chat room. Ms. Zhang is an ''editor'' assigned to ''anchor'' discussions, and her responsibilities include weeding out comments overly critical of the party. With a click of her mouse, ugly thoughts disappear."
+      }
+    ],
+    "meta": {
+      "time": 12,
+      "hits": 55,
+      "offset": 50
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

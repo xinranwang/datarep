@@ -1,0 +1,944 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Microsoft announces partnership with Walt Disney, NBC Universal and Metro-Goldwyn-Mayer to bolster online video sales and step up competition with iTunes operation of Apple Inc; Microsoft says owners of its Xbox 360 games console will be able to buys shows from ABC network of Disney and could watch movies from MGM; company will also develop NBC Web site for 2008 Olympic Games in Beijing (S)",
+        "headline": {"main": "Microsoft Forges Ties to Studios"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "APPLE INC"
+          },
+          {
+            "name": "organizations",
+            "value": "MICROSOFT CORP"
+          },
+          {
+            "name": "organizations",
+            "value": "NBC UNIVERSAL"
+          },
+          {
+            "name": "organizations",
+            "value": "METRO-GOLDWYN-MAYER INC"
+          },
+          {
+            "name": "organizations",
+            "value": "ABC INC"
+          },
+          {
+            "name": "organizations",
+            "value": "DISNEY, WALT, CO"
+          },
+          {
+            "name": "subject",
+            "value": "SALES"
+          },
+          {
+            "name": "subject",
+            "value": "MOTION PICTURES"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDINGS AND DOWNLOADS (VIDEO)"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTER AND VIDEO GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2008-01-08T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9807E1DE1339F93BA35752C0A96E9C8B63",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Microsoft announced partnerships on Monday with Walt Disney, NBC Universal and Metro-Goldwyn-Mayer to bolster online video sales and step up competition with the iTunes operation of Apple Inc.     Microsoft said that owners of its Xbox 360 games cons",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Movies; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "NEWS",
+            "role": "reported",
+            "firstname": "Bloomberg"
+          }],
+          "original": "By BLOOMBERG NEWS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd261938eb7c8105d81300b",
+        "source": "The New York Times",
+        "word_count": 122,
+        "lead_paragraph": "Microsoft announced partnerships on Monday with Walt Disney, NBC Universal and Metro-Goldwyn-Mayer to bolster online video sales and step up competition with the iTunes operation of Apple Inc. Microsoft said that owners of its Xbox 360 games console would be able to buy shows like ''Desperate Housewives'' from the ABC network of Disney, and they could watch movies including ''Rocky'' from MGM."
+      },
+      {
+        "abstract": "Study written by Steven Q Andrews, American environmental consultant, casts doubts about whether air quality has truly improved in Beijing and concludes that 'irregularities' in city's system of measuring air pollution has enabled city to meet environmental targets linked to coming Olympic Games; notes that city changed its method for measuring pollution in 2006 and without this switch Beijing would have fallen far short of its goals in 2006 and 2007 for number of days that met national air quality standards; with roughly seven months remaining before Beijing plays host to Olympics, air quality has become major issue; Chinese officials are discussing contingency plans; photo (M)",
+        "headline": {"main": "Consultant Questions Beijing's Claim of Cleaner Air"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ANDREWS, STEVEN Q"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2008-01-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/01/10/world/asia/10china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The new study found flaws in Beijing\u2019s \u201cBlue Sky\u201d system of air-quality monitoring and noted that the city changed its formula for measuring pollution in 2006, using less polluted locales than before.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/01/09/world/10china_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/01/09/world/10china_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 280,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/01/09/world/10china_600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 280,
+              "xlarge": "images/2008/01/09/world/10china_600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2b2a98eb7c8105d8a368d",
+        "source": "The New York Times",
+        "word_count": 744,
+        "lead_paragraph": "A new study has cast doubts about whether air quality has truly improved in Beijing and has concluded that ''irregularities'' in the city's system of measuring air pollution have enabled the city to meet environmental targets linked to the coming Olympic Games. The study, written by an American environmental consultant, found flaws in Beijing's ''Blue Sky'' system of air quality monitoring stations and noted that the city changed its method for measuring pollution in 2006. In particular, officials stopped including readings from two stations in polluted areas and began using readings in three other stations in less polluted locales."
+      },
+      {
+        "abstract": "Chinese filmmaker Zhang Yuan is arrested after he was discovered taking drugs in his home; photo (S)",
+        "headline": {
+          "kicker": "ARTS, BRIEFLY",
+          "main": "Chinese Director Arrested"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHANG YUAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MOTION PICTURES"
+          },
+          {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-01-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/01/11/arts/11arts-CHINESEDIREC_BRF.html",
+        "news_desk": "Movies, Performing Arts/Weekend Desk",
+        "snippet": "The maverick Chinese filmmaker Zhang Yuan was arrested after he was found taking drugs in his Beijing home, Reuters reported.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Movies; Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Van",
+            "role": "reported",
+            "lastname": "GELDER",
+            "firstname": "Lawrence"
+          }],
+          "original": "Compiled by LAWRENCE VAN GELDER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2768a8eb7c8105d8371b3",
+        "source": "The New York Times",
+        "word_count": 121,
+        "lead_paragraph": "The maverick Chinese filmmaker Zhang Yuan was arrested after he was found taking drugs in his Beijing home, Reuters reported, citing accounts on Thursday in official news media. Mr. Zhang, with four friends, was taking a variety of drugs when the police burst into his apartment, the Xinhua news agency reported, crediting a Beijing television account. A urine sample tested positive for ketamine and crystal meth, the report said. Mr. Zhang, named by Time magazine in 1994 as one of 100 young world leaders for the 21st century, is one of China's Sixth Generation filmmakers, whose works have addressed alienation, nihilism and homosexuality. Although he has won acclaim and awards, some of his films have been banned in China."
+      },
+      {
+        "abstract": "British investigators say that both engines on British Airways jumbo jet that crash-landed just short of runway at London's Heathrow Airport failed to respond to demand for more power during final few moments of flight on Jan 17; one passenger was seriously hurt in crash, first of Boeing 777; flight originated in Beijing, China (M)",
+        "headline": {"main": "Inquiry Finds Power Failure in London Jumbo Jet Crash"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "GREAT BRITAIN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BRITISH AIRWAYS PLC"
+          },
+          {
+            "name": "organizations",
+            "value": "BRITISH AIRWAYS"
+          },
+          {
+            "name": "organizations",
+            "value": "BOEING CO"
+          },
+          {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          },
+          {
+            "name": "subject",
+            "value": "HEATHROW AIRPORT (LONDON)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-01-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/01/19/world/europe/19heathrow.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A preliminary report into the crash landing on Thursday showed both of the jet\u2019s engines experienced problems in the final moments of the flight.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "COWELL",
+              "role": "reported",
+              "firstname": "Alan"
+            },
+            {
+              "organization": "",
+              "rank": 2,
+              "middlename": "L.",
+              "role": "reported",
+              "lastname": "WALD",
+              "firstname": "Matthew"
+            }
+          ],
+          "original": "By ALAN COWELL  and MATTHEW L. WALD; Alan Cowell reported from London, and Matthew L. Wald from Washington"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd264dd8eb7c8105d81876d",
+        "source": "The New York Times",
+        "word_count": 426,
+        "lead_paragraph": "Both engines on the British Airways jumbo jet that crash-landed just short of a runway at London's Heathrow Airport on Thursday failed to respond to a demand for more power during the final few moments of the flight, British investigators said Friday. The crash, the first of a Boeing 777, damaged the plane beyond repair. One passenger was seriously hurt, and 12 passengers and crew members received minor injuries. The plane, on a flight from Beijing, struck the ground about 1,000 feet short of the runway and skidded onto the beginning of the pavement."
+      },
+      {
+        "abstract": "Article profiles Chinese filmmaker Jia Zhang-ke, whose latest film Still Life opened recently in New York; problems with Chinese government censors described; photo (L)",
+        "headline": {
+          "kicker": "FILM",
+          "main": "Blurring Reality's Edge in Fluid China"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "STILL LIFE (MOVIE)"
+          },
+          {
+            "name": "creative_works",
+            "value": "STILL LIFE (MOVIE)>"
+          },
+          {
+            "name": "persons",
+            "value": "JIA ZHANG-KE"
+          },
+          {
+            "name": "persons",
+            "value": "JIA ZHANG KE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MOTION PICTURES"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "CANNES INTERNATIONAL FILM FESTIVAL"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2008-01-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/01/20/movies/20lim.html",
+        "news_desk": "Arts and Leisure Desk",
+        "snippet": "Jia Zhang-ke, the director of \u201cStill Life,\u201d looks at his country and sees an enormous, rapidly changing movie set.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Movies; Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LIM",
+            "role": "reported",
+            "firstname": "Dennis"
+          }],
+          "original": "By DENNIS LIM"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/01/20/arts/20lim75.1.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/01/20/arts/20lim75.1.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/01/20/arts/20lim600.1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2008/01/20/arts/20lim600.1.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2b23a8eb7c8105d8a309c",
+        "source": "The New York Times",
+        "word_count": 1511,
+        "lead_paragraph": "IN the movies of Jia Zhang-ke, it can often seem that all of modern China is a ready-made film set. Either that or Mr. Jia has an uncanny gift for the metaphorically charged location. His films have taken place within the plastic confines of an Epcot-like Beijing theme park (''The World''), amid the forlorn public spaces of a declining post-industrial city (''Unknown Pleasures'') and in an ancient riverside town that is about to disappear underwater (''Still Life,'' which won the top prize at the 2006 Venice International Film Festival and which opened in New York on Friday). The story of a man and a woman on parallel quests to find their long-lost spouses, ''Still Life'' is set in Fengjie, 150 miles upstream from the Three Gorges Dam, the hydroelectric project on the Yangtze River that submerged thousands of towns and villages and displaced more than a million people. Shot while Fengjie was being demolished and prepared for its eventual flooding, the film has a powerful documentary flavor, but it also borders on the surreal. The protagonists wander through rubble-strewn wastelands. Entire buildings crumble on camera. The epic scale of the devastation matches, even as it violates, the region's majestic natural beauty."
+      },
+      {
+        "abstract": "Randy Wilber, lead exercise physiologist for US Olympic Committee, is fielding questions from athletes about dealing with Beijing's smog; he and his counterparts from other nations are working to devise smart, safe strategies but keeping those plans secret; his plan could give US advantage over other teams, but risks offending China and creating political tension; Chinese officials cite steps they are taking to ensure air will not be issue when Games start on Aug 8, but scientists remain skeptical about air quality; on typical day, pollution levels in Beijing are nearly five times above World Health Organization standards for safety; body's reaction to polluted air is to breathe less of it, sending athletes into oxygen debt and leading to cramping; other dangers noted; athletes must be careful about using inhalers for exercise-induced asthma because they contain beta-2 agonists, category of drug banned by World Anti-Doping Agency; photos; map; series of illustrations on impact of breathing particulate matter (M)",
+        "headline": {"main": "Olympic Teams Vying to Defeat Beijing's Smog"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WILBER, RANDY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED STATES OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD ANTI-DOPING AGENCY"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD HEALTH ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "MASKS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OXYGEN"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "BETA-2 AGONISTS (DRUG)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          },
+          {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-01-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/01/24/sports/othersports/24mask.html",
+        "news_desk": "Sports Desk",
+        "snippet": "An exercise physiologist is hard at work preparing the U.S. Olympic Team for air pollution at the Beijing Games.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Front Page; Health; Washington; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MACUR",
+            "role": "reported",
+            "firstname": "Juliet"
+          }],
+          "original": "By JULIET MACUR"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/01/23/sports/othersports/24MASK.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/01/23/sports/othersports/24MASK.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 220,
+            "width": 395,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/01/23/sports/othersports/24mask.395.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 220,
+              "xlarge": "images/2008/01/23/sports/othersports/24mask.395.jpg",
+              "xlargewidth": 395
+            }
+          },
+          {
+            "height": 220,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/01/23/sports/othersports/24MASK.337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/01/23/sports/othersports/24MASK.337.jpg",
+              "tinythumbheight": 220,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd2b2ab8eb7c8105d8a3812",
+        "source": "The New York Times",
+        "word_count": 1703,
+        "lead_paragraph": "As the lead exercise physiologist for the United States Olympic Committee, Randy Wilber has been fielding one bizarre question after another from American athletes training for the Beijing Games. Should I run behind a bus and breathe in the exhaust? Should I train on the highway during rush hour? Is there any way to acclimate myself to pollution?"
+      },
+      {
+        "abstract": "Beijing News says there are plans to reduce motor vehicle traffic in Beijing by half during Olympic Games to improve air quality and ease traffic flow; number of vehicles in city was expected to reach 3.3 million by August, meaning about 1.65 million cars and trucks would be pulled off roads each day; city plans to dedicate lanes to Olympic traffic and increase public transportation to accommodate visitors and local residents (M)",
+        "headline": {"main": "Smoggy Beijing Plans to Cut Traffic by Half for Olympics, Paper Says"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+          },
+          {
+            "name": "subject",
+            "value": "TRUCKS AND TRUCKING"
+          },
+          {
+            "name": "subject",
+            "value": "SMOG"
+          },
+          {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "DELAYS (TRANSPORTATION)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "18",
+        "pub_date": "2008-01-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/01/24/world/asia/24beijing.html",
+        "news_desk": "National Desk",
+        "snippet": "Beijing is planning to reduce motor traffic during the games to improve air quality and ease traffic flow.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "U.S.",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/01/23/world/23beijing2-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/01/23/world/23beijing2-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/01/23/world/23beijing2-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2008/01/23/world/23beijing2-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/01/23/world/23beijing2-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/01/23/world/23beijing2-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd282298eb7c8105d84f265",
+        "source": "The New York Times",
+        "word_count": 495,
+        "lead_paragraph": "Faced with persistent air pollution despite promises to stage a green Olympics, Beijing is planning to reduce its motor traffic by half during the Games to improve air quality and ease traffic flow, according to a newspaper report on Wednesday. The article, in The Beijing News, said the number of vehicles in the city was expected to reach 3.3 million by August, meaning that roughly 1.65 million cars and trucks would be pulled off roads each day. The city will dedicate lanes to Olympic traffic and increase public transportation with new shuttle buses to accommodate visitors and local residents, the article said."
+      },
+      {
+        "abstract": "Nicholas D Kristof Op-Ed column scores China's leader for abetting genocide in Darfur and undermining UN military deployment there; says it tarnishes what they are trying to accomplish by hosting Olympics; cites growing international movement to brand Games 'The Genocide Olympics'; says China, in exchange for oil, is diplomatically protecting and supplying arms to Sudan; scores China for also using threat of veto on Security Council to block UN action against Sudan; says Chinese backing gives Sudan more confidence to ignore world community (M)",
+        "headline": {
+          "kicker": "OP-ED COLUMNIST",
+          "main": "China's Genocide Olympics"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "SUDAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "DARFUR (SUDAN)"
+          },
+          {
+            "name": "organizations",
+            "value": "SECURITY COUNCIL"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ARMS SALES ABROAD"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "WAR CRIMES, GENOCIDE AND CRIMES AGAINST HUMANITY"
+          },
+          {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "23",
+        "pub_date": "2008-01-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/01/24/opinion/24kristof.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "China\u2019s leaders are tarnishing their own Olympiad by abetting genocide in Darfur and in effect undermining the U.N. military deployment there.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd264de8eb7c8105d81889d",
+        "source": "The New York Times",
+        "word_count": 795,
+        "lead_paragraph": "The Beijing Olympics this summer were supposed to be China's coming-out party, celebrating the end of nearly two centuries of weakness, poverty and humiliation. Instead, China's leaders are tarnishing their own Olympiad by abetting genocide in Darfur and in effect undermining the U.N. military deployment there. The result is a growing international campaign to brand these ''The Genocide Olympics.''"
+      },
+      {
+        "abstract": "Ding Zhenkuan, deputy chief of Beijing Municipal Bureau of Worker Safety, confirms that six workers have died and four have been injured at National Stadium and other Olympic sites since construction for 2008 Games began five years ago; refutes Times of London account that at least 10 workers died while working at National Stadium (M)",
+        "headline": {"main": "Beijing Confirms Deaths of 6 Workers at Olympic Construction Sites"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DING ZHENKUAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "TIMES OF LONDON"
+          },
+          {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+          },
+          {
+            "name": "subject",
+            "value": "LABOR"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "BUILDING (CONSTRUCTION)"
+          },
+          {
+            "name": "subject",
+            "value": "STADIUMS AND ARENAS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2008-01-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/01/29/world/asia/29beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Officials said that six workers had died and four others had suffered injuries at Olympic venues since construction for the 2008 games began five years ago.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b23b8eb7c8105d8a31b7",
+        "source": "The New York Times",
+        "word_count": 469,
+        "lead_paragraph": "Municipal officials said Monday that six workers had died and four had been injured at the National Stadium and other Olympic sites since construction for the 2008 Games began five years ago. The announcement, the first official confirmation of deaths at the city's Olympic construction sites, was intended to refute a recent account in the British press, which reported that at least 10 workers had died while working at the National Stadium."
+      },
+      {
+        "abstract": "Human rights advocates and Chinese dissidents cite Dec 27, 2007, arrest of Hu Jia as telling example of broadening crackdown as Beijing prepares to play host to Olympic Games in August; Hu and his wife Zeng Jinyan spent much of 2006 restricted to their apartment; she blogged about life under detention while he videotaped documentary entitled Prisoner in Freedom City; legal expert Teng Biao, citing arrests of other dissidents, says it is coordinated campaign to silence potential troublemakers before Games; China will allow only state-sanctioned companies to broadcast video and audio files online; Reporters Without Borders says that more than 51 online dissidents have been jailed and more than 2,500 Web sites were blocked last year; photos (M)",
+        "headline": {"main": "Dissident's Arrest Hints at Olympic Crackdown"},
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "PRISONER IN FREEDOM CITY (MOVIE)"
+          },
+          {
+            "name": "persons",
+            "value": "TENG BIAO"
+          },
+          {
+            "name": "persons",
+            "value": "HU JIA"
+          },
+          {
+            "name": "persons",
+            "value": "ZENG JINYAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "REPORTERS WITHOUT BORDERS"
+          },
+          {
+            "name": "organizations",
+            "value": "SKYPE TECHNOLOGIES"
+          },
+          {
+            "name": "subject",
+            "value": "MOTION PICTURES"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDINGS AND DOWNLOADS (VIDEO)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "BLOGS AND BLOGGING (INTERNET)"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDINGS AND DOWNLOADS (AUDIO)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-01-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/01/30/world/asia/30dissident.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The arrest of an activist who spread information about politically touchy topics is cited as an example of a \u201ccleansing campaign.\u201d",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Movies; World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/01/30/world/30dissident_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/01/30/world/30dissident_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 447,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/01/30/world/30dissident.650.1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 447,
+              "xlarge": "images/2008/01/30/world/30dissident.650.1.jpg",
+              "xlargewidth": 650
+            }
+          }
+        ],
+        "_id": "4fd261958eb7c8105d8131c3",
+        "source": "The New York Times",
+        "word_count": 1438,
+        "lead_paragraph": "When state security agents burst into his apartment last month, Hu Jia was chatting on Skype, the Internet-based telephone system. Mr. Hu's computer was his most potent tool. He disseminated information about human rights cases, peasant protests and other politically touchy topics even though he often lived under de facto house arrest. Mr. Hu, 34, and his wife, Zeng Jinyan, are human rights advocates who spent much of 2006 restricted to their apartment in a complex with the unlikely name of Bo Bo Freedom City. She blogged about life under detention, while he videotaped a documentary titled ''Prisoner in Freedom City.'' Their surreal existence seemed to reflect an official uncertainty about how, and whether, to shut them up."
+      }
+    ],
+    "meta": {
+      "time": 45,
+      "hits": 367,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

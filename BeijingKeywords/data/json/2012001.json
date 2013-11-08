@@ -1,0 +1,883 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Air pollution levels in Beijing and other Chinese cities have started to worry - and anger - many of the country's 1.3 billion citizens. By Beijing's standards, Hong Kong's air is probably sparkling clean, which is damning with faint praise.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "It's No Beijing, But Hong Kong Is Choking, Too"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Politics and Government"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Deaths (Fatalities)"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Air Pollution"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "United States Chamber of Commerce"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "8",
+            "name": "glocations",
+            "value": "Hong Kong"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-01-28T21:20:42Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/01/28/its-no-beijing-but-hong-kong-is-choking-too/",
+        "news_desk": null,
+        "snippet": "Air pollution levels in Beijing and other Chinese cities have started to worry - and anger - many of the country's 1.3 billion citizens. By Beijing's standards, Hong Kong's air is probably sparkling clean, which is damning with faint praise.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WASSENER",
+            "role": "reported",
+            "firstname": "Bettina"
+          }],
+          "original": "By BETTINA WASSENER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a2f88eb7c8105d8ebb23",
+        "source": "The New York Times",
+        "word_count": 529,
+        "lead_paragraph": "HONG KONG - For the business, political and media glitterati assembled in the rarefied Alpine atmosphere of Davos, air pollution has probably not been terribly high on the agenda."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "ART",
+          "main": "Through an Explosion, a Chinese Artist's Road to Discovery"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-02-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/02/01/arts/01iht-zhan01.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "Zhan Wang's installation \"My Personal Universe\" took nearly two years to realize, far surpassed its intended budget, and grew to encompass an hour-long documentary and a book.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MELVIN",
+            "role": "reported",
+            "firstname": "Sheila"
+          }],
+          "original": "By SHEILA MELVIN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2012/02/01/arts/01iht-zhan01A/01iht-zhan01A-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2012/02/01/arts/01iht-zhan01A/01iht-zhan01A-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2012/02/01/arts/01iht-zhan01A/01iht-zhan01A-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2012/02/01/arts/01iht-zhan01A/01iht-zhan01A-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2a98d8eb7c8105d8945ee",
+        "source": "International Herald Tribune",
+        "word_count": 1059,
+        "lead_paragraph": "BEIJING -- When the sculptor and conceptual artist Zhan Wang set out to create his latest work, ''My Personal Universe,'' he envisioned it as a relatively straightforward project. ''Just an artist and a stone,'' he explained during a recent interview at the Ullens Center for Contemporary Art (www.ucca.org.cn ) in Beijing, where his installation is on display through Feb. 25."
+      },
+      {
+        "abstract": "Architectural preservationists in Beijing are outraged by the unannounced and furtive government demolition of a house once occupied by famed architects Liang Sicheng and Lin Huiyin, champions of historic preservation; government officials tell the state news media, which was sharp in its criticism of the demolition, that a replica of the historic home will be built. Photo (M)",
+        "headline": {"main": "In Beijing's Building Frenzy, Even an 'Immovable Cultural Relic' Is Not Safe"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LIN HUIYIN"
+          },
+          {
+            "name": "persons",
+            "value": "MAO ZEDONG"
+          },
+          {
+            "name": "persons",
+            "value": "LIANG SICHENG"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HISTORIC BUILDINGS AND SITES"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2012-02-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/02/05/world/asia/in-beijing-razing-of-historic-house-stirs-outrage.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The demolition of a historic house in the imperial city, once home to famous architects who championed historic preservation, is a cruel blow to conservationists.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Li Bibo contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2012/02/04/world/BEIJING1/BEIJING1-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2012/02/04/world/BEIJING1/BEIJING1-thumbStandard-v2.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2012/02/04/world/BEIJING1/BEIJING1-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2012/02/04/world/BEIJING1/BEIJING1-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2a7bf8eb7c8105d890a85",
+        "source": "The New York Times",
+        "word_count": 1189,
+        "lead_paragraph": "BEIJING -- Even in its prime, the house at 24 Beizongbu Hutong was no architectural jewel, just one of countless brick-and-timber courtyard homes that clogged the labyrinthine heart of this ancient imperial capital. But for seven years in the 1930s, it sheltered one of modern China's most fabled couples, Liang Sicheng and Lin Huiyin, Ivy League-educated architects who had returned home to champion the notion that a great nation should hold dear its historic patrimony. It was Mr. Liang, the debonair son from an illustrious family of intellectuals, who urged the victorious Communists to preserve Beijing's Yuan dynasty grid and its hulking city walls. Mao, the country's unsentimental leader, thought otherwise."
+      },
+      {
+        "abstract": "A Chinese freshman at an American public university will typically pay three times what an in-state student pays. And with increasing numbers of Chinese kids at U.S. colleges, even with a booming economy back home, how are they paying more than $50,000 a year? A high school educator from one of Beijing's leading schools explains the how, the why and the how much.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Chinese Students Paying U.S. Tuitions \u2014 How? And Why?"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "organizations",
+            "value": "US News & World Report"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Colleges and Universities"
+          },
+          {
+            "rank": "10",
+            "name": "organizations",
+            "value": "University of Michigan"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Chinese Language"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Admissions Standards"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Economic Conditions and Trends"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Foreign Students (in US)"
+          },
+          {
+            "rank": "14",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "International Study and Teaching"
+          },
+          {
+            "rank": "13",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Social Conditions and Trends"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "Tuition"
+          },
+          {
+            "rank": "12",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-02-07T20:08:14Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/02/07/how-chinese-students-pay-u-s-tuitions/",
+        "news_desk": null,
+        "snippet": "A Chinese freshman at an American public university will typically pay three times what an in-state student pays. And with increasing numbers of Chinese kids at U.S. colleges, even with a booming economy back home, how are they paying more than $50,0",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a2b78eb7c8105d8eb124",
+        "source": "The New York Times",
+        "word_count": 581,
+        "lead_paragraph": "Rendezvous recently poked around the issue of Chinese high school students doctoring their applications to gain admission to U.S universities. Surveys and anecdotal evidence suggest that more than half of all Chinese students will have faked something in their admission packets."
+      },
+      {
+        "abstract": "China's social media are filled with speculation about the fate of Wang Lijun, a onetime rising star in the western megacity of Chongqing, where he had been the deputy mayor overseeing public security; reports say that Wang, one of the country's most famous crime fighters, had tried to defect to the United States. (M)",
+        "headline": {"main": "On Social Media, Chinese Ponder Crime Fighter's Fate"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BO XILAI"
+          },
+          {
+            "name": "persons",
+            "value": "WANG LIJUN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHONGQING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "COMMUNIST PARTY OF CHINA"
+          },
+          {
+            "name": "subject",
+            "value": "SOCIAL NETWORKING (INTERNET)"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2012-02-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/02/09/world/asia/speculation-grows-over-fate-of-crime-fighting-chinese-official.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Reports circulated widely on Wednesday that Wang Lijun, known for busting gangs in the western city of Chongqing, had tried to defect to the United States.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JOHNSON",
+            "role": "reported",
+            "firstname": "Ian"
+          }],
+          "original": "By IAN JOHNSON; Edy Yin contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2012/02/09/world/9china-image2/9china-image2-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2012/02/09/world/9china-image2/9china-image2-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2a98e8eb7c8105d89469d",
+        "source": "The New York Times",
+        "word_count": 589,
+        "lead_paragraph": "BEIJING -- In a sign that China's political season is heating up, reports circulated widely on Wednesday that one of the country's most famous crime fighters had tried to defect to the United States. The reports were impossible to confirm, but China's social media were filled with speculation about the fate of Wang Lijun, a onetime rising star in the western megacity of Chongqing, where he had been the deputy mayor overseeing public security."
+      },
+      {
+        "abstract": "This will be autumn of the patriarch in China, with Hu Jintao stepping down and presumably passing the leadership of the Communist Party to Xi Jinping, the current vice president. Mr. Xi is due to visit the United States this week, starting with meetings at the White House on Tuesday. He and President Obama will likely discuss the delicately poised chemistry of human rights, even as Beijing continues to practice the alchemy of authoritarianism.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "The Delicately Poised Chemistry of Diplomacy"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "subject",
+            "value": "Human Rights and Human Rights Violations"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Locke, Gary"
+          },
+          {
+            "rank": "21",
+            "name": "glocations",
+            "value": "Dharamsala (India)"
+          },
+          {
+            "rank": "10",
+            "name": "subject",
+            "value": "Censorship"
+          },
+          {
+            "rank": "19",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "20",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Hu Jintao"
+          },
+          {
+            "rank": "23",
+            "name": "glocations",
+            "value": "Tibet"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Biden, Joseph R Jr"
+          },
+          {
+            "rank": "18",
+            "name": "organizations",
+            "value": "State Department"
+          },
+          {
+            "rank": "17",
+            "name": "organizations",
+            "value": "Human Rights Watch"
+          },
+          {
+            "rank": "22",
+            "name": "glocations",
+            "value": "Sichuan Province (China)"
+          },
+          {
+            "rank": "16",
+            "name": "organizations",
+            "value": "Human Rights in China"
+          },
+          {
+            "rank": "26",
+            "name": "glocations",
+            "value": "Xinjiang (China)"
+          },
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "15",
+            "name": "subject",
+            "value": "United States International Relations"
+          },
+          {
+            "rank": "25",
+            "name": "glocations",
+            "value": "Washington (State)"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "persons",
+            "value": "Xi Jinping"
+          },
+          {
+            "rank": "24",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "14",
+            "name": "subject",
+            "value": "Politics and Government"
+          },
+          {
+            "rank": "7",
+            "name": "persons",
+            "value": "Yu Jie"
+          },
+          {
+            "rank": "13",
+            "name": "subject",
+            "value": "Political Prisoners"
+          },
+          {
+            "rank": "8",
+            "name": "persons",
+            "value": "Zhu Yufu"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+          },
+          {
+            "rank": "12",
+            "name": "subject",
+            "value": "Poetry and Poets"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-02-12T01:07:51Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/02/12/the-delicately-poised-chemistry-of-diplomacy/",
+        "news_desk": null,
+        "snippet": "This will be autumn of the patriarch in China, with Hu Jintao stepping down and presumably passing the leadership of the Communist Party to Xi Jinping, the current vice president. Mr. Xi is due to visit the United States this week, starting with meet",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a3338eb7c8105d8ec305",
+        "source": "The New York Times",
+        "word_count": 824,
+        "lead_paragraph": "HONG KONG - This will be the autumn of the patriarch in China, with Hu Jintao stepping down in the fall and presumably passing the leadership of the Communist Party to the current vice president, Xi Jinping."
+      },
+      {
+        "abstract": "Naturalized American citizen Ge Xun recounts being abducted from the streets of Beijing and roughly questioned by Chinese security agents for 21 hours about his blogging and other activities; incident highlights risks faced by foreign passport holders of Chinese origin when ensnared by country's omnipotent public security apparatus. (M)",
+        "headline": {"main": "American Recounts Beating by Chinese Agents Suspicious of Social Media"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "GE XUN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "COMMUNIST PARTY OF CHINA"
+          },
+          {
+            "name": "organizations",
+            "value": "TWITTER"
+          },
+          {
+            "name": "subject",
+            "value": "CITIZENSHIP AND NATURALIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "SOCIAL NETWORKING (INTERNET)"
+          },
+          {
+            "name": "subject",
+            "value": "BLOGS AND BLOGGING (INTERNET)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2012-02-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/02/14/world/asia/american-active-on-internet-recounts-beating-in-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A naturalized citizen active on the Internet in support of human rights said officers had abducted and interrogated him during a visit.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2012/02/14/world/asia/14beijing/14beijing-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2012/02/14/world/asia/14beijing/14beijing-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2a7c08eb7c8105d890bf4",
+        "source": "The New York Times",
+        "word_count": 1076,
+        "lead_paragraph": "BEIJING -- The Chinese Communist Party has long felt threatened by overseas Web sites and social media outlets, but the recent detention of a California physicist who says he was beaten by Chinese security agents seeking the password for his Twitter account suggests how far the government will go in its battle against a freewheeling Internet available only beyond its borders. The man, Ge Xun, 53, a naturalized American citizen who moved to the United States from China in 1986, said he was abducted from a street in Beijing this month and was roughly questioned by public security officers at a secret location. During 21 hours of interrogation, Mr. Ge said, the agents peppered him with questions about his blogging activity, his membership in an organization that promotes dialogue between Tibetans and Chinese and his role in maintaining a Web site that supports a blind lawyer living under house arrest in China's rural northeast."
+      },
+      {
+        "abstract": "We're waiting for a diktat from the schoolmarms and ayatollahs of All Things Hip, declaring that \"Linsanity'' is already passé, overdone, uncool. For now, though, we're staying with it, especially because the remarkable Jeremy Lin won a game for the New York Knicks on Tuesday night with a three-pointer just before the buzzer. Mr. Lin, who finished with 27 points and 11 assists, is the first Taiwanese-American and just the fourth Asian-American to play in the N.B.A. He's also just the fourth Harvard alumnus to make it to the show.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Nothing but Net \u2014 And Hotter Than Tiger Balm"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "glocations",
+            "value": "Taiwan"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Yardley, Jim"
+          },
+          {
+            "rank": "10",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Stern, David"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Lin, Jeremy"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Chinese-Americans"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "organizations",
+            "value": "National Basketball Assn"
+          },
+          {
+            "rank": "7",
+            "name": "organizations",
+            "value": "New York Knicks"
+          },
+          {
+            "rank": "8",
+            "name": "organizations",
+            "value": "Toronto Raptors"
+          },
+          {
+            "rank": "9",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-02-14T23:45:26Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/02/14/excitable-boy-they-all-said/",
+        "news_desk": null,
+        "snippet": "We're waiting for a diktat from the schoolmarms and ayatollahs of All Things Hip, declaring that \"Linsanity'' is already passé, overdone, uncool. For now, though, we're staying with it, especially because the remarkable Jeremy Lin won a game for the",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a33c8eb7c8105d8ec409",
+        "source": "The New York Times",
+        "word_count": 452,
+        "lead_paragraph": "HONG KONG - We're thinking that a diktat will soon come around from the schoolmarms and ayatollahs of All Things Hip, declaring that \"Linsanity'' is already passé, overdone, uncool."
+      },
+      {
+        "abstract": "Relations between Hong Kongers and mainland Chinese have deteriorated badly in recent weeks, and the friction has found its way into the race for Hong Kong's next chief executive. Henry Tang, thought by many to be Beijing's preferred candidate, is under fire for illegal renovations to a luxury home owned by his wife.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Beijing's Man in Hong Kong Comes Under Fire"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Elections"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-02-19T20:23:20Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/02/19/beijings-man-in-hong-kong-comes-under-fire/",
+        "news_desk": null,
+        "snippet": "Relations between Hong Kongers and mainland Chinese have deteriorated badly in recent weeks, and the friction has found its way into the race for Hong Kong's next chief executive. Henry Tang, thought by many to be Beijing's preferred candidate, is un",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a3778eb7c8105d8ecc86",
+        "source": "The New York Times",
+        "word_count": 538,
+        "lead_paragraph": "HONG KONG - Relations between Hong Kongers and mainland Chinese have deteriorated badly in recent weeks, with a range of angry complaints coming from the Hong Kong side - pregnant mainlanders (derisively called \"locusts\") have swamped the city's world-class maternity hospitals, free-spending tourists from the north get preferential treatment at Hong Kong shops and wealthy Chinese looking to \"offshore\" their riches have driven up the already stratospheric price of real estate. There is even a local insurgency against a proposal to allow more mainland drivers to enter Hong Kong. Long-haul truckers here call drivers from China guan tao - \"wooden heads.\""
+      },
+      {
+        "abstract": "The Chinese Communist Party knows it has a problem. A billion Gordon Gekkos are blooming, but the country's moral standards are withering on the vine. Corruption pervades. Villainy abounds. So party propagandists are dusting off the 50-year-old legend of Lei Feng to set things right.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Gordon Gekko, Meet Lei Feng"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Books and Literature"
+          },
+          {
+            "rank": "10",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Schmemann, Serge"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Mao Zedong"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Cultural Revolution"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Politics and Government"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Propaganda"
+          },
+          {
+            "rank": "8",
+            "name": "organizations",
+            "value": "Communist Party of China"
+          },
+          {
+            "rank": "9",
+            "name": "organizations",
+            "value": "People's Daily"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-02-27T23:54:47Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/02/27/gordon-gekko-meet-lei-feng/",
+        "news_desk": null,
+        "snippet": "The Chinese Communist Party knows it has a problem. A billion Gordon Gekkos are blooming, but the country's moral standards are withering on the vine. Corruption pervades. Villainy abounds. So party propagandists are dusting off the 50-year-old legen",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a2ec8eb7c8105d8eb986",
+        "source": "The New York Times",
+        "word_count": 954,
+        "lead_paragraph": "HONG KONG - The Chinese Communist Party knows it has a problem. A billion Gordon Gekkos are blooming, but moral standards are withering on the vine. Corruption pervades. Villainy abounds."
+      }
+    ],
+    "meta": {
+      "time": 11,
+      "hits": 167,
+      "offset": 10
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

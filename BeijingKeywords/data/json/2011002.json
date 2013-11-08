@@ -1,0 +1,594 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Article in Culture and Control series, exploring the struggle to shape the culture of authoritarian China; highlights exhibits at the new National Museum of China that represent Communist Party's efforts to control the narrative of history and suppress alternative points of view; photos (L)",
+        "headline": {
+          "kicker": "CULTURE AND CONTROL",
+          "main": "At China's Grand New Museum, History Toes the Party Line"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NATIONAL MUSEUM OF CHINA"
+          },
+          {
+            "name": "organizations",
+            "value": "COMMUNIST PARTY OF CHINA"
+          },
+          {
+            "name": "subject",
+            "value": "SURVEYS AND SERIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "subject",
+            "value": "RESTORATION AND RENOVATION"
+          },
+          {
+            "name": "subject",
+            "value": "MUSEUMS"
+          },
+          {
+            "name": "subject",
+            "value": "CULTURE (ARTS)"
+          },
+          {
+            "name": "subject",
+            "value": "HISTORY (ACADEMIC SUBJECT)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2011-04-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/04/04/world/asia/04museum.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The National Museum of China showcases the Communist Party\u2019s efforts to control the narrative of history.",
+        "type_of_material": "Series",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JOHNSON",
+            "role": "reported",
+            "firstname": "Ian"
+          }],
+          "original": "By IAN JOHNSON; Zhang Jing contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2011/04/04/world/Museum/Museum-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/04/04/world/Museum/Museum-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 345,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2011/04/04/world/Museum/Museum-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 345,
+              "xlarge": "images/2011/04/04/world/Museum/Museum-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2a0078eb7c8105d883648",
+        "source": "The New York Times",
+        "word_count": 2439,
+        "lead_paragraph": "BEIJING -- At the elaborately renovated National Museum of China in Tiananmen Square, visitors interested in the recent history of the world's fastest rising power can gaze at the cowboy hat that Deng Xiaoping once wore when he visited the United States, or admire the bullhorn that President Hu Jintao used to exhort people to overcome hardship after the Sichuan earthquake in 2008. But if their interests run to the Cultural Revolution that tore the country apart from 1966 to 1976 and resulted in millions of deaths, they will have to search a back corner of the two-million-square-foot museum, which will complete its opening this month, for a single photograph and three lines of text that are the only reference to that era."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "I.H.T. OP-ED CONTRIBUTOR",
+          "main": "Bad Business for Burma"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "MYANMAR"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "EMBARGOES AND ECONOMIC SANCTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-04-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/04/04/opinion/04iht-edsmith04.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "As the West revisits the sanctions issue, Western energy firms shouldn't assume they have the answers to the country's development.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "F.",
+            "role": "reported",
+            "lastname": "SMITH",
+            "firstname": "Matthew"
+          }],
+          "original": "By MATTHEW F. SMITH"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a0078eb7c8105d88365c",
+        "source": "International Herald Tribune",
+        "word_count": 781,
+        "lead_paragraph": "The Burmese pro-democracy leader Daw Aung San Suu Kyi recently urged Western nations to maintain economic sanctions against Myanmar, where the world's longest-running military dictatorship is tightening its repressive ways: Over 2,000 prisoners of conscience languish behind bars in squalid conditions, while arbitrary arrests and detentions, extrajudicial killings, torture and other abuses continue to be widespread and systematic, particularly in ethnic areas. Nevertheless, Mrs. Aung San Suu Kyi's message is not without controversy. It comes just weeks before the European Union will revisit its hotly debated sanctions policy, and a few disquieted Western policymakers, corporate executives and think tanks are advocating for economic engagement with the reclusive generals and their cronies. Sanctions policy is not only antiquated, ineffective, and hurtful to the Burmese people, they argue, it also gives the upper hand to China, which is sending companies to Burma with abandon, especially for big-ticket energy projects tapping natural gas reserves."
+      },
+      {
+        "abstract": "Bob Dylan's performance in Beijing avoided songs that might overtly offend China's Communist rulers, though it sounds like he was still able to slip in a few of his cryptically critical songs.",
+        "headline": {
+          "kicker": "ArtsBeat",
+          "main": "The Times Are Changing Only So Much: Dylan, With Restricted Set List, Plays China"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Music"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Dylan, Bob"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-04-06T12:49:27Z",
+        "web_url": "http://artsbeat.blogs.nytimes.com/2011/04/06/the-times-are-changing-only-so-much-dylan-with-restricted-set-list-plays-china/",
+        "news_desk": null,
+        "snippet": "Bob Dylan's performance in Beijing avoided songs that might overtly offend China's Communist rulers, though it sounds like he was still able to slip in a few of his cryptically critical songs.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ITZKOFF",
+            "role": "reported",
+            "firstname": "Dave"
+          }],
+          "original": "By DAVE ITZKOFF"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd39f0c8eb7c8105d8e296c",
+        "source": "The New York Times",
+        "word_count": 285,
+        "lead_paragraph": "The audience applauded Bob Dylan's first concert in mainland China on Wednesday night even as some concertgoers questioned the need for him to stick to a set list that would avoid overtly offending that nation's Communist rulers (though it sounds like he was still able to slip in a few cryptically critical songs)."
+      },
+      {
+        "abstract": "The Solomon R. Guggenheim Foundation is leading an international effort to call for the release of Ai Weiwei, the Chinese Conceptual artist who was taken into police custody in Beijing after he was detained on Sunday while trying to board a flight for Hong Kong.",
+        "headline": {
+          "kicker": "ArtsBeat",
+          "main": "Museums Press for the Release of Ai Weiwei"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "Assn of Art Museum Directors"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Ai Weiwei"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "Guggenheim, Solomon R, Foundation"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "China"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-04-08T12:04:28Z",
+        "web_url": "http://artsbeat.blogs.nytimes.com/2011/04/08/museums-press-for-the-release-of-ai-weiwei/",
+        "news_desk": null,
+        "snippet": "The Solomon R. Guggenheim Foundation is leading an international effort to call for the release of Ai Weiwei, the Chinese Conceptual artist who was taken into police custody in Beijing after he was detained on Sunday while trying to board a flight fo",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "VOGEL",
+            "role": "reported",
+            "firstname": "Carol"
+          }],
+          "original": "By CAROL VOGEL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd39f1d8eb7c8105d8e2b15",
+        "source": "The New York Times",
+        "word_count": 317,
+        "lead_paragraph": "The Solomon R. Guggenheim Foundation is leading an international effort to call for the release of Ai Weiwei, the Chinese Conceptual artist who was taken into police custody in Beijing after he was detained on Sunday while trying to board a flight for Hong Kong. It has gathered the support of the museum community, including the Museum of Modern Art in New York, the Los Angeles County Museum of Art, the Minneapolis Institute of Arts, the Tate in London along with the American Association of Art Museum Directors."
+      },
+      {
+        "abstract": "Chinese police detain more than 100 members of underground Protestant church in Beijing after congregation tries to pray in public plaza; move is seen as part of broad crackdown on dissent (M)",
+        "headline": {"main": "China Detains Worshipers Over Praying In Public"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CHRISTIANS AND CHRISTIANITY"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2011-04-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/04/11/world/asia/11china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Communist Party officials this weekend abruptly canceled a debate competition among students from 16 universities on the topic of China\u2019s 1911 revolution, one official said.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "JACOBS",
+              "role": "reported",
+              "firstname": "Andrew"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "LaFRANIERE",
+              "role": "reported",
+              "firstname": "Sharon"
+            }
+          ],
+          "original": "By ANDREW JACOBS and SHARON LaFRANIERE; Xiyun Yang and Mia Li contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2913e8eb7c8105d869d8f",
+        "source": "The New York Times",
+        "word_count": 712,
+        "lead_paragraph": "BEIJING -- The police detained more than 100 members of an underground Protestant church on Sunday after the congregation tried to pray in a public plaza in the north of the capital. The raid on the church, which sought to pray outside after it was evicted from its building under government pressure, was part of a broad crackdown on dissent over the last seven weeks. The campaign has led to the jailing of scores of rights lawyers, writers and activists, as well as the repression of unauthorized worship."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Architectural Monuments in a Reshaped Beijing "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-04-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/interactive/2008/07/12/arts/20080712_BEIJING_GRAPHIC.html",
+        "news_desk": null,
+        "snippet": "Explore five notable new projects in China\u2019s capital city, with audio commentary by Nicolai Ouroussoff.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a84fe1c22dfde670bda91",
+        "source": null,
+        "word_count": 21,
+        "lead_paragraph": "Explore five notable new projects in China\u2019s capital city, with audio commentary by Nicolai Ouroussoff."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "The \u2018Mouse People\u2019 of Beijing"},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "MIGRANT AND FOREIGN WORKERS"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-04-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2011/04/24/magazine/beijing-basements.html",
+        "news_desk": null,
+        "snippet": "Under China\u2019s teeming capital is an underground city of laborers, waiters and salesclerks.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a8d941c22dfde670c4bcb",
+        "source": null,
+        "word_count": 20,
+        "lead_paragraph": "Under China\u2019s teeming capital is an underground city of laborers, waiters and salesclerks."
+      },
+      {
+        "abstract": "Edward Wong You Are Here column describes the plight of migrant workers in Beijing, China, many of whom live in underground tunnels; photo; map (M)",
+        "headline": {
+          "kicker": "YOU ARE HERE",
+          "main": "THE LABYRINTH"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HOUSING AND REAL ESTATE"
+          },
+          {
+            "name": "subject",
+            "value": "MIGRANT AND FOREIGN WORKERS"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "2011-04-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/04/24/magazine/mag-24YouAreHere-t.html",
+        "news_desk": "Magazine Desk",
+        "snippet": "Far beneath the teeming city, migrant workers known as \u201cthe mouse tribe\u201d make their homes.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Magazine",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2011/04/24/magazine/24YouAreHere/24YouAreHere-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/04/24/magazine/24YouAreHere/24YouAreHere-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 412,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2011/04/24/magazine/24YouAreHere/24YouAreHere-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 412,
+              "xlarge": "images/2011/04/24/magazine/24YouAreHere/24YouAreHere-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd29e5d8eb7c8105d880ad7",
+        "source": "The New York Times",
+        "word_count": 860,
+        "lead_paragraph": "In the far west of Beijing, in a neighborhood called Apple Orchard, there is a small concrete bunker with a green sign at its mouth that says, ''Air-Defense Basement.'' Down three flights of stairs into a tunnel lighted only by the occasional fluorescent bulb, the air gets cold and musty, and as you walk through here, it's impossible not to think that hideous things could happen without anyone ever knowing. Eventually you come upon a doorway with a white air-lock portal, which opens onto another corridor that splits off in two directions. At the end of one branch, there is a metal door framed by red paper banners, one of which reads, ''May good things you want to happen come to pass.'' This is where Wang Xiuli lives with her husband and 16-year-old son, in two rooms that together add up to about 215 square feet, one of the largest apartments available in this warren of tunnels. Thick pipes protrude from the ceiling, and a window in the front room opens onto nowhere, just another gray tunnel wall beyond it. A blue plastic table and bright pink, orange and green chairs, meant as a play set for children, serve as the family's dining table. There is no heating, and the day I visited, Wang's husband, who works as a deliveryman for a hip clothing company called Vancl, lay sick in bed. The ruddy-cheeked Wang herself stood bundled in a red down jacket, stuffing plastic bottles into a clear trash bag. A full bag, sold to a recycler, could fetch about 40 cents. Her son stood by watching."
+      },
+      {
+        "abstract": "Chinese authorities detain hundreds of members of Shouwang, an evangelical Protestant congregation, at their houses and take at least 36 others into custody after they try to hold Easter services in a public square in Beijing (M)",
+        "headline": {"main": "Chinese Christians Detained After Attempt at Easter Rites"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF RELIGION"
+          },
+          {
+            "name": "subject",
+            "value": "CHRISTIANS AND CHRISTIANITY"
+          },
+          {
+            "name": "subject",
+            "value": "EASTER AND HOLY WEEK"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2011-04-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/04/25/world/asia/25church.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The authorities stepped up a three-week campaign against an underground Christian church by holding hundreds in their homes and taking 36 others into custody.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b8248eb7c8105d8adfd1",
+        "source": "The New York Times",
+        "word_count": 499,
+        "lead_paragraph": "BEIJING -- The authorities stepped up a three-week campaign against an underground Christian church on Sunday, detaining hundreds of congregants in their homes and taking at least 36 others into custody after they tried to hold Easter services in a public square, church members and officials said. The church, Shouwang, an evangelical Protestant congregation that was evicted from its rented quarters this month, has been at loggerheads with the government since announcing plans to gather outdoors rather than disband or return to worshiping in private homes. The authorities have repeatedly stymied Shouwang's efforts to lease or buy space for its 1,000-member congregation, one of the largest and most prominent so-called house churches in the capital."
+      },
+      {
+        "abstract": "Photo of site of fire at Beijing clothing factory that killed at least 17 people; photo (S)",
+        "headline": {"main": "DEADLY BLAZE AT A BEIJING CLOTHING FACTORY"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FIRES AND FIREFIGHTERS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2011-04-26T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9E03E3DC173BF935A15757C0A9679D8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "Photo of site of fire at Beijing clothing factory that killed at least 17 people; photo (S)",
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a0148eb7c8105d883fb5",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      }
+    ],
+    "meta": {
+      "time": 45,
+      "hits": 102,
+      "offset": 20
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

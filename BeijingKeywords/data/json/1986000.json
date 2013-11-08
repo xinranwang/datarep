@@ -1,0 +1,582 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "FOLLOW UP ON THE NEWS",
+          "main": "Monkey Business At City Hall"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "BRONX ZOO"
+          },
+          {
+            "name": "creative_works",
+            "value": "CENTRAL PARK ZOO"
+          },
+          {
+            "name": "persons",
+            "value": "CONWAY, WILLIAM G"
+          },
+          {
+            "name": "glocations",
+            "value": "NEW YORK CITY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ZOOS"
+          },
+          {
+            "name": "subject",
+            "value": "MONKEYS"
+          }
+        ],
+        "print_page": "41",
+        "pub_date": "1986-06-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1986/06/15/nyregion/follow-up-on-the-news-monkey-business-at-city-hall.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "  WHEN a delegation of Peking officials visited New York last September, Mayor Koch made a pitch to them for two giant pandas for the Bronx Zoo. A month later, the reply came from China: Until the pandas were available under a loan program, how about",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "New York and Region",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Haitch",
+            "role": "reported",
+            "firstname": "Richard"
+          }],
+          "original": "By Richard Haitch"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1559a8eb7c8105d639a7b",
+        "source": "The New York Times",
+        "word_count": 224,
+        "lead_paragraph": "WHEN a delegation of Peking officials visited New York last September, Mayor Koch made a pitch to them for two giant pandas for the Bronx Zoo. A month later, the reply came from China: Until the pandas were available under a loan program, how about borrowing a pair of rare Beijing golden monkeys instead?"
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "COMPANY NEWS",
+          "main": "Shearson Joins Beijing Project"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "PEKING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "SHEARSON LEHMAN BROTHERS INC"
+          },
+          {
+            "name": "organizations",
+            "value": "TISHMAN SPEYER PROPERTIES"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING AMERICAN EXPRESS CENTER"
+          },
+          {
+            "name": "subject",
+            "value": "JOINT VENTURES AND CONSORTIUMS"
+          },
+          {
+            "name": "subject",
+            "value": "OFFICE BUILDINGS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1986-11-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1986/11/26/business/company-news-shearson-joins-beijing-project.html",
+        "news_desk": "Financial Desk",
+        "snippet": "  Shearson Lehman Brothers Inc. and Tishman Speyer Properties Inc. agreed yesterday with two Chinese partners to develop a one-million-square-foot office and residential complex in Beijing. The $150 million project, to be known as the Beijing America",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd158768eb7c8105d63cd28",
+        "source": "The New York Times",
+        "word_count": 205,
+        "lead_paragraph": "Shearson Lehman Brothers Inc. and Tishman Speyer Properties Inc. agreed yesterday with two Chinese partners to develop a one-million-square-foot office and residential complex in Beijing. The $150 million project, to be known as the Beijing American Express Center, will serve the diplomatic and foreign corporate communities."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "CHINESE STUDENTS PUT UP POSTERS CALLING FOR MORE DEMOCRACY"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING UNIVERSITY"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "13",
+        "pub_date": "1986-12-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1986/12/14/world/chinese-students-put-up-posters-calling-for-more-democracy.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Students at Beijing University put up posters on campus today calling for more democracy, students said. The action followed student demonstrations in the provinces.   The Beijing students said two posters were put up Friday, but were taken down du",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [],
+          "organization": "AP",
+          "original": "AP"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd166cf8eb7c8105d654aa0",
+        "source": "The New York Times",
+        "word_count": 320,
+        "lead_paragraph": "Students at Beijing University put up posters on campus today calling for more democracy, students said. The action followed student demonstrations in the provinces. The Beijing students said two posters were put up Friday, but were taken down during the night, apparently by the university. Several more appeared today, they said."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "THOUSANDS STAGE RALLY IN SHANGHAI DEMANDING RIGHTS"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NEW CHINA NEWS AGENCY"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1986-12-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1986/12/21/world/thousands-stage-rally-in-shanghai-demanding-rights.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  In the largest student demonstrations since the Cultural Revolution, 30,000 to 35,000 students marched on the streets of Shanghai today shouting demands for democracy and press freedom, according to foreigners who saw the protests.   Throughout the",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "A.",
+              "role": "reported",
+              "lastname": "GARGAN",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By EDWARD A. GARGAN, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd165c78eb7c8105d652cbb",
+        "source": "The New York Times",
+        "word_count": 1101,
+        "lead_paragraph": "In the largest student demonstrations since the Cultural Revolution, 30,000 to 35,000 students marched on the streets of Shanghai today shouting demands for democracy and press freedom, according to foreigners who saw the protests. Throughout the day, thousands of students poured into a huge expanse of pavement known as People's Square. Thousands of others demonstrated outside city government offices on the tree-lined Bund, the promenade along the west bank of the Huangpu River. In People's Square, students carried huge placards reading, ''Long Live Freedom,'' and ''Give Us Democracy,'' the foreigners said."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China Opens Its Doors to Housing for Foreigners"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SALES"
+          },
+          {
+            "name": "subject",
+            "value": "SHORTAGES"
+          },
+          {
+            "name": "subject",
+            "value": "HOUSING"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "1986-12-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1986/12/21/realestate/china-opens-its-doors-to-housing-for-foreigners.html",
+        "news_desk": "Real Estate Desk",
+        "snippet": "  FOR the first time since the Communists took power in China nearly four decades ago, opportunities are being created for foreign nationals living and working in its major cities to buy their own apartments or town houses.   The Chinese have customa",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Real Estate",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Brooks",
+            "role": "reported",
+            "firstname": "Andree"
+          }],
+          "original": "By Andree Brooks"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd173568eb7c8105d667583",
+        "source": "The New York Times",
+        "word_count": 1019,
+        "lead_paragraph": "FOR the first time since the Communists took power in China nearly four decades ago, opportunities are being created for foreign nationals living and working in its major cities to buy their own apartments or town houses. The Chinese have customarily been been reluctant to allow foreigners to occupy local housing (except in emergencies or by special permit), since it is in desperately short supply. In addition, it is usually deficient by Western standards. Until now, foreigners generally have either lived in hotel rooms that they used as offices or rented hotel-service apartments or suites attached to hotels on a short-term basis. Lately, a severe shortage of available space and an increasing demand by foreign businesses has driven rents up - a suite at one of the better Western-style hotels costs as much as $9,000 a month - and increased the pressure for alternatives. There are no controls on the prices foreigners can be charged for housing."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "PROTESTS BY STUDENTS SPREAD TO BEIJING"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "QINGHUA UNIVERSITY"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1986-12-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1986/12/24/world/protests-by-students-spread-to-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Street protests by students calling for democracy spread to the capital tonight.   Several thousand students from Qinghua University in Beijing poured into the streets in below-freezing temperatures demanding an end to authoritarianism and urging t",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "A.",
+              "role": "reported",
+              "lastname": "GARGAN",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By EDWARD A. GARGAN, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd15b7d8eb7c8105d6417b9",
+        "source": "The New York Times",
+        "word_count": 651,
+        "lead_paragraph": "Street protests by students calling for democracy spread to the capital tonight. Several thousand students from Qinghua University in Beijing poured into the streets in below-freezing temperatures demanding an end to authoritarianism and urging the granting of democratic rights for the Chinese people. The rally in Beijing, which included a march through the city's northern university districts was the first time this city's students have publicly joined the wave of student protests that has erupted in at least six cities in China over the last three and a half weeks. Catalogue of Students Demonstrations held in Shanghai in the last week were are the largest to take place in China since the end of the cultural revolution in 1976."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "BEIJING IMPOSES RULES BANNING PROTESTS IN CITY"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "NANJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1986-12-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1986/12/27/world/beijing-imposes-rules-banning-protests-in-city.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Two days after thousands of university students demonstrated on the streets of Beijing, the city issued rules today that make any further public protest virtually illegal.   Even as Beijing was joining other cities in clamping down on student prote",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd179b28eb7c8105d670f0f",
+        "source": "The New York Times",
+        "word_count": 815,
+        "lead_paragraph": "Two days after thousands of university students demonstrated on the streets of Beijing, the city issued rules today that make any further public protest virtually illegal. Even as Beijing was joining other cities in clamping down on student protesters, 10,000 students in Nanjing, the industrialized capital of Jiangsu Province, were reported to have marched through the city calling for greater democracy, part of a continuing student campaign that is sweeping China. The action by the Beijing city government follows a similar action on Monday by the Shanghai authorities, who in effect banned demonstrations. In five days of protests in Shanghai that were brought to a halt earlier this week, more than 50,000 students marched through the streets with banners calling for democracy and freedom."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "CHINA PEEKS WARILY PAST THE OPEN DOOR TO THE WEST"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SOCIAL CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1986-12-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1986/12/28/weekinreview/china-peeks-warily-past-the-open-door-to-the-west.html",
+        "news_desk": "Week in Review Desk",
+        "snippet": "  SINCE the 19th century, Chinese scholars have been debating how to preserve their country's ''Chineseness'' while at the same time embracing Western science and technology. Some Confucian scholars used to argue that Western scientific knowledge was",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Week in Review",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "A.",
+            "role": "reported",
+            "lastname": "GARGAN",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD A. GARGAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd15b868eb7c8105d641db6",
+        "source": "The New York Times",
+        "word_count": 793,
+        "lead_paragraph": "SINCE the 19th century, Chinese scholars have been debating how to preserve their country's ''Chineseness'' while at the same time embracing Western science and technology. Some Confucian scholars used to argue that Western scientific knowledge was only a tool that could in the end be used to strengthen traditional values. But others insisted that opening the doors would inexorably erode and destroy the Confucian ethos. Last week, as tens of thousands of students marched through Shanghai's narrow streets shouting slogans for democracy and freedom, the dilemma facing China's leaders was much like the one that had troubled Confucian traditionalists. For as China methodically opens itself, creating an economic landscape akin to the West's, intellectuals are asking: Can the political principles that nourish Western economies be far behind? And if so, what does that entail for the Communist Government and its political values?"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "BEIJING TO OFFER VOTERS A CHOICE IN CITY ELECTION"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ELECTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1986-12-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1986/12/28/world/beijing-to-offer-voters-a-choice-in-city-election.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  In a dramatic change in the way local elections are held in Beijing, the city government announced today that there would be more than one candidate for each seat in municipal elections.   It did not explain, however, how candidates would be nomina",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "A.",
+              "role": "reported",
+              "lastname": "GARGAN",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By EDWARD A. GARGAN, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd174698eb7c8105d6693b7",
+        "source": "The New York Times",
+        "word_count": 1027,
+        "lead_paragraph": "In a dramatic change in the way local elections are held in Beijing, the city government announced today that there would be more than one candidate for each seat in municipal elections. It did not explain, however, how candidates would be nominated or how any election campaign would be conducted. ''In order to promote democracy and in order to give the people the opportunity to select the candidates that they will be satisfied with, this time the election will have more candidates than slots available,'' She Diqing, a deputy chairman of the standing committee of the Municipal People's Congress, said in a speech to the committee. Student Protests Banned The announcement, which appeared in Beijing Daily, follows an official crackdown on the wave of student demonstrations that have swept across China demanding wider democracy. On Friday, the standing committee issued a set of rules that in effect banned any public protest by students in the capital."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "CHINESE OFFICIALS CRITICIZE PROTESTS"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "1986-12-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1986/12/30/world/chinese-officials-criticize-protests.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  For the first time since the outbreak of pro-democracy student demonstrations four weeks ago, senior Chinese leaders were quoted by name today as denouncing the protesters.   In addition, for the first time students were threatened with jail if the",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "A.",
+              "role": "reported",
+              "lastname": "GARGAN",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By EDWARD A. GARGAN, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd179ad8eb7c8105d670b7d",
+        "source": "The New York Times",
+        "word_count": 817,
+        "lead_paragraph": "For the first time since the outbreak of pro-democracy student demonstrations four weeks ago, senior Chinese leaders were quoted by name today as denouncing the protesters. In addition, for the first time students were threatened with jail if they persist in their protests. Meanwhile, in the bitter predawn cold this morning, university students in Beijing, after six days of quiet, and despite a ban on public demonstrations without a police permit, marched on snow-covered streets with calls for greater democracy. [ United Press International reported that some of the students marched with torches - brooms dipped in some sort of flammable liquid - and drums. ] Everywhere in the university district, which is in the northwest corner of the city, policemen roamed the streets in cars and vans."
+      }
+    ],
+    "meta": {
+      "time": 16,
+      "hits": 10,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

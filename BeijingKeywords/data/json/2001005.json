@@ -1,0 +1,601 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Pandemonium breaks out across Beijing as city learns that it will be host of 2008 Olympic Games; selection represents important milestone in Chinese society's re-emergence from decades of international isolation, economic privation and political upheaval; photos (M)",
+        "headline": {
+          "kicker": "OLYMPICS",
+          "main": "Joyous Vindication and a Sleepless Night"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2001-07-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/14/sports/olympics-joyous-vindication-and-a-sleepless-night.html",
+        "news_desk": "Sports Desk",
+        "snippet": "There was a collective shout, then silence from the thousands of people gathered at the Millennium Monument shortly after 10 p.m. Friday as the image of the International Olympic Committee president, Juan Antonio Samaranch, broadcast from Moscow, fla",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Front Page; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "S.",
+            "role": "reported",
+            "lastname": "SMITH",
+            "firstname": "Craig"
+          }],
+          "original": "By CRAIG S. SMITH"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd217148eb7c8105d792070",
+        "source": "The New York Times",
+        "word_count": 1277,
+        "lead_paragraph": "There was a collective shout, then silence from the thousands of people gathered at the Millennium Monument shortly after 10 p.m. Friday as the image of the International Olympic Committee president, Juan Antonio Samaranch, broadcast from Moscow, flashed onto two massive video screens. Then he read the name of the city that would play host to the 2008 Olympic Games, and the pandemonium began."
+      },
+      {
+        "abstract": "International Olympic Committee awards 2008 Summer Games to Beijing; delegates say China, world's most populous country, deserves to stage world's most extravagant sporting evening; express hope that seven-year buildup to 2008 Games will accelerate openness in China and facilitate improvement in its record on human rights; table of voting on two ballots; photo (M)",
+        "headline": {
+          "kicker": "OLYMPICS",
+          "main": "Beijing Wins Bid for 2008 Olympic Games"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2001-07-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/14/sports/olympics-beijing-wins-bid-for-2008-olympic-games.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Saying that the world's most populous country deserved to stage the world's most extravagant sporting event, the International Olympic Committee awarded the 2008 Summer Games to Beijing today.    Eight years after a narrow and unexpected defeat to Sy",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Front Page; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LONGMAN",
+            "role": "reported",
+            "firstname": "Jere"
+          }],
+          "original": "By JERE LONGMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd217148eb7c8105d79206e",
+        "source": "The New York Times",
+        "word_count": 1533,
+        "lead_paragraph": "Saying that the world's most populous country deserved to stage the world's most extravagant sporting event, the International Olympic Committee awarded the 2008 Summer Games to Beijing today. Eight years after a narrow and unexpected defeat to Sydney, Australia, in its attempt to be host to the 2000 Olympics, Beijing more than doubled the votes Toronto received as the runner-up. The committee's delegates expressed widespread hope that a seven-year buildup to the 2008 Games would accelerate openness in China and facilitate improvement in its record on human rights."
+      },
+      {
+        "abstract": "Selection of Beijing to stage 2008 Olympic Games is greeted warmly by American cities trying to become Olympic host in 2012, including New York, Washington, Tampa, Fla, San Francisco and Los Angeles; they apparently believe that Toronto, distant runner-up to Beijing, will not repeat bid in 2012, even though Toronto has not ruled that out (M)",
+        "headline": {
+          "kicker": "OLYMPICS: LOOKING AT 2012",
+          "main": "American Cities Upbeat After Toronto's Loss"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "NEW YORK CITY"
+          },
+          {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+          },
+          {
+            "name": "glocations",
+            "value": "TORONTO (ONTARIO)"
+          },
+          {
+            "name": "glocations",
+            "value": "LOS ANGELES (CALIF)"
+          },
+          {
+            "name": "glocations",
+            "value": "TAMPA (FLA)"
+          },
+          {
+            "name": "glocations",
+            "value": "WASHINGTON (DC)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2012)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2001-07-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/14/sports/olympics-looking-at-2012-american-cities-upbeat-after-toronto-s-loss.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The selection yesterday of Beijing to stage the 2008 Olympic Games was greeted warmly by American cities trying to become the Olympic host in 2012.    But part of their optimism seems based on the belief or hope that Toronto will not bid again, and t",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LITSKY",
+            "role": "reported",
+            "firstname": "Frank"
+          }],
+          "original": "By FRANK LITSKY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd227608eb7c8105d7affce",
+        "source": "The New York Times",
+        "word_count": 849,
+        "lead_paragraph": "The selection yesterday of Beijing to stage the 2008 Olympic Games was greeted warmly by American cities trying to become the Olympic host in 2012. But part of their optimism seems based on the belief or hope that Toronto will not bid again, and the Canadian city, a distant runner-up to Beijing in voting by the International Olympic Committee, has not ruled out a repeat bid for 2012."
+      },
+      {
+        "abstract": "Zbigniew Brzezinski Op-Ed article says that although he was deeply involved in Pres Jimmy Carter's decision to boycott 1980 Olympic Games in Moscow, he supports, with reservations, award of 2008 games to Beijing; says China is becoming a much more open society and games will only accelerate demise of Communism (M)",
+        "headline": {"main": "Can Communism Compete With the Olympics?"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CARTER, JIMMY"
+          },
+          {
+            "name": "glocations",
+            "value": "RUSSIA"
+          },
+          {
+            "name": "glocations",
+            "value": "MOSCOW (RUSSIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "BOYCOTTS"
+          }
+        ],
+        "print_page": "15",
+        "pub_date": "2001-07-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/14/opinion/can-communism-compete-with-the-olympics.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "I was deeply involved in the decision that President Jimmy Carter made to boycott the Olympics in Moscow in 1980. In 2001, were I on the Olympic Committee, I would have voted to award the Olympics to Beijing as the committee did yesterday, though wit",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Brzezinski",
+            "role": "reported",
+            "firstname": "Zbigniew"
+          }],
+          "original": "By Zbigniew Brzezinski"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd228418eb7c8105d7b13fc",
+        "source": "The New York Times",
+        "word_count": 525,
+        "lead_paragraph": "I was deeply involved in the decision that President Jimmy Carter made to boycott the Olympics in Moscow in 1980. In 2001, were I on the Olympic Committee, I would have voted to award the Olympics to Beijing as the committee did yesterday, though with serious reservations. In 1980 we were very conscious of several critical considerations. The Soviet Union had just engaged in a direct military aggression against a weaker neighbor: Soviet tanks and paratroopers had invaded Afghanistan in December 1979, and the Soviet military was engaged in bloody massacres of the Afghans on a scale even larger than currently in Chechnya. In these circumstances we had to react in some fashion short of war. We decided on sanctions, and we felt that it would be unfair to our farmers and our industrial workers if our athletes were to act as if nothing atrocious had happened."
+      },
+      {
+        "abstract": "George Vecsey Sports of The Times column holds International Olympic Committee was right to award 2008 Summer Games to Beijing, despite China's human rights record (M)",
+        "headline": {"main": "Sports of The Times; Being the Host Keeps the Pressure on China"},
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "SPORTS OF THE TIMES (TIMES COLUMN)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2001-07-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/14/sports/sports-of-the-times-being-the-host-keeps-the-pressure-on-china.html",
+        "news_desk": "Sports Desk",
+        "snippet": "There is a place in sports for politically inspired boycotts and exclusion. It is extremely limited, but it exists.     From 1970 through 1989, South Africa was officially banned from the Olympic movement because of its blatant policy of apartheid.  ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "VECSEY",
+            "role": "reported",
+            "firstname": "George"
+          }],
+          "original": "By GEORGE VECSEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd24b648eb7c8105d7ea44f",
+        "source": "The New York Times",
+        "word_count": 903,
+        "lead_paragraph": "There is a place in sports for politically inspired boycotts and exclusion. It is extremely limited, but it exists. From 1970 through 1989, South Africa was officially banned from the Olympic movement because of its blatant policy of apartheid."
+      },
+      {
+        "abstract": "Dick Ebersole, chairman of NBC Sports, which is paying $894 million to carry 2008 Summer Olympics, says American viewers will be able to watch more live events from Beijing than than they did from Sydney in 2000 because time difference is three hours less; corporate sponsors care more about exposure in Chinese market than about time differences and are therefore happier with Beijing's selection than they would have been with selection of any of other candidate cities (M)",
+        "headline": {
+          "kicker": "OLYMPICS: TV/MARKETING",
+          "main": "You'll Be Looking Live At Some Morning Events"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "EBERSOLE, DICK"
+          },
+          {
+            "name": "glocations",
+            "value": "SYDNEY (AUSTRALIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NATIONAL BROADCASTING CO"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2001-07-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/14/sports/olympics-tv-marketing-you-ll-be-looking-live-at-some-morning-events.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The choice of Beijing to be the host city for the 2008 Summer Olympics might initially appear to give NBC the time zone problem it had last year in Sydney when 15 hours separated Australia from the Eastern time zone of the United States. NBC showed o",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SANDOMIR",
+            "role": "reported",
+            "firstname": "Richard"
+          }],
+          "original": "By RICHARD SANDOMIR"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd227608eb7c8105d7affc8",
+        "source": "The New York Times",
+        "word_count": 871,
+        "lead_paragraph": "The choice of Beijing to be the host city for the 2008 Summer Olympics might initially appear to give NBC the time zone problem it had last year in Sydney when 15 hours separated Australia from the Eastern time zone of the United States. NBC showed only one Olympic event live in prime time. Paris and Toronto, which finished second and third to Beijing in yesterday's vote by the International Olympic Committee, offered greater chances for some live coverage."
+      },
+      {
+        "abstract": "Carla Hansen letter recalls delicious duck in Beijing (S)",
+        "headline": {"main": "Duck in Beijing"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HANSEN, CARLA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "RESTAURANTS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "2001-07-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/15/travel/l-duck-in-beijing-214582.html",
+        "news_desk": "Travel Desk",
+        "snippet": " To the Editor: As someone who lived in Beijing from 1992 to 1994, I thoroughly enjoyed Florence Fabricant's article ''In Beijing, Duck Is Just the Beginning'' (Choice Tables, May 6).  ",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd24b698eb7c8105d7ea7b1",
+        "source": "The New York Times",
+        "word_count": 99,
+        "lead_paragraph": "To the Editor: As someone who lived in Beijing from 1992 to 1994, I thoroughly enjoyed Florence Fabricant's article ''In Beijing, Duck Is Just the Beginning'' (Choice Tables, May 6)."
+      },
+      {
+        "abstract": "Some Chinese question euphoria following Beijing's winning bid to stage 2008 Summer Olympic Games; quietly grouse about spending so much money--as much as $12 billion--to transform China's capital into Olympics-worthy city, when so much of country is struggling with underfunded schools and inadequate health care; others question whether staging Olympics will really move China toward more open, less repressive society that supporters of Olympics envision; photo (M)",
+        "headline": {
+          "kicker": "OLYMPICS",
+          "main": "Critics at Home Surfacing in Wake of China's Successful Bid for the Games"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2001-07-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/15/sports/olympics-critics-home-surfacing-wake-china-s-successful-bid-for-games.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The ink had hardly dried on the gushing headlines celebrating this city's winning bid to stage the 2008 Summer Olympic Games before some Chinese started questioning the euphoria.    Some people quietly groused about spending so much money -- as much ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "S.",
+            "role": "reported",
+            "lastname": "SMITH",
+            "firstname": "Craig"
+          }],
+          "original": "By CRAIG S. SMITH"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd227658eb7c8105d7b0442",
+        "source": "The New York Times",
+        "word_count": 941,
+        "lead_paragraph": "The ink had hardly dried on the gushing headlines celebrating this city's winning bid to stage the 2008 Summer Olympic Games before some Chinese started questioning the euphoria. Some people quietly groused about spending so much money -- as much as $12 billion -- to transform China's capital into an Olympics-worthy city when so much of the country is struggling with underfunded elementary schools and inadequate health care. Others questioned whether staging the Olympics would really move China toward the more open, less repressive society that supporters of the Olympics envisioned."
+      },
+      {
+        "abstract": "Glenn Woiceshyn letter condemns selection of Beijing for 2008 Olympic Games because of dismal human rights record",
+        "headline": {"main": "An Appalling Silence"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WOICESHYN, GLENN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2001-07-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/22/sports/l-an-appalling-silence-361380.html",
+        "news_desk": "Sports Desk",
+        "snippet": " To the Sports Editor:    The message from the International Olympic Committee to China's dictatorship is clear: ''Despite the fact that you continue to enslave, brutalize and murder innocent men, women and children, we will treat you as a civilized ",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Sports; Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd22fed8eb7c8105d7be200",
+        "source": "The New York Times",
+        "word_count": 79,
+        "lead_paragraph": "To the Sports Editor: The message from the International Olympic Committee to China's dictatorship is clear: ''Despite the fact that you continue to enslave, brutalize and murder innocent men, women and children, we will treat you as a civilized and respectable country.'' The low level of protest of China's bid -- particularly from the self-proclaimed humanitarians who vociferously protest against globalization (i.e., capitalism) in the name of an alleged concern for people -- was appalling. GLENN WOICESHYN Calgary, Alberta"
+      },
+      {
+        "abstract": "Bob Rief letter contends China was selected for 2008 Olympic Games for market size and potential; says selection does not confer moral high ground on venue",
+        "headline": {"main": "Human Rights For TV Rights"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "RIEF, BOB"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2001-07-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/22/sports/l-human-rights-for-tv-rights-361372.html",
+        "news_desk": "Sports Desk",
+        "snippet": " To the Sports Editor:    The common perception is that site selection by the International Olympic Committee confers some sort of moral high ground. Not much could be further from the truth.   ",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Sports; Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20ac28eb7c8105d777b86",
+        "source": "The New York Times",
+        "word_count": 140,
+        "lead_paragraph": "To the Sports Editor: The common perception is that site selection by the International Olympic Committee confers some sort of moral high ground. Not much could be further from the truth."
+      }
+    ],
+    "meta": {
+      "time": 24,
+      "hits": 75,
+      "offset": 50
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,655 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "China offers to host direct US-North Korean talks to defuse nuclear crisis that could destabilize its northeast border or damage emerging friendship with US; US welcomes Chinese role in possible negotiations; photo of Asst Sec James A Kelly in Beijing (S)",
+        "headline": {
+          "kicker": "THREATS AND RESPONSES: BEIJING",
+          "main": "China Offers to Be Host of Direct U.S.-North Korea Talks"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "KELLY, JAMES A"
+          },
+          {
+            "name": "glocations",
+            "value": "NORTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ATOMIC WEAPONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "TERRORISM"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2003-01-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/01/15/world/threats-responses-beijing-china-offers-be-host-direct-us-north-korea-talks.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China stepped up an effort today to defuse the North Korea nuclear crisis, offering to act as host to direct talks between the United States and North Korea should both sides agree.    The offer reflected the high importance China attaches to resolvi",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd26c768eb7c8105d8253ed",
+        "source": "The New York Times",
+        "word_count": 651,
+        "lead_paragraph": "China stepped up an effort today to defuse the North Korea nuclear crisis, offering to act as host to direct talks between the United States and North Korea should both sides agree. The offer reflected the high importance China attaches to resolving a problem that could potentially destabilize its northeast border or damage its emerging friendship with the United States."
+      },
+      {
+        "abstract": "Chen Chung-hsin, head of Taiwan's governing Democratic Progressive Party's China Affairs Department, spends five days in Beijing discussing trade issues; unusual visit could be indicator of improving relations between Taiwan and China (S)",
+        "headline": {"main": "World Briefing | Asia/Pacific: Taiwan: Party Chief In China For Talks"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN CHUNG-HSIN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-TAIWAN"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2003-01-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/01/21/world/world-briefing-asia-pacific-taiwan-party-chief-in-china-for-talks.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Chen Chung-hsin, head of the China affairs department in the governing Democratic Progressive Party, traveled to Beijing on Sunday for five days of talks with Chinese leaders on trade and other issues. While Chinese and Taiwan government officials me",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Bradsher",
+            "role": "reported",
+            "lastname": "NYT",
+            "firstname": "Keith"
+          }],
+          "original": "By Keith Bradsher (NYT)"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd26cee8eb7c8105d8261f7",
+        "source": "The New York Times",
+        "word_count": 91,
+        "lead_paragraph": "Chen Chung-hsin, head of the China affairs department in the governing Democratic Progressive Party, traveled to Beijing on Sunday for five days of talks with Chinese leaders on trade and other issues. While Chinese and Taiwan government officials meet in great secrecy if at all, officials of Taiwan's main political parties make periodic trips to the mainland for talks. The Democratic Progressive Party is more hostile to close ties with the mainland than the opposition Nationalist Party, and Mr. Chen's trip may contribute to some thawing in relations. Keith Bradsher (NYT)"
+      },
+      {
+        "abstract": "American place names are popping up all over Beijing, China, reflecting Chinese consumers' increasingly Western aspirations; some recent housing developments have names Soho, Central Park, Palm Springs and Manhattan Gardens; Victor Yuan, whose Horizon Market Research advises developers on how to set their buildings apart, finds in survey that 70 percent of developers are emphasizing Western styles as marketing tool; upscale homes at new develpment north of Beijing called Orange County described; photos (M)",
+        "headline": {"main": "North of Beijing, California Dreams Come True"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "YUAN, VICTOR"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "HORIZON MARKET RESEARCH"
+          },
+          {
+            "name": "subject",
+            "value": "NAMES, GEOGRAPHICAL"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2003-02-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/02/03/world/north-of-beijing-california-dreams-come-true.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "An hour's drive north of Beijing, on an icy country road lined by fields and populated by trucks and sheep, the landscape is a far cry from palm-ringed golf courses and ''Surfin' USA.''    But wait. There is Sun City, a half-built gated community wit",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2266e8eb7c8105d7ae04c",
+        "source": "The New York Times",
+        "word_count": 999,
+        "lead_paragraph": "An hour's drive north of Beijing, on an icy country road lined by fields and populated by trucks and sheep, the landscape is a far cry from palm-ringed golf courses and ''Surfin' USA.'' But wait. There is Sun City, a half-built gated community with echoes of the desert. Then the tidy homes of Orange County come into view. Finally, you drive through a stone portal, past advertisements showing men fly-fishing in cowboy hats, pulling up before the impressive mansions of Watermark-Longbeach, the epicenter of faux L.A. in China."
+      },
+      {
+        "abstract": "Article on transformation of 798 Electronic Components Factory in Beijing--Bauhaus-style architectural behemoth built by East Germans in 1950's--into art gallery and space for studios, music clubs and stylish offices; structure is among many architectural gems inspiring postindustrial renaissance that evokes recovery of SoHo industrial district in New York City few decades back; photos (M)",
+        "headline": {"main": "Beijing Journal; A Factory Is Transformed by the Art of Real Estate"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "GERMANY"
+          },
+          {
+            "name": "glocations",
+            "value": "NEW YORK CITY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MUSIC"
+          },
+          {
+            "name": "subject",
+            "value": "OFFICE BUILDINGS AND COMMERCIAL PROPERTIES"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "subject",
+            "value": "FACTORIES AND INDUSTRIAL PLANTS"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2003-02-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/02/06/world/beijing-journal-a-factory-is-transformed-by-the-art-of-real-estate.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "As a child in the 1960's, recalled Huang Rui, an artist, nothing seemed nobler than to become a worker, and no workplace seemed better than the 798 Electronic Components Factory.     On the northeast edge of Beijing, mostly making parts for the milit",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd225e68eb7c8105d7ad7e9",
+        "source": "The New York Times",
+        "word_count": 693,
+        "lead_paragraph": "As a child in the 1960's, recalled Huang Rui, an artist, nothing seemed nobler than to become a worker, and no workplace seemed better than the 798 Electronic Components Factory. On the northeast edge of Beijing, mostly making parts for the military, it offered all the prestige and security of a leading state enterprise."
+      },
+      {
+        "abstract": "United States-based dissident Yang Jianli has been held incommunicado in China for more than nine months for traveling on false passport; his relatives have received no formal notice of charges against him; Yang's siblings say no lawyer will take his case without seeing arrest notice; say they are getting runaround from police and other bureaus; Yang took part in pro-democracy demonstrations around Tiananmen Square in 1989, then fled China to United States after bloody crackdown; he has been on Chinese government blacklist ever since, repeatedly denied permission to visit (M)",
+        "headline": {"main": "China Has Held U.S.-Based Dissident Incommunicado Since April"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "YANG JIANLI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL RESTRICTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2003-02-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/02/14/world/china-has-held-us-based-dissident-incommunicado-since-april.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "More than nine months after his detention for traveling on a false passport, a United States-based dissident from China is still being held incommunicado and his relatives have received no formal notice of the charges.    The dissident, Yang Jianli, ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2706c8eb7c8105d82bfc6",
+        "source": "The New York Times",
+        "word_count": 560,
+        "lead_paragraph": "More than nine months after his detention for traveling on a false passport, a United States-based dissident from China is still being held incommunicado and his relatives have received no formal notice of the charges. The dissident, Yang Jianli, 39, is a permanent resident of the United States with doctorates from the University of California and Harvard. His wife and two sons, who live in Brookline, Mass., are American citizens."
+      },
+      {
+        "abstract": "China, Australia and South Korea reject Sec of State Colin L Powell's appeal to support 'multilateral forum' at which they, US and other countries could pressure North Korea to dismantle its nuclear weapons program; say US should instead begin direct talks with North Korea, strategy Bush Administration repeatedly has rejected; Roh Moo Hyun is inaugurated as president of South Korea; photo of Powell in Beijing with Pres Jiang Zemin of China (M)",
+        "headline": {
+          "kicker": "THREATS AND RESPONSES: THE KOREAN PENINSULA",
+          "main": "Powell, in Asia, Is Dealt A Setback on North Korea"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "POWELL, COLIN L"
+          },
+          {
+            "name": "persons",
+            "value": "ROH MOO HYUN"
+          },
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "persons",
+            "value": "JIANG ZEMIN"
+          },
+          {
+            "name": "glocations",
+            "value": "AUSTRALIA"
+          },
+          {
+            "name": "glocations",
+            "value": "SOUTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "NORTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ATOMIC WEAPONS"
+          },
+          {
+            "name": "subject",
+            "value": "INAUGURATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "TERRORISM"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "2003-02-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/02/25/world/threats-responses-korean-peninsula-powell-asia-dealt-setback-north-korea.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Bush administration suffered a setback in its North Korea policy on Monday, as officials in China, Australia and South Korea urged the United States to begin direct talks with North Korea about its nuclear weapons programs, a strategy Washington ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "DAO",
+            "role": "reported",
+            "firstname": "James"
+          }],
+          "original": "By JAMES DAO"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd26ce18eb7c8105d825879",
+        "source": "The New York Times",
+        "word_count": 828,
+        "lead_paragraph": "The Bush administration suffered a setback in its North Korea policy on Monday, as officials in China, Australia and South Korea urged the United States to begin direct talks with North Korea about its nuclear weapons programs, a strategy Washington has repeatedly rejected. Secretary of State Colin L. Powell, who arrived here on Monday night on the final part of a three-nation Asian tour, has been urging North Korea's neighbors to hold a ''multilateral forum'' during which the United States and other countries could pressure the North to dismantle its weapons programs."
+      },
+      {
+        "abstract": "Police arrest Huang Minxiang, 27-year-old farm worker, and say he has confessed to setting off explosions at two Beijing universities on Feb 28; motive is not revealed, but farm incomes in China have been stagnant despite nation's rapid economic growth, and there are regular peasant uprisings to protest high and arbitrary taxation (M)",
+        "headline": {"main": "Farm Worker Held in Bombings At Two Universities in Beijing"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HUANG MINXIANG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "QINGHUA UNIVERSITY"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING UNIVERSITY"
+          },
+          {
+            "name": "subject",
+            "value": "AGRICULTURE"
+          },
+          {
+            "name": "subject",
+            "value": "BOMBS AND EXPLOSIVES"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2003-03-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/03/09/world/farm-worker-held-in-bombings-at-two-universities-in-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The police seized a farm worker today who they say has confessed to setting off explosions late last month at two Beijing universities. The arrest apparently concluded a nationwide dragnet for the person who caused the rare terrorist incidents in Chi",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd22afa8eb7c8105d7b6471",
+        "source": "The New York Times",
+        "word_count": 407,
+        "lead_paragraph": "The police seized a farm worker today who they say has confessed to setting off explosions late last month at two Beijing universities. The arrest apparently concluded a nationwide dragnet for the person who caused the rare terrorist incidents in China's tightly patrolled capital. A police spokesman told reporters that the man, Huang Minxiang, 27, had been apprehended in his home province of Fujian in southeastern China and had immediately confessed to causing both explosions, which came within two hours of each other."
+      },
+      {
+        "abstract": "Li Peng, chief of China's Parliament, retires ending long political career; achievements as legislator may be overshadowed by role in 1989 Tiananmen Square, Beijing, massacre in which hundreds and maybe more died after he ordered army to break up pro-democracy student protests; his long career in government discussed (M)",
+        "headline": {"main": "Li Peng Retires, but His Infamy for Tiananmen Massacre Endures"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "SUSPENSIONS, DISMISSALS AND RESIGNATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2003-03-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/03/11/world/li-peng-retires-but-his-infamy-for-tiananmen-massacre-endures.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The chief of China's Parliament, Li Peng, gave his last major speech as a central leader today, effectively ending his long political career.     Whatever his achievements as a legislator, Mr. Li will be forever widely despised as the leader who anno",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd241cb8eb7c8105d7da9d2",
+        "source": "The New York Times",
+        "word_count": 569,
+        "lead_paragraph": "The chief of China's Parliament, Li Peng, gave his last major speech as a central leader today, effectively ending his long political career. Whatever his achievements as a legislator, Mr. Li will be forever widely despised as the leader who announced the imposition of martial law in June 1989, signaling the army's arrival in Beijing to break up pro-democracy student protests in Tiananmen Square."
+      },
+      {
+        "abstract": "Four people are held hostage for two hours in Beijing Reuters bureau by protester Fang Qinghui, who threatens to set off explosives he is carrying in shoulder bag; police arrest protester but find no bomb; Qinghui says protest was to draw attention to Chinese governmental corruption and plight of common man (S)",
+        "headline": {"main": "World Briefing | Asia: China: Protester Takes Hostages"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "QINGHUI FANG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "DOW JONES REUTERS BUSINESS INTERACTIVE LLC"
+          },
+          {
+            "name": "subject",
+            "value": "BOMBS AND EXPLOSIVES"
+          },
+          {
+            "name": "subject",
+            "value": "HOSTAGES"
+          },
+          {
+            "name": "subject",
+            "value": "THREATS AND THREATENING MESSAGES"
+          },
+          {
+            "name": "subject",
+            "value": "ETHICS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2003-03-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/03/13/world/world-briefing-asia-china-protester-takes-hostages.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "An unemployed truck driver burst into the Reuters bureau in Beijing, taking workers hostage and threatening to set off explosives he said were in a shoulder bag around his neck. Although most workers managed to escape as he entered, four people were ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Rosenthal",
+            "role": "reported",
+            "lastname": "NYT",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By Elisabeth Rosenthal (NYT)"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd28f668eb7c8105d866d97",
+        "source": "The New York Times",
+        "word_count": 94,
+        "lead_paragraph": "An unemployed truck driver burst into the Reuters bureau in Beijing, taking workers hostage and threatening to set off explosives he said were in a shoulder bag around his neck. Although most workers managed to escape as he entered, four people were held for two hours and then released. The police surrounded the building and arrested the man, who gave his name as Fang Qinghui and said he was trying to call attention to official corruption and the plight of ordinary workers. They police said the bag had contained no explosives. Elisabeth Rosenthal (NYT)"
+      },
+      {
+        "abstract": "International health officials investigating worldwide outbreak of unusually deadly pneumonia that causes what is being called severe acute respiratory syndrome (SARS) suspect China has not been fully candid about number of cases there; Chinese health officials have said that all cases so far--305 cases with five deaths--were clustered in Guangdong Province, and that outbreak is now petering out; news of previously unreported cases emerge from military hospital in Beijing; international health officials say privately that initial lack of cooperation from China in reporting its data has seriously hampered efforts to understand new global health threat (M)",
+        "headline": {"main": "Doctors Say China Minimizes Pneumonia Outbreak's Extent"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "GUANGDONG PROVINCE (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "RESPIRATORY DISEASES"
+          },
+          {
+            "name": "subject",
+            "value": "HOSPITALS"
+          },
+          {
+            "name": "subject",
+            "value": "SEVERE ACUTE RESPIRATORY SYNDROME (SARS)"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2003-03-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/03/20/world/doctors-say-china-minimizes-pneumonia-outbreak-s-extent.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Just one day after Chinese officials announced that an outbreak of an unusually deadly pneumonia was ''effectively under control,'' news of previously unreported potential cases emerged from a military hospital here. The development suggests that the",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd270708eb7c8105d82c1f9",
+        "source": "The New York Times",
+        "word_count": 752,
+        "lead_paragraph": "Just one day after Chinese officials announced that an outbreak of an unusually deadly pneumonia was ''effectively under control,'' news of previously unreported potential cases emerged from a military hospital here. The development suggests that the government has not been fully candid with international health officials investigating a worldwide outbreak, who said they had not been informed of potential new cases in Beijing. This month two patients, a husband and wife, died from an atypical pneumonia at an infectious disease hospital run by the army here, said a doctor familiar with the situation."
+      }
+    ],
+    "meta": {
+      "time": 56,
+      "hits": 79,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

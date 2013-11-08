@@ -1,0 +1,583 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Secret Diplomacy Is the Best Kind"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          }
+        ],
+        "print_page": "24",
+        "pub_date": "1990-01-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/01/07/opinion/l-secret-diplomacy-is-the-best-kind-752290.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: To the Editor:",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd19b608eb7c8105d6abe45",
+        "source": "The New York Times",
+        "word_count": 319,
+        "lead_paragraph": "LEAD: To the Editor:"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing's Very Small 'Big Event'"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "MARTIAL LAW"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "22",
+        "pub_date": "1990-01-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/01/11/opinion/beijing-s-very-small-big-event.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: Prime Minister Li Peng presents China's lifting of martial law in Beijing as ''a big event.'' And the Bush Administration claims it as vindication of Brent Scowcroft's recent highly visible visit to Beijing. They are wrong.",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd190908eb7c8105d697d05",
+        "source": "The New York Times",
+        "word_count": 393,
+        "lead_paragraph": "LEAD: Prime Minister Li Peng presents China's lifting of martial law in Beijing as ''a big event.'' And the Bush Administration claims it as vindication of Brent Scowcroft's recent highly visible visit to Beijing. They are wrong."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "With Martial Law Lifted, An Eerie Quiet in Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "MARTIAL LAW"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1990-01-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/01/11/world/with-martial-law-lifted-an-eerie-quiet-in-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: The streets of the capital were quiet this morning after the lifting of martial law, more than seven months after it had been imposed to crush the pro-democracy movement. But there appeared to be no slackening of the authorities' determination ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18d4f8eb7c8105d691a8f",
+        "source": "The New York Times",
+        "word_count": 1147,
+        "lead_paragraph": "LEAD: The streets of the capital were quiet this morning after the lifting of martial law, more than seven months after it had been imposed to crush the pro-democracy movement. But there appeared to be no slackening of the authorities' determination to suppress any new sign of unrest."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Excerpts From Speech Ending Martial Law"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MARTIAL LAW"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1990-01-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/01/11/world/excerpts-from-speech-ending-martial-law.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Following are excerpts from Prime Minister Li Peng's speech today announcing the lifting of martial law in Beijing, as distributed in translation by the official New China News Agency:",
+        "type_of_material": "Text",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [],
+          "organization": "AP",
+          "original": "AP"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ad008eb7c8105d6cd13b",
+        "source": "The New York Times",
+        "word_count": 715,
+        "lead_paragraph": "LEAD: Following are excerpts from Prime Minister Li Peng's speech today announcing the lifting of martial law in Beijing, as distributed in translation by the official New China News Agency:"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Outside Tiananmen Square, Little Sense of Drama"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "MARTIAL LAW"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1990-01-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/01/12/world/outside-tiananmen-square-little-sense-of-drama.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Bundled like mummies against the freezing winds, those few Beijing residents who are now permitted to walk in Tiananmen Square strolled there and quietly speculated about whether the shifting political breezes may be carrying the first signs of",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1acfc8eb7c8105d6ccde6",
+        "source": "The New York Times",
+        "word_count": 981,
+        "lead_paragraph": "LEAD: Bundled like mummies against the freezing winds, those few Beijing residents who are now permitted to walk in Tiananmen Square strolled there and quietly speculated about whether the shifting political breezes may be carrying the first signs of a thaw."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "JAPAN STILL WARY OF LOANS TO CHINA"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN INVESTMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-JAPAN"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "MARTIAL LAW"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CREDIT"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1990-01-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/01/15/world/japan-still-wary-of-loans-to-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Despite the lifting of martial law in Beijing last week, Government officials say Japan is not prepared to resume talks on arranging $5.6 billion in loans suspended after the Chinese crackdown in Tiananmen Square in June.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "R.",
+              "role": "reported",
+              "lastname": "WEISMAN",
+              "firstname": "Steven"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By STEVEN R. WEISMAN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ab828eb7c8105d6c9c41",
+        "source": "The New York Times",
+        "word_count": 693,
+        "lead_paragraph": "LEAD: Despite the lifting of martial law in Beijing last week, Government officials say Japan is not prepared to resume talks on arranging $5.6 billion in loans suspended after the Chinese crackdown in Tiananmen Square in June."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "COMPANY NEWS",
+          "main": "Mobile Phone System for Beijing"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "ERICSSON AB, L M"
+          },
+          {
+            "name": "organizations",
+            "value": "PACIFIC LINK COMMUNICATIONS LTD"
+          },
+          {
+            "name": "subject",
+            "value": "PHILANTHROPY"
+          },
+          {
+            "name": "subject",
+            "value": "CELLULAR TELEPHONES"
+          },
+          {
+            "name": "subject",
+            "value": "TELEPHONES"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1990-01-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/01/18/business/company-news-mobile-phone-system-for-beijing.html",
+        "news_desk": "Financial Desk",
+        "snippet": "LEAD: L. M. Ericsson, the Swedish telecommunications company, and Pacific Link Communication Ltd., a Hong Kong-based company in which Millicom International Inc. has a 28 percent stake, are giving a mobile phone network to the city of Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd19b6a8eb7c8105d6ac369",
+        "source": "The New York Times",
+        "word_count": 168,
+        "lead_paragraph": "LEAD: L. M. Ericsson, the Swedish telecommunications company, and Pacific Link Communication Ltd., a Hong Kong-based company in which Millicom International Inc. has a 28 percent stake, are giving a mobile phone network to the city of Beijing."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China Reports Release of 573 Held in Revolt"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "SANCTIONS (ECONOMIC)"
+          },
+          {
+            "name": "subject",
+            "value": "MARTIAL LAW"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "1990-01-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/01/19/world/china-reports-release-of-573-held-in-revolt.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: The Government said today that it recently released 573 people who had been imprisoned for taking part in the democracy movement last year.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18e948eb7c8105d693f8f",
+        "source": "The New York Times",
+        "word_count": 596,
+        "lead_paragraph": "LEAD: The Government said today that it recently released 573 people who had been imprisoned for taking part in the democracy movement last year."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Western Dance For Beijing"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WALKER, NORMAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CULTURAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "DANCING"
+          }
+        ],
+        "print_page": "13",
+        "pub_date": "1990-01-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/01/20/arts/western-dance-for-beijing.html",
+        "news_desk": "Cultural Desk",
+        "snippet": "LEAD: Li Ying raised her slender arms and lowered them slowly, gracefully, like a wave falling from its crest, as a flurry of lithe dancers swished back and forth and around her.",
+        "type_of_material": "Review",
+        "blog": [],
+        "section_name": "Arts; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1aa838eb7c8105d6c8200",
+        "source": "The New York Times",
+        "word_count": 849,
+        "lead_paragraph": "LEAD: Li Ying raised her slender arms and lowered them slowly, gracefully, like a wave falling from its crest, as a flurry of lithe dancers swished back and forth and around her."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "WHITE HOUSE ASKS AN IRATE CONGRESS FOR CHINA SUPPORT"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "VETOES (US)"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN STUDENTS"
+          },
+          {
+            "name": "subject",
+            "value": "IMMIGRATION AND EMIGRATION"
+          },
+          {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "REFUGEES AND EXPATRIATES"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1990-01-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/01/24/world/white-house-asks-an-irate-congress-for-china-support.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: The Bush Administration pressed returning members of Congress today to support the President's handling of relations with China, but the effort was greeted by a storm of opposition from both Democrats and Republicans.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Education; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "L.",
+              "role": "reported",
+              "lastname": "FRIEDMAN",
+              "firstname": "Thomas"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By THOMAS L. FRIEDMAN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd191f28eb7c8105d69a7ae",
+        "source": "The New York Times",
+        "word_count": 1207,
+        "lead_paragraph": "LEAD: The Bush Administration pressed returning members of Congress today to support the President's handling of relations with China, but the effort was greeted by a storm of opposition from both Democrats and Republicans."
+      }
+    ],
+    "meta": {
+      "time": 116,
+      "hits": 38,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

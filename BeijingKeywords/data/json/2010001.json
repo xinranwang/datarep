@@ -1,0 +1,698 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing\u2019s Empty Bird\u2019s Nest"},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "STADIUMS AND ARENAS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-02-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2010/02/07/weekinreview/20100207_CHINA_SS_index.html",
+        "news_desk": null,
+        "snippet": "After the Summer Games, China\u2019s Olympic stadiums stand nearly empty.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a8c451c22dfde670c429e",
+        "source": null,
+        "word_count": 18,
+        "lead_paragraph": "After the Summer Games, China\u2019s Olympic stadiums stand nearly empty."
+      },
+      {
+        "abstract": "NBC Universal's television coverage of Winter Olympics in Vancouver is exhaustive, but its Web coverage is much more limited than it was during 2008 Summer Games in Beijing (M)",
+        "headline": {"main": "A Trickle of Live Streams on the Web"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "VANCOUVER (BRITISH COLUMBIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NATIONAL BROADCASTING CO"
+          },
+          {
+            "name": "organizations",
+            "value": "NBC UNIVERSAL"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "WINTER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2010)"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "15",
+        "pub_date": "2010-02-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/02/18/sports/olympics/18streaming.html",
+        "news_desk": "Sports Desk",
+        "snippet": "NBC is streaming fewer live events on its Web site than it did for the Summer Games in Beijing, marking a step backward in online access to marquee events.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "STELTER",
+            "role": "reported",
+            "firstname": "Brian"
+          }],
+          "original": "By BRIAN STELTER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27be38eb7c8105d841a8a",
+        "source": "The New York Times",
+        "word_count": 802,
+        "lead_paragraph": "NBC Universal's television coverage of the Winter Olympics in Vancouver this month is exhaustive, as viewers have come to expect. But its Web coverage, at least when compared with the Summer Games in Beijing 18 months ago, is limited."
+      },
+      {
+        "abstract": "Article profiles Chinese-born American artist Yun-Fei Ji; show of recent works has opened James Cohan Gallery in Chelsea; combination of modern and ancient art in his painting described; photos (L)",
+        "headline": {"main": "Part Traditionalist, Part Naturalist, Part Dissident"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "JI, YUN-FEI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "32",
+        "pub_date": "2010-02-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/02/21/arts/design/21ji.html",
+        "news_desk": "Arts and Leisure Desk",
+        "snippet": "\u201cMistaking Each Other for Ghosts,\u201d a selection of Yun-Fei Ji\u2019s recent work, opened at the James Cohan Gallery in Chelsea.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SPEARS",
+            "role": "reported",
+            "firstname": "Dorothy"
+          }],
+          "original": "By DOROTHY SPEARS"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2010/02/21/arts/21ji_CA0/21ji_CA0-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2010/02/21/arts/21ji_CA0/21ji_CA0-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 500,
+            "width": 386,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2010/02/21/arts/21ji_CA0/21ji_CA0-popup.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 500,
+              "xlarge": "images/2010/02/21/arts/21ji_CA0/21ji_CA0-popup.jpg",
+              "xlargewidth": 386
+            }
+          }
+        ],
+        "_id": "4fd299fe8eb7c8105d878294",
+        "source": "The New York Times",
+        "word_count": 1240,
+        "lead_paragraph": "THE artist Yun-Fei Ji was riding his electric bike through Beijing last October, snapping pictures of the elaborate parades honoring the 60th anniversary of the People's Republic of China. Suddenly, he said, among the white-uniformed soldiers holding bouquets of red flowers and the rows of bright blue military tanks, ''everywhere I looked, I saw either a volunteer guard with a red armband or a policeman or a soldier.'' Feeling conflicted about what he considered to be an overzealous display of control by the Chinese authorities, Mr. Ji, 46, said he rode home to place an online order for ''The 120 Days of Sodom,'' the scandalous 18th-century French novel by the Marquis de Sade. ''For some reason,'' explained Mr. Ji, who was born in Beijing but is now an American citizen, ''whenever I go to China, I feel the need to transgress.''"
+      },
+      {
+        "abstract": "Ethnic theme playgrounds like Nationalities Park in Beijing are increasingly popular form of entertainment in China; ethnic workers from across China wear native costumes to let mostly middle-class Han Chinese tourists experience exotic elements of nation; some scholars say theme parks reinforce idea that Chinese nation encompasses 55 fixed ethnic minorities and their territories, all under Han rule; photos (M)",
+        "headline": {"main": "Theme Parks Give Chinese A Peek at Life For Minorities"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NATIONALITIES PARK"
+          },
+          {
+            "name": "subject",
+            "value": "AMUSEMENT AND THEME PARKS"
+          },
+          {
+            "name": "subject",
+            "value": "MINORITIES"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2010-02-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/02/24/world/asia/24park.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The ethnic theme playgrounds showcase features of ethnic minorities but also enforce the narrative that they are part of greater China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG; Xiyun Yang contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "col": "World",
+            "height": 700,
+            "width": 750,
+            "caption": "Waterworld",
+            "type": "Slideshow",
+            "credit": "Yuppies from China\u2019s boom cities arrive by the busload to take part in a wild frenzy of dousing and dunking and drenching at a site called the Dai Minority Park.",
+            "url": "http://www.nytimes.com/slideshow/2010/02/24/world/20100224CHINA_index.html",
+            "legacy": {
+              "MultimediaSummary1": "Yuppies from China\u2019s boom cities arrive by the busload to take part in a wild frenzy of dousing and dunking and drenching at a site called the Dai Minority Park.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaCol1": "World",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Waterworld",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2010/02/24/world/20100224CHINA_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2010/02/23/world/23cnd-parksspan/23cnd-parksspan-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2010/02/23/world/23cnd-parksspan/23cnd-parksspan-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 331,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2010/02/23/world/23cnd-parksspan/23cnd-parksspan-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 331,
+              "xlarge": "images/2010/02/23/world/23cnd-parksspan/23cnd-parksspan-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd27be18eb7c8105d841888",
+        "source": "The New York Times",
+        "word_count": 1027,
+        "lead_paragraph": "Tucked away in China's steamy tropical southwest are the villages of the Dai people, famous throughout the country for a raucous annual tradition: a water-splashing festival where the Dai douse one another for three days in the streets using any container they can get their hands on -- buckets, wash basins, teacups, balloons, water guns. But in Manzha and four surrounding villages, the springtime festival has taken on added significance -- or insignificance, depending on how you look at it. Imagine a nonstop Mardi Gras with fire hoses: at a site called the Dai Minority Park, water-splashing extravaganzas take place every day."
+      },
+      {
+        "abstract": "Nearly two dozen artists protesting demolition of their homes and studios march through Beijing before police prevent them from reaching Tiananmen Square; about 100 masked men armed with iron rods had swarmed over their community, allegedly sent by developers who want to build large-scale residential project; protests against evictions are increasingly common in China; photo (M)",
+        "headline": {"main": "Evicted Artists Protest After Attack in Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "EVICTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "AREA PLANNING AND RENEWAL"
+          },
+          {
+            "name": "subject",
+            "value": "DEMOLITION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "POLICE"
+          },
+          {
+            "name": "subject",
+            "value": "HOUSING AND REAL ESTATE"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2010-02-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/02/24/world/asia/24china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The protesters said they took to the streets on Monday after men swinging iron rods swarmed over a community of artists that has been resisting redevelopment.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Zhang Jing contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b67d8eb7c8105d8aa59a",
+        "source": "The New York Times",
+        "word_count": 681,
+        "lead_paragraph": "Nearly two dozen artists protesting the forced demolition of their homes and studios marched through the ceremonial heart of the capital before the police intervened and prevented them from reaching Tiananmen Square, the artists said Tuesday. The protesters said they decided to take to the streets on Monday hours after scores of masked men swinging iron rods swarmed over their community on the northern edge of the city, which has been resisting redevelopment."
+      },
+      {
+        "abstract": "Chinese police have detained 18 people who they say assaulted group of artists in effort to evict them from their homes and studios on edge of Beijing; artists say attackers were hired by developer who wants to demolish cluster of artist communities (S)",
+        "headline": {
+          "kicker": "WORLD BRIEFING  | ASIA",
+          "main": "China: Police Arrest 18 In Assault To Drive Artists Off Property"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "EVICTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS, PROTESTS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          },
+          {
+            "name": "subject",
+            "value": "HOUSING AND REAL ESTATE"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2010-02-26T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9F04E7D91631F935A15751C0A9669D8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Chinese police have detained 18 people they say assaulted a group of artists in an effort to evict them from their homes and studios on the edge of the capital, the Xinhua news agency reported Thursday. Xinhua did not identify those detained, but",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd298128eb7c8105d8753c7",
+        "source": "The New York Times",
+        "word_count": 93,
+        "lead_paragraph": "The Chinese police have detained 18 people they say assaulted a group of artists in an effort to evict them from their homes and studios on the edge of the capital, the Xinhua news agency reported Thursday. Xinhua did not identify those detained, but the artists said that the attackers were hired by developers who are seeking to demolish a cluster of artist communities and replace them with shops and upscale housing. As many as 1,000 artists in Beijing are facing displacement in the midst of a redevelopment boom."
+      },
+      {
+        "abstract": "International Gymnastics Federation announces that Chinese gymnast Dong Fangxiao was too young to compete in 2000 Olympics; says Dong, member of Chinese women's team that won bronze medal, falsified her age in order to meet Olympic requirements; submits request to International Olympic Committee to strip Chinese team of its Olympic bronze medal (S)",
+        "headline": {"main": "Chinese Gymnast Ruled Under Age for 2000 Games"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DONG FANGXIAO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL GYMNASTICS FEDERATION"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "GYMNASTICS"
+          },
+          {
+            "name": "subject",
+            "value": "AGE, CHRONOLOGICAL"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          },
+          {
+            "name": "subject",
+            "value": "AGE (CHRONOLOGICAL)"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "ETHICS"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2010-02-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/02/27/sports/olympics/27gymnasts.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The gymnastics federation said that Dong Fangxiao was actually 14 during the 2000 Olympics, two years younger than the minimum.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MACUR",
+            "role": "reported",
+            "firstname": "Juliet"
+          }],
+          "original": "By JULIET MACUR"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27d9d8eb7c8105d845ab1",
+        "source": "The New York Times",
+        "word_count": 355,
+        "lead_paragraph": "After an investigation that lasted more than a year, the International Gymnastics Federation announced on Friday that a Chinese gymnast from the 2000 Olympics had been too young to compete. The gymnast, Dong Fangxiao, a member of the Chinese women's team that won the bronze medal, was found to have falsified her age in order to meet the requirements at those Olympics. The gymnastics federation said in a statement that Dong was actually 14, two years younger than the minimum. Her results at those Games and at several other major competitions have been revoked."
+      },
+      {
+        "abstract": "Deputy Sec of State James B Steinberg and National Security Council Asian Affairs director Jeffrey A Bader arrive in Beijing for meetings aimed at smoothing relations with China after months of economic and political disputes; experts say nuclear programs of Iran and North Korea are among issues to be discussed (M)",
+        "headline": {"main": "American Envoys Arrive in Beijing to Try to Mend Relations"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BADER, JEFFREY"
+          },
+          {
+            "name": "persons",
+            "value": "STEINBERG, JAMES B"
+          },
+          {
+            "name": "glocations",
+            "value": "IRAN"
+          },
+          {
+            "name": "glocations",
+            "value": "NORTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "NUCLEAR WEAPONS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2010-03-03T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=950DE4DA173AF930A35750C0A9669D8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "BEIJING -- Two senior United States officials arrived in Beijing on Tuesday for meetings aimed at smoothing relations with China after months of economic and political disputes.     The officials, Deputy Secretary of State James B. Steinberg and Jeff",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WINES",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL WINES"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd29a458eb7c8105d87907b",
+        "source": "The New York Times",
+        "word_count": 368,
+        "lead_paragraph": "BEIJING -- Two senior United States officials arrived in Beijing on Tuesday for meetings aimed at smoothing relations with China after months of economic and political disputes. The officials, Deputy Secretary of State James B. Steinberg and Jeffrey A. Bader, the senior director for Asian affairs at the National Security Council, are to hold high-level discussions with Chinese officials ''about the broad U.S.-China relationship, where we are at this stage,'' the State Department spokesman, Philip J. Crowley, said Monday."
+      },
+      {
+        "abstract": "Chinese author and government critic Liao Yiwu is taken off plane headed to literary festival in Germany by Chinese security agents, marking 13th time Liao is prevented from leaving country; Liao, one of China's best known and most outspoken writers, was imprisoned for four years in early 1990s for writing poem denouncing Chinese government's suppression of 1989 Tiananmen Square protests (M)",
+        "headline": {"main": "For 13th Time,  Critic of China  Is Barred From Travel Abroad"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LIAO YIWU"
+          },
+          {
+            "name": "glocations",
+            "value": "GERMANY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "BOOKS AND LITERATURE"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "TRADE SHOWS AND FAIRS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2010-03-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/03/03/world/asia/03beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Liao Yiwu, a prominent author and critic of the government, was detained as he prepared to fly to a literary festival in Germany, activists said.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Books",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WINES",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL WINES"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27d9f8eb7c8105d845c2f",
+        "source": "The New York Times",
+        "word_count": 872,
+        "lead_paragraph": "BEIJING -- Chinese security agents in Sichuan Province detained Liao Yiwu, a prominent author and critic of the government, as he prepared to fly Monday to a literary festival in Germany, human rights activists said. It was the 13th time Mr. Liao had been prevented from leaving the country. The Associated Press reported that he had been placed under house arrest after being questioned by security agents for four hours."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China Premier Details Economic Plan"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WEN JIABAO"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NATIONAL PEOPLE'S CONGRESS"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-03-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/03/06/world/asia/06wen.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Prime Minister Wen Jiabao said that China could expand social spending and pour money into key industries while still meeting its 8 percent growth target.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WINES",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL WINES"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a6968eb7c8105d88ef38",
+        "source": "The New York Times",
+        "word_count": 1006,
+        "lead_paragraph": "BEIJING -- Prime Minister Wen Jiabao crafted a portrait of a China on a steady course toward greatness on Friday, telling his nation's unelected legislature that the government could expand social spending, increase lending, pour money into strategic industries and still meet its traditional 8 percent economic growth target in 2010. But he also sounded a cautionary note, warning that the nation faced structural economic and social problems, and that China still confronts ''a very complex situation'' in the wake of last year's global financial collapse."
+      }
+    ],
+    "meta": {
+      "time": 34,
+      "hits": 105,
+      "offset": 10
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

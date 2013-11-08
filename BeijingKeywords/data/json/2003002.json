@@ -1,0 +1,638 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "China's top leaders, seeking to quell international uproar over credibility of their medical reports and to halt spread of dangerous new virus, hold urgent meeting on severe acute respiratory syndrome and warn officials not to withhold data on disease; Pres Hu Jintao heads meeting, putting personal stamp on directives; publicity about SARS and infection-control efforts in Beijing have increased in recent days; Chinese media have not reported World Health Organization findings that Beijing might have up to 200 SARS cases, not 37 officially reported (M)",
+        "headline": {"main": "China's Top Leaders Urge Tough Action on Illness"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD HEALTH ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2003-04-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/04/19/world/china-s-top-leaders-urge-tough-action-on-illness.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China's top leaders, seeking to quell an international uproar over the credibility of their medical reports and to halt the spread of a dangerous new virus, have issued their strongest warning yet about severe acute respiratory syndrome and have expl",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd242928eb7c8105d7db8c4",
+        "source": "The New York Times",
+        "word_count": 895,
+        "lead_paragraph": "China's top leaders, seeking to quell an international uproar over the credibility of their medical reports and to halt the spread of a dangerous new virus, have issued their strongest warning yet about severe acute respiratory syndrome and have explicitly cautioned officials not to withhold information regarding the disease. With large front-page headlines this morning, The People's Daily and other newspapers described an urgent meeting on the disease, known as SARS, held Thursday by the country's supreme ruling body, the nine-member Standing Committee of the Politburo."
+      },
+      {
+        "abstract": "Cambodian King Norodom Sihanouk, receiving medical treatment in Beijing (China), sends letter telling of his mounting health problems and attaches his medical reports for Cambodian doctors (S)",
+        "headline": {"main": "World Briefing | Asia: Cambodia: King Is Ailing"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "NORODOM SIHANOUK"
+          },
+          {
+            "name": "glocations",
+            "value": "CAMBODIA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ROYAL FAMILY"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2003-04-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/04/19/world/world-briefing-asia-cambodia-king-is-ailing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "In an open letter from Beijing, where he often goes for medical treatment, King Norodom Sihanouk said his health problems were growing worse, and attached a medical report for Cambodian doctors to read. The king, 80, included a long list of ailments ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Mydans",
+            "role": "reported",
+            "lastname": "NYT",
+            "firstname": "Seth"
+          }],
+          "original": "By Seth Mydans (NYT)"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd270d78eb7c8105d82c969",
+        "source": "The New York Times",
+        "word_count": 64,
+        "lead_paragraph": "In an open letter from Beijing, where he often goes for medical treatment, King Norodom Sihanouk said his health problems were growing worse, and attached a medical report for Cambodian doctors to read. The king, 80, included a long list of ailments and said the Chinese doctors were paying attention in particular to ''some diseases such as liver disease and diabetes.'' Seth Mydans (NYT)"
+      },
+      {
+        "abstract": "Chinese government admits that cases of dangerous new respiratory disease SARS are many times higher than previously disclosed; announcement comes in unusual nationally televised live news conference by Deputy Health Min Gao Qiang, who says that as of Apr 18, Beijing had 339 confirmed cases and additional 402 suspected cases of disease; new numbers bring total of confirmed cases on mainland China to 1,807, highest of any country; of these, 79 have ended in death; government also announces that weeklong national May Day vacation has been reduced to one day to discourage people from traveling and further spreading disease; photo (M)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC: EPIDEMIC",
+          "main": "China Admits Underreporting Its SARS Cases"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "QIANG, GAO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL RESTRICTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "RESPIRATORY DISEASES"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "SEVERE ACUTE RESPIRATORY SYNDROME (SARS)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2003-04-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/04/21/world/the-sars-epidemic-epidemic-china-admits-underreporting-its-sars-cases.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "In a rare public admission of failure, if not deception, the Chinese government disclosed today that cases of a dangerous new respiratory disease were many times higher than previously reported, and stripped two top officials of their power.    The g",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd242958eb7c8105d7dbb3d",
+        "source": "The New York Times",
+        "word_count": 1430,
+        "lead_paragraph": "In a rare public admission of failure, if not deception, the Chinese government disclosed today that cases of a dangerous new respiratory disease were many times higher than previously reported, and stripped two top officials of their power. The government also announced that the weeklong national May Day vacation had been reduced to one day to discourage people from traveling and spreading severe acute respiratory syndrome, or SARS."
+      },
+      {
+        "abstract": "Beijing, in strongest action yet against SARS outbreak, closes all primary and secondary schools until at least May 7 and tells students to study at home, using newly improvised online educational service; orders teachers to report to schools to assist students who choose to come and study on own and to use Internet to post assignments and review materials; officials say entrance exams may have to be postponed; fearful parents in many parts of city have kept children home since disclosure that respiratory disease outbreak is larger than previously announced; photo (M)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC: BEIJING",
+          "main": "Chinese Capital Closes Schools for at Least Two Weeks"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+          },
+          {
+            "name": "subject",
+            "value": "TEACHERS AND SCHOOL EMPLOYEES"
+          },
+          {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2003-04-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/04/23/world/the-sars-epidemic-beijing-chinese-capital-closes-schools-for-at-least-two-weeks.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "With a terse announcement in this morning's newspapers, the city of Beijing closed all its primary and secondary schools until May 7 at least, and said the 1.7 million affected students should study at home, using a newly improvised online educationa",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2270d8eb7c8105d7afac7",
+        "source": "The New York Times",
+        "word_count": 762,
+        "lead_paragraph": "With a terse announcement in this morning's newspapers, the city of Beijing closed all its primary and secondary schools until May 7 at least, and said the 1.7 million affected students should study at home, using a newly improvised online educational service. The suspension of classes was the strongest action yet against the new respiratory disease by a city that only days ago admitted it had concealed a spreading epidemic and is now struggling to contain it."
+      },
+      {
+        "abstract": "Threat of SARS is virtually only topic of conversation in Beijing, city of 14 million where reported cases of disease surge by another 105, bringing total to 693; throngs of residents, driven by rumors of possibly draconian quarantines, stock up on supplies or head for provinces; World Health Organization adds Beijing, along with Shanxi Province, to list of places where nonessential travel should be avoided; experts warn that hundreds of more cases are likely inevitable as government belatedly struggles to contain outbreak it until recently tried to conceal; schools in Beijing are shut down for at least next two weeks, step that may be prudent but adds to public's anxiety; over all, China has 2,305 confirmed cases and 96 patients have died; international experts question credibility of persistently low totals reported in some regions, and WHO team is investigating Shanghai, where only two cases have been officially reported; 1,458 cases have been reported in Hong Kong and 1,330 in Guangdong Province, where disease was first detected but where number of people currently sick is estimated at less than 200; map illustrates distribution of cases throughout China; photo (M)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC: BEIJING",
+          "main": "Illness's Psychological Impact in China Exceeds Its Actual Numbers"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANXI PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "GUANGDONG PROVINCE (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD HEALTH ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL RESTRICTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          },
+          {
+            "name": "subject",
+            "value": "QUARANTINE"
+          }
+        ],
+        "print_page": "13",
+        "pub_date": "2003-04-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/04/24/world/sars-epidemic-beijing-illness-s-psychological-impact-china-exceeds-its-actual.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The threat of infection by the new respiratory illness known as SARS suddenly became virtually the only topic of conversation in this city of 14 million, as reported cases of the disease in Beijing surged by another 105 today, bringing the total to 6",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd28f638eb7c8105d866bd4",
+        "source": "The New York Times",
+        "word_count": 1143,
+        "lead_paragraph": "The threat of infection by the new respiratory illness known as SARS suddenly became virtually the only topic of conversation in this city of 14 million, as reported cases of the disease in Beijing surged by another 105 today, bringing the total to 693. Migrant workers and college students lined up warily at railroad stations for tickets to their native provinces, while thousands of residents, driven by rumors of possibly draconian quarantines, thronged to grocery stores to stock up on rice and noodles."
+      },
+      {
+        "abstract": "China carries out sweeping quarantine of thousands of Beijing residents who have had contact with suspected carriers of highly infectious repiratory illness called SARS, as Communist government begins resolute campaign to combat national health crisis; isolation orders are imposed on homes, factories and schools where people with SARS symptoms live, work or study; Communist Party cells in work units and neighborhoods ferry food and other basic necessities to people confined to their homes, while monitoring them to ensure they do not flee; white-and-yellow crime-scene tape is wrapped around city block in northwestern Beijing, sealing more than 2,000 health workers and patients inside Beijing Univ People's Hospital complex where more than 70 staff members are suspected of having SARS; new measures are contributing to growing sense of alarm around capital; reported deaths and infections continue to rise sharply; crowds of temporary laborers descend on major train stations seeking emergency passage out of city; Beijing now has total of 774 confirmed SARS patients; this figure is nearly 20 times higher than what Beijing was reporting five days ago, before central government fired two top officials and vowed to begin to report accurately; photo of masked Beijing shoppers stocking up on food (L)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC: BEIJING",
+          "main": "Quarantine Set In Beijing Areas To Fight SARS"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING UNIVERSITY PEOPLE'S HOSPITAL"
+          },
+          {
+            "name": "subject",
+            "value": "MASKS"
+          },
+          {
+            "name": "subject",
+            "value": "HOSPITALS"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          },
+          {
+            "name": "subject",
+            "value": "QUARANTINE"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2003-04-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/04/25/world/the-sars-epidemic-beijing-quarantine-set-in-beijing-areas-to-fight-sars.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China carried out a sweeping quarantine today of thousands of Beijing residents who have had contact with suspected carriers of a highly infectious respiratory illness, as the Communist government began a resolute campaign to combat a national health",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2428e8eb7c8105d7db5c6",
+        "source": "The New York Times",
+        "word_count": 1221,
+        "lead_paragraph": "China carried out a sweeping quarantine today of thousands of Beijing residents who have had contact with suspected carriers of a highly infectious respiratory illness, as the Communist government began a resolute campaign to combat a national health crisis. Isolation orders were imposed on homes, factories and schools where people who developed SARS symptoms lived, worked or studied. Communist Party cells in work units and neighborhoods ferried food and other basic necessities to people confined to their homes, while monitoring them to ensure they do not flee."
+      },
+      {
+        "abstract": "North Korean officials tell American diplomats at meeting in Beijing that they already possess nuclear weapons and have begun making bomb-grade plutonium; Pres Bush says North Korea is 'back to the old blackmail game' and says he will not be intimidated; Beijing talks end day early, with Secretary of State Colin L Powell saying it is unclear 'when and if' talks might resume; it is not clear whether North Koreans' remarks were referring to two nuclear bombs that American intelligence agencies believe they have possessed for decade, or whether they are overstating their nuclear capabilities in deliberate effort to deter any attack Bush might be contemplating on their nuclear facilities; Powell says Bush believes peaceful solution to nuclear crisis is possible but that all options are on table; remark appears to be reference to possibility that US could take military action or resort to so-called Plan B, enacting strict economic penalties intended to topple North Korean government; White House says Bush will make no decisions until fully consulting with allies, including South Korea and Japan; South Korean Pres Roh Moo Hyun will visit Washington in mid-May, and Prime Min Junichiro Koizumi of Japan is also expected to visit in May for consultations on crisis; photo (M)",
+        "headline": {"main": "NORTH KOREA SAYS IT NOW POSSESSES NUCLEAR ARSENAL"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "POWELL, COLIN L"
+          },
+          {
+            "name": "persons",
+            "value": "KOIZUMI, JUNICHIRO"
+          },
+          {
+            "name": "persons",
+            "value": "ROH MOO HYUN"
+          },
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "SOUTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "NORTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ATOMIC WEAPONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "EMBARGOES AND ECONOMIC SANCTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "TERRORISM"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2003-04-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/04/25/world/north-korea-says-it-now-possesses-nuclear-arsenal.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "North Korean officials told American diplomats at a meeting in Beijing today that they already possessed nuclear weapons and had begun making bomb-grade plutonium, officials of the Bush administration and several informed Asian nations said.    This ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "SANGER",
+            "firstname": "David"
+          }],
+          "original": "By DAVID E. SANGER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd274028eb7c8105d8317dc",
+        "source": "The New York Times",
+        "word_count": 1087,
+        "lead_paragraph": "North Korean officials told American diplomats at a meeting in Beijing today that they already possessed nuclear weapons and had begun making bomb-grade plutonium, officials of the Bush administration and several informed Asian nations said. This evening, President Bush told NBC News that North Korea was ''back to the old blackmail game,'' and he insisted that he would not be intimidated."
+      },
+      {
+        "abstract": "At least 40,000 Beijing residents who have been exposed to SARS are being kept in isolation and second major hospital is put under total quarantine as China struggles to contain epidemic; photos; 103 more cases reported, bringing total in city to 877 confirmed and 954 suspected; WHO team in Shanghai predicts substantial increase from two reported cases as international definitions are applied; Beijing officials hold first press conference to explain measures (M)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC: SARS",
+          "main": "BEIJING BROADENS SARS QUARANTINE; MORE CASES FOUND"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD HEALTH ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          },
+          {
+            "name": "subject",
+            "value": "QUARANTINE"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2003-04-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/04/26/world/the-sars-epidemic-sars-beijing-broadens-sars-quarantine-more-cases-found.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "At least 4,000 Beijing residents who have been exposed to SARS are being kept in isolation, health authorities said today, and a second major hospital was put under total quarantine as China struggled to contain the disease here in the capital.    Ci",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd270d88eb7c8105d82ca5a",
+        "source": "The New York Times",
+        "word_count": 927,
+        "lead_paragraph": "At least 4,000 Beijing residents who have been exposed to SARS are being kept in isolation, health authorities said today, and a second major hospital was put under total quarantine as China struggled to contain the disease here in the capital. City education officials also revealed that 300 college students who had had contact with infected people had been sequestered in a military camp for two weeks."
+      },
+      {
+        "abstract": "Some 4,000 construction workers, working around clock, rush to erect sprawling hospital complex in Beijing suburb to house at least thousand people who have highly infectious respiratory illness as number of reported SARS cases rises sharply in city; new hospital is latest example of how China has geared up to fight SARS, sealing off entire neighborhoods or factories where infected people live and work, closing public buildings and filling airwaves with advice about hygiene and pleas for calm; disease's growing reach has rattled even some experts; photo (M)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC: TREATMENT",
+          "main": "Beijing Hurries to Build Hospital Complex For Increasing Number of SARS Patients"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HOSPITALS"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "19",
+        "pub_date": "2003-04-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/04/27/world/sars-epidemic-treatment-beijing-hurries-build-hospital-complex-for-increasing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "As the number of reported SARS infections rose sharply today here in China's capital, a small army of construction workers rushed to erect a sprawling hospital complex in the northern suburbs that will soon house at least a thousand people who have t",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd23eb98eb7c8105d7d5510",
+        "source": "The New York Times",
+        "word_count": 1065,
+        "lead_paragraph": "As the number of reported SARS infections rose sharply today here in China's capital, a small army of construction workers rushed to erect a sprawling hospital complex in the northern suburbs that will soon house at least a thousand people who have the highly infectious respiratory illness. Working around the clock for four days, 4,000 people from this city's biggest construction companies have dug trenches, laid pipe, poured cement and slapped together prefabricated siding to create a grid of low-rise shelters that resembles a military encampment."
+      },
+      {
+        "abstract": "Many villages surrounding Beijing build makeshift barricades and post sentinels to keep out strangers, in desperate if not always well-informed attempt to fend off contagion of SARS; total number of cases of SARS in Beijing is now 1,114, with 56 deaths; photo (M)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC: FEAR",
+          "main": "With Virus at Gate, the Drawbridge Is Up"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "2003-04-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/04/28/world/the-sars-epidemic-fear-with-virus-at-gate-the-drawbridge-is-up.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "In a desperate if not always well-informed attempt to fend off the contagion of SARS, many villages surrounding Beijing have built makeshift barricades and posted sentinels to keep out strangers, especially those from the stricken capital city.    ''",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd242928eb7c8105d7db909",
+        "source": "The New York Times",
+        "word_count": 458,
+        "lead_paragraph": "In a desperate if not always well-informed attempt to fend off the contagion of SARS, many villages surrounding Beijing have built makeshift barricades and posted sentinels to keep out strangers, especially those from the stricken capital city. ''Everyone around here is really tense,'' said an unsmiling farm woman who was guarding the main entrance to the village of Guchang, about 10 miles north of Beijing. Other routes into the hamlet were blocked today with large piles of dirt, topped by signs reading ''People and cars not from this village are forbidden to enter.''"
+      }
+    ],
+    "meta": {
+      "time": 45,
+      "hits": 79,
+      "offset": 20
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

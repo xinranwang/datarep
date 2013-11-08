@@ -1,0 +1,689 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Articles in two official Chinese newspapers say Western news agencies knew in advance about plans by apparent Falun Gong believers to set themselves on fire, and that some foreign journalists could face homicide charges for helping in suicide; CNN, one news organization cited, denies any prior knowledge of event in Tiananmen Square on Jan 23; AP and AFP, also named, say they did not have reporters or photographers in square at time of incident; China's newspapers do not print sensitive material without high-level approval, suggesting that some officials may be trying to discredit foreign journalists and their reports on banned Falun Gong movement; photo (M)",
+        "headline": {"main": "Foreign Media Role Cited in Beijing Immolation"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "CABLE NEWS NETWORK"
+          },
+          {
+            "name": "organizations",
+            "value": "ASSOCIATED PRESS"
+          },
+          {
+            "name": "organizations",
+            "value": "FALUN GONG"
+          },
+          {
+            "name": "organizations",
+            "value": "AGENCE FRANCE PRESS"
+          },
+          {
+            "name": "subject",
+            "value": "IMMOLATION"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2001-02-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/02/09/world/foreign-media-role-cited-in-beijing-immolation.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "At least two official newspapers have carried articles saying that Western news agencies knew in advance about plans by apparent Falun Gong believers to set themselves on fire last month, and that some foreign journalists could face homicide charges ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd223928eb7c8105d7a956d",
+        "source": "The New York Times",
+        "word_count": 661,
+        "lead_paragraph": "At least two official newspapers have carried articles saying that Western news agencies knew in advance about plans by apparent Falun Gong believers to set themselves on fire last month, and that some foreign journalists could face homicide charges for helping in a suicide. The news agencies deny having prior knowledge of the incident in Tiananmen Square on Jan. 23. Two of the three accused organizations say they did not have reporters or photographers in the square at the time, let alone the several news people whom the articles say were detained by the police. The agencies say they have not been notified of any criminal investigation."
+      },
+      {
+        "abstract": "Hong Kong's top official, Tung Chee-hwa, says he is shocked by television images of what Beijing says are members of Falun Gong setting themselves on fire in Tiananmen Square, and that Hong Kong will more closely monitor group, which is outlawed in China but remains legal in Hong Kong; his comments are closely scrutinized, because he has not spoken publicly about Falun Gong since it held conference in Hong Kong at which China's treatment of Falun Gong was protested (M)",
+        "headline": {"main": "Hong Kong Will Check on Falun Gong"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "TUNG CHEE-HWA"
+          },
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "FALUN GONG"
+          },
+          {
+            "name": "subject",
+            "value": "IMMOLATION"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2001-02-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/02/09/world/hong-kong-will-check-on-falun-gong.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Echoing the position of the Chinese government, Hong Kong's top official said today that he was shocked by television images of what Beijing says were members of the Falun Gong spiritual group setting themselves on fire in Tiananmen Square.    The ch",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd242c48eb7c8105d7dc323",
+        "source": "The New York Times",
+        "word_count": 166,
+        "lead_paragraph": "Echoing the position of the Chinese government, Hong Kong's top official said today that he was shocked by television images of what Beijing says were members of the Falun Gong spiritual group setting themselves on fire in Tiananmen Square. The chief executive, Tung Chee-hwa, said Hong Kong would more closely monitor the group, which is outlawed in China but remains legal in this former British colony. Yet Mr. Tung stopped short of threatening to strip Falun Gong's legal status here, even though, he said, it bore ''some characteristics of an evil cult.''"
+      },
+      {
+        "abstract": "Chinese authorities in Beijing sweep streets, give taxi drivers crash course in English phrases and generally burnish city in preparation for inspection by technical delegation from International Olympic Committee; photo (M)",
+        "headline": {"main": "Beijing Is Given an Olympian Burnish"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2001-02-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/02/21/world/beijing-is-given-an-olympian-burnish.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "''It's nice to meet you.''     ''Restroom.''     ''I can speak a little English.''   ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd21e628eb7c8105d7a08c1",
+        "source": "The New York Times",
+        "word_count": 764,
+        "lead_paragraph": "''It's nice to meet you.'' ''Restroom.'' ''I can speak a little English.''"
+      },
+      {
+        "abstract": "China, hoping to avert protests that might hurt its chances of winning 2008 Olympics, has placed known dissidents and their families under surveillance and warned them against speaking out while International Olympic Committee inspectors are visiting Beijing; has sought to wow inspectors with city's enthusiasm and pledge of $20 billion building program, while repeatedly holding that human rights issues should not influence committee (M)",
+        "headline": {"main": "Beijing Tries to Woo Olympics And Keep Dissidents in Check"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2001-02-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/02/23/world/beijing-tries-to-woo-olympics-and-keep-dissidents-in-check.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Hoping to avert protests that might hurt China's chances of winning the 2008 Olympics, Chinese officials have placed known critics of the government and their families under more surveillance this week and warned them not to speak out while inspector",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd24eae8eb7c8105d7f1031",
+        "source": "The New York Times",
+        "word_count": 570,
+        "lead_paragraph": "Hoping to avert protests that might hurt China's chances of winning the 2008 Olympics, Chinese officials have placed known critics of the government and their families under more surveillance this week and warned them not to speak out while inspectors from the International Olympic Committee are visiting here. Two days into a five-day visit by an International Olympic Committee team, it was clear the Chinese government was taking a two-pronged approach. The Beijing 2008 Olympic Games Committee has sought to wow inspectors with evidence of the city's enthusiasm and planning -- as well as promises to spend $20 billion to build highways, stadiums, hotels and subways if its bid succeeds. But the government, which has repeatedly stated that human rights issues should not influence the committee, has dispatched security forces to make sure this is so."
+      },
+      {
+        "abstract": "John Ruiz, who won 12-round unanimous decision over Evander Holyfield to win World Boxing Association heavyweight title, discusses future plans, including possible unification bout with Lennox Lewis; speculation about third Ruiz-Holyfield fight, which could be held in Beijing, also discussed; photo (M)",
+        "headline": {
+          "kicker": "BOXING",
+          "main": "Ruiz Wants to Fight Lewis Next. Get In Line."
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HOLYFIELD, EVANDER"
+          },
+          {
+            "name": "persons",
+            "value": "LEWIS, LENNOX"
+          },
+          {
+            "name": "persons",
+            "value": "RUIZ, JOHN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BOXING"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2001-03-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/03/05/sports/boxing-ruiz-wants-to-fight-lewis-next-get-in-line.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Judging by the purple knots under both eyes and the dark red gash on his forehead, John Ruiz did well to steady himself on the stool in his corner after the sixth round. Across the ring, Evander Holyfield looked worn but ready to rescue another decis",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SPOUSTA",
+            "role": "reported",
+            "firstname": "Tom"
+          }],
+          "original": "By TOM SPOUSTA"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd222188eb7c8105d7a72cc",
+        "source": "The New York Times",
+        "word_count": 765,
+        "lead_paragraph": "Judging by the purple knots under both eyes and the dark red gash on his forehead, John Ruiz did well to steady himself on the stool in his corner after the sixth round. Across the ring, Evander Holyfield looked worn but ready to rescue another decision from a desperate situation. Suddenly, Ruiz's manager, Norman Stone, poured fuel on the already white-hot intensity of Saturday night's title fight at the Mandalay Bay Events Center."
+      },
+      {
+        "abstract": "Pres Jiang Zemin summoned more than 2,000 top Communist Party officials to Beijing for extraordinary closed-door meeting in February, reflecting leadership's deep unease about party unity and domestic stability; Jiang, looking toward stepping down as president and party chief in next two years, apparently wants to make sure that ruling party remains firmly unified on two divisive issues: campaign to crush Falun Gong spiritual movement and correctness of party's decision to use troops against 1989 pro-democracy protesters in Tiananmen Square; although no one suggests that party is in imminent danger of falling from power, it has no overwhelmingly dominant leader and indications are plentiful that center is not holding as it once did; officials say a central message at February meeting was that United States and other Western powers are trying to use Falun Gong and 1989 crackdown issues to drive wedge between current, aging leaders and their potential successors, who might find it to their political advantage to break with unpopular policies; photo (M)",
+        "headline": {"main": "CHINA'S LEADERSHIP PUSHES FOR UNITY"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "JIANG ZEMIN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "FALUN GONG (CHINESE SPIRITUAL MOVEMENT)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2001-03-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/03/09/world/china-s-leadership-pushes-for-unity.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Last month,  President Jiang Zemin summoned more than 2,000 top Communist Party officials to Beijing for an extraordinary, closed-door meeting.    At a crucial point in his political life, Mr. Jiang wanted to make sure that the ruling party remained ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "ECKHOLM",
+              "role": "reported",
+              "firstname": "Erik"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "ROSENTHAL",
+              "role": "reported",
+              "firstname": "Elisabeth"
+            }
+          ],
+          "original": "By ERIK ECKHOLM and ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd24f888eb7c8105d7f237c",
+        "source": "The New York Times",
+        "word_count": 1699,
+        "lead_paragraph": "Last month, President Jiang Zemin summoned more than 2,000 top Communist Party officials to Beijing for an extraordinary, closed-door meeting. At a crucial point in his political life, Mr. Jiang wanted to make sure that the ruling party remained firmly unified on two divisive issues: the campaign to crush the Falun Gong spiritual movement and the correctness of the party's decision to use troops against the 1989 pro-democracy protesters in Tiananmen Square."
+      },
+      {
+        "abstract": "Op-Ed article by Zhang Liang, pseudonym, claims granting city of Beijing right to be host of Olympics in 2008 could hasten democracy in China; says he and other members of group of reformers in Chinese Communist Party have published The Tiananmen Papers, record of party's decision to crack down on pro-democracy demonstrations in 1989; says book is banned in China, but edition will surely find its way home through smuggled copies and through Internet; says China's Communist Party is deeply split, and hope of reformist group he belongs to is that publication of The Tiananmen Papers will help end grip of current group of autocrats; says granting of Games would help this process by committing China more firmly to open door and providing focal point for further struggles for rule of law and human rights (M)",
+        "headline": {"main": "The Olympics Can Help Reform"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHANG LIANG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "23",
+        "pub_date": "2001-03-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/03/30/opinion/the-olympics-can-help-reform.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "I belong to a group of reformers in the Chinese Communist Party who are urging the party to acknowledge its mistakes in the bloody crackdown on Beijing demonstrators in 1989. Despite this, we reformers also urge the International Olympic Committee to",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Liang",
+            "role": "reported",
+            "firstname": "Zhang"
+          }],
+          "original": "By Zhang Liang"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd205868eb7c8105d76de1c",
+        "source": "The New York Times",
+        "word_count": 692,
+        "lead_paragraph": "I belong to a group of reformers in the Chinese Communist Party who are urging the party to acknowledge its mistakes in the bloody crackdown on Beijing demonstrators in 1989. Despite this, we reformers also urge the International Olympic Committee to grant the city of Beijing the right to be host of the Olympics in 2008. Some may find our attitude contradictory. Some human rights advocates in the United States have urged the I.O.C. to deny Beijing the Olympics on the grounds of China's poor human rights record and the treatment of religious dissidents and demonstrators. Others warn that Beijing's rulers may exploit the Games to cement their rule, as Adolf Hitler did in 1936."
+      },
+      {
+        "abstract": "Photo of police officers in Beijing removing anti-American poster near US Embassy; anti-American demonstrations are banned, but anger over loss of Chinese pilot continues",
+        "headline": {"main": "PROTEST IN BEIJING"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HAINAN ISLAND (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES FOREIGN SERVICE"
+          },
+          {
+            "name": "subject",
+            "value": "MILITARY AIRCRAFT"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2001-04-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/04/06/world/protest-in-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Photo of police officers in Beijing removing anti-American poster near US Embassy; anti-American demonstrations are banned, but anger over loss of Chinese pilot continues",
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": "Front Page",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd206cb8eb7c8105d77048f",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Thomas L Friedman Op-Ed column says China may have more to lose than United States if incident between American spy plane and Chinese jet is not quickly resolved; says Communist leadership needs steady inflow of investment and technology from US to fulfill its pledge to Chinese people to raise their standard of living; says for China to insist that US apologize before it has debriefed its own pilots or analyzed flight recorders is way of saying that rule of law does not matter; says it took America 10 years to rebuild bipartisan consensus on China after Tiananmen Square killings, and it could all be exploded by this incident; says this crisis is test not only for Pres Bush, but also for China's old leaders, to see if they understand new world they are living in (M)",
+        "headline": {"main": "Foreign Affairs; Sorry About That"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN INVESTMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "MILITARY AIRCRAFT"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+          }
+        ],
+        "print_page": "21",
+        "pub_date": "2001-04-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/04/06/opinion/foreign-affairs-sorry-about-that.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "I would never do this myself, but if one wanted to be nasty, one could write a column with the following lead:    ''China says it wants an apology for the collision of the U.S. surveillance plane with a Chinese fighter jet, which resulted in the deat",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "L.",
+            "role": "reported",
+            "lastname": "FRIEDMAN",
+            "firstname": "Thomas"
+          }],
+          "original": "By THOMAS L. FRIEDMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd24f888eb7c8105d7f2453",
+        "source": "The New York Times",
+        "word_count": 771,
+        "lead_paragraph": "I would never do this myself, but if one wanted to be nasty, one could write a column with the following lead: ''China says it wants an apology for the collision of the U.S. surveillance plane with a Chinese fighter jet, which resulted in the death of a Chinese pilot. Well, I say the Chinese are right. We should apologize. But why stop with the plane incident? We should apologize for being the market for $40 billion a year of China's exports. We should apologize for the fact that U.S. companies are among the largest foreign investors in China and have been instrumental in China's economic takeoff. We should apologize for the fact that 54,000 Chinese students study in the U.S. every year, more than any other nationality. We should apologize for the fact that the U.S. has shown restraint in weapons sales to Taiwan. We should apologize for the fact that the U.S. paved the way for China's entry into the World Trade Organization. Yes, we should apologize for all these things and promise to stop all of them immediately.''"
+      },
+      {
+        "abstract": "International Olympic Committee members say that spy-plane stalemate between United States and China is not expected to have an effect on Beijing's bid to play host to 2008 Summer Olympics, especially if incident is resolved quickly; photo (M)",
+        "headline": {
+          "kicker": "OLYMPICS",
+          "main": "Standoff Unlikely To Affect Beijing's Bid"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "MILITARY AIRCRAFT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2001-04-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/04/11/sports/olympics-standoff-unlikely-to-affect-beijing-s-bid.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The spy-plane stalemate between the United States and China is not expected to have an effect on Beijing's bid to play host to the 2008 Summer Olympics, especially if the incident is resolved quickly, interviews with influential members of the Intern",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Washington; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LONGMAN",
+            "role": "reported",
+            "firstname": "Jere"
+          }],
+          "original": "By JERE LONGMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd215298eb7c8105d78e320",
+        "source": "The New York Times",
+        "word_count": 1122,
+        "lead_paragraph": "The spy-plane stalemate between the United States and China is not expected to have an effect on Beijing's bid to play host to the 2008 Summer Olympics, especially if the incident is resolved quickly, interviews with influential members of the International Olympic Committee indicate. ''To many I.O.C. members, especially in Europe, it is a U.S.-China issue,'' said Kim Un Yong, a powerful member from South Korea who is seeking to succeed Juan Antonio Samaranch as president of the International Olympic Committee. ''The I.O.C. is not in politics, and for the moment, it will not affect the Olympic decision.''"
+      }
+    ],
+    "meta": {
+      "time": 1668,
+      "hits": 75,
+      "offset": 10
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

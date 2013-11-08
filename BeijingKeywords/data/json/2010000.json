@@ -1,0 +1,680 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Asia Comic Art Makes It to the Museum"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "TAIPEI (TAIWAN)"
+          },
+          {
+            "name": "glocations",
+            "value": "GUANGZHOU (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          },
+          {
+            "name": "subject",
+            "value": "COMIC BOOKS AND STRIPS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-01-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/01/05/arts/05iht-anima.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "Four museums -- in Shanghai, Beijing, Guangzhou and Taipei -- are participating in a large-scale biennale dedicated to Animamix, a style that borrows heavily from Asian animation and comics.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KOLESNIKOV-JESSOP",
+            "role": "reported",
+            "firstname": "Sonia"
+          }],
+          "original": "By SONIA KOLESNIKOV-JESSOP"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2010/01/05/arts/05iht-anima-inline1/thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2010/01/05/arts/05iht-anima-inline1/thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 486,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2010/01/05/arts/05iht-anima-inline1/popup.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 486,
+              "xlarge": "images/2010/01/05/arts/05iht-anima-inline1/popup.jpg",
+              "xlargewidth": 650
+            }
+          }
+        ],
+        "_id": "4fd2b67e8eb7c8105d8aa5b2",
+        "source": "International Herald Tribune",
+        "word_count": 865,
+        "lead_paragraph": "SINGAPORE -- The term ''Animamix'' was coined in 2006 by the Taiwanese art critic and curator Victoria Lu to describe a new aesthetic trend she had observed in Asian contemporary art, one that incorporates the visual language of animation and comics. Ms. Lu helped organize the inaugural Animamix Biennial in 2007 at the Museum of Contemporary Art in Shanghai, and the event has now expanded to four museums in the first major cross-straits international biennial, which began in December."
+      },
+      {
+        "abstract": "Liu Xiaobo, Beijing writer given 11-year prison sentence on subversion charges, appeals his conviction to Beijing Supreme People's Court; Liu's sentence, judged by analysts to be unusually harsh, has drawn criticism from human rights groups, Western governments and writers worldwide; Liu was seized by officials in 2008 after urging Chinese leaders to embrace democratic reforms (M)",
+        "headline": {"main": "China Writer Fights Penalty Over Charter On Rights"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LIU XIAOBO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "WRITING AND WRITERS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2010-01-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/01/05/world/asia/05china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Liu Xiaobo, who was given an 11-year prison sentence on subversion charges, appealed his conviction to the Beijing Supreme People\u2019s Court.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WINES",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL WINES"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd275a38eb7c8105d8358b8",
+        "source": "The New York Times",
+        "word_count": 325,
+        "lead_paragraph": "Liu Xiaobo, the Beijing writer who was given an 11-year prison sentence on subversion charges on Dec. 25 after urging Chinese leaders to embrace democratic reforms, appealed his conviction to the Beijing Supreme People's Court on Monday, according to one of his lawyers. The lawyer, Shang Baojun, told The Associated Press that Mr. Liu told him during a meeting that he had filed the appeal. ''We are making an effort to defend his innocence, but we have no idea whether it will be successful,'' Mr. Shang said."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "OP-ED COLUMNIST",
+          "main": "The Dragon's Swagger"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-01-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/01/12/opinion/12iht-edcohen.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "The United States and China\u2019s codependent relationship is heading into rough waters as Beijing\u2019s assertiveness grows.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "COHEN",
+            "role": "reported",
+            "firstname": "Roger"
+          }],
+          "original": "By ROGER COHEN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2929b8eb7c8105d86c333",
+        "source": "International Herald Tribune",
+        "word_count": 858,
+        "lead_paragraph": "BEIJING -- A U.S. official here told me he was ''getting a little nervous about 2010'' when it comes to Chinese-American relations. I'd say there's plenty of cause for that. I'm not optimistic about the world's most important relationship in the short term. The Obama administration came in with a deeply held philosophical view about making the Chinese stakeholders, and partners, in an interconnected world. Human rights complaints were muted, the Dalai Lama put on hold, and President Obama swung into town in November with arms outstretched to the rising behemoth."
+      },
+      {
+        "abstract": "Carlyle Group announced that it's teaming up with the Beijing government to launch a domestic Chinese private equity fund, Bloomberg News reported.",
+        "headline": {
+          "kicker": "DealBook",
+          "main": "Carlyle Starts China Fund With Beijing"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "Carlyle Group"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Blackstone Group"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Private Equity"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "unknown",
+            "value": "Blackstone Group|BX|NYSE"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-01-12T07:35:46Z",
+        "web_url": "http://dealbook.nytimes.com/2010/01/12/carlyle-launches-china-fund-with-beijing/",
+        "news_desk": null,
+        "snippet": "Carlyle Group announced that it's teaming up with the Beijing government to launch a domestic Chinese private equity fund, Bloomberg News reported.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Business Day",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By DEALBOOK"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd399388eb7c8105d8d4d6f",
+        "source": "The New York Times",
+        "word_count": 119,
+        "lead_paragraph": "The Carlyle Group, following in the footsteps of one of its biggest rivals, announced that it was teaming up with the Beijing government to start a domestic Chinese private equity fund, Bloomberg News reported."
+      },
+      {
+        "abstract": "Chinese government instructs cellular companies in Beijing and Shanghai to suspend text services to cellphone users who are found to have sent messages with 'illegal or unhealthy content'; increased surveillance of text messages is latest in series of government efforts to severely tighten control of Internet and other forms of communication (M)",
+        "headline": {"main": "China to Scan Text Messages To Spot 'Unhealthy Content'"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SURVEILLANCE OF CITIZENS BY GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ELECTRONIC MAIL"
+          },
+          {
+            "name": "subject",
+            "value": "WIRELESS COMMUNICATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "CELLULAR TELEPHONES"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "TEXT MESSAGING"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2010-01-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/01/20/world/20text.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Chinese government ordered cellphone companies to suspend text services to users who send \u201cunhealthy\u201d messages.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LaFRANIERE",
+            "role": "reported",
+            "firstname": "Sharon"
+          }],
+          "original": "By SHARON LaFRANIERE; Zhang Jing, Nancy Zhao and Jonathan Ansfield contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a4f58eb7c8105d88c324",
+        "source": "The New York Times",
+        "word_count": 488,
+        "lead_paragraph": "As the Chinese government expands what it calls a campaign against pornography, cellular companies in Beijing and Shanghai have been told to suspend text services to cellphone users who are found to have sent messages with ''illegal or unhealthy content,'' state-run news media reported Tuesday. China Mobile, one of the nation's largest cellular providers, reported that text messages would automatically be scanned for ''key words'' provided by the police, according to China Daily, a state-controlled English-language newspaper. Messages will be deemed ''unhealthy'' if they violate undisclosed criteria established by the central government, the newspaper said."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "LETTER FROM CHINA",
+          "main": "Education as a Path to Conformity"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WEN JIABAO"
+          },
+          {
+            "name": "persons",
+            "value": "GAO XINGJIAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+          },
+          {
+            "name": "subject",
+            "value": "COMMUNISM (THEORY AND PHILOSOPHY)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-01-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/01/27/world/asia/27iht-letter.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "For all its emphasis on rigor and discipline, the Chinese education system is producing few students who can think for themselves or follow their passions -- and only a minority think that's a problem.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a4f88eb7c8105d88c50f",
+        "source": "International Herald Tribune",
+        "word_count": 1133,
+        "lead_paragraph": "BEIJING -- It's known among a small circle of scholars in China as ''the Qian Xuesen question.'' Four years ago Mr. Qian, the rocket scientist and genius architect of China's space and missile programs who died in October at the age of 97, asked a prominent visitor a troubling question: ''Why does China produce so many clever people, but so few geniuses?'' Prime Minister Wen Jiabao's answer isn't recorded, but my friend Bai Hua thinks she knows."
+      },
+      {
+        "abstract": "New York Yankees president Randy Levine and other team representatives travel to China with World Series trophy as part of MLB efforts to cultivate baseball interest in China; photo (M)",
+        "headline": {"main": "Pinstriped Emissaries Seek Fans In China"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LEVINE, RANDY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NEW YORK YANKEES"
+          },
+          {
+            "name": "subject",
+            "value": "BASEBALL"
+          },
+          {
+            "name": "subject",
+            "value": "WORLD SERIES"
+          }
+        ],
+        "print_page": "13",
+        "pub_date": "2010-02-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/02/04/sports/baseball/04yankees.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The Yankees took the World Series trophy to Beijing as part of baseball\u2019s effort to develop fans in China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YANG",
+            "role": "reported",
+            "firstname": "Xiyun"
+          }],
+          "original": "By XIYUN YANG; Michael S. Schmidt contributed reporting from New York"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 433,
+          "width": 650,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2010/02/04/sports/04yankees-floater_CA0/04yankees-floater_CA0-popup.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 433,
+            "xlarge": "images/2010/02/04/sports/04yankees-floater_CA0/04yankees-floater_CA0-popup.jpg",
+            "xlargewidth": 650
+          }
+        }],
+        "_id": "4fd2b67d8eb7c8105d8aa57f",
+        "source": "The New York Times",
+        "word_count": 869,
+        "lead_paragraph": "Guo Shuofeng, a 10-year-old fourth grader, is serious about baseball. Since joining his school team two years ago, he spends more than 20 hours a week during the season at practice, sacrificing his weekends and winter vacation. But in China, nurturing his love of the sport is an uphill battle. Guo has never been to a game and when he finds recorded games online, the commentary is in English, which he does not understand. He doesn't know the names of any American baseball teams, and his parents are confused when they watch him play."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "OP-ED CONTRIBUTOR",
+          "main": "Who Needs Whom More?"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-02-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/02/04/opinion/04iht-edbowring.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "China believes a trade surplus and massive foreign exchange reserves ensure stability. Do they?",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BOWRING",
+            "role": "reported",
+            "firstname": "Philip"
+          }],
+          "original": "By PHILIP BOWRING"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27be18eb7c8105d8418c2",
+        "source": "International Herald Tribune",
+        "word_count": 786,
+        "lead_paragraph": "HONG KONG -- Is what's good for U.S. business good for the United States? That old question has become pertinent again as the Obama administration stumbles in its relationship with Beijing. Last week, the U.S. announced a weapons sale worth $6 billion to Taiwan. The United States has been selling defensive weapons to Taiwan for decades, but this latest deal set off strong reaction from a newly confident Chinese leadership, one that wants to believe that Washington is dependent on Beijing to finance its budget and trade deficits."
+      },
+      {
+        "abstract": "Op-Ed article by Wang Dan on 20th anniversary of release of Nelson Mandela from South African prison; Wang was imprisoned for his role in student movement in Tiananmen Square in Beijing; says he did not know much about Mandela, but message of his release was instantly clear to him; recalls photograph of Mandela leaving prison with head up and smile on his face and resolved to do same when he was released (M)",
+        "headline": {
+          "kicker": "OP-ED CONTRIBUTOR",
+          "main": "Nelson Mandela's Captive Audience: A Smile to Remember"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "MANDELA, NELSON"
+          },
+          {
+            "name": "glocations",
+            "value": "SOUTH AFRICA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2010-02-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/02/07/opinion/07wang.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "In the pursuit of freedom, there are times when we must pay the price of losing our freedom, learned an imprisoned student leader in China.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "DAN",
+            "role": "reported",
+            "firstname": "Wang"
+          }],
+          "original": "By WANG DAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a4f88eb7c8105d88c54c",
+        "source": "The New York Times",
+        "word_count": 280,
+        "lead_paragraph": "Twenty years ago, I was in Qincheng, the most well-known of China's political prisons, along with several hundred other students and intellectuals who had taken part in the student movement of the previous summer. On a particularly cold winter morning, I sat on my bed and picked up my copy of The People's Daily, the government newspaper we were allowed to read, and saw that Nelson Mandela had been released from prison. I was overwhelmed by complicated feelings. We had not known much about Mr. Mandela's story, but the message of his release was instantly clear to me: in the pursuit of freedom, there are times when we must pay the price of losing our freedom. In faraway China, we had been imprisoned for harboring the same ideals as Mr. Mandela."
+      },
+      {
+        "abstract": "Bird's Nest stadium and other sports venues built for 2008 Summer Games in China are nearly empty, used only occasionally for concert or other amusement; outsiders may find this wasteful, but fiscal issues that could destabilize other nations--many cite 2004 Olympics in Athens as source of Greece's financial woes--hardly register in China's economy; some experts suggest overbuilding is actual strategy in nation where much new construction remains nearly empty; feeling is that eventually buildings will be occupied and, meantime, they create jobs and prestige; photos (M)",
+        "headline": {"main": "After the High Jumps, Empty Shells"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "GREECE"
+          },
+          {
+            "name": "glocations",
+            "value": "ATHENS (GREECE)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FINANCES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "CREDIT"
+          },
+          {
+            "name": "subject",
+            "value": "STADIUMS AND ARENAS"
+          },
+          {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2004)"
+          },
+          {
+            "name": "subject",
+            "value": "HOUSING AND REAL ESTATE"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2010-02-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/02/07/weekinreview/07wines.html",
+        "news_desk": "Week in Review Desk",
+        "snippet": "The spectacular stadiums built for the 2008 Olympics now stand empty. What this says about China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Week in Review",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WINES",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL WINES"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b67d8eb7c8105d8aa58c",
+        "source": "The New York Times",
+        "word_count": 770,
+        "lead_paragraph": "BEIJING -- If you build it, he will come,'' Ray Kinsella, the farmer in the 1989 film ''Field of Dreams,''hears, mystically, as he walks through his cornfield. So at seemingly ruinous cost, he razes the cornfield and builds a ball field, and is rewarded with an endless stream of ticket buyers stretching to the rural Iowa horizon. In 2008, the Chinese built a ball field -- boy, what a ball field -- known worldwide for its lattice-like architecture as the Bird's Nest. Alas, after the 2008 Olympics, the ticket buyers haven't come. Right now, the Bird's Nest serves as a winter amusement park known as the Happy Ice and Snow Season. In April, a promoter may stage a celebrity rock concert to ''establish China as a world leader for global peace and a healthier planet.'' Or not."
+      }
+    ],
+    "meta": {
+      "time": 29,
+      "hits": 105,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

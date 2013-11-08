@@ -1,0 +1,561 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Journal; Whither That Torch? China's Burning to Have It"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "glocations",
+            "value": "SYDNEY (AUSTRALIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "AUSTRALIA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1993-07-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/07/28/world/beijing-journal-whither-that-torch-china-s-burning-to-have-it.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  A few years ago, China seemed to have about as much chance of becoming host to the Summer Olympic Games in 2000 as Deng Xiaoping had of winning a gold medal in the pole vault.   But the Chinese leadership, with Mr. Deng at its core, has been remark",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a9a28eb7c8105d6c6b4d",
+        "source": "The New York Times",
+        "word_count": 1173,
+        "lead_paragraph": "A few years ago, China seemed to have about as much chance of becoming host to the Summer Olympic Games in 2000 as Deng Xiaoping had of winning a gold medal in the pole vault. But the Chinese leadership, with Mr. Deng at its core, has been remarkably successful in promoting Beijing's bid for the Olympics. With the International Olympic Committee set to choose a host city in less than two months, Beijing has become a front-runner."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "SPORTS OF THE TIMES",
+          "main": "China Needs Time To Deserve the Games"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "SPORTS OF THE TIMES (TIMES COLUMN)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "1993-07-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/07/28/sports/sports-of-the-times-china-needs-time-to-deserve-the-games.html",
+        "news_desk": "Sports Desk",
+        "snippet": "  IF we all can curb our suicidal instincts for war and pollution, China must surely be an Olympic host for the first time, very early in the next century. But not in the year 2000.    At the point when the decision must be made, in Monaco on Sept. 2",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "VECSEY",
+            "role": "reported",
+            "firstname": "George"
+          }],
+          "original": "By GEORGE VECSEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1bb308eb7c8105d6e5f30",
+        "source": "The New York Times",
+        "word_count": 782,
+        "lead_paragraph": "IF we all can curb our suicidal instincts for war and pollution, China must surely be an Olympic host for the first time, very early in the next century. But not in the year 2000. At the point when the decision must be made, in Monaco on Sept. 23, the International Olympic Committee should use the yardstick of preparedness for not choosing Beijing. Then while China is improving its stadiums and hotels, it can work on its observation of human rights, without having been seen as openly criticized."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "OLYMPICS",
+          "main": "Tug of War Emerging Over the 2000 Games"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DEFRANTZ, ANITA"
+          },
+          {
+            "name": "persons",
+            "value": "BRADLEY, BILL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "1993-08-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/08/01/sports/olympics-tug-of-war-emerging-over-the-2000-games.html",
+        "news_desk": "Sports Desk",
+        "snippet": "  The city in question is Beijing in the year 2000, but the answer is Berlin 1936. The history of the modern Olympics is too short and the world is too small to forget murder.   The International Olympic Committee is expected to name the site of the ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LIPSYTE",
+            "role": "reported",
+            "firstname": "Robert"
+          }],
+          "original": "By ROBERT LIPSYTE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ac608eb7c8105d6cb869",
+        "source": "The New York Times",
+        "word_count": 892,
+        "lead_paragraph": "The city in question is Beijing in the year 2000, but the answer is Berlin 1936. The history of the modern Olympics is too short and the world is too small to forget murder. The International Olympic Committee is expected to name the site of the 2000 Games next month. Sydney, Australia, and Manchester, England, are considered the front-runners, but Beijing is a strong contender, especially among Olympic politicians who want to hook into a powerhouse country of the future."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Let's Take Closer Look at China's Prison Labor; Educational Benefits"},
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "SPORTS OF THE TIMES (TIMES COLUMN)"
+          },
+          {
+            "name": "persons",
+            "value": "VECSEY, GEORGE"
+          },
+          {
+            "name": "persons",
+            "value": "DELANEY, M VINCENT"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "1993-08-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/08/09/opinion/l-let-s-take-closer-look-at-china-s-prison-labor-educational-benefits-119093.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "  To the Editor:   Your July 28 \"Beijing Journal\" and George Vecsey's Sports of The Times column of the same day on China's application to be host of the Summer Olympic Games in 2000 emphasize the lingering backlash of the Tiananmen Square crackdown ",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1cc0a8eb7c8105d7020c3",
+        "source": "The New York Times",
+        "word_count": 181,
+        "lead_paragraph": "To the Editor: Your July 28 \"Beijing Journal\" and George Vecsey's Sports of The Times column of the same day on China's application to be host of the Summer Olympic Games in 2000 emphasize the lingering backlash of the Tiananmen Square crackdown in 1989 and criticism by Olympic officials of Beijing's stadium sites and pollution."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "SPORTS PEOPLE: OLYMPICS",
+          "main": "Anti-Beijing Message Mailed to Sponsors"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "SPORTS PEOPLE (TIMES COLUMN)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "HUMAN RIGHTS WATCH"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1993-08-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/08/26/sports/sports-people-olympics-anti-beijing-message-mailed-to-sponsors.html",
+        "news_desk": "Sports Desk",
+        "snippet": "  A human rights group has taken its campaign against Beijing's Olympic bid directly to the people who would foot the bill for the Games. Human Rights Watch said yesterday that it had sent letters to top officials of 17 international companies with s",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1bb2f8eb7c8105d6e5f0b",
+        "source": "The New York Times",
+        "word_count": 164,
+        "lead_paragraph": "A human rights group has taken its campaign against Beijing's Olympic bid directly to the people who would foot the bill for the Games. Human Rights Watch said yesterday that it had sent letters to top officials of 17 international companies with strong sports-sponsorship records, urging them to help defeat the Beijing candidacy for the 2000 Games. Citing the Chinese Government's record of political and religious repression -- specifically Tiananmen Square in 1989 and more recent arrests of pro-democracy activists -- the human rights group said a Beijing Olympics could backfire on companies trying to crack or expand in the world's largest market."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Peacefully, 10,000 Protest Berlin Olympic Bid"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "MANCHESTER (ENG)"
+          },
+          {
+            "name": "glocations",
+            "value": "SYDNEY (AUSTRALIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "ISTANBUL (TURKEY)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BERLIN (GERMANY)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "1993-09-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/09/19/world/peacefully-10000-protest-berlin-olympic-bid.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  More than 10,000 exuberant protesters marched through Berlin today demanding that the International Olympic Committee not select the city as the site for the Summer Olympics in the year 2000.   In contrast with earlier protests, the march was large",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KINZER",
+            "role": "reported",
+            "firstname": "Stephen"
+          }],
+          "original": "By STEPHEN KINZER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1bc308eb7c8105d6e7be3",
+        "source": "The New York Times",
+        "word_count": 622,
+        "lead_paragraph": "More than 10,000 exuberant protesters marched through Berlin today demanding that the International Olympic Committee not select the city as the site for the Summer Olympics in the year 2000. In contrast with earlier protests, the march was largely peaceful, and demonstrators said they believed that their campaign had convinced officials that Berlin would not be a good site for the Olympic Games."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "THE WORLD",
+          "main": "Lure of Olympic Flame Defrosts China, Unevenly"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1993-09-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/09/19/weekinreview/the-world-lure-of-olympic-flame-defrosts-china-unevenly.html",
+        "news_desk": "Week in Review Desk",
+        "snippet": "  THE thunder out of China this summer has been one of the most energetic political campaigns in history, to bring the millenium Olympic Games to the last major capital of Communism.   With the International Olympic Committee expected to decide throu",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Week in Review",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1e83f8eb7c8105d736849",
+        "source": "The New York Times",
+        "word_count": 1119,
+        "lead_paragraph": "THE thunder out of China this summer has been one of the most energetic political campaigns in history, to bring the millenium Olympic Games to the last major capital of Communism. With the International Olympic Committee expected to decide through secret ballot in Monte Carlo on Thursday whether the 2000 Games will go to Beijing, Berlin, Istanbul, Manchester or Sydney, China's leaders have portrayed the vote as an epic struggle of rich versus poor, big powers versus regional powers, Western \"hegemonists\" versus the virtuous and the nonaligned."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Small Indelicacy"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DE VARONA, DONNA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "1993-09-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/09/19/sports/l-small-indelicacy-390693.html",
+        "news_desk": "Sports Desk",
+        "snippet": "  To the Sports Editor:   Donna De Varona (\"China's Bid Should Be Considered Only on Olympic Merits,\" The Times, Sept. 5) does not wish to discuss the merits of Congressional human rights concerns. She thinks that the Olympics are not an appropriate ",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Sports; Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1e0568eb7c8105d727252",
+        "source": "The New York Times",
+        "word_count": 211,
+        "lead_paragraph": "To the Sports Editor: Donna De Varona (\"China's Bid Should Be Considered Only on Olympic Merits,\" The Times, Sept. 5) does not wish to discuss the merits of Congressional human rights concerns. She thinks that the Olympics are not an appropriate forum for human rights. The Olympics, and Olympic athletes, are above politics."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Sports Business"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DE VARONA, DONNA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "1993-09-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/09/19/sports/l-sports-business-391493.html",
+        "news_desk": "Sports Desk",
+        "snippet": "  To the Sports Editor:   \"Haven't we learned anything from history?\" Donna De Varona asks. What she's learned, we learn, is that there's practically nothing -- not the massacre in Tiananmen Square, not thousands of political prisoners, not pervasive",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Sports; Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ac6d8eb7c8105d6cc19b",
+        "source": "The New York Times",
+        "word_count": 231,
+        "lead_paragraph": "To the Sports Editor: \"Haven't we learned anything from history?\" Donna De Varona asks. What she's learned, we learn, is that there's practically nothing -- not the massacre in Tiananmen Square, not thousands of political prisoners, not pervasive political censorship, not torture, not summary executions -- horrible enough to stand in the way of big-time sports' business as usual."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "OLYMPICS",
+          "main": "Politics Aside or Not Aside, the I.O.C. Must Make a Choice of Site"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "MANCHESTER (ENG)"
+          },
+          {
+            "name": "glocations",
+            "value": "SYDNEY (AUSTRALIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "ISTANBUL (TURKEY)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BERLIN (GERMANY)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "1993-09-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/09/20/sports/olympics-politics-aside-or-not-aside-the-ioc-must-make-a-choice-of-site.html",
+        "news_desk": "Sports Desk",
+        "snippet": "  For all the Olympic movement's efforts to sell itself as an idealistic antidote to the grimy world of politics, the campaign that will end on Thursday with the selection of the site of the Summer Olympics in the year 2000 has been fiercely politica",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "RIDING",
+            "role": "reported",
+            "firstname": "Alan"
+          }],
+          "original": "By ALAN RIDING"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ac608eb7c8105d6cb951",
+        "source": "The New York Times",
+        "word_count": 1451,
+        "lead_paragraph": "For all the Olympic movement's efforts to sell itself as an idealistic antidote to the grimy world of politics, the campaign that will end on Thursday with the selection of the site of the Summer Olympics in the year 2000 has been fiercely political. Much of the battle has focused on Beijing's bid to be host to the Games, with China freeing three political prisoners last week to bolster its image, and the United States Congress and the European Parliament among those demanding that the Chinese capital be rejected on human rights grounds."
+      }
+    ],
+    "meta": {
+      "time": 22,
+      "hits": 31,
+      "offset": 10
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

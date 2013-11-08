@@ -1,0 +1,728 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Some members of US Olympic cycling team emerge from airplane wearing masks over their mouths and noses; USOC lead exercise physiologist Randy Wilber advised athletes to wear masks that were specially designed for them because of air pollution; team officials scold cyclists for wearing masks in public, saying it might embarrass China, although USOC spokesman says he is not aware of reprimand; photos (M)",
+        "headline": {"main": "U.S. Cyclists Are Masked, and Criticism Is Not"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WILBER, RANDY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED STATES OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "MASKS"
+          },
+          {
+            "name": "subject",
+            "value": "BICYCLES AND BICYCLING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-06T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9A0DEFD61131F935A3575BC0A96E9C8B63",
+        "news_desk": "Sports Desk",
+        "snippet": "BEIJING -- After months of speculation about how Olympic athletes would react to the air quality problems here, some answers arrived at the airport Tuesday, when four track cyclists on the United States team stepped off their flight wearing masks ove",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MACUR",
+            "role": "reported",
+            "firstname": "Juliet"
+          }],
+          "original": "By JULIET MACUR; Katie Thomas contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd267df8eb7c8105d81debd",
+        "source": "The New York Times",
+        "word_count": 965,
+        "lead_paragraph": "BEIJING -- After months of speculation about how Olympic athletes would react to the air quality problems here, some answers arrived at the airport Tuesday, when four track cyclists on the United States team stepped off their flight wearing masks over their mouths and noses. They were the first athletes at these Summer Games seen wearing masks publicly to combat the effects of pollution, and the sight of them drew considerable attention and criticism from United States Olympic officials."
+      },
+      {
+        "abstract": "George Vecsey Sports of The Times column traces evolution of ideal that Olympic sports were glorification of amateur athletics to reality that includes money, sponsors and even some glory for those who win medals; photo (M)",
+        "headline": {
+          "kicker": "SPORTS OF THE TIMES",
+          "main": "An Ideal Powered by Pro Athletes"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SPORTS OF THE TIMES (TIMES COLUMN)"
+          },
+          {
+            "name": "subject",
+            "value": "SOCCER"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "ATHLETICS AND SPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "VOLLEYBALL"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "BASKETBALL"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2008-08-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/06/sports/olympics/06vecsey.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Mercenary motives are here to stay at the Olympics. And the rising tide of Olympic income could raise the boat of athletes who participate in less popular sports.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "VECSEY",
+            "role": "reported",
+            "firstname": "George"
+          }],
+          "original": "By GEORGE VECSEY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/06/sports/olympics/06vecsey.75.1.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/06/sports/olympics/06vecsey.75.1.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 466,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/06/sports/olympics/06vecsey.650.1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 466,
+              "xlarge": "images/2008/08/06/sports/olympics/06vecsey.650.1.jpg",
+              "xlargewidth": 650
+            }
+          }
+        ],
+        "_id": "4fd296428eb7c8105d872290",
+        "source": "The New York Times",
+        "word_count": 829,
+        "lead_paragraph": "Although he once chose volleyball over playing basketball for Bob Knight at Indiana University, Lloy Ball has a bond with the tall men who come calling at the Olympics every four years. The rising tide of Olympic income could raise his boat, too."
+      },
+      {
+        "abstract": "Shipment of strawberries, following request made by Olympic athletes, is imported, for first time, to China as part of temporary agreement with California; photo (S)",
+        "headline": {
+          "kicker": "FOOD STUFF",
+          "main": "FOOD STUFF | An Olympic Feat for Strawberries"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "CALIFORNIA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "STRAWBERRIES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FRUIT"
+          },
+          {
+            "name": "subject",
+            "value": "FOOD CONTAMINATION AND POISONING"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2008-08-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/06/sports/olympics/06berry.html",
+        "news_desk": "Dining In, Dining Out / Style Desk",
+        "snippet": "For the first time, a shipment of strawberries grown abroad entered China on Tuesday, as part of a temporary agreement between the country and California.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Dining and Wine; Style",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "STEINHAUER",
+            "role": "reported",
+            "firstname": "Jennifer"
+          }],
+          "original": "By JENNIFER STEINHAUER"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2008/08/06/dining/06berry.75.jpg",
+          "legacy": {
+            "thumbnail": "images/2008/08/06/dining/06berry.75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd296428eb7c8105d8722c6",
+        "source": "The New York Times",
+        "word_count": 284,
+        "lead_paragraph": "TO the many benefits accorded the Chinese in their role as the hosts of the Olympic Games, add this one: The chance to bite into a delicious California strawberry."
+      },
+      {
+        "abstract": "Eduardo Porter Editorial Notebook, citing attempts by Chinese government to make it rain prior to Olympic Games to help clean air, says pollution remains stubbornly high in Beijing, but notes that rain is forecast for opening ceremonies (M)",
+        "headline": {
+          "kicker": "EDITORIAL NOTEBOOK",
+          "main": "Polluted, Polite, With a Chance of Rain"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "WEATHER"
+          },
+          {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "RAIN"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "22",
+        "pub_date": "2008-08-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/06/opinion/06wed4.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "Despite China\u2019s track record of controlling its people, it\u2019s having a harder time making the elements behave.",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "PORTER",
+            "role": "reported",
+            "firstname": "Eduardo"
+          }],
+          "original": "By EDUARDO PORTER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b3bf8eb7c8105d8a5679",
+        "source": "The New York Times",
+        "word_count": 491,
+        "lead_paragraph": "Emily Post could do with the clout of China's leaders. Under what other system could government tell its citizens to stop wearing white socks with black shoes? In preparation for the Olympics, Beijing's Capital Ethics Development Office also suggested that people not wear more than three colors, avoid spitting or wearing pajamas in public and never ask foreigners about their age, marital status, income, religion or politics. The Chinese government is not just telling people what to do. In a sign of self-confidence -- or self-consciousness -- rarely seen on this side of the science fiction frontier, officials have made plans to manage the weather by deploying anti-aircraft guns and planes to shoot at clouds drifting around the capital. Yet despite China's track record of controlling its people, it's having a harder time making the elements behave."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Soaring Over the Bar "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "GYMNASTICS"
+          },
+          {
+            "name": "subject",
+            "value": "ATHLETICS AND SPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "persons",
+            "value": "SPRING, JUSTIN"
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/interactive/2008/08/07/sports/olympics/20080807_GYMNAST_GRAPHIC.html",
+        "news_desk": null,
+        "snippet": "Justin Spring, who will be representing the United States in Beijing, explains his techniques on the high bar.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a859c1c22dfde670be612",
+        "source": null,
+        "word_count": 29,
+        "lead_paragraph": "Justin Spring, who will be representing the United States in Beijing, explains his techniques on the high bar."
+      },
+      {
+        "abstract": "China's Communist Party proves resilient in face of economic liberalization, political stagnation, globalization and challenges presented by being host country to Olympic Games; while public appetite for reform has not waned, Olympics has caused surge in patriotism that bolstered party against international criticism after its crackdown on Tibetan protesters in March and controversy over Olympic torch relay; party, sometimes depicted as overwhelmed caretaker in rapidly changing country, has adapted, loosening its grip on elements of society as it crushes threats to its hold on power; private capitalists may be symbol of changing China, but party has clung to most profitable pillar industries and financial systems; analysts say party is reflective and adaptable within limits of system, but warn that adaptation may not be enough to retain control; photos (M)",
+        "headline": {"main": "From China's Olympic March, Lessons in a Party's Resilience"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-07T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9906E1D6173AF934A3575BC0A96E9C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "BEIJING -- As Beijing was starting construction on its main Olympic stadiums four years ago, China's vice president and leading political fixer, Zeng Qinghong, warned the 70 million members of the ruling Communist Party that the party itself could us",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY; Zhang Jing and Huang Yuanxi contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd297328eb7c8105d873bb7",
+        "source": "The New York Times",
+        "word_count": 1968,
+        "lead_paragraph": "BEIJING -- As Beijing was starting construction on its main Olympic stadiums four years ago, China's vice president and leading political fixer, Zeng Qinghong, warned the 70 million members of the ruling Communist Party that the party itself could use some reconstruction."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Behind Beijing&#8217;s Opening Night "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": "ZHANG YIMOU"
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2008/08/07/world/0807-GURU_index.html",
+        "news_desk": null,
+        "snippet": "The Chinese director Zhang Yimou will preside over the opening ceremony of the Beijing Olympics.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a89891c22dfde670c2915",
+        "source": null,
+        "word_count": 23,
+        "lead_paragraph": "The Chinese director Zhang Yimou will preside over the opening ceremony of the Beijing Olympics."
+      },
+      {
+        "abstract": "Pres Bush, speaking just prior to his arrival in Beijing, expresses deep concerns about basic freedoms in China, while praising China's impressive gains; has said that Olympics should not be used to criticize Chinese government constraints on freedom; hopes to strike balance between expressing support for freedom and cultivating cooperation with Chinese government",
+        "headline": {"main": "Bush Prods China on Rights on Eve of Games but Opposes Criticism at Olympics"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "glocations",
+            "value": "NORTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ATOMIC WEAPONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ARMS CONTROL AND LIMITATION AND DISARMAMENT"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "2008-08-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/07/world/asia/07prexy.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "President Bush\u2019s comments raise the prospect of new delays in the dismantling of North Korea\u2019s nuclear program.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Lee",
+            "role": "reported",
+            "lastname": "MYERS",
+            "firstname": "Steven"
+          }],
+          "original": "By STEVEN LEE MYERS; Choe Sang-hun contributed reporting from Seoul"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b3c28eb7c8105d8a5990",
+        "source": "The New York Times",
+        "word_count": 890,
+        "lead_paragraph": "In remarks delivered on the eve of the Olympic Games in Beijing, President Bush said Thursday that he had ''deep concerns'' about basic freedoms in China and he criticized the detention of dissidents and believers, even as he praised the extraordinary gains China had made since he first visited more than three decades ago. Mr. Bush's comments distilled and recast earlier statements critical of China's record on human rights. But with his speech, which also addressed other issues in Asia and was presented only hours before he was to fly to Beijing, the president sent a rebuke to China's leaders, though a measured one."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China Defends Right to Deny Activists' Visas"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEEK, JOEY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "VISAS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/07/sports/olympics/07cheek.html",
+        "news_desk": "Sports Desk",
+        "snippet": "A day after revoking the visa of former U.S. Olympian and activist Joey Cheek, the Chinese Ministry of Foreign Affairs issued a statement defending China\u2019s right to decide who crosses its borders.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "THOMAS",
+            "role": "reported",
+            "firstname": "Katie"
+          }],
+          "original": "By KATIE THOMAS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2963f8eb7c8105d871ff2",
+        "source": "The New York Times",
+        "word_count": 616,
+        "lead_paragraph": "A day after revoking the visa of the former United States Olympian and Darfur activist Joey Cheek, the Chinese Ministry of Foreign Affairs issued a statement defending China's right to decide who crosses its borders. ''The visa issue is a country's sovereign affairs,'' read the statement released Wednesday. ''The purpose is to provide a proper, secure environment for people watching and attending the Games.''"
+      },
+      {
+        "abstract": "Mike Friedman, Sarah Hammer, Bobby Lea and Jennie Reed, US cyclists who wore masks when they arrived at airport in Beijing, apologize to Olympic organizers; insist masks were for health reasons and were not meant as insult (M)",
+        "headline": {"main": "Cyclists Offer Apology And an Explanation"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "REA, BOBBY"
+          },
+          {
+            "name": "persons",
+            "value": "FRIEDMAN, MIKE"
+          },
+          {
+            "name": "persons",
+            "value": "HAMMER, SARAH"
+          },
+          {
+            "name": "persons",
+            "value": "REED, JENNIE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MASKS"
+          },
+          {
+            "name": "subject",
+            "value": "BICYCLES AND BICYCLING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2008-08-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/07/sports/olympics/07masks.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The four United States cyclists who wore pollution-cutting masks as they arrived at the airport in Beijing apologized to games officials, insisting that they wore the masks for health reasons.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MACUR",
+            "role": "reported",
+            "firstname": "Juliet"
+          }],
+          "original": "By JULIET MACUR"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2008/08/06/sports/06mask.1.75.jpg",
+          "legacy": {
+            "thumbnail": "images/2008/08/06/sports/06mask.1.75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd266148eb7c8105d81aaf3",
+        "source": "The New York Times",
+        "word_count": 631,
+        "lead_paragraph": "The four United States cyclists who wore pollution-cutting masks as they arrived at the airport here this week apologized to Olympic organizers Wednesday, insisting that they wore the masks for health reasons and did not mean to insult the host country. The track cyclists Mike Friedman, Sarah Hammer, Bobby Lea and Jennie Reed drafted their apology after meeting with Steve Roush, the chief of sport performance for the United States Olympic Committee."
+      }
+    ],
+    "meta": {
+      "time": 18,
+      "hits": 367,
+      "offset": 190
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

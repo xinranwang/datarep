@@ -1,0 +1,557 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "More than 40 Westerners are detained in Beijing as they stage racuous demonstration in Tiananmen Square in support of outlawed Falun Gong movement; photo; 14 Europeans are later detained in hotel rooms; incident comes as Pres Bush prepares to visit (M)",
+        "headline": {"main": "Chinese Police Detain Westerners in Falun Gong Protest"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "FALUN GONG"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "RELIGIOUS CULTS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2002-02-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/02/15/world/chinese-police-detain-westerners-in-falun-gong-protest.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "In the largest protest yet by foreign supporters of the outlawed Falun Gong spiritual movement, more than 40 Westerners were detained this afternoon as they staged raucous demonstrations in Tiananmen Square, Chinese authorities said.     Earlier toda",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd21b268eb7c8105d799d88",
+        "source": "The New York Times",
+        "word_count": 782,
+        "lead_paragraph": "In the largest protest yet by foreign supporters of the outlawed Falun Gong spiritual movement, more than 40 Westerners were detained this afternoon as they staged raucous demonstrations in Tiananmen Square, Chinese authorities said. Earlier today, an additional 14 European supporters who had also come to protest were detained in their hotel rooms, according to Falun Gong spokesmen abroad."
+      },
+      {
+        "abstract": "China expels 33 Americans and 20 other foreigners day after their arrest in largest demonstration yet by foreign members of banned Falun Gong spiritual movement; protest in Tiananmen Square one week before Pres Bush is to arrive is intended to dramatize harsh persecution of Chinese believers of Falun Gong; group hopes that Bush, who has shown deep interest in issue of religious freedom, will press their cause during his visit (M)",
+        "headline": {"main": "China Expels 53 Foreign Falun Gong Followers"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "FALUN GONG"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF RELIGION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2002-02-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/02/16/world/china-expels-53-foreign-falun-gong-followers.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China expelled 33 Americans and 20 other foreigners today, a day after they were arrested in the largest demonstration yet by foreign members of the banned Falun Gong spiritual movement, the Beijing police said.     The American Embassy said that the",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd262888eb7c8105d81469e",
+        "source": "The New York Times",
+        "word_count": 424,
+        "lead_paragraph": "China expelled 33 Americans and 20 other foreigners today, a day after they were arrested in the largest demonstration yet by foreign members of the banned Falun Gong spiritual movement, the Beijing police said. The American Embassy said that the Chinese authorities had informed it about the expelled Americans but that it had no further details about them."
+      },
+      {
+        "abstract": "Correction of Feb 22 article on speech Pres Bush made in China, which misidentified hotel he stayed at in Beijing",
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2002-02-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/02/28/nyregion/c-corrections-846686.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "An article on Friday about a speech that President Bush made in China urging freedom of religion misidentified his residence in Beijing. He and his wife stayed at the St. Regis Hotel, not the Diaoyutai State Guesthouse.",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections; Washington; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd22cbc8eb7c8105d7b91cf",
+        "source": "The New York Times",
+        "word_count": 37,
+        "lead_paragraph": "An article on Friday about a speech that President Bush made in China urging freedom of religion misidentified his residence in Beijing. He and his wife stayed at the St. Regis Hotel, not the Diaoyutai State Guesthouse."
+      },
+      {
+        "abstract": "Mimi Sheraton article on delectable street food at night markets in Beijing and Xian, from familiar Chinese dumplings to exotic offerings; photos (special section, The Sophisticated Traveler) (part 2 of 2-part section) (M)",
+        "headline": {"main": "Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "XIAN (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SPECIAL SECTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "FOOD"
+          }
+        ],
+        "print_page": "26",
+        "pub_date": "2002-03-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/03/03/magazine/beijing.html",
+        "news_desk": "Sophisticated Traveler Magazine",
+        "snippet": "Whatever wonders lure other visitors back to China, my favorite memories were of the delectable street foods I enjoyed throughout the country in 1986. On my return last June, I was both surprised and delighted to see that Beijing had become a gleamin",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel; Magazine",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Sheraton",
+            "role": "reported",
+            "firstname": "Mimi"
+          }],
+          "original": "By Mimi Sheraton"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd278928eb7c8105d83acce",
+        "source": "The New York Times",
+        "word_count": 2611,
+        "lead_paragraph": "Whatever wonders lure other visitors back to China, my favorite memories were of the delectable street foods I enjoyed throughout the country in 1986. On my return last June, I was both surprised and delighted to see that Beijing had become a gleaming metropolis with broad, tree-lined avenues, excellent new hotels and an immaculate, quick and quiet subway. But I feared this might mean that the markets and back alleys where I had sampled so many savory snacks had been modernized out of existence. Fortunately, I worried in vain, for while a few have disappeared, many remain, dispensing specialties with great flair and showmanship and giving visitors a chance to sample the world's most succulent and inexpensive fast food. The real magic begins at night, when after-dark markets come alive in a shimmering black-and-gold chiaroscuro. Under the dramatic glow cast by the simplest bare light bulbs to swaying garlands of red lanterns, cook-vendors hawk their wares as loudly as tropical birds, to attract hungry after-work crowds shopping the stands as carefully as though studying a menu. Clouds of steam and sizzles arise from fiery woks, and the air is filled with the mouthwatering scents of grilling meat, pungent spices and the hot sugar of frying sweet dumplings."
+      },
+      {
+        "abstract": "Officials in suburb of Beijing cut off electricity for small Christian-run home for aged and threaten to shut off water supply unless home is disbanded; they are alarmed by unauthorized church services there; religious activities outside China's official church are illegal, but so called house church services such as ones in home for aged are widespread, sometimes tolerated and sometimes not (M)",
+        "headline": {"main": "China Punishes a Christian Home for the Aged"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF RELIGION"
+          },
+          {
+            "name": "subject",
+            "value": "CHRISTIANS AND CHRISTIANITY"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2002-03-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/03/03/world/china-punishes-a-christian-home-for-the-aged.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Alarmed by unauthorized church services, officials in a northern suburb of Beijing have cut off the electricity for a small Christian-run home for the aged and are threatening to shut off the water supply unless the home is disbanded.    Chen Zhongxi",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd22e9a8eb7c8105d7bc795",
+        "source": "The New York Times",
+        "word_count": 528,
+        "lead_paragraph": "Alarmed by unauthorized church services, officials in a northern suburb of Beijing have cut off the electricity for a small Christian-run home for the aged and are threatening to shut off the water supply unless the home is disbanded. Chen Zhongxin, who is 70 and an informal Protestant pastor, runs the charitable home in Hai Chingluo village north of Beijing together with his wife. They take care of nine men and women in their 80's and 90's as well as a blind man and a disabled man, Mr. Chen said in a telephone interview."
+      },
+      {
+        "abstract": "Thousands of petitioners make way to Beijing each year when China's National People's Congress meets, in hopes of redressing unresolved complaints; must contend with wide dragnet of police officers and officials whose job is to protect city's image of untroubled stability, especially while country's legislators are on show; photos (M)",
+        "headline": {"main": "Beijing Journal; Seeking Justice, Clad in the Armor of Persistence"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "LEGISLATURES AND PARLIAMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2002-03-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/03/11/world/beijing-journal-seeking-justice-clad-in-the-armor-of-persistence.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Yu Baozhong crept into Beijing with a bundle of petitions and documents, harboring a dim hope of exposing the corruption of village officials to China's legislators, gathered here for their annual meeting.     But he was also scared, jumpily scanning",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BUCKLEY",
+            "role": "reported",
+            "firstname": "Chris"
+          }],
+          "original": "By CHRIS BUCKLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd262858eb7c8105d81442b",
+        "source": "The New York Times",
+        "word_count": 964,
+        "lead_paragraph": "Yu Baozhong crept into Beijing with a bundle of petitions and documents, harboring a dim hope of exposing the corruption of village officials to China's legislators, gathered here for their annual meeting. But he was also scared, jumpily scanning the streets for officials from his home province of Shandong who might bundle him away before anyone heard his account of how lawless party officials have ousted and jailed elected village leaders there."
+      },
+      {
+        "abstract": "Group of 25 North Koreans storm through gates of Spanish Embassy in Beijing, China, demanding safe passage to South Korea and threatening suicide if moves are made to repatriate them; all had crossed border into China once before, living there illegaly before being rounded up and returned to North Korea, where they were jailed under conditions they describe as 'atrocious'; they call themselves political refugees, but China, longtime ally of North Korea, insists they are economic migrants; their presence forces issue of what to do with hundreds of thousands of North Koreans who have streamed into China; photo (M)",
+        "headline": {"main": "North Koreans Storm Embassy Seeking Refuge"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "SPAIN"
+          },
+          {
+            "name": "glocations",
+            "value": "NORTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ILLEGAL ALIENS"
+          },
+          {
+            "name": "subject",
+            "value": "ASYLUM (POLITICAL)"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-NORTH KOREA"
+          },
+          {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN SERVICE"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2002-03-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/03/14/world/north-koreans-storm-embassy-seeking-refuge.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A group of 25 North Koreans stormed through the gates of the Spanish Embassy here today, demanding safe passage to South Korea and threatening suicide if moves were made to repatriate them.    All had previously crossed the border into China and live",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd21b928eb7c8105d79a864",
+        "source": "The New York Times",
+        "word_count": 309,
+        "lead_paragraph": "A group of 25 North Koreans stormed through the gates of the Spanish Embassy here today, demanding safe passage to South Korea and threatening suicide if moves were made to repatriate them. All had previously crossed the border into China and lived here illegally, a statement released by the group said. But, as is common in such cases, Chinese police eventually arrested most of them and returned them to North Korea where they were jailed under conditions they described as ''atrocious.''"
+      },
+      {
+        "abstract": "Representatives of United Nations high commissioner for refugees visit 25 North Koreans who burst through gates of Spanish Embassy in Beijing demanding safe passage to South Korea; North Kroeans, 17 adults and 8 children, are demanding political asylum and threatening to commit suicide if Chinese try to repatriate them; members of group are among estiamted 300,000 North Koreans who have surreptitiously crossed border into China, fleeing hunger and political repression; spokesman for UN refugee commission says asylum seekers should not be sent home because they face almost certain persecution; South Korean television reports that 25 Koreans will leave Beijing and eventually travel to South Korea; there is no official confirmation of this; photo (M)",
+        "headline": {"main": "U.N. Group Backs North Korean Asylum Seekers in China"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "SOUTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "NORTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS HIGH COMMISSION FOR REFUGEES"
+          },
+          {
+            "name": "subject",
+            "value": "ILLEGAL ALIENS"
+          },
+          {
+            "name": "subject",
+            "value": "ASYLUM (POLITICAL)"
+          },
+          {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2002-03-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/03/15/world/un-group-backs-north-korean-asylum-seekers-in-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Twenty-five North Koreans who burst through the gates of the Spanish Embassy here Thursday morning demanding safe passage to South Korea were visited Thursday by local representatives of the United Nations high commissioner for refugees in an effort ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2146d8eb7c8105d78c8c5",
+        "source": "The New York Times",
+        "word_count": 921,
+        "lead_paragraph": "Twenty-five North Koreans who burst through the gates of the Spanish Embassy here Thursday morning demanding safe passage to South Korea were visited Thursday by local representatives of the United Nations high commissioner for refugees in an effort to help resolve a sticky diplomatic standoff. The North Koreans, 17 adults and 8 children who spent the night at the ambassador's residence, are demanding political asylum and threatened to commit suicide with rat poison if the Chinese try to repatriate them, according to a statement released by the group and a German doctor who helped them."
+      },
+      {
+        "abstract": "Photos of Beijing after dust storm hits, reducing visibility to 500 yards; nearly million tons of dust from Gobi Desert blows into Beijing every spring",
+        "headline": {"main": "A Sandy Tempest Chokes Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "GOBI DESERT (MONGOLIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DUST"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2002-03-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/03/21/world/a-sandy-tempest-chokes-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Photos of Beijing after dust storm hits, reducing visibility to 500 yards; nearly million tons of dust from Gobi Desert blows into Beijing every spring",
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd22e9d8eb7c8105d7bc9af",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Beijing Journal on potential extinction of sparrows, because of pesticide pollution and Chinese taste for small birds; photo; map (M)",
+        "headline": {"main": "Beijing Journal; From Pest to Meal: A Leap Forward?"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "PESTICIDES AND PESTS"
+          },
+          {
+            "name": "subject",
+            "value": "SPARROWS"
+          },
+          {
+            "name": "subject",
+            "value": "ENDANGERED AND EXTINCT SPECIES"
+          },
+          {
+            "name": "subject",
+            "value": "BIRDS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2002-04-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/04/03/world/beijing-journal-from-pest-to-meal-a-leap-forward.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "In the late 1950's, Mao notoriously put sparrows on a hit list of natural pests to be exterminated as China made its Great Leap Forward into communism.     After pleas from scientists that whatever damage sparrows were thought to be inflicting on gra",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BUCKLEY",
+            "role": "reported",
+            "firstname": "Chris"
+          }],
+          "original": "By CHRIS BUCKLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd28dc38eb7c8105d863a98",
+        "source": "The New York Times",
+        "word_count": 941,
+        "lead_paragraph": "In the late 1950's, Mao notoriously put sparrows on a hit list of natural pests to be exterminated as China made its Great Leap Forward into communism. After pleas from scientists that whatever damage sparrows were thought to be inflicting on grain harvests was more than outweighed by their consumption of harmful insects, the surviving birds were given a reprieve and went on to thrive."
+      }
+    ],
+    "meta": {
+      "time": 45,
+      "hits": 51,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

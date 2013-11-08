@@ -1,0 +1,885 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "New Antismoking Signs Are Almost Visible Through the Haze**Cigarettes are banned in schools, railway stations, office buildings and other public places in Beijing; Chinese athletes are no longer permitted to accept tobacco company sponsorships, and cigarette advertising on billboards will be restricted during Olympics; despite new laws, impact might elude nonsmoking visitors who arrive in Beijing for Olympic Games; most restaurants remain shrouded in smoke, air in clubs and bars can be asphyxiating and year-old prohibition against lighting up in taxis has had little effect; photo (M)",
+        "headline": {
+          "kicker": "BEIJING JOURNAL",
+          "main": "New Antismoking Signs Are Almost Visible Through the Haze"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WEN JIABAO"
+          },
+          {
+            "name": "persons",
+            "value": "MAO ZEDONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TAXICABS AND TAXICAB DRIVERS"
+          },
+          {
+            "name": "subject",
+            "value": "RESTAURANTS"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "ATHLETICS AND SPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+          },
+          {
+            "name": "subject",
+            "value": "STATIONS AND TERMINALS (PASSENGER)"
+          },
+          {
+            "name": "subject",
+            "value": "BARS"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OUTDOOR ADVERTISING"
+          },
+          {
+            "name": "subject",
+            "value": "OFFICE BUILDINGS AND COMMERCIAL PROPERTIES"
+          },
+          {
+            "name": "subject",
+            "value": "RAILROADS"
+          },
+          {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+          },
+          {
+            "name": "subject",
+            "value": "SMOKING AND TOBACCO"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2008-07-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/07/23/world/asia/23smoking.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "In a country where one in four people smoke, there are signs that a decade of halfhearted public campaigns against tobacco may finally be gaining traction.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Health; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/07/23/world/23smoking.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/07/23/world/23smoking.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/07/23/world/23smoking.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2008/07/23/world/23smoking.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd295c48eb7c8105d871875",
+        "source": "The New York Times",
+        "word_count": 1007,
+        "lead_paragraph": "A smartly dressed man carried a lighted cigarette into the elevator of an upscale apartment building here one recent morning, and something remarkable happened. A fellow passenger, a middle-aged woman with a pet Maltese tethered to her wrist, waved a hand in front of her face and produced a series of mannered coughs that had the desired effect: the man stepped on the cigarette and muttered an apology. In a country where one in four people smoke, and where doctors light up in hospital hallways and health ministers puff away during meetings, it was a telling sign that a decade of halfhearted public campaigns against tobacco may finally be gaining traction."
+      },
+      {
+        "abstract": "US gymnastics alternates for 2008 Olympics may have to train in Japan, three hours away by plane from site of Games in Beijing (M)",
+        "headline": {"main": "For 3 Alternate Gymnasts, Possible Alternate Site"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "USA GYMNASTICS"
+          },
+          {
+            "name": "subject",
+            "value": "GYMNASTICS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2008-07-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/07/23/sports/olympics/23gymnastics.html",
+        "news_desk": "Sports Desk",
+        "snippet": "USA Gymnastics officials said a visa mix-up may mean that the alternates for the women\u2019s team will have to train in Japan, three hours away by plane.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MACUR",
+            "role": "reported",
+            "firstname": "Juliet"
+          }],
+          "original": "By JULIET MACUR"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b3bd8eb7c8105d8a54c7",
+        "source": "The New York Times",
+        "word_count": 635,
+        "lead_paragraph": "If the gymnasts named as alternates to the United States Olympic women's team do not feel bad enough about being left off the six-member squad, here is another piece of bad news: While their team competes in Beijing, the alternates might be training in Japan, three hours away by plane. USA Gymnastics officials said that Jana Bieger, Ivana Hong and Corrie Lothrop were supposed to train in Tianjin, about an hour from Beijing. But a mix-up with visas changed that plan."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China\u2019s Neighborhoods Face Change"},
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Architecture",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Historic Buildings and Sites",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Olympic Games (2008)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-07-23T04:06:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2008/07/23/arts/20080723_HUTONG_SLIDESHOW_index.html",
+        "news_desk": "Arts",
+        "snippet": "The ferocious building boom that has transformed Beijing into a modern metropolis has also turned many of its historical neighborhoods into rubble. Nicolai Ouroussoff reports.",
+        "type_of_material": "Slideshow",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5138e6bdcf28d04ae000029a",
+        "source": "The New York Times",
+        "word_count": "25",
+        "lead_paragraph": "The ferocious building boom that has transformed Beijing into a modern metropolis has also turned many of its historical neighborhoods into rubble. Nicolai Ouroussoff reports."
+      },
+      {
+        "abstract": "Siheyuan, traditional Chinese one-story courtyard home, is described as oasis in bustling city, like Beijing; viewed as place to reconnect with earth, many residents of such properties are renovating them to reflect traditional and personal styles; Michael Meyer book The Last Days of Old Beijing: Life in the Vanishing Backstreets of a City Transformed examines heritage of siheyuan properties and role they play in society; photos (L)",
+        "headline": {"main": "In Ancient Alleys, Modern Comforts"},
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "LAST DAYS OF OLD BEIJING, THE (BOOK)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "LIFE STYLES"
+          },
+          {
+            "name": "subject",
+            "value": "HISTORIC BUILDINGS AND SITES"
+          },
+          {
+            "name": "subject",
+            "value": "HOUSING"
+          },
+          {
+            "name": "subject",
+            "value": "RESTORATION AND REHABILITATION"
+          },
+          {
+            "name": "subject",
+            "value": "AREA PLANNING AND RENEWAL"
+          },
+          {
+            "name": "subject",
+            "value": "BOOKS AND LITERATURE"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "subject",
+            "value": "BUILDINGS (STRUCTURES)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-07-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/07/24/garden/24beijing.html",
+        "news_desk": "House & Home/Style Desk",
+        "snippet": "Some of Beijing\u2019s traditional courtyard homes are being refurbished with a mix of modern sensibility and respect for original detail.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Home and Garden; Style; Books",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LEVIN",
+            "role": "reported",
+            "firstname": "Dan"
+          }],
+          "original": "By DAN LEVIN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "2",
+            "height": 700,
+            "width": 750,
+            "caption": "China\u2019s Neighborhoods Face Change",
+            "type": "Slideshow",
+            "credit": "The ferocious building boom that has transformed Beijing into a modern metropolis has also turned many of its historical neighborhoods into rubble. Nicolai Ouroussoff reports.",
+            "url": "http://www.nytimes.com/slideshow/2008/07/23/arts/20080723_HUTONG_SLIDESHOW_index.html",
+            "legacy": {
+              "MultimediaSummary2": "The ferocious building boom that has transformed Beijing into a modern metropolis has also turned many of its historical neighborhoods into rubble. Nicolai Ouroussoff reports.",
+              "MultimediaPopupWidth2": "750",
+              "MultimediaType2": "Slideshow",
+              "MultimediaPopupHeight2": "700",
+              "MultimediaUrl2": "http://www.nytimes.com/slideshow/2008/07/23/arts/20080723_HUTONG_SLIDESHOW_index.html",
+              "MultimediaHeadline2": "China\u2019s Neighborhoods Face Change"
+            }
+          },
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "caption": "Renovating Beijing\u2019s Historic Homes",
+            "type": "Slideshow",
+            "credit": "Some historic homes in the city are undergoing high-end renovations.",
+            "url": "http://www.nytimes.com/slideshow/2008/07/24/garden/0724-BEIJING_index.html",
+            "legacy": {
+              "MultimediaSummary1": "Some historic homes in the city are undergoing high-end renovations.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Renovating Beijing\u2019s Historic Homes",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2008/07/24/garden/0724-BEIJING_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/07/24/garden/24beijing-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/07/24/garden/24beijing-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/07/24/garden/24beijing-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2008/07/24/garden/24beijing-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/07/24/garden/24beijing-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/07/24/garden/24beijing-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd27cc58eb7c8105d8433b8",
+        "source": "The New York Times",
+        "word_count": 1972,
+        "lead_paragraph": "A STROLL through one of this city's labyrinthine hutongs -- alleys lined with courtyard houses that wind away from the boulevards and public squares -- offers glimpses of a back street life mostly hidden behind the gray walls on either side: chain-smoking old men sitting at a checkerboard, a workman intent on a lunch of steamed dumplings, a cobbler hunched over a pair of worn canvas shoes. Occasionally an open door reveals a warren of cramped passageways or a courtyard packed with battered bicycles, caged songbirds and clothes hung out to dry in the hazy sunlight."
+      },
+      {
+        "abstract": "Chinese government will permit public protests inside three Beijing parks during Olympic Games, but demonstrators must first obtain permits from local police and also abide by Chinese laws that make it nearly impossible to legally picket over politically charged issues; Communist Party is tightening security across country and has shown little appetite for domestic political dissent; map; photo (M)",
+        "headline": {"main": "3 Parks Set As Zones For Protest In Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "PARKS AND OTHER RECREATION AREAS"
+          },
+          {
+            "name": "subject",
+            "value": "SECURITY AND WARNING SYSTEMS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2008-07-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/07/24/sports/olympics/24china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Chinese government will permit public protests inside three city parks, but demonstrators must obtain permits and abide by laws that usually make political demonstration nearly impossible.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY; Zhang Jing and Jake Hooker contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/07/23/world/23china-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/07/23/world/23china-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/07/23/world/23china-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2008/07/23/world/23china-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/07/23/world/23china-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/07/23/world/23china-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd266118eb7c8105d81a7e9",
+        "source": "The New York Times",
+        "word_count": 886,
+        "lead_paragraph": "The Chinese government will permit public protests inside three designated city parks during next month's Olympic Games, but demonstrators must first obtain permits from the local police and also abide by Chinese laws that usually make it nearly impossible to legally picket over politically charged issues. The arrangement, announced by authorities on Wednesday, is a break from normal practice in China's authoritarian political system and seems loosely modeled on the protest zones created at previous Olympic Games and at many recent international political gatherings that attract large numbers of protesters."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Renovating Beijing&#8217;s Historic Homes "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "HOUSING"
+          },
+          {
+            "name": "subject",
+            "value": "AREA PLANNING AND RENEWAL"
+          },
+          {
+            "name": "subject",
+            "value": "RESTORATION AND REHABILITATION"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-07-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2008/07/24/garden/0724-BEIJING_index.html",
+        "news_desk": null,
+        "snippet": "Some historic homes in the city are undergoing high-end renovations.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a893e1c22dfde670c2746",
+        "source": null,
+        "word_count": 19,
+        "lead_paragraph": "Some historic homes in the city are undergoing high-end renovations."
+      },
+      {
+        "abstract": "US Olympic Committee says two Web sites are selling tickets to 2008 Olympics via credit card, but are not sending tickets to purchasers (M)",
+        "headline": {"main": "U.S.O.C. Says 2 Web Sites Are Selling Bogus Tickets"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED STATES OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2008-07-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/07/24/sports/olympics/24tickets.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The United States Olympic Committee has filed lawsuits against two Web sites for unauthorized sales of tickets to the Beijing Olympics.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "THOMAS",
+            "role": "reported",
+            "firstname": "Katie"
+          }],
+          "original": "By KATIE THOMAS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd269a38eb7c8105d820bdd",
+        "source": "The New York Times",
+        "word_count": 450,
+        "lead_paragraph": "Consumers trying to buy tickets to the Beijing Olympics next month have been duped by at least two Web sites that charged their credit cards but never mailed the tickets, according to lawsuits filed Tuesday by the United States Olympic Committee. Lawyers for the committee claim that the two sites, beijingticketing.com and beijing-2008tickets.com, illegally used Olympic trademarks and sold tickets that were never sent to the buyers. The lawsuits, filed in the federal districts of Arizona and Northern California, ask the courts to impound the companies' domain names and to order them to stop using the Olympic trademarks as well as claiming to sell Olympic tickets."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Renovating Beijing\u2019s Historic Homes"},
+        "keywords": [
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Architecture",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Housing",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Area Planning and Renewal",
+            "is_major": "N"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Restoration and Rehabilitation",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-07-24T18:25:02Z",
+        "web_url": "http://www.nytimes.com/slideshow/2008/07/24/garden/0724-BEIJING_index.html",
+        "news_desk": "Home & Garden",
+        "snippet": "Some historic homes in the city are undergoing high-end renovations.",
+        "type_of_material": "Slideshow",
+        "blog": [],
+        "section_name": "Home & Garden",
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5138e6c0cf28d04ae000029b",
+        "source": "The New York Times",
+        "word_count": "10",
+        "lead_paragraph": "Some historic homes in the city are undergoing high-end renovations."
+      },
+      {
+        "abstract": "Nicolai Ouroussoff article on how explosion of construction activity has transformed Beijing into modern metropolis over past decade, but has also turned many of its historical neighborhoods into rubble; says Chinese preservationists are facing new threat of gentrification as few remaining courtyard houses have become coveted status symbols; photos, drawing (L)",
+        "headline": {
+          "kicker": "ARCHITECTURE",
+          "main": "Lost in the New Beijing: The Old Neighborhood"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HISTORIC BUILDINGS AND SITES"
+          },
+          {
+            "name": "subject",
+            "value": "AREA PLANNING AND RENEWAL"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-07-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/07/27/arts/design/27ouro.html",
+        "news_desk": "Arts and Leisure Desk",
+        "snippet": "A construction boom tied to the Olympics is threatening two types of housing in China\u2019s capital.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "OUROUSSOFF",
+            "role": "reported",
+            "firstname": "Nicolai"
+          }],
+          "original": "By NICOLAI OUROUSSOFF"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "2",
+            "height": 700,
+            "width": 750,
+            "caption": "Renovating Beijing\u2019s Historic Homes",
+            "type": "Slideshow",
+            "credit": "Some historic homes in the city are undergoing high-end renovations.",
+            "url": "http://www.nytimes.com/slideshow/2008/07/24/garden/0724-BEIJING_index.html",
+            "legacy": {
+              "MultimediaSummary2": "Some historic homes in the city are undergoing high-end renovations.",
+              "MultimediaPopupWidth2": "750",
+              "MultimediaType2": "Slideshow",
+              "MultimediaPopupHeight2": "700",
+              "MultimediaUrl2": "http://www.nytimes.com/slideshow/2008/07/24/garden/0724-BEIJING_index.html",
+              "MultimediaHeadline2": "Renovating Beijing\u2019s Historic Homes"
+            }
+          },
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "caption": "China\u2019s Neighborhoods Face Change",
+            "type": "Slideshow",
+            "credit": "The ferocious building boom that has transformed Beijing into a modern metropolis has also turned many of its historical neighborhoods into rubble. Nicolai Ouroussoff reports.",
+            "url": "http://www.nytimes.com/slideshow/2008/07/23/arts/20080723_HUTONG_SLIDESHOW_index.html",
+            "legacy": {
+              "MultimediaSummary1": "The ferocious building boom that has transformed Beijing into a modern metropolis has also turned many of its historical neighborhoods into rubble. Nicolai Ouroussoff reports.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "China\u2019s Neighborhoods Face Change",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2008/07/23/arts/20080723_HUTONG_SLIDESHOW_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/07/27/arts/23hutong-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/07/27/arts/23hutong-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 329,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/07/27/arts/27ourospan.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 329,
+              "xlarge": "images/2008/07/27/arts/27ourospan.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/07/27/arts/337-ouro.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/07/27/arts/337-ouro.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd269a48eb7c8105d820c3a",
+        "source": "The New York Times",
+        "word_count": 2010,
+        "lead_paragraph": "HISTORICAL cycles that took a century to unfold in the West can be compressed into less than a decade in today's China. And that's as true of Beijing's preservation movement as it is of the nation's ferocious building boom."
+      },
+      {
+        "abstract": "Donald Morrison travel article on contemporary Chinese art galleries in Dashanzi arts district in northeast Beijing; photos (M)",
+        "headline": {
+          "kicker": "GLOBESPOTTERS | BEIJING",
+          "main": "A Hundred Galleries Bloom"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-07-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/07/27/travel/27globe.html",
+        "news_desk": "Travel Desk",
+        "snippet": "Contemporary Chinese art is as hot as Beijing in August, and new galleries are opening nearly every week in its arts district, Dashanzi.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MORRISON",
+            "role": "reported",
+            "firstname": "Donald"
+          }],
+          "original": "By DONALD MORRISON"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/07/27/travel/27globe75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/07/27/travel/27globe75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/07/27/travel/27globe600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2008/07/27/travel/27globe600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd269a48eb7c8105d820c54",
+        "source": "The New York Times",
+        "word_count": 506,
+        "lead_paragraph": "CONTEMPORARY Chinese art is as hot as Beijing in August, with works by Zeng Fanzhi, Yue Minjun, Cai Guo-Qiang, Zhang Xiaogang and other Chinese artists fetching millions of dollars. Last year, China displaced France as the art world's third-biggest auction market, after the United States and Britain. The red-hot center of Chinese art is the Dashanzi arts district, situated in and around the former Factory 798 in northeast Beijing, just off the Airport Expressway. That two-million-square-foot complex of galleries, studios, museums, boutiques and cafes is becoming one of the city's most unusual tourist attractions. It's SoHo and Greenwich Village with Chinese characteristics."
+      }
+    ],
+    "meta": {
+      "time": 17,
+      "hits": 367,
+      "offset": 140
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

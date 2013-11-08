@@ -1,0 +1,907 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "China defeats Germany, 3-0, in first gold medal match of men's doubles table tennis; photo (M)",
+        "headline": {"main": "Chinese Fans Go Wild For Table Tennis Gold"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "GERMANY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TENNIS, TABLE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2008-08-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/19/sports/olympics/19table.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The hottest ticket for the Olympics on Monday night was for table tennis, where China beat Germany, 3-0.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRANCH",
+            "role": "reported",
+            "firstname": "John"
+          }],
+          "original": "By JOHN BRANCH; Zhang Jing contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/19/sports/18table_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/19/sports/18table_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 450,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/19/sports/18table_650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 450,
+              "xlarge": "images/2008/08/19/sports/18table_650.jpg",
+              "xlargewidth": 650
+            }
+          }
+        ],
+        "_id": "4fd2972c8eb7c8105d8736bf",
+        "source": "The New York Times",
+        "word_count": 871,
+        "lead_paragraph": "China won the first match of the men's table tennis gold-medal contest, to no one's surprise, and the fans at the packed Peking University Gymnasium were in full, flag-waving frenzy. The public-address announcer, the volume on his microphone set to shrill, wanted more. ''Do you think today's performance is great?'' he shouted in Mandarin. Most of the 7,557 in attendance shouted ''Yes!''"
+      },
+      {
+        "abstract": "China's star hurdler Liu Xiang's decision to pull out of Beijing Olympics with foot injury not only sapped hopes and aspirations of nation, it also dealt blow to marketing plans of some marquee brands; major sponsors say they still plan to promote Liu Xiang as 'brand ambassador' to China; Liu earned more than $23 million through advertising and marketing deals last year; photo (L)",
+        "headline": {"main": "Olympic Star Is Sidelined. Will His Ads Be, as Well?"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LIU XIANG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "TRACK AND FIELD"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2008-08-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/19/sports/olympics/19liu.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "When China\u2019s star hurdler, Liu Xiang, limped off the field late Monday morning, it dealt a blow to the marketing plans of some marquee brands.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA; Chen Yang contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 820,
+            "caption": "A Hurdler's Pain",
+            "type": "External",
+            "credit": "An injury forced Liu Xiang to withdraw from competition. Jimmy Wang gets reactions from the streets of Beijing.",
+            "url": "http://video.on.nytimes.com/?fr_story=8c5d734b044c79c63463a61ea135fdf8de1208b7",
+            "legacy": {
+              "MultimediaSummary1": "An injury forced Liu Xiang to withdraw from competition. Jimmy Wang gets reactions from the streets of Beijing.",
+              "MultimediaPopupWidth1": "820",
+              "MultimediaType1": "External",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "A Hurdler's Pain",
+              "MultimediaUrl1": "http://video.on.nytimes.com/?fr_story=8c5d734b044c79c63463a61ea135fdf8de1208b7"
+            }
+          },
+          {
+            "height": 405,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/19/business/19liu.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 405,
+              "xlarge": "images/2008/08/19/business/19liu.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd267d88eb7c8105d81d994",
+        "source": "The New York Times",
+        "word_count": 1088,
+        "lead_paragraph": "When China's star hurdler, Liu Xiang, limped off the field late Monday morning, pulling out of the Beijing Olympics, his foot injury not only sapped the hopes and aspirations of a nation, it also dealt a blow to the marketing plans of some marquee brands. Mr. Liu, 25, is China's answer to Michael Jordan and Tiger Woods, combined. His image can be seen on billboards in virtually every major Chinese city, and in global marketing campaigns for Nike. A life-size replica of him hurdling, decked in Nike gear, appears in Nike stores in the capital. A giant picture of him hangs in the Coca-Cola center on the Beijing Games' Olympic green. Ads for Visa endow him with superhuman capabilities, showing him chasing a kangaroo."
+      },
+      {
+        "abstract": "Olympic Games in Beijing are drawing high percentage of women viewers on networks and Web sites of NBC Universal, and ads intended for them; some advertising examples cited; photos (L)",
+        "headline": {
+          "kicker": "ADVERTISING",
+          "main": "Olympics Draw High Percentage of Women Viewers, and Ads Intended for Them"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NBC UNIVERSAL"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2008-08-19T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9B0CE6D7133FF93AA2575BC0A96E9C8B63",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "IT could be considered the Sisterhood of the Traveling Olympics: Every two and a half years, a group of female friends gathers for a viewing party to watch the skating events in the Winter Games and events like the gymnastics and swimming in the Summ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ELLIOTT",
+            "role": "reported",
+            "firstname": "Stuart"
+          }],
+          "original": "By STUART ELLIOTT"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd267df8eb7c8105d81dec1",
+        "source": "The New York Times",
+        "word_count": 1149,
+        "lead_paragraph": "IT could be considered the Sisterhood of the Traveling Olympics: Every two and a half years, a group of female friends gathers for a viewing party to watch the skating events in the Winter Games and events like the gymnastics and swimming in the Summer Games. ''I don't typically follow sports at all,'' said one member, Josselyn Simpson, an editor at a consulting company in New York, explaining in an e-mail message that her interest lies in ''the sense of occasion.''"
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "sub": "Tian Tan Park in Beijing",
+          "main": "Morning Exercise"
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Tai Chi (Oriental Exercise)",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Parks and Other Recreation Areas",
+            "is_major": "N"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-19T23:37:54Z",
+        "web_url": "http://www.nytimes.com/video/2008/08/19/sports/olympics/1194817107036/morning-exercise.html",
+        "news_desk": "Sports / Olympics",
+        "snippet": "Residents talk about their morning routine in Tian Tan Park, both an exercise spot and a social venue for many elderly Chinese.",
+        "type_of_material": "Video",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "multimedia",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Wang",
+            "role": "reported",
+            "firstname": "Jimmy"
+          }],
+          "original": "Jimmy Wang"
+        },
+        "subsection_name": "Olympics",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2008/08/19/sports/olympics/3517_1_taichipark_1_p2_xml.190x126.fr.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2008/08/19/sports/olympics/3517_1_taichipark_1_p2_xml.190x126.fr.jpg"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2008/08/19/sports/olympics/3517_1_taichipark_1_p2_xml.75x75.fr.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/19/sports/olympics/3517_1_taichipark_1_p2_xml.75x75.fr.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "523a9db038f0d81989739de3",
+        "source": "The New York Times",
+        "word_count": "22",
+        "lead_paragraph": "Residents talk about their morning routine in Tian Tan Park, both an exercise spot and a social venue for many elderly Chinese."
+      },
+      {
+        "abstract": "US women's water polo team defeats Australia, 9-8, to advance to Olympic final; player Brenda Villa comments; photo (M)",
+        "headline": {"main": "By Beating Australia, U.S. Women Exorcise Some Painful Demons"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "VILLA, BRENDA"
+          },
+          {
+            "name": "glocations",
+            "value": "AUSTRALIA"
+          },
+          {
+            "name": "glocations",
+            "value": "HUNGARY"
+          },
+          {
+            "name": "glocations",
+            "value": "NETHERLANDS"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "WATER POLO"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2008-08-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/20/sports/olympics/20polo.html",
+        "news_desk": "Sports Desk",
+        "snippet": "With a 9-8 victory over Australia, the American women find themselves one victory away from their first ever gold medal in the sport.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "THAMEL",
+            "role": "reported",
+            "firstname": "Pete"
+          }],
+          "original": "By PETE THAMEL"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/18/sports/olympics/19polo_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/18/sports/olympics/19polo_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 450,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/18/sports/olympics/19polo_650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 450,
+              "xlarge": "images/2008/08/18/sports/olympics/19polo_650.jpg",
+              "xlargewidth": 650
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/08/18/sports/olympics/19polo_337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/08/18/sports/olympics/19polo_337.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd2972c8eb7c8105d8736f7",
+        "source": "The New York Times",
+        "word_count": 772,
+        "lead_paragraph": "With a star-crossed history of Olympic heartbreak, the United States women's water polo team faced more than its nemesis, Australia, on Tuesday for a spot in the gold medal game. It was also swimming with ghosts. And as the United States women squandered a three-goal lead in the fourth quarter in the Olympic semifinals at Yingdong Natatorium, they could feel the bad memories from 2000 and 2004 splashing at their heels."
+      },
+      {
+        "abstract": "Tsingtao Brewery, China's largest beer company, says first-half profit rose 32 percent after publicity from sponsoring Beijing Olympics increased demand; net income rose to 38.1 million yuan ($56 million) from 287.9 million yuan; sales rose 16 percent, to 7.9 billion yuan (S)",
+        "headline": {
+          "kicker": "WORLD BUSINESS BRIEFING | ASIA",
+          "main": "CHINA: OLYMPICS HELP TSINGTAO SALES"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "TSINGTAO BREWERY CO"
+          },
+          {
+            "name": "subject",
+            "value": "SALES"
+          },
+          {
+            "name": "subject",
+            "value": "BEER"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "ALCOHOLIC BEVERAGES"
+          },
+          {
+            "name": "subject",
+            "value": "COMPANY REPORTS"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2008-08-20T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9904E0DD1039F933A1575BC0A96E9C8B63",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Tsingtao Brewery, China's largest beer company by sales, said first-half profit rose 32 percent after publicity from sponsoring the Beijing Olympics increased demand. Net income climbed to 381.1 million yuan ($56 million), or 0.29 yuan a share, from ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "NEWS",
+            "role": "reported",
+            "firstname": "Bloomberg"
+          }],
+          "original": "By BLOOMBERG NEWS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd267d88eb7c8105d81d9b5",
+        "source": "The New York Times",
+        "word_count": 138,
+        "lead_paragraph": "Tsingtao Brewery, China's largest beer company by sales, said first-half profit rose 32 percent after publicity from sponsoring the Beijing Olympics increased demand. Net income climbed to 381.1 million yuan ($56 million), or 0.29 yuan a share, from 287.9 million yuan or 0.22 yuan, the company said in a statement to the Hong Kong Stock Exchange. Sales rose 16 percent, to 7.9 billion yuan, from 6.83 billion yuan. Tsingtao, based in the eastern Chinese city of Qingdao, is hoping to use publicity from the sponsorship to increase full-year beer volume growth. Rising costs for electricity and raw materials are making production more expensive at Chinese brewers. Tsingtao Brewery, 27 percent owned by Anheuser-Busch, is aiming for a year-over-year increase in sales volume of 13 percent in 2008, after growing 11 percent in 2007."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "In Soccer's Heavyweight Bout, Argentina Wins by a Knockout"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "MESSI, LIONEL"
+          },
+          {
+            "name": "persons",
+            "value": "MARADONA, DIEGO"
+          },
+          {
+            "name": "persons",
+            "value": "RONALDINHO"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SOCCER"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/20/sports/olympics/20soccer.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The semifinal clash between Brazil and Argentina was marred by numerous fouls and two ejections for Brazil.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MARCUS",
+            "role": "reported",
+            "firstname": "Jeffrey"
+          }],
+          "original": "By JEFFREY MARCUS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd267d08eb7c8105d81d450",
+        "source": "The New York Times",
+        "word_count": 746,
+        "lead_paragraph": "Soccer is a second-tier sport at the Olympics -- largely a youth tournament, barely tolerated by FIFA. But the sport's claim on the emotions of fans in undeniable, especially when the two of the most glamorous names in this tournament are set to duel: Ronaldinho and Lionel Messi. The former Barcelona teammates play for Brazil and Argentina, which gave the semifinal clash here on Tuesday more cachet than the Olympic soccer tournament usually garners."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Even the Clothes on Their Backs Have Rules"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LI NING"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED STATES OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "organizations",
+            "value": "NIKE INC"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "LOGOTYPES"
+          },
+          {
+            "name": "subject",
+            "value": "LANGUAGE AND LANGUAGES"
+          },
+          {
+            "name": "subject",
+            "value": "UNIFORMS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/20/sports/olympics/20uniforms.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The key to Olympic uniform regulations is making every country as identifiable as possible.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ZINSER",
+            "role": "reported",
+            "firstname": "Lynn"
+          }],
+          "original": "By LYNN ZINSER"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/19/sports/olympics/uni_7575.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/19/sports/olympics/uni_7575.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 225,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/19/sports/olympics/uniforms_600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 225,
+              "xlarge": "images/2008/08/19/sports/olympics/uniforms_600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 245,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/08/19/sports/olympics/uniforms_337.11.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/08/19/sports/olympics/uniforms_337.11.jpg",
+              "tinythumbheight": 245,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd26b9a8eb7c8105d823740",
+        "source": "The New York Times",
+        "word_count": 567,
+        "lead_paragraph": "The uniforms here create a vibrant backdrop, with each athlete becoming a moving billboard for his or her country. They form a seemingly haphazard collection -- some country names are written in English, some in other languages. But they are actually part of a grand design, regulated by a phone-book-sized set of International Olympic Committee rules. Because country names on the front must be written in the Latin alphabet, countries like China compensate by using Chinese characters on the back. Flags and sponsor logos must be in a certain place and a certain size. The colors are regulated."
+      },
+      {
+        "abstract": "United States archery team coach Kisik Lee has served as sponsor in baptism of team member Brady Ellison and several other archers; he believes having strong faith makes for better athletes because it helps quiet their minds; he tailored Ellison's Olympic schedule to include spiritual as well as athletic objectives; move raises concerns in United States Olympic Committee and archery community where some are uncomfortable with his proselytizing; USOC has warned him not to pressure athletes, but he continues to hold morning session that includes prayer and study; because of USOC's quasi-public status, it must ensure that coaches do not overstep their boundaries when it comes to preaching; photos (M)",
+        "headline": {"main": "For Coach, God and Archery Are a Package Deal"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LEE, KISIK"
+          },
+          {
+            "name": "persons",
+            "value": "ELLISON, BRADY"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED STATES OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHERY"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF RELIGION"
+          },
+          {
+            "name": "subject",
+            "value": "COACHES AND MANAGERS"
+          },
+          {
+            "name": "subject",
+            "value": "RELIGION AND CHURCHES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "CHRISTIANS AND CHRISTIANITY"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/20/sports/olympics/20archery.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Kisik Lee has served the dual, if controversial, roles of the head coach of the United States archery team and a spiritual guide to some of its athletes.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Front Page; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "THOMAS",
+            "role": "reported",
+            "firstname": "Katie"
+          }],
+          "original": "By KATIE THOMAS"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/20/sports/20archery-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/20/sports/20archery-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 450,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/20/sports/20achery02_650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 450,
+              "xlarge": "images/2008/08/20/sports/20achery02_650.jpg",
+              "xlargewidth": 650
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/08/20/sports/20archery2-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/08/20/sports/20archery2-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd266128eb7c8105d81a980",
+        "source": "The New York Times",
+        "word_count": 1675,
+        "lead_paragraph": "Two weeks before leaving to compete in the Olympics, the archer Brady Ellison waded into a pool not far from the Olympic Training Center in Chula Vista, Calif., and was baptized in the Christian faith. In the water with him was Kisik Lee, the head coach of the United States archery team and a Christian who has become a spiritual guide for Ellison, 19, and the larger group of athletes who train and live full time at the Olympic Training Center. He has also served as a sponsor in the baptism of three other resident archers."
+      },
+      {
+        "abstract": "Chinese authorities arrest five Americans after they spell out Free Tibet with blue LED lights near National Stadium in Beijing during Olympic Games; three other people, including James Powderly, New York artist who fashions giant displays with lasers on buildings, are detained in separate protest; Students for Free Tibet has staged seven protests since Games began; all of those detained are deported; photos (M)",
+        "headline": {"main": "5 Americans Are Arrested For Protest In Beijing"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "POWDERLY, JAMES"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "organizations",
+            "value": "STUDENTS FOR FREE TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "DEPORTATION"
+          },
+          {
+            "name": "subject",
+            "value": "LASER (LIGHT AMPLIFICATION BY STIMULATED EMISSION OF RADIATION)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2008-08-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/20/sports/olympics/20china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Chinese authorities arrested five Americans on Tuesday after they spelled out \u201cFree Tibet\u201d with blue L.E.D. lights near the National Stadium.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "JACOBS",
+              "role": "reported",
+              "firstname": "Andrew"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "MOYNIHAN",
+              "role": "reported",
+              "firstname": "Colin"
+            }
+          ],
+          "original": "By ANDREW JACOBS and COLIN MOYNIHAN; Andrew Jacobs reported from Beijing, and Colin Moynihan from New York"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/20/world/20china_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/20/world/20china_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 280,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/20/world/20china_600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 280,
+              "xlarge": "images/2008/08/20/world/20china_600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd269a78eb7c8105d820e90",
+        "source": "The New York Times",
+        "word_count": 542,
+        "lead_paragraph": "In their latest confrontation with pro-Tibetan protesters during the Olympics, Chinese authorities arrested five Americans on Tuesday after they spelled out ''Free Tibet'' with blue L.E.D. lights near the National Stadium. Three other people, including a New York artist who fashions giant displays with lasers on buildings, were detained for a separate protest. Representatives of the group Students for a Free Tibet, which organized both protests, said they had yet to hear from those who had been detained. ''We're always worried when someone is in Chinese detention,'' said Lhadon Tethong, the executive director of the group."
+      }
+    ],
+    "meta": {
+      "time": 11,
+      "hits": 367,
+      "offset": 290
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

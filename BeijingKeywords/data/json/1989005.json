@@ -1,0 +1,613 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "UPHEAVAL IN CHINA",
+          "main": "Since Martial Law, Protest Crackles With Fury at Deng"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HUNGER STRIKES"
+          },
+          {
+            "name": "subject",
+            "value": "MARTIAL LAW"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/22/world/upheaval-in-china-since-martial-law-protest-crackles-with-fury-at-deng.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: As daylight wanes, a defiant exuberance seems to swell among the throngs clogging the intersections along roadways leading to Beijing's central square. But in the small homes of the capital, in the moments shared by friends away from the comfor",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a2918eb7c8105d6b9398",
+        "source": "The New York Times",
+        "word_count": 1081,
+        "lead_paragraph": "LEAD: As daylight wanes, a defiant exuberance seems to swell among the throngs clogging the intersections along roadways leading to Beijing's central square. But in the small homes of the capital, in the moments shared by friends away from the comfort of the masses, the darker side of what it means to live under martial law emerges."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Reporter's Notebook; Deng to Retire in the U.S., And Other Chinese Rumors"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/23/world/reporter-s-notebook-deng-to-retire-in-the-us-and-other-chinese-rumors.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Of all the rumors that have swept Beijing in the last week, perhaps the most astonishing was that in a nefarious attempt to kill demonstrators the Chinese Government had electrified the metal grates over the city's subways.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18af18eb7c8105d68d27f",
+        "source": "The New York Times",
+        "word_count": 1046,
+        "lead_paragraph": "LEAD: Of all the rumors that have swept Beijing in the last week, perhaps the most astonishing was that in a nefarious attempt to kill demonstrators the Chinese Government had electrified the metal grates over the city's subways."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Upheaval in China; Radio Broadcasts Report Pro-Student Demonstrations Breaking Out All Over China"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "RADIO"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "1989-05-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/23/world/upheaval-china-radio-broadcasts-report-pro-student-demonstrations-breaking-all.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Chinese radio broadcasts monitored by the United States Government show strong support for Beijing student protesters in provinces all around China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "PEAR",
+              "role": "reported",
+              "firstname": "Robert"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By ROBERT PEAR, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd195498eb7c8105d6a1390",
+        "source": "The New York Times",
+        "word_count": 767,
+        "lead_paragraph": "LEAD: Chinese radio broadcasts monitored by the United States Government show strong support for Beijing student protesters in provinces all around China."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "After the Students Go Home"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "28",
+        "pub_date": "1989-05-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/23/opinion/after-the-students-go-home.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: As much as Americans rightly salute Beijing's rebellious students, they know that their protest cannot go on forever. Sooner or later, the everyday bustle of Tiananmen Square will be restored. The only question is whether this monumental uprisi",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1840e8eb7c8105d68250d",
+        "source": "The New York Times",
+        "word_count": 563,
+        "lead_paragraph": "LEAD: As much as Americans rightly salute Beijing's rebellious students, they know that their protest cannot go on forever. Sooner or later, the everyday bustle of Tiananmen Square will be restored. The only question is whether this monumental uprising, watched by the world, will end in violence. The answer depends on the outcome of a larger, invisible struggle - to decide who will succeed Deng Xiaoping as China's chief leader and shape"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Diet in Beijing: Fast Then Feast"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HUNGER STRIKES"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1989-05-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/23/world/diet-in-beijing-fast-then-feast.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: While Beijing's university students won much of their renown for the hunger strike by 3,000 students in the center of the capital, the strike has ended and for most of the tens of thousands of students in the area, fasting is nearly impossible.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd185858eb7c8105d684dfe",
+        "source": "The New York Times",
+        "word_count": 237,
+        "lead_paragraph": "LEAD: While Beijing's university students won much of their renown for the hunger strike by 3,000 students in the center of the capital, the strike has ended and for most of the tens of thousands of students in the area, fasting is nearly impossible."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Shortages and Anarchy Begin to Cripple Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1989-05-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/23/world/shortages-and-anarchy-begin-to-cripple-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: As the capital ends its third day of martial law, Beijing is finding itself crippled by shortages and disruptions of vital services. In the absence of an effective government in parts of the city, only student rule seems to have averted total c",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18af18eb7c8105d68d281",
+        "source": "The New York Times",
+        "word_count": 836,
+        "lead_paragraph": "LEAD: As the capital ends its third day of martial law, Beijing is finding itself crippled by shortages and disruptions of vital services. In the absence of an effective government in parts of the city, only student rule seems to have averted total collapse in the city."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Upheaval in China; Chinese take Umbrage At Attack on Mao Portrait"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "MAO ZEDONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "VANDALISM"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1989-05-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/24/world/upheaval-in-china-chinese-take-umbrage-at-attack-on-mao-portrait.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Mao Zedong's giant portrait on Tiananmen Square, a striking symbol of Chinese Communism, was defaced today by three men who splattered paint across its face.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a4008eb7c8105d6bbdb8",
+        "source": "The New York Times",
+        "word_count": 384,
+        "lead_paragraph": "LEAD: Mao Zedong's giant portrait on Tiananmen Square, a striking symbol of Chinese Communism, was defaced today by three men who splattered paint across its face."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Upheaval in China; CHANGES AT TOP ARE HINTED AS LEADERS MEET IN BEIJING; SOME TROOPS BEGIN TO LEAVE"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO ZIYANG"
+          },
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/24/world/upheaval-china-changes-top-are-hinted-leaders-meet-beijing-some-troops-begin.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: As hundreds of thousands of people demonstrated in Beijing and Shanghai for the ouster of Prime Minister Li Peng, China's top leaders met in secret in the capital on Tuesday and appeared to make significant progress in breaking the political de",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF; Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd185868eb7c8105d684fa9",
+        "source": "The New York Times",
+        "word_count": 1700,
+        "lead_paragraph": "LEAD: As hundreds of thousands of people demonstrated in Beijing and Shanghai for the ouster of Prime Minister Li Peng, China's top leaders met in secret in the capital on Tuesday and appeared to make significant progress in breaking the political deadlock."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Upheaval in China; Boldly and Subtly, China's Press Tests Limits . . ."},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "GOVERNMENT INFORMATION POLICIES"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "1989-05-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/24/world/upheaval-in-china-boldly-and-subtly-china-s-press-tests-limits.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Not many Chinese follow Italian politics, so perhaps it was a bit surprising for People's Daily to carry a small front-page article Sunday on the resignation of the Italian Government.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18bf68eb7c8105d68f2f6",
+        "source": "The New York Times",
+        "word_count": 927,
+        "lead_paragraph": "LEAD: Not many Chinese follow Italian politics, so perhaps it was a bit surprising for People's Daily to carry a small front-page article Sunday on the resignation of the Italian Government."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Upheaval in China; Canton's Prosperous Students March"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CANTON (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1989-05-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/25/world/upheaval-in-china-canton-s-prosperous-students-march.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: In Canton, young women may march for democracy carrying pretty parasols to protect them from the sun, and young men may ride buses rather than walk to a rally, but those relatively prosperous, privileged students are turning out in the tens of ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "BASLER",
+              "role": "reported",
+              "firstname": "Barbara"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By BARBARA BASLER, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18bed8eb7c8105d68eb72",
+        "source": "The New York Times",
+        "word_count": 1142,
+        "lead_paragraph": "LEAD: In Canton, young women may march for democracy carrying pretty parasols to protect them from the sun, and young men may ride buses rather than walk to a rally, but those relatively prosperous, privileged students are turning out in the tens of thousands to support their tougher, more political counterparts in Beijing."
+      }
+    ],
+    "meta": {
+      "time": 21,
+      "hits": 187,
+      "offset": 50
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

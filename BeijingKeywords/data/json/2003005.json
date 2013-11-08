@@ -1,0 +1,567 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Shanghai police hold over 150 residents, who were on their way to Beijing (China) to protest redevelopment that would demolish their homes; current urban renewel plans have sparked several disputes in downtown Shanghai (S)",
+        "headline": {"main": "World Briefing | Asia: China: 150 Held In Redevelopment Fight"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "AREA PLANNING AND RENEWAL"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "URBAN AREAS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2003-05-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/22/world/world-briefing-asia-china-150-held-in-redevelopment-fight.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The police detained more than 150 people protesting the demolition of their homes in Shanghai, protesters and a human rights group said. The police rounded up the protesters at the Shanghai train station as they prepared to travel to Beijing, where t",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kahn",
+            "role": "reported",
+            "lastname": "NYT",
+            "firstname": "Joseph"
+          }],
+          "original": "By Joseph Kahn (NYT)"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd23ebc8eb7c8105d7d57a8",
+        "source": "The New York Times",
+        "word_count": 86,
+        "lead_paragraph": "The police detained more than 150 people protesting the demolition of their homes in Shanghai, protesters and a human rights group said. The police rounded up the protesters at the Shanghai train station as they prepared to travel to Beijing, where they planned to complain about the destruction of their homes and neighborhoods. The incident is the latest in a string of bitter disputes in Shanghai, where the authorities have approved the redevelopment of many downtown districts to make way for commercial development. Joseph Kahn (NYT)"
+      },
+      {
+        "abstract": "Residents of Beijing's Nanyingfang neighborhood, poor enclave near city's center that is to be razed to make way for luxury offices, apartments and malls, know that 'urban renewal' altering city landscape is unstoppable; worry about their compensation, where they will find new homes, and changesin social texture of their lives; photos (M)",
+        "headline": {"main": "Beijing Journal; Sadly, There Goes the Neighborhood. There's No Stopping 'Urban Renewal.'"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SOCIAL CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "AREA PLANNING AND RENEWAL"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2003-05-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/26/world/beijing-journal-sadly-there-goes-neighborhood-there-s-no-stopping-urban-renewal.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "No historic buildings will be lost when they level the neighborhood of Nanyingfang to build more luxury offices, apartments and malls.    This enclave near the city center is home to thousands of poor but proud people who have lived there for generat",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd270d48eb7c8105d82c704",
+        "source": "The New York Times",
+        "word_count": 808,
+        "lead_paragraph": "No historic buildings will be lost when they level the neighborhood of Nanyingfang to build more luxury offices, apartments and malls. This enclave near the city center is home to thousands of poor but proud people who have lived there for generations. In October, developers will level the neighborhood, a ramshackle tangle of single-story brick dwellings that have been rebuilt over the centuries on what began as an imperial army camp near the Temple of the Sun."
+      },
+      {
+        "abstract": "Lodi Gyari and Kelsang Gyaltsen, senior envoys representing exiled Dalai Lama, arrive in Beijing for talks with Chinese government for second time in nine months; meetings are first effort between Dalai Lama and Chinese government to address Tibetan concerns in past ten years (S)",
+        "headline": {"main": "World Briefing | Asia: China: Dalai Lama's Envoys Arrive For Talks"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "GYALTSEN, KELSANG"
+          },
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "persons",
+            "value": "GYARI, LODI GYALTSEN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2003-05-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/27/world/world-briefing-asia-china-dalai-lama-s-envoys-arrive-for-talks.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "For the second time in nine months, two senior representatives of the exiled Dalai Lama have arrived in Beijing for quiet consultations. A visit in September by the envoys, Lodi Gyari and Kelsang Gyaltsen, was the first formal contact between the Chi",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Eckholm",
+            "role": "reported",
+            "lastname": "NYT",
+            "firstname": "Erik"
+          }],
+          "original": "By Erik Eckholm (NYT)"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd22c078eb7c8105d7b7ce3",
+        "source": "The New York Times",
+        "word_count": 87,
+        "lead_paragraph": "For the second time in nine months, two senior representatives of the exiled Dalai Lama have arrived in Beijing for quiet consultations. A visit in September by the envoys, Lodi Gyari and Kelsang Gyaltsen, was the first formal contact between the Chinese government and the Dalai Lama in a decade. Tibetan advocates abroad expressed hope that the visit this week could lead to a serious dialogue about autonomy for Tibet, but China continues to accuse the Dalai Lama of trying to split the nation. Erik Eckholm (NYT)"
+      },
+      {
+        "abstract": "Photo of Chinese security guards marching through Beijing, wearing masks and gloves as precaution against SARS",
+        "headline": {"main": "Protecting the Guardians"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2003-05-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/28/world/protecting-the-guardians.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Photo of Chinese security guards marching through Beijing, wearing masks and gloves as precaution against SARS",
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd270da8eb7c8105d82cbe7",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Court in Beijing sentences four young men to long prison terms for 'subverting state power'; case involves four friends who met on university campuses to discuss politics and who posted occasional essays on Internet; case has long enraged human-rights advocates, because group's activities seem to be innocuous and because they have been imprisoned for over two years without verdict; although group had no plans to foment change actively, in China such groups are supposed to be registered with state (M)",
+        "headline": {"main": "Four Chinese Given Long Prison Terms for Discussing Politics"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2003-05-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/30/world/four-chinese-given-long-prison-terms-for-discussing-politics.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Four friends who met on university campuses to discuss politics and who posted occasional essays on the Internet were sentenced here to long prison terms on Wednesday, convicted of ''subverting state power.''     The Beijing Intermediate People's Cou",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd28f668eb7c8105d866db8",
+        "source": "The New York Times",
+        "word_count": 554,
+        "lead_paragraph": "Four friends who met on university campuses to discuss politics and who posted occasional essays on the Internet were sentenced here to long prison terms on Wednesday, convicted of ''subverting state power.'' The Beijing Intermediate People's Court sentenced Xu Wei, 28, and Jin Haike, 26, to 10 years. Yang Zilin, 32, and Zhang Honghai, 29, were sentenced to eight years, according to human-rights groups and relatives of the men."
+      },
+      {
+        "abstract": "Thousands of Hong Kong residents hold candlelight vigil to commemorate students who died in Tiananmen Square in 1989 and to oppose stringent internal-security laws that their own government is considering, partly at Beijing's behest; laws would give government broad powers to ban orginizations that have been prohibited in mainland China and would make distribution of publications that incite violent acts of subversion, secession or treason a crime; group of pro-democracy advocates from Hong Kong is also in United States, trying to bring international pressure against legislation; Roman Catholic Church in Hong Kong has also been active in opposing legislation, which it fears could be used to limit religious freedom (M)",
+        "headline": {"main": "Marking Tianamen, Hong Kong Crowd Opposes Security Law"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "ROMAN CATHOLIC CHURCH"
+          },
+          {
+            "name": "subject",
+            "value": "TREASON"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF RELIGION"
+          },
+          {
+            "name": "subject",
+            "value": "CHRISTIANS AND CHRISTIANITY"
+          },
+          {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2003-06-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/06/05/world/marking-tianamen-hong-kong-crowd-opposes-security-law.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Under a yellow crescent moon, thousands of Hong Kong residents held a candlelight vigil tonight to commemorate the students who died in the Tiananmen Square killings in 1989 and to call on their own government to preserve civil liberties here.    Hol",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd243818eb7c8105d7dd309",
+        "source": "The New York Times",
+        "word_count": 536,
+        "lead_paragraph": "Under a yellow crescent moon, thousands of Hong Kong residents held a candlelight vigil tonight to commemorate the students who died in the Tiananmen Square killings in 1989 and to call on their own government to preserve civil liberties here. Holding stubby white candles sheathed with white paper cones to protect the flames from the wind, the crowd sang songs in a park here and, about halfway through, bowed three times in unison, a Chinese custom to show respect for the dead."
+      },
+      {
+        "abstract": "Chinese experts survey 101 sites along Great Wall, China's most cherished landmark, and voice alarm at what they find; in western regions, where Wall was largely constructed of mud, erosion has weathered it and sand has buried it in many areas; in eastern portion of Wall, human activities have caused most damage: graffiti on Wall at site near Beijing, and portions of Wall bulldozed in Inner Mongolia to make way for construction; in many locations, Wall has been gussied up with Disney-like creations, in misguided local attempts at 'renovating' ancient Wall to bring tourism into area; Great Wall traverses nine provinces and 100 counties; photo; map (M)",
+        "headline": {"main": "Vandalism and 'Improvements' Mar Great Wall"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "INNER MONGOLIA"
+          },
+          {
+            "name": "glocations",
+            "value": "GREAT WALL OF CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HISTORIC BUILDINGS AND SITES"
+          },
+          {
+            "name": "subject",
+            "value": "RESTORATION AND REHABILITATION"
+          },
+          {
+            "name": "subject",
+            "value": "EROSION"
+          },
+          {
+            "name": "subject",
+            "value": "GRAFFITI"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2003-06-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/06/12/world/vandalism-and-improvements-mar-great-wall.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Look up at any hill crest around this remote village and there looms the Great Wall, China's most cherished landmark, the elegant brown stones of its crumbling face and watchtowers receding majestically into the distance.    In this part of Hebei Pro",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2776b8eb7c8105d838d93",
+        "source": "The New York Times",
+        "word_count": 1121,
+        "lead_paragraph": "Look up at any hill crest around this remote village and there looms the Great Wall, China's most cherished landmark, the elegant brown stones of its crumbling face and watchtowers receding majestically into the distance. In this part of Hebei Province the Bai Yangyu Great Wall site is not only the backdrop to every vista, it is also a living relic that serves as a playground for village children, or a source of stones when houses need repair."
+      },
+      {
+        "abstract": "World Health Organization removes travel advisory for four Chinese provinces, sign that SARS virus is slowly being contained; only Beijing and Taiwan still have warnings against all but essential travel (M)",
+        "headline": {"main": "W.H.O. Lifts SARS Alert in China Regions"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD HEALTH ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL RESTRICTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2003-06-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/06/14/world/who-lifts-sars-alert-in-china-regions.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The World Health Organization removed its travel advisory in four Chinese provinces today in a sign that the SARS virus is slowly being contained.    The W.H.O. has taken all Chinese cities except Beijing off the list of areas with recent transmissio",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd243818eb7c8105d7dd2f7",
+        "source": "The New York Times",
+        "word_count": 127,
+        "lead_paragraph": "The World Health Organization removed its travel advisory in four Chinese provinces today in a sign that the SARS virus is slowly being contained. The W.H.O. has taken all Chinese cities except Beijing off the list of areas with recent transmissions, including Guangdong, where SARS is believed to have originated in November."
+      },
+      {
+        "abstract": "WHO lifts advisory against travel to Taiwan, leaving Beijing as only place travelers are urged to avoid because of SARS risk; Taiwan has had five or fewer new cases every day this month (S)",
+        "headline": {"main": "As SARS Ebbs, W.H.O. Lifts Its Advisory On Taiwan"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD HEALTH ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL RESTRICTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2003-06-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/06/18/world/as-sars-ebbs-who-lifts-its-advisory-on-taiwan.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The World Health Organization lifted its advisory today against all but essential travel to Taiwan, leaving Beijing as the only place the organization is telling travelers to avoid because of the risk of SARS.    Taiwan did not report any new cases o",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd274058eb7c8105d831927",
+        "source": "The New York Times",
+        "word_count": 445,
+        "lead_paragraph": "The World Health Organization lifted its advisory today against all but essential travel to Taiwan, leaving Beijing as the only place the organization is telling travelers to avoid because of the risk of SARS. Taiwan did not report any new cases of severe acute respiratory syndrome today or Monday, after announcing three on Sunday, and has had five or fewer new cases every day this month. SARS has been rapidly disappearing in recent weeks, including in Beijing."
+      },
+      {
+        "abstract": "World Health Organization declares that Beijing has effectively conquered SARS, prompting relief and celebration around city, where just a few weeks ago people stopped going to work, eating at restaurants or even leaving their homes for fear of catching disease; government officials hail suppression of SARS as victory for Communist Party leadership, seeking to gain public credibility even though official dissembling and inefficiency contributed to its rapid spread last winter (M)",
+        "headline": {"main": "China Has Quelled SARS, World Health Agency Says"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD HEALTH ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2003-06-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/06/25/world/china-has-quelled-sars-world-health-agency-says.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The World Health Organization declared today that Beijing had effectively conquered SARS, signaling victory over the disease in the country where it originated and took the most lives.    The announcement prompted expressions of relief and celebratio",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd22c058eb7c8105d7b7bc7",
+        "source": "The New York Times",
+        "word_count": 634,
+        "lead_paragraph": "The World Health Organization declared today that Beijing had effectively conquered SARS, signaling victory over the disease in the country where it originated and took the most lives. The announcement prompted expressions of relief and celebration around the city, where just a few weeks ago people had stopped going to work, eating at restaurants or even leaving their homes for fear of catching the sometimes fatal illness."
+      }
+    ],
+    "meta": {
+      "time": 9,
+      "hits": 79,
+      "offset": 50
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

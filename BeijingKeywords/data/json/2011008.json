@@ -1,0 +1,683 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Cricket-fighting associations are springing up in back alleys across China in a revival of a uniquely Chinese blood sport whose provenance extends back more than 1,000 years; big bets are often made on insect warriors that are as pampered as tiny kings.",
+        "headline": {
+          "seo": "Chirps and Cheers: China\u2019s Crickets Clash, and Bets Are Made",
+          "print_headline": "Chirps and Cheers: China\u2019s Crickets Clash",
+          "main": "Chirps and Cheers: China\u2019s Crickets Clash"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Crickets",
+            "is_major": "Y"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Gambling",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2011-11-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/11/06/world/asia/chirps-and-cheers-chinas-crickets-clash-and-bets-are-made.html",
+        "news_desk": "Foreign",
+        "snippet": "Big bets are often made when field crickets face off in Beijing\u2019s narrow alleys in a revival of a uniquely Chinese blood sport whose provenance extends back more than 1,000 years.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "contributor": "Li Bibo and Mia Li contributed research.",
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 350,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2011/11/06/world/CRICKET/CRICKET-articleLarge-v2.jpg",
+            "legacy": {
+              "xlargeheight": "350",
+              "xlarge": "images/2011/11/06/world/CRICKET/CRICKET-articleLarge-v2.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2011/11/06/world/CRICKETS-2/CRICKETS-2-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/11/06/world/CRICKETS-2/CRICKETS-2-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51c0b7347e0d9c0839d293b9",
+        "source": "The New York Times",
+        "word_count": "1285",
+        "lead_paragraph": "Big bets are often made when field crickets face off in Beijing\u2019s narrow alleys in a revival of a uniquely Chinese blood sport whose provenance extends back more than 1,000 years."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Chirps and Cheers: China's Crickets Clash"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CRICKETS"
+          },
+          {
+            "name": "subject",
+            "value": "GAMBLING"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2011-11-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/11/06/world/asia/chirps-and-cheers-chinas-crickets-clash-and-bets-are-made.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Big bets are often made when field crickets face off in Beijing\u2019s narrow alleys in a revival of a uniquely Chinese blood sport whose provenance extends back more than 1,000 years.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Li Bibo and Mia Li contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2011/11/06/world/CRICKETS-2/CRICKETS-2-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/11/06/world/CRICKETS-2/CRICKETS-2-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2011/11/06/world/CRICKET/CRICKET-articleLarge-v2.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2011/11/06/world/CRICKET/CRICKET-articleLarge-v2.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2acbf8eb7c8105d89a4e7",
+        "source": "The New York Times",
+        "word_count": 1285,
+        "lead_paragraph": "BEIJING -- Big Red Belly, his thick limbs nourished by a strict liver-tofu-ginger diet, should have been a contender. Instead, as his trainer watched in dismay, the young fighter nervously circled his more menacing adversary and then skittered to a corner of the ring, prompting jeers from a half-dozen spectators. ''Worthless,'' his patron, Chang Hongwei, a retired mechanical engineer, growled as he yanked Big Red Belly from the arena and unceremoniously ended his brief fighting career. ''Next!''"
+      },
+      {
+        "abstract": "Chinese environmental officials will allow 40 people to tour government air-quality monitoring station in response to increasing complaints that system fails to report most dangerous particles emitted by growing number of cars and tucks; tours are unlikely to change quality of center's reports, but they are significant as rare instance of Chinese officials responding to popular discontent.",
+        "headline": {
+          "seo": "Beijing Offers Tours of Air Monitoring Center",
+          "print_headline": "Beijing Acts to Calm Public Anger Over Reporting of Air Pollution",
+          "main": "With Anger Over Dirty Air Rising, Beijing Tries Tours of Monitoring Center"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Environment",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Air Pollution",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2011-11-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/11/10/world/asia/with-anger-over-dirty-air-rising-beijing-tries-tours-on-monitoring-center.html",
+        "news_desk": "Foreign",
+        "snippet": "An instance of Chinese officials responding to popular discontent, the tours do not appear to raise the likelihood that the center\u2019s pollution reports will become more comprehensive.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "contributor": "Shi Da contributed research.",
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "width": 75,
+          "type": "image",
+          "url": "images/2011/11/10/world/beijing/beijing-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2011/11/10/world/beijing/beijing-thumbStandard.jpg",
+            "thumbnailwidth": "75",
+            "thumbnailheight": "75"
+          }
+        }],
+        "_id": "51c1fc217e0d9c0839d29fa5",
+        "source": "The New York Times",
+        "word_count": "603",
+        "lead_paragraph": "An instance of Chinese officials responding to popular discontent, the tours do not appear to raise the likelihood that the center\u2019s pollution reports will become more comprehensive."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Acts to Calm Public Anger Over Reporting of Air Pollution"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2011-11-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/11/10/world/asia/with-anger-over-dirty-air-rising-beijing-tries-tours-on-monitoring-center.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "An instance of Chinese officials responding to popular discontent, the tours do not appear to raise the likelihood that the center\u2019s pollution reports will become more comprehensive.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Shi Da contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2011/11/10/world/beijing/beijing-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2011/11/10/world/beijing/beijing-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2b95d8eb7c8105d8af9c9",
+        "source": "The New York Times",
+        "word_count": 603,
+        "lead_paragraph": "BEIJING -- Environmental officials who have resisted releasing comprehensive data about air pollution here in the capital announced that they would take action to address increasing complaints that the government's monitoring system fails to report on the most dangerous airborne particles emitted by the growing ranks of cars and trucks. The action: allowing 40 people to tour the source of the frustration, Beijing's monitoring center, once a week."
+      },
+      {
+        "abstract": "The chef Alice Waters began her trip to Beijing for a series of cultural exchange forums in Beijing this week with a meal at one of the city's famous mutton hotpot restaurants.",
+        "headline": {
+          "kicker": "ArtsBeat",
+          "main": "Exploring China, Taste Buds First"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Waters, Alice"
+          },
+          {
+            "rank": "10",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Tan, Amy"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Schell, Orville"
+          },
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Woetzel, Damian"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Chinese Food (Cuisine)"
+          },
+          {
+            "rank": "7",
+            "name": "organizations",
+            "value": "Asia Society"
+          },
+          {
+            "rank": "8",
+            "name": "organizations",
+            "value": "Aspen Institute"
+          },
+          {
+            "rank": "9",
+            "name": "organizations",
+            "value": "Chez Panisse"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-11-14T14:30:59Z",
+        "web_url": "http://artsbeat.blogs.nytimes.com/2011/11/14/exploring-china-taste-buds-first/",
+        "news_desk": null,
+        "snippet": "The chef Alice Waters began her trip to Beijing for a series of cultural exchange forums in Beijing this week with a meal at one of the city's famous mutton hotpot restaurants.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a1f88eb7c8105d8e95c7",
+        "source": "The New York Times",
+        "word_count": 496,
+        "lead_paragraph": "BEIJING - The historic restaurants in Beijing are often best avoided. Residents here leave it to tourists to go to Quanjude for roast duck. Likewise, Dong Lai Shun, a famous mutton hotpot restaurant near the Forbidden City, has seen better days."
+      },
+      {
+        "abstract": "Kevin Spacey will star in \"Richard III\" for three nights.",
+        "headline": {
+          "kicker": "ArtsBeat",
+          "main": "English King to Have Brief Reign in Beijing"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Spacey, Kevin"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Shakespeare, William"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Mendes, Sam"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Theater"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "organizations",
+            "value": "Bridge Project, The"
+          },
+          {
+            "rank": "7",
+            "name": "organizations",
+            "value": "Brooklyn Academy of Music"
+          },
+          {
+            "rank": "8",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "9",
+            "name": "glocations",
+            "value": "China"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-11-15T11:00:48Z",
+        "web_url": "http://artsbeat.blogs.nytimes.com/2011/11/15/english-king-to-have-brief-reign-in-beijing/",
+        "news_desk": null,
+        "snippet": "Kevin Spacey will star in \"Richard III\" for three nights.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "COHEN",
+            "role": "reported",
+            "firstname": "Patricia"
+          }],
+          "original": "By PATRICIA COHEN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a17d8eb7c8105d8e846e",
+        "source": "The New York Times",
+        "word_count": 178,
+        "lead_paragraph": "9:25 a.m. | Updated After more than 18 months of negotiations \"Richard III,\" starring Kevin Spacey, opened in Beijing last Friday, according to Agence France-Presse."
+      },
+      {
+        "abstract": "The Bridge Project production of Shakespeare's Richard III, starring Kevin Spacey, will open in Beijing; will be first presentation of Shakespeare by a Western theater company in the Chinese capital. (M)",
+        "headline": {
+          "kicker": "ARTSBEAT",
+          "main": "English King to Reign In Beijing, Briefly"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SPACEY, KEVIN"
+          },
+          {
+            "name": "persons",
+            "value": "SHAKESPEARE, WILLIAM"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BRIDGE PROJECT, THE"
+          },
+          {
+            "name": "subject",
+            "value": "THEATER"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2011-11-16T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9405E1D61631F935A25752C1A9679D8B63",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "9:25 a.m. | Updated After more than 18 months of negotiations ''Richard III,'' starring Kevin Spacey, opened in Beijing last Friday, according to Agence France-Presse.      Cultural productions are carefully scrutinized by government censors in China",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts; Theater",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "COHEN",
+            "role": "reported",
+            "firstname": "Patricia"
+          }],
+          "original": "By PATRICIA COHEN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a3848eb7c8105d8896d0",
+        "source": "The New York Times",
+        "word_count": 250,
+        "lead_paragraph": "9:25 a.m. | Updated After more than 18 months of negotiations ''Richard III,'' starring Kevin Spacey, opened in Beijing last Friday, according to Agence France-Presse. Cultural productions are carefully scrutinized by government censors in China, and the the play, about a tyrannical king, is the first presentation of Shakespeare by a Western theater company in the Chinese capital."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Chinese Artist Posts $1.3 Million to Seek Tax Bill Review"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "AI WEIWEI"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TAX EVASION"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-11-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/11/16/world/asia/ai-weiwei-posts-1-3-million-to-seek-tax-bill-review.html",
+        "news_desk": "National Desk",
+        "snippet": "Ai Weiwei on Tuesday posted the equivalent of $1.3 million with Chinese tax authorities in an effort to contest allegations of tax fraud that he says are politically motivated.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "U.S.",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JOHNSON",
+            "role": "reported",
+            "firstname": "Ian"
+          }],
+          "original": "By IAN JOHNSON"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2011/11/16/world/15artist-image/15artist-image-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2011/11/16/world/15artist-image/15artist-image-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2acc18eb7c8105d89a65d",
+        "source": "The New York Times",
+        "word_count": 226,
+        "lead_paragraph": "BEIJING -- The celebrated Chinese artist and dissident Ai Weiwei on Tuesday posted the equivalent of $1.3 million with Chinese tax authorities in an effort to contest accusations of tax fraud that he says are politically motivated. An outspoken critic of the Chinese government, Mr. Ai was detained without charge earlier this year for nearly three months. After he was released, the authorities said his company Fake Culture Ltd. -- which is registered in the name of his wife, Lu Qing -- owed $2.4 million in back taxes and fines and gave him until Wednesday to pay. By putting up roughly half now as a guarantee, Mr. Ai can request an administrative review of the accusations. If he loses, he would have to pay the balance or could sue the tax offices."
+      },
+      {
+        "abstract": "Arts Beat blog; actress Meryl Streep and director Joel Cohen make appearances at arts and culture forum in Beijing, organized by Asia Society and Aspen Institute to broaden dialogue concerning films from United States and China. Photo (M)a",
+        "headline": {"main": "Streep and Coen, Exported"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "COEN, JOEL"
+          },
+          {
+            "name": "persons",
+            "value": "STREEP, MERYL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "ASIA SOCIETY"
+          },
+          {
+            "name": "organizations",
+            "value": "ASPEN INSTITUTE"
+          },
+          {
+            "name": "subject",
+            "value": "MOVIES"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2011-11-24T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9402EED81E31F937A15752C1A9679D8B63",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "BEIJING -- It is rare that marquee international film events take place in China. That is partly because of the censorship imposed by the government. And tight limits on importing and screening foreign movies cast a shadow on efforts to bring new fil",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Movies; Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd292e88eb7c8105d86c826",
+        "source": "The New York Times",
+        "word_count": 360,
+        "lead_paragraph": "BEIJING -- It is rare that marquee international film events take place in China. That is partly because of the censorship imposed by the government. And tight limits on importing and screening foreign movies cast a shadow on efforts to bring new films to the nation. But last week's arts and culture forum organized by Asia Society and the Aspen Institute sought to broaden the dialogue concerning films from the United States and China."
+      },
+      {
+        "abstract": "Seventeen-year-old Hou Yifan defeats Humpy Koneru to retain the Women's World Chess Championship title. (M)",
+        "headline": {"main": "17-Year-Old From China Repeats as Women's Chess Champ"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HOU YIFAN"
+          },
+          {
+            "name": "persons",
+            "value": "KONERU, HUMPY"
+          },
+          {
+            "name": "glocations",
+            "value": "INDIA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WOMEN'S WORLD CHESS CHAMPIONSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "CHESS"
+          }
+        ],
+        "print_page": "15",
+        "pub_date": "2011-11-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/11/25/crosswords/chess/hou-yifan-of-china-repeats-as-womens-chess-champion.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Hou Yifan easily defended her title against Humpy Koneru, the best Indian woman to play the game, at a tournament in Albania.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Loeb",
+            "role": "reported",
+            "lastname": "McCLAIN",
+            "firstname": "Dylan"
+          }],
+          "original": "By DYLAN LOEB McCLAIN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2acc28eb7c8105d89a778",
+        "source": "The New York Times",
+        "word_count": 531,
+        "lead_paragraph": "In the growing rivalry between the emerging superpowers China and India, Beijing scored a symbolic victory on Thursday: a Chinese woman won a chess match. The woman, Hou Yifan, 17, easily retained the Women's World Chess Championship title when she drew the eighth game of a match against Humpy Koneru, the best Indian woman to play the game."
+      }
+    ],
+    "meta": {
+      "time": 20,
+      "hits": 102,
+      "offset": 80
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

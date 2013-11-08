@@ -1,0 +1,588 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "150,000 March in Defiance of Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-04-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/04/28/world/150000-march-in-defiance-of-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: More than 150,000 demonstrators openly defied official warnings and a concentration of troops today to march for 14 hours through the capital, repeatedly and effortlessly puncturing lines of policemen and soldiers sent to stop them, in one of t",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a2e08eb7c8105d6b98af",
+        "source": "The New York Times",
+        "word_count": 1139,
+        "lead_paragraph": "LEAD: More than 150,000 demonstrators openly defied official warnings and a concentration of troops today to march for 14 hours through the capital, repeatedly and effortlessly puncturing lines of policemen and soldiers sent to stop them, in one of the biggest displays of dissatisfaction in 40 years of Communist rule."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Democracy? In China, Write Morality"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+          },
+          {
+            "name": "subject",
+            "value": "ETHICS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "1989-04-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/04/28/world/democracy-in-china-write-morality.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: As 150,000 students filled the streets of the capital today, linking arms and singing revolutionary songs, it was still unclear exactly what they meant by the ''democracy'' they have been calling for in their 10 days of demonstrations.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a2e08eb7c8105d6b98b2",
+        "source": "The New York Times",
+        "word_count": 973,
+        "lead_paragraph": "LEAD: As 150,000 students filled the streets of the capital today, linking arms and singing revolutionary songs, it was still unclear exactly what they meant by the ''democracy'' they have been calling for in their 10 days of demonstrations."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Chinese Students Try Networking"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING UNIVERSITY"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "1989-05-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/02/world/chinese-students-try-networking.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Students from several Chinese cities gathered today at Beijing University to discuss plans to expand their pro-democracy movement and to form links with schools throughout the nation.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a59c8eb7c8105d6bedd9",
+        "source": "The New York Times",
+        "word_count": 394,
+        "lead_paragraph": "LEAD: Students from several Chinese cities gathered today at Beijing University to discuss plans to expand their pro-democracy movement and to form links with schools throughout the nation."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Rejects Deadline for Talks And Students March in Defiance"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1989-05-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/04/world/beijing-rejects-deadline-for-talks-and-students-march-in-defiance.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Waving banners commemorating a similar demonstration 70 years earlier, thousands of university students marched through the capital this morning to press their demands for greater democracy.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd185858eb7c8105d684e75",
+        "source": "The New York Times",
+        "word_count": 809,
+        "lead_paragraph": "LEAD: Waving banners commemorating a similar demonstration 70 years earlier, thousands of university students marched through the capital this morning to press their demands for greater democracy."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Chinese Workers Join Students in Protests"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/05/world/chinese-workers-join-students-in-protests.html",
+        "news_desk": "Foreign Desk",
+        "snippet": null,
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": "Front Page",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd183c38eb7c8105d681e91",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Workers Joining Students In Beijing Demonstrations"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "1989-05-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/05/world/workers-joining-students-in-beijing-demonstrations.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Not only a call for democracy, but also anger over inflation and corruption, seemed to impel the tens of thousands of workers who joined students today in demonstrating in Tiananmen Square in the center of the capital.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a2948eb7c8105d6b9433",
+        "source": "The New York Times",
+        "word_count": 463,
+        "lead_paragraph": "LEAD: Not only a call for democracy, but also anger over inflation and corruption, seemed to impel the tens of thousands of workers who joined students today in demonstrating in Tiananmen Square in the center of the capital."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "CHINA NEWSPAPERS TRY NEW OPENNESS"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1989-05-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/06/world/china-newspapers-try-new-openness.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: After studiously ignoring pro-democracy protests for the last two weeks, China's official newspapers seemed today to display a new openness in their reports of a mass demonstration held here on Thursday.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1840e8eb7c8105d682492",
+        "source": "The New York Times",
+        "word_count": 468,
+        "lead_paragraph": "LEAD: After studiously ignoring pro-democracy protests for the last two weeks, China's official newspapers seemed today to display a new openness in their reports of a mass demonstration held here on Thursday."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "5,000 Chinese Students Hail Journalists"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1989-05-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/11/world/5000-chinese-students-hail-journalists.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Wearing colored headbands and shouting slogans against censorship, more than 5,000 students paraded today on bicycles to the offices of several official newspapers to show support for journalists who have called for greater press freedom.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a6418eb7c8105d6c027a",
+        "source": "The New York Times",
+        "word_count": 453,
+        "lead_paragraph": "LEAD: Wearing colored headbands and shouting slogans against censorship, more than 5,000 students paraded today on bicycles to the offices of several official newspapers to show support for journalists who have called for greater press freedom."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Chinese Students Prepare For Gorbachev"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "GORBACHEV, MIKHAIL S"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "UNION OF SOVIET SOCIALIST REPUBLICS (USSR)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMIT CONFERENCES"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-USSR"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/14/world/chinese-students-prepare-for-gorbachev.html",
+        "news_desk": "Foreign Desk",
+        "snippet": null,
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1840a8eb7c8105d682196",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "150,000 Lift Their Voices for Change"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "GORBACHEV, MIKHAIL S"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "UNION OF SOVIET SOCIALIST REPUBLICS (USSR)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HUNGER STRIKES"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMIT CONFERENCES"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-USSR"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1989-05-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/16/world/150000-lift-their-voices-for-change.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: One after another today, groups of teachers, professors, museum workers, factory workers, writers, artists, scholars, entrepreneurs, low-level officials, middle-school students, and even journalists from the official People's Daily paraded into",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a2918eb7c8105d6b93c2",
+        "source": "The New York Times",
+        "word_count": 827,
+        "lead_paragraph": "LEAD: One after another today, groups of teachers, professors, museum workers, factory workers, writers, artists, scholars, entrepreneurs, low-level officials, middle-school students, and even journalists from the official People's Daily paraded into Tiananmen Square behind their own wide, colorful banners."
+      }
+    ],
+    "meta": {
+      "time": 67,
+      "hits": 187,
+      "offset": 20
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

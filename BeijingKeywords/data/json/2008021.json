@@ -1,0 +1,709 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Scenes From the Ceremony "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "ATHLETICS AND SPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "STADIUMS AND ARENAS"
+          },
+          {
+            "name": "subject",
+            "value": "PRESIDENTS AND PRESIDENCY (US)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "persons",
+            "value": "SARKOZY, NICOLAS"
+          },
+          {
+            "name": "persons",
+            "value": "ZHANG YIMOU"
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2008/08/08/sports/0808-CEREMONY_index.html",
+        "news_desk": null,
+        "snippet": "The 2008 Olympic Games in Beijing opened on Friday night with a lavish ceremony at the National Stadium.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a89811c22dfde670c2896",
+        "source": null,
+        "word_count": 38,
+        "lead_paragraph": "The 2008 Olympic Games in Beijing opened on Friday night with a lavish ceremony at the National Stadium."
+      },
+      {
+        "abstract": "Terrorist group seeking independent Muslim state in western China and calling itself Turkestan Islamic Party has released video threatening attack on Olympic Games; video's violent opening graphics are same as those used in video released earlier claiming responsibility for bus bombings in Kunming and Shanghai; some terrorism experts believe group is same as East Turkestan Islamic Movement (M)",
+        "headline": {"main": "Group Says Video Warns of Olympic Attack"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "KUNMING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "XINJIANG (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BUSES"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDINGS AND DOWNLOADS (VIDEO)"
+          },
+          {
+            "name": "subject",
+            "value": "BOMBS AND EXPLOSIVES"
+          },
+          {
+            "name": "subject",
+            "value": "UIGHURS (CHINESE ETHNIC GROUP)"
+          },
+          {
+            "name": "subject",
+            "value": "THREATS AND THREATENING MESSAGES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "UIGHURS (ETHNIC GROUP)"
+          },
+          {
+            "name": "subject",
+            "value": "ISLAM"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "TERRORISM"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2008-08-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/08/sports/olympics/08china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A terrorist group seeking an independent Muslim state in western China has released a video threatening an attack on the Olympic Games.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27cc98eb7c8105d8437cb",
+        "source": "The New York Times",
+        "word_count": 405,
+        "lead_paragraph": "A terrorist group seeking an independent Muslim state in western China has released a video threatening an attack on the Olympic Games here, according to an American organization that tracks terrorist Internet posts. The video's opening graphics show a burning Olympic logo and an explosion superimposed over one of the athletic sites, said the monitoring organization, IntelCenter, based in Alexandria, Va."
+      },
+      {
+        "abstract": "Robert W Mitchell and Jeffrey Freilich letters respond to Eduardo Porter Aug 6 Editorial Notebook column and Aug 7 Sports article about Beijing Olympics; drawing",
+        "headline": {
+          "kicker": "LETTERS",
+          "main": "8/8/08: The Games (Cough!) Are Finally On"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "PORTER, EDUARDO"
+          },
+          {
+            "name": "persons",
+            "value": "FREILICH, JEFFREY"
+          },
+          {
+            "name": "persons",
+            "value": "MITCHELL, ROBERT W"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "18",
+        "pub_date": "2008-08-08T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9902E7DB1F3CF93BA3575BC0A96E9C8B63",
+        "news_desk": "Editorial Desk",
+        "snippet": "To the Editor:     Re ''Polluted, Polite, With a Chance of Rain,'' by Eduardo Porter (Editorial Notebook, Aug. 6):  ",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd26ba08eb7c8105d823c15",
+        "source": "The New York Times",
+        "word_count": 161,
+        "lead_paragraph": "To the Editor: Re ''Polluted, Polite, With a Chance of Rain,'' by Eduardo Porter (Editorial Notebook, Aug. 6):"
+      },
+      {
+        "abstract": "International Olympic Committee president Jacques Rogge says Chinese authorities have 'done everything feasible and humanly possible' to clean air for 2008 Olympics (M)",
+        "headline": {"main": "Air Quality Is Praised, But Doubts Are Swirling"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ROGGE, JACQUES"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/08/sports/olympics/08air.html",
+        "news_desk": "Sports Desk",
+        "snippet": "On the eve of the first Olympics held in China, the air was soupy and gray, with the air quality rating reaching 95, far short of clean air standards in the United States.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MACUR",
+            "role": "reported",
+            "firstname": "Juliet"
+          }],
+          "original": "By JULIET MACUR"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd266148eb7c8105d81ab22",
+        "source": "The New York Times",
+        "word_count": 411,
+        "lead_paragraph": "On the smoggiest day here in the past week, Jacques Rogge, the president of the International Olympic Committee, praised Chinese authorities Thursday by saying they had ''done everything feasible and humanly possible'' to clean the air for the Olympics. ''The fog you see is based on the basis of humidity and heat,'' Rogge said at a news conference. ''It does not mean to say that this fog is the same as pollution. It can be pollution, but the fog doesn't mean necessarily that it is pollution. Of course, we prefer clean skies, but the most important thing is the health of the athletes being protected.''"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Assessing the Air in Beijing "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/interactive/2008/08/09/sports/olympics/20080809_pollution_graphic.html",
+        "news_desk": null,
+        "snippet": "Daily measurements of the Air Quality Index in China.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a859c1c22dfde670be620",
+        "source": null,
+        "word_count": 16,
+        "lead_paragraph": "Daily measurements of the Air Quality Index in China."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "RINGS",
+          "main": "'Proud to Be Chinese'"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHANG YIMOU"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/09/sports/olympics/09ceremony.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Jing Zhang is 28-year-old researcher working in the Beijing Bureau of the New York Times. She watched the Opening Ceremonies and shared her thoughts with us.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ZHANG",
+            "role": "reported",
+            "firstname": "Jing"
+          }],
+          "original": "By JING ZHANG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27cc78eb7c8105d843524",
+        "source": "The New York Times",
+        "word_count": 374,
+        "lead_paragraph": "Jing Zhang is 28-year-old researcher working in the Beijing Bureau of the New York Times. She watched the Opening Ceremonies and shared her thoughts with us. I didn't have a very high expectation for the opening ceremony. For the residents of Beijing, including me, it has been a seven-year journey with everyone fighting very hard to be a good host, building venues, cleaning up the cities. The government has issued a lot of new regulations on regular people, which makes ordinary life a little more inconvenient. For example, the traffic control rules, rising rents because of landlords' desire to make more money after the Olympics, and the close scrutiny of the Chinese by the world media. All of this made me a little sick of the Olympics. It became less a celebration and more of a test of my country and its people."
+      },
+      {
+        "abstract": "NBC's decision to delay broadcasting opening ceremonies of 2008 Olympic Games by 12 hours sends people across country to their computers to poke holes in NBC's technological wall--by finding newsfeeds on foreign broadcasters' Web sites and watching clips of ceremonies on YouTube and other sites; NBC, which owns exclusive rights to broadcast Olympics in US, asks Web sites to take down illicit clips and restrict authorized video to host countries; first Summer Games of broadband age have commenced in China, and old network habits have never seemed so archaic--or irrelevant (M)",
+        "headline": {"main": "Games Open in a New China, Dazzling an Age of New Media"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "YOUTUBE"
+          },
+          {
+            "name": "organizations",
+            "value": "NATIONAL BROADCASTING CO"
+          },
+          {
+            "name": "organizations",
+            "value": "NBC UNIVERSAL"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDINGS AND DOWNLOADS (VIDEO)"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/09/sports/olympics/09nbc.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "NBC\u2019s decision about the Olympics opening ceremonies sent people to their computers to poke holes in a technological wall.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Front Page; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "STELTER",
+            "role": "reported",
+            "firstname": "Brian"
+          }],
+          "original": "By BRIAN STELTER; Stuart Elliott, Richard Sandomir and Bill Carter contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27cc78eb7c8105d84352c",
+        "source": "The New York Times",
+        "word_count": 973,
+        "lead_paragraph": "NBC, which owns the exclusive rights to broadcast the Olympics in the United States, spent most of Friday trying to keep it that way. NBC's decision to delay broadcasting the opening ceremonies by 12 hours sent people across the country to their computers to poke holes in NBC's technological wall -- by finding newsfeeds on foreign broadcasters' Web sites and by watching clips of the ceremonies on YouTube and other sites."
+      },
+      {
+        "abstract": "Lavish Olympic kickoff was crystallizing moment for hundreds of millions of Chinese: affirmation of their nation's emerging might and, according to popular lore, realization of dream deferred 100 years by revolution, invasion, colonial exploitation, civil war and misrule; it was evening to enjoy fruits of heavy-handed makeover, seven years in making, that displaced upward of million people in Beijing; photos (M)",
+        "headline": {"main": "In a Beijing Bar, Even the Cynical Succumb to a Moment of Real National Pride"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2008-08-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/09/sports/olympics/09beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "For hundreds of millions of Chinese, the lavish Olympic kickoff on Friday was a crystallizing moment: an affirmation of their nation\u2019s emerging might.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd269a58eb7c8105d820d44",
+        "source": "The New York Times",
+        "word_count": 937,
+        "lead_paragraph": "They are the children of China's modern market economy, professionals in their 20s blessed with top-notch educations, disposable incomes and fluency in English. On Friday night they filed into a bar in an upscale night-life district, sat down with their Heinekens and blasé expressions, and waited for the pageantry to begin on the big screen. Then Tian Yuan passed around the stickers -- Chinese flags and red hearts with the yellow Communist star -- and the crowd at the Nashville Bar began to perk up. Ms. Tian, 29, an executive assistant at GlobalLogic, an American software company, said she had overcome her initial lack of interest in the Games and organized a viewing party for 20 friends, human resource executives, marketing managers and public relations strategists."
+      },
+      {
+        "abstract": "Opening ceremonies of 2008 Olympic Games sought to stir ancient nation's pride, but there was also message for uncertain outside world: rising China poses no danger; that has not been easy sales pitch during tumultuous Olympics prelude, but in hands of filmmaker Zhang Yimou, who directed opening ceremonies, politics of harmony were conveyed in visual extravaganza; leaders spent estimated $43 billion trying to transform Beijing into Olympic city; opening ceremonies reportedly cost tens of millions of dollars and involved 15,000 performers inside city's new National Stadium; no Olympic opening ceremonies are thought to have approached it in cost and scale; photos (M)",
+        "headline": {"main": "Games Open in a New China, Dazzling an Age of New Media"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHANG YIMOU"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "NATIONAL STADIUM (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "FINANCES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/09/sports/olympics/09china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Olympic opening ceremonies gave the Communist Party an unfiltered chance to reach a global audience.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY; Andrew Jacobs and David Barboza contributed reporting. Huang Yuanxi and Jessie Jiang contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "caption": "Scenes From the Ceremony",
+            "type": "Slideshow",
+            "credit": "The 2008 Olympic Games in Beijing opened on Friday night with a lavish ceremony at the National Stadium.",
+            "url": "http://www.nytimes.com/slideshow/2008/08/08/sports/0808-CEREMONY_index.html",
+            "legacy": {
+              "MultimediaSummary1": "The 2008 Olympic Games in Beijing opened on Friday night with a lavish ceremony at the National Stadium.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Scenes From the Ceremony",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2008/08/08/sports/0808-CEREMONY_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/09/world/09china.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/09/world/09china.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 320,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/09/world/09china.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 320,
+              "xlarge": "images/2008/08/09/world/09china.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2963f8eb7c8105d871fff",
+        "source": "The New York Times",
+        "word_count": 1397,
+        "lead_paragraph": "An ecstatic China finally got its Olympic moment on Friday night. And if the astonishing opening ceremonies of the 2008 Olympic Games lavished grand tribute on Chinese civilization and sought to stir an ancient nation's pride, there was also a message for an uncertain outside world: Do not worry. We mean no harm. Usually, that message is delivered by the dour-faced leaders of the ruling Communist Party, who dutifully, if sometimes unconvincingly, regurgitate the phrase ''harmonious society'' coined by President Hu Jintao. But in the nimble cinematic hands of Zhang Yimou, the filmmaker who directed the opening ceremonies, the politics of harmony were conveyed in a visual extravaganza."
+      },
+      {
+        "abstract": "Some 17,000 couples get married in Beijing on Aug 8, opening day of 2008 Olympic Games; photo (M)",
+        "headline": {"main": "On Good-Luck Day, 17,000 Beijing Couples Tie Knot"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "WEDDINGS AND ENGAGEMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "NUMBERS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "MARRIAGES"
+          },
+          {
+            "name": "subject",
+            "value": "LUCK"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2008-08-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/09/sports/olympics/09scene.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Couples said they were moved by national pride, but also by the Chinese enthusiasm for numerology, to marry.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/09/world/09scene_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/09/world/09scene_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 310,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/09/world/09scene_600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 310,
+              "xlarge": "images/2008/08/09/world/09scene_600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2963f8eb7c8105d872001",
+        "source": "The New York Times",
+        "word_count": 383,
+        "lead_paragraph": "Chen Bing woke up on Friday morning and felt an all-consuming surge of emotion. ''I've been waiting for this moment a long time,'' he said."
+      }
+    ],
+    "meta": {
+      "time": 14,
+      "hits": 367,
+      "offset": 210
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

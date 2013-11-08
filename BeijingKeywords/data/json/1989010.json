@@ -1,0 +1,587 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "ARMY RIFT REPORTED IN BEIJING",
+          "main": "SHOOTING OF CIVILIANS GOES ON; BUSH BARS ARMS SALES TO CHINA"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "YANG SHANGKUN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "WUHAN (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-06-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/06/world/army-rift-reported-beijing-shooting-civilians-goes-bush-bars-arms-sales-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Chinese troops took up what seemed to be defensive positions here on Monday that suggested they feared attack from other army units, and there were reports that clashes between units had already occurred on the outskirts of the capital.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1954a8eb7c8105d6a1423",
+        "source": "The New York Times",
+        "word_count": 2168,
+        "lead_paragraph": "LEAD: Chinese troops took up what seemed to be defensive positions here on Monday that suggested they feared attack from other army units, and there were reports that clashes between units had already occurred on the outskirts of the capital."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Ad Set in China Is Withdrawn"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "KENTUCKY FRIED CHICKEN CORP"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "1989-06-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/07/business/ad-set-in-china-is-withdrawn.html",
+        "news_desk": "Financial Desk",
+        "snippet": "LEAD: The escalating turmoil in China has prompted Kentucky Fried Chicken, one of the nation's largest advertisers, to drop a television advertisement filmed partly in Beijing. And the American Express",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1954f8eb7c8105d6a1836",
+        "source": "The New York Times",
+        "word_count": 174,
+        "lead_paragraph": "LEAD: The escalating turmoil in China has prompted Kentucky Fried Chicken, one of the nation's largest advertisers, to drop a television advertisement filmed partly in Beijing. And the American Express"
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "TURMOIL IN CHINA",
+          "main": "Legions of Soldiers Encircling Beijing: Loyalty to Whom?"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "YANG SHANGKUN"
+          },
+          {
+            "name": "persons",
+            "value": "YANG BAIBING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ARMIES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "MILITARY PERSONNEL"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "1989-06-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/07/world/turmoil-in-china-legions-of-soldiers-encircling-beijing-loyalty-to-whom.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Administration officials estimate that elements of 10 People's Liberation Army units, totaling 100,000 to 150,000 troops, have been deployed in and around Beijing.",
+        "type_of_material": "An Analysis; Military Analysis",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "E.",
+              "role": "reported",
+              "lastname": "TRAINOR",
+              "firstname": "Bernard"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By BERNARD E. TRAINOR, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a4018eb7c8105d6bbee4",
+        "source": "The New York Times",
+        "word_count": 735,
+        "lead_paragraph": "LEAD: Administration officials estimate that elements of 10 People's Liberation Army units, totaling 100,000 to 150,000 troops, have been deployed in and around Beijing."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "TURMOIL IN CHINA",
+          "main": "ARTILLERY FIRING IN SUBURBS ADDS TO TENSIONS IN BEIJING; MYSTERY ON LEADERS GROWS"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "persons",
+            "value": "QIAO SHI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "MILITARY PERSONNEL"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-06-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/07/world/turmoil-china-artillery-firing-suburbs-adds-tensions-beijing-mystery-leaders.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Artillery fire reverberated through the capital Tuesday, and there were continued reports of clashes among rival military units.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a4018eb7c8105d6bbedd",
+        "source": "The New York Times",
+        "word_count": 1974,
+        "lead_paragraph": "LEAD: Artillery fire reverberated through the capital Tuesday, and there were continued reports of clashes among rival military units."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Companies Speeding Beijing Exodus"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CORPORATIONS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "1989-06-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/07/business/companies-speeding-beijing-exodus.html",
+        "news_desk": "Financial Desk",
+        "snippet": "LEAD: More United States companies rushed to pull personnel out of Beijing yesterday as the Bush Administration urged all Americans to leave the embattled city.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "H.",
+            "role": "reported",
+            "lastname": "KREISLER",
+            "firstname": "Nancy"
+          }],
+          "original": "By NANCY H. KREISLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18bf88eb7c8105d68f4d9",
+        "source": "The New York Times",
+        "word_count": 730,
+        "lead_paragraph": "LEAD: More United States companies rushed to pull personnel out of Beijing yesterday as the Bush Administration urged all Americans to leave the embattled city."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "TURMOIL IN CHINA",
+          "main": "For Beijing, A Shortfall In Soy Sauce"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "1989-06-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/07/world/turmoil-in-china-for-beijing-a-shortfall-in-soy-sauce.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Slowly, Beijing residents are peering out of their windows into the winding alleyways where they live to talk about the events of the last few days. But the more they look, the more they see that life is not normal, and it is not clear when it ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd184148eb7c8105d682a1e",
+        "source": "The New York Times",
+        "word_count": 669,
+        "lead_paragraph": "LEAD: Slowly, Beijing residents are peering out of their windows into the winding alleyways where they live to talk about the events of the last few days. But the more they look, the more they see that life is not normal, and it is not clear when it will return that way."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "TURMOIL IN CHINA",
+          "main": "Foreigners Scramble to Leave Beijing"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "1989-06-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/07/world/turmoil-in-china-foreigners-scramble-to-leave-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: As gunfire continues to echo in the capital, thousands of foreigners are preparing to leave and the United States Embassy here is urging all Americans to get out of the country.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd184148eb7c8105d682a19",
+        "source": "The New York Times",
+        "word_count": 1061,
+        "lead_paragraph": "LEAD: As gunfire continues to echo in the capital, thousands of foreigners are preparing to leave and the United States Embassy here is urging all Americans to get out of the country."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "TURMOIL IN CHINA",
+          "main": "Chinese in New York Show Solidarity With Those in Beijing"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "NEW YORK CITY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "CHINESE-AMERICANS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "1989-06-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/07/world/turmoil-in-china-chinese-in-new-york-show-solidarity-with-those-in-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": null,
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a2968eb7c8105d6b94ea",
+        "source": "The New York Times",
+        "word_count": 3,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "TURMOIL IN CHINA",
+          "main": "Broadcasts Show Widespread Unrest"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "1989-06-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/07/world/turmoil-in-china-broadcasts-show-widespread-unrest.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Chinese radio broadcasts monitored by the United States Government report turmoil and unrest in many provinces as students and other citizens protest the Government's crackdown on demonstrators in Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "PEAR",
+              "role": "reported",
+              "firstname": "Robert"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By ROBERT PEAR, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd195058eb7c8105d6a0e2c",
+        "source": "The New York Times",
+        "word_count": 844,
+        "lead_paragraph": "LEAD: Chinese radio broadcasts monitored by the United States Government report turmoil and unrest in many provinces as students and other citizens protest the Government's crackdown on demonstrators in Beijing."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Turmoil in China; Hong Kong Cancels Mourning Rallies"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "1989-06-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/08/world/turmoil-in-china-hong-kong-cancels-mourning-rallies.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Plans for a series of rallies to mourn the victims of the Chinese crackdown were canceled here today after a violent confrontation between the police and a group described as provocateurs from the mainland.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "BASLER",
+              "role": "reported",
+              "firstname": "Barbara"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By BARBARA BASLER, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18bf38eb7c8105d68f0c3",
+        "source": "The New York Times",
+        "word_count": 861,
+        "lead_paragraph": "LEAD: Plans for a series of rallies to mourn the victims of the Chinese crackdown were canceled here today after a violent confrontation between the police and a group described as provocateurs from the mainland."
+      }
+    ],
+    "meta": {
+      "time": 38,
+      "hits": 187,
+      "offset": 100
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

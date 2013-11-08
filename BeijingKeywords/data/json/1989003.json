@@ -1,0 +1,648 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Gorbachev Praises the Students And Declares Reform Is Necessary"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "GORBACHEV, MIKHAIL S"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "UNION OF SOVIET SOCIALIST REPUBLICS (USSR)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-USSR"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/18/world/gorbachev-praises-the-students-and-declares-reform-is-necessary.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Mikhail S. Gorbachev today portrayed the popular uprising that has engulfed the Chinese capital as part of a painful but healthy worldwide upheaval in Communist countries.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "KELLER",
+              "role": "reported",
+              "firstname": "Bill"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By BILL KELLER, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a4028eb7c8105d6bbf75",
+        "source": "The New York Times",
+        "word_count": 1115,
+        "lead_paragraph": "LEAD: Mikhail S. Gorbachev today portrayed the popular uprising that has engulfed the Chinese capital as part of a painful but healthy worldwide upheaval in Communist countries."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "A Million Chinese March, Adding Pressure for Change"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HUNGER STRIKES"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/18/world/a-million-chinese-march-adding-pressure-for-change.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Sirens wailed as ambulances whizzed by, carrying hunger strikers who have fainted after five days without eating, when the gray-haired school teacher suddenly pulled out her handkerchief and cried.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd184148eb7c8105d682a7b",
+        "source": "The New York Times",
+        "word_count": 946,
+        "lead_paragraph": "LEAD: Sirens wailed as ambulances whizzed by, carrying hunger strikers who have fainted after five days without eating, when the gray-haired school teacher suddenly pulled out her handkerchief and cried."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "CROWDS IN STREET ASK DENG'S OUSTER"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HUNGER STRIKES"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/18/world/crowds-in-street-ask-deng-s-ouster.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: More than a million Chinese took to the streets of Beijing Wednesday in an extraordinary outpouring of support for more democracy.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18bf98eb7c8105d68f56e",
+        "source": "The New York Times",
+        "word_count": 1153,
+        "lead_paragraph": "LEAD: More than a million Chinese took to the streets of Beijing Wednesday in an extraordinary outpouring of support for more democracy."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Quotation of the Day"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "QUOTATION OF THE DAY"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "1989-05-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/18/nyregion/quotation-of-the-day-197189.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "LEAD: ''This is the fifth day of the students' hunger strike, so we have come to support them.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18bf98eb7c8105d68f58f",
+        "source": "The New York Times",
+        "word_count": 91,
+        "lead_paragraph": "LEAD: ''This is the fifth day of the students' hunger strike, so we have come to support them."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "1989 Is Not '1984'"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "UNION OF SOVIET SOCIALIST REPUBLICS (USSR)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "BOUNDARIES AND TERRITORIAL ISSUES"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-USSR"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "34",
+        "pub_date": "1989-05-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/19/opinion/1989-is-not-1984.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: What's striking about the China-Soviet thaw is the equanimity that greets it in Washington. Not so very long ago, in frostier days, any reunion between the two giants of the Communist world would have been viewed with dread. Some people even be",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd195008eb7c8105d6a0acf",
+        "source": "The New York Times",
+        "word_count": 519,
+        "lead_paragraph": "LEAD: What's striking about the China-Soviet thaw is the equanimity that greets it in Washington. Not so very long ago, in frostier days, any reunion between the two giants of the Communist world would have been viewed with dread. Some people even believed the China-Soviet split was a sham, just as a vocal minority now argues that this week's apparent reconciliation between Moscow and Beijing threatens freedom."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Hunger Strikers, Heart of China Protest"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HUNGER STRIKES"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/19/world/hunger-strikers-heart-of-china-protest.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Xie Wanjun is a gawky, 21-year-old agriculture student who is so disarmingly meek and boyish that it is not easy to imagine him as part of the brigade of young people who in the last few days have handed the Government a crushing humiliation.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18af28eb7c8105d68d35c",
+        "source": "The New York Times",
+        "word_count": 905,
+        "lead_paragraph": "LEAD: Xie Wanjun is a gawky, 21-year-old agriculture student who is so disarmingly meek and boyish that it is not easy to imagine him as part of the brigade of young people who in the last few days have handed the Government a crushing humiliation."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "CHINESE PREMIER ISSUES A WARNING TO THE PROTESTERS"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO ZIYANG"
+          },
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HUNGER STRIKES"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/19/world/chinese-premier-issues-a-warning-to-the-protesters.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: BEIJING, Friday, May 19 - Prime Minister Li Peng warned Thursday that chaos in Beijing was spreading all over the country, but his demand for restraint was ignored by up to a million people who braved a driving rain to demonstrate once more for",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1954a8eb7c8105d6a143b",
+        "source": "The New York Times",
+        "word_count": 1408,
+        "lead_paragraph": "LEAD: BEIJING, Friday, May 19 - Prime Minister Li Peng warned Thursday that chaos in Beijing was spreading all over the country, but his demand for restraint was ignored by up to a million people who braved a driving rain to demonstrate once more for greater democracy."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "CHINA HARD-LINERS SEND TROOPS TO BEIJING",
+          "main": "PARTY HEAD MAY BE OUT, REPORTING IS CURBED"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO ZIYANG"
+          },
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SUSPENSIONS, DISMISSALS AND RESIGNATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "MARTIAL LAW"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/20/world/china-hard-liners-send-troops-beijing-party-head-may-be-reporting-curbed.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: The Government called troops into the capital this morning and imposed martial law in parts of the city to crack down on China's growing democracy movement. But tens of thousands of people rushed out of their homes to block troops from reaching",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a3ff8eb7c8105d6bbcd2",
+        "source": "The New York Times",
+        "word_count": 1583,
+        "lead_paragraph": "LEAD: The Government called troops into the capital this morning and imposed martial law in parts of the city to crack down on China's growing democracy movement. But tens of thousands of people rushed out of their homes to block troops from reaching student demonstrators in the central square."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "CHINA ORDERS END TO TV BROADCASTS"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "FITZWATER, MARLIN"
+          },
+          {
+            "name": "persons",
+            "value": "GORBACHEV, MIKHAIL S"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "UNION OF SOVIET SOCIALIST REPUBLICS (USSR)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "1989-05-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/20/world/china-orders-end-to-tv-broadcasts.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: As American viewers watched live television coverage from China last night, Chinese officials ordered the networks to cease transmitting pictures and commentary from a portable station set up in Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "L.",
+            "role": "reported",
+            "lastname": "HAYS",
+            "firstname": "Constance"
+          }],
+          "original": "By CONSTANCE L. HAYS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a5a08eb7c8105d6bef5e",
+        "source": "The New York Times",
+        "word_count": 653,
+        "lead_paragraph": "LEAD: As American viewers watched live television coverage from China last night, Chinese officials ordered the networks to cease transmitting pictures and commentary from a portable station set up in Beijing."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Chinese in the United States Voice Their Disappointment"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "1989-05-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/20/world/chinese-in-the-united-states-voice-their-disappointment.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Chinese students and intellectuals in the United States expressed varying degrees of fear, anger and disappointment yesterday after the Chinese Government, taking a tough line, moved troops toward the demonstrators in Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "PACE",
+            "role": "reported",
+            "firstname": "Eric"
+          }],
+          "original": "By ERIC PACE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a3ff8eb7c8105d6bbcd8",
+        "source": "The New York Times",
+        "word_count": 619,
+        "lead_paragraph": "LEAD: Chinese students and intellectuals in the United States expressed varying degrees of fear, anger and disappointment yesterday after the Chinese Government, taking a tough line, moved troops toward the demonstrators in Beijing."
+      }
+    ],
+    "meta": {
+      "time": 35,
+      "hits": 187,
+      "offset": 30
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

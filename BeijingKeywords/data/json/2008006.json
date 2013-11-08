@@ -1,0 +1,928 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Edward Rothstein Connections column; says current relay of Olympic torch by China recalls its modern start, described in opening of Leni Riefenstahl's 1938 film , Olympia; traces history of modern Olympic games; photos (M)",
+        "headline": {
+          "kicker": "CONNECTIONS",
+          "main": "The Relay of Fire Ignited by the Nazis"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "OLYMPIA (MOVIE)"
+          },
+          {
+            "name": "persons",
+            "value": "RIEFENSTAHL, LENI"
+          },
+          {
+            "name": "persons",
+            "value": "HITLER, ADOLF"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED STATES HOLOCAUST MEMORIAL MUSEUM"
+          },
+          {
+            "name": "organizations",
+            "value": "OLYMPIC MUSEUM"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "MOVIES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "NAZI POLICIES TOWARD JEWS AND MINORITIES"
+          },
+          {
+            "name": "subject",
+            "value": "WORLD WAR II (1939-45)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-04-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/04/14/arts/14conn.html",
+        "news_desk": "Arts and Leisure Desk",
+        "snippet": "If you want to know how the Olympic torch really began its \u201cJourney of Harmony,\u201d as the Chinese call its current relay, look to the opening of Leni Riefenstahl\u2019s 1938 film, \u201cOlympia.\u201d",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Movies; Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROTHSTEIN",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD ROTHSTEIN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/04/14/arts/Torch75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/04/14/arts/Torch75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 476,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/04/14/arts/Torch1650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 476,
+              "xlarge": "images/2008/04/14/arts/Torch1650.jpg",
+              "xlargewidth": 650
+            }
+          }
+        ],
+        "_id": "4fd2b32b8eb7c8105d8a48e3",
+        "source": "The New York Times",
+        "word_count": 1243,
+        "lead_paragraph": "If you want to know how the Olympic torch really began its ''Journey of Harmony,'' as the Chinese call its current relay, if you want to see why the torch has had to pass through a human obstacle course composed of protesters, SWAT teams and police in San Francisco, Paris and London, then do not look to Tibet's grievances against China. Look to the opening of Leni Riefenstahl's 1938 film, ''Olympia.'' In that homage to Berlin's 1936 Olympic Games the origins of this ritual are revealed. Never before had a lighted torch been relayed from a Greek temple in Olympia to an athletic competition, let alone by thousands of runners trying to keep it from being extinguished."
+      },
+      {
+        "abstract": "Beijing officials lay out ambitious series of measures that will freeze construction projects, slow down steel production and shut down quarries in and around capital during summer in attempt to clear air for Olympics; independent scientists who have sampled city's air have said levels of ozone and particulate matter remain five times higher than maximum standards set by World Health Organization (M)",
+        "headline": {"main": "Beijing to Stop Construction To Clear Air for the Olympics"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD HEALTH ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+          },
+          {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OZONE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "BUILDING (CONSTRUCTION)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2008-04-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/04/15/world/asia/15beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Chinese officials laid out a sweeping series of measures intended to clear the air for the Olympics this summer.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/04/14/world/14beijing-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/04/14/world/14beijing-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/04/14/world/14beijing-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2008/04/14/world/14beijing-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/04/14/world/14beijing-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/04/14/world/14beijing-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd265448eb7c8105d819510",
+        "source": "The New York Times",
+        "word_count": 670,
+        "lead_paragraph": "City officials laid out an ambitious series of measures on Monday that will freeze construction projects, slow down steel production and shut down quarries in and around this capital during the summer in an attempt to clear the air for the Olympics. Even spray-painting outdoors will be banned during the weeks before and after sporting events, which begin here on Aug. 8. Although officials initially suggested that the city's wholesale transformation would be complete long before the opening ceremonies, the announcement nonetheless represents the most detailed plan yet for how Beijing might reach its longstanding pledge to stage ''green Games'' in one of the world's most polluted cities. In the past, officials had suggested that the city's makeover would be completed well before the Games, possibly by the end of 2007."
+      },
+      {
+        "abstract": "George Vecsey Sports of The Times column discusses 2008 Olympics in Beijing, which have faced number of problems as city has prepared to host Games (M)",
+        "headline": {
+          "kicker": "SPORTS OF THE TIMES",
+          "main": "The Olympics Have Enough Problems"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "SPORTS OF THE TIMES (TIMES COLUMN)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "BOYCOTTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-04-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/04/16/sports/othersports/16vecsey.html",
+        "news_desk": "Sports Desk",
+        "snippet": "World leaders should draw attention to Beijing\u2019s poor record in human rights and not use an overblown sports jamboree to cover up for their failures.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "VECSEY",
+            "role": "reported",
+            "firstname": "George"
+          }],
+          "original": "By GEORGE VECSEY"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2008/04/16/sports/16vecsey.1.75.jpg",
+          "legacy": {
+            "thumbnail": "images/2008/04/16/sports/16vecsey.1.75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd27a328eb7c8105d83de1d",
+        "source": "The New York Times",
+        "word_count": 885,
+        "lead_paragraph": "Back a couple of millenniums ago, the Greeks used to call a truce whenever the athletes were competing at Ancient Olympia. Nowadays we have a modern version of the Olympic truce. It is called the Beijing shutdown. As a gesture to the lungs of visitors, the powers in Beijing announced Monday that they were stopping much of the construction within sight of the Olympic complex, and also some automobile traffic in contemporary consumer-happy Beijing."
+      },
+      {
+        "abstract": "Photo of two people playing pocket billiards on one of several outdoor tables arranged in otherwise empty lot in Beijing",
+        "headline": {"main": "CUE AND RACK, AND MAYBE RAIN"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BILLIARDS"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "2008-04-22T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9B03E1DD123BF931A15757C0A96E9C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "Photo of two people playing pocket billiards on one of several outdoor tables arranged in otherwise empty lot in Beijing",
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b32c8eb7c8105d8a4a38",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "China prepares for 1.5 million visitors coming for Olympic Games by tightening controls over daily life in effort to create blemish-free image of Beijing; imposes new rules restricting many visitors to 30-day stays, causing anxiety among 250,000 foreigners settled in China; photos (M)",
+        "headline": {"main": "Bracing for Games, China Sets Rules That Complicate Life for Foreigners"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "VISAS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "2008-04-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/04/24/world/asia/24china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Chinese officials are introducing visa restrictions that are causing anxiety among the 250,000 expatriates who have settled in China in recent years.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/04/24/world/24china.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/04/24/world/24china.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 360,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/04/24/world/24china.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 360,
+              "xlarge": "images/2008/04/24/world/24china.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd277e28eb7c8105d839c1f",
+        "source": "The New York Times",
+        "word_count": 1078,
+        "lead_paragraph": "In little more than 100 days, China will open its arms to a deluge of foreigners, many of whom will be pleasantly surprised to find a dizzying array of designer boutiques and painfully hip martini bars that divert expatriates and middle-class Chinese in this once dowdy capital. But even as Beijing is promising to welcome 1.5 million visitors to the Olympic Games, public security officials are tightening controls over daily life and introducing visa restrictions that are causing anxiety among the 250,000 foreigners who have settled here in recent years."
+      },
+      {
+        "abstract": "Some Beijing Olympic Games sponsors, criticized by Mia Farrow's activist group Dream for Darfur, begin criticizing group's approach; criticism of group by Johnson & Johnson, General Electric and Coca-Cola noted; photo (M)",
+        "headline": {
+          "kicker": "ADVERTISING",
+          "main": "Companies Return Criticism From Darfur Group"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "FARROW, MIA"
+          },
+          {
+            "name": "glocations",
+            "value": "SUDAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "DARFUR PROVINCE (SUDAN)"
+          },
+          {
+            "name": "organizations",
+            "value": "JOHNSON & JOHNSON INC"
+          },
+          {
+            "name": "organizations",
+            "value": "DREAM FOR DARFUR"
+          },
+          {
+            "name": "organizations",
+            "value": "GENERAL ELECTRIC CO"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "organizations",
+            "value": "COCA-COLA CO"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING (TIMES COLUMN)"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2008-04-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/04/25/business/25adco.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "After taking criticism from activist groups over the last few months, some Olympic sponsors are starting to criticize right back.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CLIFFORD",
+            "role": "reported",
+            "firstname": "Stephanie"
+          }],
+          "original": "By STEPHANIE CLIFFORD; Richard Sandomir contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/04/25/business/adco75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/04/25/business/adco75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 450,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/04/25/business/adco650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 450,
+              "xlarge": "images/2008/04/25/business/adco650.jpg",
+              "xlargewidth": 650
+            }
+          }
+        ],
+        "_id": "4fd277e28eb7c8105d839c41",
+        "source": "The New York Times",
+        "word_count": 1062,
+        "lead_paragraph": "AFTER taking criticism from activist groups over the last few months, some Olympic sponsors are starting to criticize right back. On Thursday, Mia Farrow's activist group, Dream for Darfur, issued a report card that roundly criticized most of the major Olympic sponsors."
+      },
+      {
+        "abstract": "China appears to bend to international pressure as government announces it will meet with envoys of Dalai Lama, unexpected shift that comes as Tibetan unrest in western China threatens to cast pall over Beijing Olympics; breakthrough comes as Chinese officials have moved to tamp down domestic nationalist anger unleashed by Tibetan crisis and by protests along route of international Olympic torch relay; China's official news agency announces decision after Prime Min Wen Jiabao met with Jose Manuel Barroso, president of European Union's executive arm; photo (M)",
+        "headline": {"main": "In Shift, China Says It Is Ready To Meet Envoys of Dalai Lama"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WEN JIABAO"
+          },
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "persons",
+            "value": "BARROSO, JOSE MANUEL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "organizations",
+            "value": "XINHUA"
+          },
+          {
+            "name": "organizations",
+            "value": "EUROPEAN UNION"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-04-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/04/26/world/asia/26china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The breakthrough comes as officials have pivoted and moved to tamp down domestic anger over Tibet.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY; Somini Sengupta contributed reporting from New Delhi, Steven Erlanger from Paris and Jake Hooker from Beijing. Huang Yuanxi contributed research from Beijing"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/04/25/world/nepal-tibet.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/04/25/world/nepal-tibet.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 433,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/04/25/world/nepal-tibet.650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 433,
+              "xlarge": "images/2008/04/25/world/nepal-tibet.650.jpg",
+              "xlargewidth": 650
+            }
+          }
+        ],
+        "_id": "4fd283268eb7c8105d8511b0",
+        "source": "The New York Times",
+        "word_count": 1209,
+        "lead_paragraph": "China appeared to bend to international pressure on Friday as the government announced it would meet with envoys of the Dalai Lama, an unexpected shift that comes as Tibetan unrest in western China has threatened to cast a pall over the Beijing Olympics in August. China's announcement, made through the country's official news agency, provided few details about the shape or substance of the talks on the politically explosive issue of Tibet, but said discussions would begin ''in the coming days.'' The breakthrough comes as Chinese officials have pivoted this week and moved to tamp down the domestic nationalist anger unleashed by the Tibetan crisis and by the protests along the route of the international Olympic torch relay."
+      },
+      {
+        "abstract": "China's police shop for West's lastest police equipment at China International Exhibition on Police Equipment in Beijing, sponsored by Ministry of Public Security; latest devices and equipment on display by DuPont, Motorola, Magnum of Britain and Intelligent Computer Solutions of Chatsworth, Calif, detailed; photos (L)",
+        "headline": {"main": "At Trade Show, China's Police Shop for the West's Latest"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTELLIGENT COMPUTER SOLUTIONS"
+          },
+          {
+            "name": "organizations",
+            "value": "DU PONT DE NEMOURS, E I, & CO"
+          },
+          {
+            "name": "organizations",
+            "value": "MOTOROLA INC"
+          },
+          {
+            "name": "organizations",
+            "value": "MAGNUM"
+          },
+          {
+            "name": "subject",
+            "value": "ESPIONAGE"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "BULLET-PROOF CLOTHING"
+          },
+          {
+            "name": "subject",
+            "value": "IDENTIFICATION DEVICES"
+          },
+          {
+            "name": "subject",
+            "value": "SECURITY AND WARNING SYSTEMS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "PROTECTIVE CLOTHING"
+          },
+          {
+            "name": "subject",
+            "value": "POLICE"
+          },
+          {
+            "name": "subject",
+            "value": "APPAREL"
+          },
+          {
+            "name": "subject",
+            "value": "CRIME AND CRIMINALS"
+          },
+          {
+            "name": "subject",
+            "value": "TRADE SHOWS AND FAIRS"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-04-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/04/26/business/worldbusiness/26security.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "In China, the world\u2019s fastest-growing market for security and crime-control equipment, it is business as usual between Western multinationals and Chinese police agencies.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/04/26/business/26security-span-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/04/26/business/26security-span-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 346,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/04/26/business/26security-span-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 346,
+              "xlarge": "images/2008/04/26/business/26security-span-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/04/26/business/26security.337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/04/26/business/26security.337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd27a338eb7c8105d83df80",
+        "source": "The New York Times",
+        "word_count": 1357,
+        "lead_paragraph": "For the Chinese police agency boss who thought he had everything, the police equipment trade show here was a chance to scrutinize the latest offerings from manufacturers around the world for secretly copying computer hard drives, suppressing riots or collecting video surveillance of public streets. China's crackdown in Tibet after violent protests there has set off strong criticism from human rights groups and confrontations in several countries between police officers and demonstrators during the Olympic torch relay. But here in China, the world's fastest-growing market for security and crime-control equipment, it is business as usual between Western multinationals and Chinese police agencies."
+      },
+      {
+        "abstract": "Serge Schmemann Editorial Observer describes parallels between 1980 Olympic Games in Moscow and upcoming 2008 Games in Beijing; holds that 1980 Games revealed more about paranoia and ruthlessness of authoritarian state than about its skill at organizing sports competitions; says now, in same way, West is learning about China; contends that in end, debating whether mass protest or 'quiet diplomacy' is more effective misses point; says recent protests along Olympic torch route are mostly expression of genuine anger by people in free societies; allows that this may not persuade China of value of human rights, but says it may show Chinese government that cost of cynicism can be high (M)",
+        "headline": {
+          "kicker": "EDITORIAL OBSERVER",
+          "main": "Olympic Protests, Then and Now"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "MOSCOW (RUSSIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "AFGHANISTAN"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (1980)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "22",
+        "pub_date": "2008-04-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/04/28/opinion/28mon4.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "The 1980 Olympic Games in Moscow revealed a lot about the paranoia and ruthlessness of an authoritarian state. Now, in the same way, we\u2019re learning a lot about China.",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SCHMEMANN",
+            "role": "reported",
+            "firstname": "Serge"
+          }],
+          "original": "By SERGE SCHMEMANN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27a348eb7c8105d83dfdf",
+        "source": "The New York Times",
+        "word_count": 724,
+        "lead_paragraph": "I was in Red Square one day during the 1980 Olympic Games in Moscow when some poor protester apparently tried to set himself on fire. We never learned who he was or what really happened because of the amazing reaction of the authorities, which was caught on film by a tourist. The first frame shows a tall flame and shocked tourists. In the next, a Volga sedan wheels into the square, then a middle-aged man is stuffed into the trunk. But in this and subsequent frames, the attention of the crowd is elsewhere -- every fourth man in the area is grabbing a camera, opening it and exposing the film. The tourist whose film I saw had been behind a tree away from the action. I suspect his was the only record of what happened. Most witnesses recalled only the fire and the goons grabbing their cameras."
+      },
+      {
+        "abstract": "Google scientists present paper, during International World Wide Web Conference in Beijing, describing VisualRank, algorithm for blending image-recognition software methods with techniques for weighting and ranking images that look most similar (M)",
+        "headline": {"main": "A Google Prototype for a Precision Image Search"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "GOOGLE INC"
+          },
+          {
+            "name": "subject",
+            "value": "RATINGS AND RATING SYSTEMS"
+          },
+          {
+            "name": "subject",
+            "value": "RESEARCH"
+          },
+          {
+            "name": "subject",
+            "value": "SOFTWARE"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2008-04-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/04/28/technology/28google.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "The company presented a new algorithm for blending image-recognition software methods with techniques for weighting and ranking images that look most similar.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MARKOFF",
+            "role": "reported",
+            "firstname": "John"
+          }],
+          "original": "By JOHN MARKOFF"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd295458eb7c8105d8709d5",
+        "source": "The New York Times",
+        "word_count": 540,
+        "lead_paragraph": "Google researchers say they have a software technology intended to do for digital images on the Web what the company's original PageRank software did for searches of Web pages. On Thursday at the International World Wide Web Conference in Beijing, two Google scientists presented a paper describing what the researchers call VisualRank, an algorithm for blending image-recognition software methods with techniques for weighting and ranking images that look most similar."
+      }
+    ],
+    "meta": {
+      "time": 215,
+      "hits": 367,
+      "offset": 60
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

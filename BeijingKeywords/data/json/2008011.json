@@ -1,0 +1,857 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Beijing officials announce temporary measures to unsnarl city's traffic and reduce its chronic air pollution with 49 days remaining before opening ceremonies of Olympic Games (M)",
+        "headline": {"main": "Officials Plan Traffic Curbs For Games In Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+          },
+          {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2008-06-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/21/world/asia/21china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "With 49 days before the opening ceremony and the air soupy with smog, China announced temporary new rules.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HOOKER",
+            "role": "reported",
+            "firstname": "Jake"
+          }],
+          "original": "By JAKE HOOKER"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/06/20/world/chinatraff_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/06/20/world/chinatraff_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 343,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/06/20/world/chinatraffic_600.1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 343,
+              "xlarge": "images/2008/06/20/world/chinatraffic_600.1.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 245,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/06/20/world/beijing_337.11.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/06/20/world/beijing_337.11.jpg",
+              "tinythumbheight": 245,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd2660d8eb7c8105d81a3da",
+        "source": "The New York Times",
+        "word_count": 642,
+        "lead_paragraph": "With 49 days remaining before the opening ceremonies of the Olympic Games, and the air soupy with smog, Beijing officials on Friday announced temporary measures to unsnarl the city's traffic and reduce its chronic and sometimes choking air pollution. One measure to take more than a million cars off the road will be enforced from July 20 to Sept. 20, a period that includes the Olympic and Paralympic Games. The Chinese news media outlined the plan months ago, but the government waited until Friday to announce it. It will restrict owners of private cars to driving on alternate days, depending on whether the last number of their license plate is even or odd, officials said at a news conference. Operating hours for public transportation will be extended during the two-month period, the officials said."
+      },
+      {
+        "abstract": "Political activists in Shanghai, in latest sign of efforts to prevent dissent during Beijing Olympics, say they have been warned against expressing their opinions, speaking with foreigners or visiting Beijing until after Games (M)",
+        "headline": {"main": "China to Curb Dissidents In Shanghai During Games"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2008-06-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/26/world/asia/26china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Political activists in Shanghai say they have been warned against expressing their opinions, speaking with foreigners, or visiting Beijing until after the Games.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "W.",
+            "role": "reported",
+            "lastname": "FRENCH",
+            "firstname": "Howard"
+          }],
+          "original": "By HOWARD W. FRENCH"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2699f8eb7c8105d820825",
+        "source": "The New York Times",
+        "word_count": 754,
+        "lead_paragraph": "In the latest sign of efforts to prevent dissent during the Beijing Olympics, political activists in Shanghai say they have been warned against expressing their opinions, speaking with foreigners or visiting Beijing until after the Games. The activists, who have petitioned the city government over grievances in the past, say they were summoned by the police, or detained and issued warnings against making political statements before or during the Games."
+      },
+      {
+        "abstract": "China, which has warned other countries not to politicize summer Olympic Games in Beijing, has come under criticism from International Olympic Committee for doing just that; IOC officials rebuke Zhang Qingli, Communist Party leader in Tibet, for denouncing Dalai Lama during ceremony for passage of Olympic torch through Tibet's capital, Lhasa (M)",
+        "headline": {"main": "China Says It Rejects Criticism Over Tibet"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHANG QINGLI"
+          },
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "glocations",
+            "value": "LHASA (TIBET)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2008-06-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/27/world/asia/27china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China rejected criticism from the International Olympic Committee that it had politicized the Summer Olympics through comments denouncing the Dalai Lama.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "W.",
+            "role": "reported",
+            "lastname": "FRENCH",
+            "firstname": "Howard"
+          }],
+          "original": "By HOWARD W. FRENCH"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27cc28eb7c8105d84307b",
+        "source": "The New York Times",
+        "word_count": 589,
+        "lead_paragraph": "After months of warning other countries not to politicize the summer Olympic Games in Beijing, China has come under criticism from the International Olympic Committee for doing just that. In a rare rebuke just weeks before the Games begin, the committee sent a letter to Beijing's Olympic organizers on Wednesday citing a recent speech by the Communist Party leader in Tibet, Zhang Qingli, in which he proclaimed, ''China's red flag with five stars will forever flutter high above this land.''"
+      },
+      {
+        "abstract": "Iraq's team in forthcoming Paralympic Games will feature athletes disabled in wars; Iraq has qualified 20 athletes for Paralympic Games in Beijing, of whom 12 are disabled war veterans; photo (M)",
+        "headline": {"main": "Athletes Disabled by Wars Lead Iraqi Team in World Paralympic Games"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "IRAQ"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "PARALYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "PERSIAN GULF WAR"
+          },
+          {
+            "name": "subject",
+            "value": "TERRORISM"
+          },
+          {
+            "name": "subject",
+            "value": "VETERANS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2008-06-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/29/world/middleeast/29paralympic.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "War and hardship have not destroyed all of Iraq\u2019s dreams for international competition. The country, which has been in three wars in two decades, has a robust Paralympic team.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "KRAMER",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW E. KRAMER"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/06/29/world/29paralympic-span-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/06/29/world/29paralympic-span-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 335,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/06/29/world/29paralympic-span-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 335,
+              "xlarge": "images/2008/06/29/world/29paralympic-span-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/06/29/world/29paralympic-span-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/06/29/world/29paralympic-span-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd285278eb7c8105d854b6f",
+        "source": "The New York Times",
+        "word_count": 870,
+        "lead_paragraph": "Iraqis love sports. Anyone who doubts it should consider the rat-a-tat of automatic weapons fired after every Iraqi soccer victory. Yet after five years of war, Iraq's chances of fielding a competitive Olympic team are vanishingly small. Playing fields, pools and gyms are in disrepair. Athletes are targets for assassination. Only one, a weight lifter, qualified for the Beijing Olympics, the second Summer Games since the American invasion in 2003."
+      },
+      {
+        "abstract": "US pole vaulter Jeff Hartwig makes Olympic track and field team at age 40 (M)",
+        "headline": {"main": "Pole-Vaulter On Team at 40"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HARTWIG, JEFF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "AGE, CHRONOLOGICAL"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "TRACK AND FIELD"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "POLE VAULT"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2008-06-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/30/sports/olympics/30trials.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Jeff Hartwig, 40, finished second at the United States Olympic trials for the pole valut on Sunday to make his first Olympic team since 1996.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ZINSER",
+            "role": "reported",
+            "firstname": "Lynn"
+          }],
+          "original": "By LYNN ZINSER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd269a08eb7c8105d820892",
+        "source": "The New York Times",
+        "word_count": 336,
+        "lead_paragraph": "In the previous two United States Olympic trials, Jeff Hartwig was on the painful end of the quirks of the pole vault. He failed to clear a single height in 2000, when he was the dominant force in the sport, and he failed again in 2004. Now, at age 40, Hartwig has put those memories behind him. He finished second at the trials on Sunday to make his first Olympic team since 1996. It was a quirky day, befitting the event, with the current American record-holder Brad Walker finishing third."
+      },
+      {
+        "abstract": "Memo Pad column; All six network carriers raise round-trip fares by up to $40 on most routes after Southwest Airlines raised its price; Linear Air, which provides air taxi service, is opening hub at Westchester County Airport; service starts July 1; Horizon Air will start flying nonstop between Los Angeles and Prescott, Ariz, on Sept 8; US Airways and Air China have new code-sharing partnership affecting Air China service to Beijing from Los Angeles, San Francisco and Kennedy International Airport; Travel Industry Assn president Roger Dow says industry lost $26 billion in 12-month period ended in May because air travel system is in deep decline; AAA estimates that 40.45 million Americans will take trips of more than 50 miles from home over July 4 holiday, down 1.3 percent from last year; Intercontinental Hotels says number of its Crowne Plaza hotels worldwide rose sharply since end of 2000, to 308, from 149 (M)",
+        "headline": {"main": "Memo Pad"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DOW, ROGER"
+          },
+          {
+            "name": "glocations",
+            "value": "NEW YORK STATE"
+          },
+          {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+          },
+          {
+            "name": "glocations",
+            "value": "LOS ANGELES (CALIF)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "PRESCOTT (ARIZ)"
+          },
+          {
+            "name": "organizations",
+            "value": "HORIZON AIR"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED AIRLINES"
+          },
+          {
+            "name": "organizations",
+            "value": "CONTINENTAL AIRLINES"
+          },
+          {
+            "name": "organizations",
+            "value": "AAA"
+          },
+          {
+            "name": "organizations",
+            "value": "AIR CHINA"
+          },
+          {
+            "name": "organizations",
+            "value": "CROWNE PLAZA HOTELS AND RESORTS"
+          },
+          {
+            "name": "organizations",
+            "value": "LINEAR AIR"
+          },
+          {
+            "name": "organizations",
+            "value": "TRAVEL INDUSTRY ASSN OF AMERICA"
+          },
+          {
+            "name": "organizations",
+            "value": "NORTHWEST AIRLINES"
+          },
+          {
+            "name": "organizations",
+            "value": "US AIRWAYS"
+          },
+          {
+            "name": "organizations",
+            "value": "AMERICAN AIRLINES"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERCONTINENTAL HOTELS"
+          },
+          {
+            "name": "organizations",
+            "value": "DELTA AIR LINES"
+          },
+          {
+            "name": "organizations",
+            "value": "SOUTHWEST AIRLINES"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          },
+          {
+            "name": "subject",
+            "value": "INDEPENDENCE DAY (US) (JULY 4)"
+          },
+          {
+            "name": "subject",
+            "value": "KENNEDY INTERNATIONAL AIRPORT (NYC)"
+          },
+          {
+            "name": "subject",
+            "value": "AIRPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "HOTELS AND MOTELS"
+          },
+          {
+            "name": "subject",
+            "value": "WESTCHESTER COUNTY AIRPORT"
+          },
+          {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+          },
+          {
+            "name": "subject",
+            "value": "SECURITY AND WARNING SYSTEMS"
+          },
+          {
+            "name": "subject",
+            "value": "CODES (CIPHERS)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2008-07-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/07/01/business/01memopad.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "News about airlines and airports.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SHARKEY",
+            "role": "reported",
+            "firstname": "Joe"
+          }],
+          "original": "By JOE SHARKEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd295c18eb7c8105d8716d6",
+        "source": "The New York Times",
+        "word_count": 458,
+        "lead_paragraph": "NEW ROUND OF FARE INCREASES After Southwest Airlines said late last week that it was raising round-trip fares by up to $20, the network carriers quickly joined in with their own across-the-board fare increases. By the weekend, all six network carriers -- American, United, Delta, US Airways, Continental and Northwest -- had raised round-trip fares by up to $40 on most routes. It was the 14th fare increase this year by the major carriers, according to Rick Seaney of FareCompare.com. AIR TAXI SERVICE Linear Air, which provides air taxi service, is opening a hub at the Westchester County Airport near New York City. Service at the airport, which is in White Plains, starts July 1, using an Eclipse 500 jet. Unlike DayJet, which flies Eclipse 500s with individual seats sold on demand in Florida and adjacent states, Linear sells the entire plane, configured with three seats, on demand. Linear Air, based in Concord, Mass., has a fleet of four Eclipse 500s and five 8-passenger Cessna Grand Caravan turboprops, and offers service between regional airports in the Northeast, mid-Atlantic and eastern Canada."
+      },
+      {
+        "abstract": "Queen Harrison (US) qualifies for US Olympic team in 400-meter hurdles; photos (M)",
+        "headline": {"main": "Living Up to a Name Despite Life's Obstacles"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HARRISON, QUEEN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "TRACK AND FIELD"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-07-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/07/01/sports/olympics/01queen.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Queen Quedith Earth Harrison, 19, became one of the youngest members of the United States team for the Beijing Games on Sunday.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LONGMAN",
+            "role": "reported",
+            "firstname": "Jeré"
+          }],
+          "original": "By JERÉ LONGMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/06/30/sports/olympics/queen.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/06/30/sports/olympics/queen.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 393,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/06/30/sports/olympics/queen.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 393,
+              "xlarge": "images/2008/06/30/sports/olympics/queen.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2660e8eb7c8105d81a4e8",
+        "source": "The New York Times",
+        "word_count": 1062,
+        "lead_paragraph": "Queen Quedith Earth Harrison did not expect to jump an 11th barrier in the women's 400-meter hurdles at the Olympic track and field trials, especially one that was human. Running outside in Lane 8, Harrison had to sidestep a fallen competitor between the 9th and 10th hurdles Sunday. She avoided contact, maintained her composure and her speed, made a late charge and finished second in 54.60 seconds."
+      },
+      {
+        "abstract": "Reps Frank R Wolf and Christopher H Smith are in Beijing to lobby for release of more than 700 political prisoners; they had hoped to have dinner with group of Chinese human rights lawyers, but security agents detained some of lawyers and warned others to stay away; detention is latest example of how China is increasing pressure on dissidents in advance of Beijing Olympics; photo (M)",
+        "headline": {"main": "Chinese Security Agents Block Meeting of Rights Lawyers and U.S. Lawmakers"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SMITH, CHRISTOPHER"
+          },
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "WOLF, FRANK R"
+          },
+          {
+            "name": "persons",
+            "value": "SMITH, CHRISTOPHER H"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "REPUBLICAN PARTY"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF RELIGION"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "LOBBYING AND LOBBYISTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2008-07-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/07/02/world/asia/02beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Two United States congressmen were barred by Chinese security officials from meeting with a group of Chinese human rights lawyers.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY; Zhang Jing contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 572,
+          "width": 400,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2008/07/02/world/02activist.large.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 572,
+            "xlarge": "images/2008/07/02/world/02activist.large.jpg",
+            "xlargewidth": 400
+          }
+        }],
+        "_id": "4fd2b3b98eb7c8105d8a51b0",
+        "source": "The New York Times",
+        "word_count": 856,
+        "lead_paragraph": "Two United States representatives who were in Beijing to lobby for the release of more than 700 political prisoners had hoped to have dinner on Sunday with a group of Chinese human rights lawyers. But security agents had a different idea: they detained some of the lawyers and warned the others to stay away. The detention is the latest example of how Chinese security agents are increasing pressure on dissidents in advance of the Beijing Olympics in August. The governing Communist Party has issued broader orders for local governments to defuse public protests, as a violent demonstration involving an estimated 30,000 people erupted last weekend in southwestern China."
+      },
+      {
+        "abstract": "April Rabkin Op-Ed article holds that international community does not realize that China is not concerned about world opinion and will use Olympics to justify its global power to its own people; says with well-run Olympics, Chinese Communist Party can prove its legitimacy and stoke nationalism; notes that huge gap remains between international and domestic news media; says after Games, it is conceivable that China's global standing could plummet while its citizens see Olympics as astounding success (M)",
+        "headline": {
+          "kicker": "OP-ED CONTRIBUTOR",
+          "main": "China's Inside Games"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "BOYCOTTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "19",
+        "pub_date": "2008-07-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/07/02/opinion/02rabkin.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "In Beijing, the Olympic Games are primarily for domestic consumption, justifying the government\u2019s new global power to its own people.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "RABKIN",
+            "role": "reported",
+            "firstname": "April"
+          }],
+          "original": "By APRIL RABKIN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd269a08eb7c8105d8208bb",
+        "source": "The New York Times",
+        "word_count": 661,
+        "lead_paragraph": "LAST week, amid continuing calls from activists in Europe and the United States to boycott the Olympics to protest China's record on human rights, came a rare rebuke from the International Olympic Committee. The committee expressed disappointment with a speech in which Tibet's Communist Party leader used the occasion of an Olympic torch ceremony to denounce the Dalai Lama, the exiled Tibetan spiritual leader."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China&#039;s Museums, Art in Transition "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "ART"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-07-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/interactive/2008/07/03/arts/design/Cotter-China-multimedia/index.html",
+        "news_desk": null,
+        "snippet": "Holland Cotter talks about the changes at art museums in China.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a84fe1c22dfde670bda50",
+        "source": null,
+        "word_count": 17,
+        "lead_paragraph": "Holland Cotter talks about the changes at art museums in China."
+      }
+    ],
+    "meta": {
+      "time": 207,
+      "hits": 367,
+      "offset": 110
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

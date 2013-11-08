@@ -1,0 +1,928 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Selena Roberts Sports of The Times column contends that athletes traveling to Beijing (China) for 2008 Olympics will need to be wary of eating food and using Chinese products, some of which have recently made headlines for violating health and safety standards (M)",
+        "headline": {
+          "kicker": "SPORTS OF THE TIMES",
+          "main": "To Beijing Games, Bring Your Own"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "FOOD AND DRUG ADMINISTRATION"
+          },
+          {
+            "name": "subject",
+            "value": "SPORTS OF THE TIMES (TIMES COLUMN)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FOOD CONTAMINATION AND POISONING"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2007-07-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/07/11/sports/othersports/11roberts.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Given the weekly food sirens from China, and the suspicious nature of Olympians, athletes in Beijing will no doubt need a reservation for a training table with made-in-America cuisine.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROBERTS",
+            "role": "reported",
+            "firstname": "Selena"
+          }],
+          "original": "By SELENA ROBERTS"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2007/07/11/sports/11roberts.1.75.jpg",
+          "legacy": {
+            "thumbnail": "images/2007/07/11/sports/11roberts.1.75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd27ef98eb7c8105d848335",
+        "source": "The New York Times",
+        "word_count": 881,
+        "lead_paragraph": "American athletes who normally sling a duffel bag over their shoulders for event travel may opt to lug a steamer trunk as they begin descending upon China in advance of the 2008 Beijing Summer Games -- or the B.Y.O. Olympics. Bring Your Own Crest. This go-to item is important for gymnasts who prefer a pearly Mary Lou Retton-sized smile for a Wheaties box pose instead of the nasty side effects from the recent batches of Chinese toothpaste tainted with a poison found in antifreeze."
+      },
+      {
+        "abstract": "Sculptor Zhang Jianhua has received critical praise for years, but no Chinese museum or established gallery has been willing to display his coal miner work in its entirety, as he insists they must; exhibit was organized in April at one of Beijing's premier forums for contemporary artists, but censors demanded that he leave six dead coal miners out of show; Zhang embraces realism, and uses it to prod Chinese social conscience; photos (M)",
+        "headline": {
+          "kicker": "THE SATURDAY PROFILE",
+          "main": "Carving Plight Of Coal Miners, He Churns China"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHANG JIANHUA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+          },
+          {
+            "name": "subject",
+            "value": "SOCIAL CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "MINES AND MINING"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "COAL"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2007-07-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/07/14/world/asia/14zhang.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Zhang Jianhua\u2019s temerity in representing Chinese coal miners through life-size sculpture has earned his work what might be called a soft ban.",
+        "type_of_material": "Biography",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "W.",
+            "role": "reported",
+            "lastname": "FRENCH",
+            "firstname": "Howard"
+          }],
+          "original": "By HOWARD W. FRENCH"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "pay": "n",
+            "caption": "Sculpting Shock Realism",
+            "type": "Slideshow",
+            "credit": "Zhang Jianhua's realistic sculptures depict the grim underside of China's economic boom.",
+            "url": "http://www.nytimes.com/slideshow/2007/07/14/world/20070714_ZHANG_SLIDESHOW_index.html",
+            "legacy": {
+              "MultimediaSummary1": "Zhang Jianhua's realistic sculptures depict the grim underside of China's economic boom.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaPay1": "n",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Sculpting Shock Realism",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2007/07/14/world/20070714_ZHANG_SLIDESHOW_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/07/13/world/14zhang.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/07/13/world/14zhang.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 320,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/07/13/world/14zhang_span.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 320,
+              "xlarge": "images/2007/07/13/world/14zhang_span.600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 225,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2007/07/13/world/14zhang.337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2007/07/13/world/14zhang.337.jpg",
+              "tinythumbheight": 225,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd262188eb7c8105d813490",
+        "source": "The New York Times",
+        "word_count": 1065,
+        "lead_paragraph": "BEIJING IT is not easy to forget an encounter with Zhang Jianhua's sculptures of Chinese coal miners; that is, if one is lucky enough to see them."
+      },
+      {
+        "abstract": "Andrew Yang travel article on Whale Inside Dark Restaurant in Beijing, which, conforming to new twist in conceptual dining, serves meals in the dark; trend, which began in Zurich, Switzerland, in 1999, is moving across Europe and into US; photo (M)",
+        "headline": {
+          "kicker": "SURFACING | DINING IN THE DARK",
+          "main": "Waiter, I'm at Your Mercy"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "EUROPE"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "ZURICH (SWITZERLAND)"
+          },
+          {
+            "name": "organizations",
+            "value": "WHALE INSIDE DARK RESTAURANT"
+          },
+          {
+            "name": "subject",
+            "value": "LIGHTING"
+          },
+          {
+            "name": "subject",
+            "value": "RESTAURANTS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2007-07-22T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9803E5D61531F931A15754C0A9619C8B63",
+        "news_desk": "Travel Desk",
+        "snippet": "IN the pitch-black din of the Whale Inside Dark Restaurant in Beijing, a table of 30 diners was getting rowdy. ''I'm touching your head!'' said one, like a mischievous child. ''Who just said that?'' another replied. The disembodied voices floated acr",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YANG",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW YANG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd260018eb7c8105d80fe60",
+        "source": "The New York Times",
+        "word_count": 592,
+        "lead_paragraph": "IN the pitch-black din of the Whale Inside Dark Restaurant in Beijing, a table of 30 diners was getting rowdy. ''I'm touching your head!'' said one, like a mischievous child. ''Who just said that?'' another replied. The disembodied voices floated across the boisterous 90-plus-seat restaurant, but no one could see who was talking, except for the waiters, who were outfitted with military-grade night-vision goggles. In a new twist on conceptual dining, restaurants are turning off the lights to focus attention on the food. The trend seems to have started in Zurich and has since spawned permutations all over the world, with diners donning blindfolds, sitting in unlit rooms and, lately, being served by waiters in night-vision goggles. The idea is that by depriving one sense (sight), other senses are heightened."
+      },
+      {
+        "abstract": "Baron Guy Ullens and wife Myriam, wealthy Belgian couple who live in Switzerland, say they plan to use money they made selling collection of English masterworks to establish center for contemporary art in Beijing, China; space, nearing completion in former munitions complex in Dashanzi warehouse district, is scheduled to open on Nov 2; photos (M)",
+        "headline": {"main": "A Belgian Couple Will Give Beijing a New Home for Contemporary Art"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ULLENS, MYRIAM"
+          },
+          {
+            "name": "persons",
+            "value": "ULLENS, BARON GUY"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "SOTHEBY'S HOLDINGS INCORPORATED"
+          },
+          {
+            "name": "organizations",
+            "value": "ULLENS CENTER FOR CONTEMPORARY ART"
+          },
+          {
+            "name": "organizations",
+            "value": "CENTER FOR CONTEMPORARY ART"
+          },
+          {
+            "name": "organizations",
+            "value": "CHRISTIE'S"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2007-07-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/07/26/arts/design/26ulle.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "Baron Ullens is to announce on Thursday the details of his plans for one of the largest contemporary art spaces in China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KENNEDY",
+            "role": "reported",
+            "firstname": "Randy"
+          }],
+          "original": "By RANDY KENNEDY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "pay": "n",
+            "caption": "The Ullens Center for Contemporary Art",
+            "type": "Slideshow",
+            "credit": "Images from the contemporary art center which will open in November in Beijing, China.",
+            "url": "http://www.nytimes.com/slideshow/2007/07/25/arts/20070726_ULLENS_SLIDESHOW_index.html",
+            "legacy": {
+              "MultimediaSummary1": "Images from the contemporary art center which will open in November in Beijing, China.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaPay1": "n",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "The Ullens Center for Contemporary Art",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2007/07/25/arts/20070726_ULLENS_SLIDESHOW_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/07/26/arts/beijing.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/07/26/arts/beijing.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 316,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/07/26/arts/beijing.span.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 316,
+              "xlarge": "images/2007/07/26/arts/beijing.span.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd27c4f8eb7c8105d842ba6",
+        "source": "The New York Times",
+        "word_count": 953,
+        "lead_paragraph": "If you wanted to illustrate the increasingly global nature of the money and influence driving the art world these days, you might invent a wealthy Belgian couple who live in, say, Switzerland, and plan to use the money they made selling a collection of English masterworks (Turner watercolors) to establish a center for contemporary art in Beijing, where one early show will probably feature a well-known German artist. In a telephone interview this week, Baron Guy Ullens, who, with his wife, Myriam, perfectly fits that description -- they sold their Turners, the biggest group to come on the market in more than a century, for $21 million this month at Sotheby's -- hastened to add that he was educated mostly in the United States. And that he is also using his money to set up philanthropic programs for children in Nepal."
+      },
+      {
+        "abstract": "Recent resurgence in 'observation wheels,' modern version of Ferris wheel, has led to competition for title of world's tallest; China's 5250-foot Star of Nanchang took distinction as world's tallest last year, from London Eye; 541-foot Singapore Flyer will eclipse other two in early 2008, followed soon after 682-foot Great Beijing Wheel; on average, about 3.5 million people each year, or 10,000 per day, pay $30 or more for half-hour spin on London Eye; Singapore Flyer will be able to carry 27,000 passengers each day, with each ride costing about $20, or more for options; diagrams; photos (L)",
+        "headline": {"main": "Wheels of Fortune, on a Roll"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "LONDON (ENGLAND)"
+          },
+          {
+            "name": "glocations",
+            "value": "LONDON (ENG)"
+          },
+          {
+            "name": "glocations",
+            "value": "MALAYSIA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "SINGAPORE"
+          },
+          {
+            "name": "subject",
+            "value": "AMUSEMENT AND THEME PARKS"
+          },
+          {
+            "name": "subject",
+            "value": "FERRIS WHEELS"
+          },
+          {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2007-07-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/07/28/business/28wheels.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "The success of the London Eye has reinvigorated demand for Ferris wheels around the world, and launched a heated competition to build the world\u2019s tallest.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HEINGARTNER",
+            "role": "reported",
+            "firstname": "Douglas"
+          }],
+          "original": "By DOUGLAS HEINGARTNER"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "pay": "n",
+            "caption": "Ferris Wheels of the World",
+            "type": "Slideshow",
+            "credit": "Ferris wheels, large and small, have been popular around the world since the first was introduced in 1893.",
+            "url": "http://www.nytimes.com/slideshow/2007/07/27/business/20070727_FERRIS_SLIDE_index.html",
+            "legacy": {
+              "MultimediaSummary1": "Ferris wheels, large and small, have been popular around the world since the first was introduced in 1893.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaPay1": "n",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Ferris Wheels of the World",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2007/07/27/business/20070727_FERRIS_SLIDE_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/07/28/business/28wheels.76.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/07/28/business/28wheels.76.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 280,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/07/28/business/28wheels.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 280,
+              "xlarge": "images/2007/07/28/business/28wheels.600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 227,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2007/07/28/business/28wheels.337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2007/07/28/business/28wheels.337.jpg",
+              "tinythumbheight": 227,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd25d908eb7c8105d80c5c1",
+        "source": "The New York Times",
+        "word_count": 1318,
+        "lead_paragraph": "The London Eye Ferris wheel, inaugurated on Dec. 31, 1999, was only meant to stay a few years. But almost immediately, it was clear that the 443-foot Eye would be a keeper. Its success, in turn, has reinvigorated demand for Ferris wheels. Similar ''observation wheels,'' a name that has come back into vogue, have recently opened or are being built in Malaysia; Manchester, England; Singapore; and Melbourne, Australia, with others planned for Berlin, Dubai, Beijing and Orlando, Fla."
+      },
+      {
+        "abstract": "Beijing officials give upbeat progress report about their preparations for 2008 Olympics there, saying Olympic construction is accelarating and that main structural work has been completed for major venues; say efforts are under way to train thousands of volunteers, while thousands of employees in service industries are receiving special training as part of citywide civility campaign; say monitoring system is being created to ensure safety of food and medicine for more than 10,000 athletes taking part in Olympics; this is in response to growing international concerns about quality and safety of many Chinese exports; Beijing prepares for celebration in Tiananmen Square to begin one-year countdown to opening ceremony; various groups seize on opportunity to attract attention to their causes, including Committee to Protect Journalists and Reporters Without Borders (M)",
+        "headline": {"main": "China Praises Its Progress Toward Olympics"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "COMMITTEE TO PROTECT JOURNALISTS"
+          },
+          {
+            "name": "organizations",
+            "value": "REPORTERS WITHOUT BORDERS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "FOOD CONTAMINATION AND POISONING"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2007-08-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/07/world/asia/07china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Beijing officials gave an upbeat progress report, even as critics warn that China may fall short on commitments on the environment, human rights and press freedom.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b13b8eb7c8105d8a1568",
+        "source": "The New York Times",
+        "word_count": 710,
+        "lead_paragraph": "With a year remaining before the 2008 Olympics open here, Beijing officials on Monday gave an upbeat progress report about their preparations, even as critics warn that China may fall short on Olympic commitments on the environment, human rights and press freedom. In a news conference with foreign and Chinese journalists, two Beijing Olympics officials said that Olympic construction was accelerating and that the main structural work had been completed for major venues like the National Stadium and the National Aquatics Center. Efforts are also under way to train thousands of volunteers, while thousands of employees in service industries are receiving special training as part of a citywide civility campaign."
+      },
+      {
+        "abstract": "Human rights groups accuse China of failing to improve its civil liberties record; charge China harasses lawyers, dissidents and journalists, despite official promises to make human rights centerpiece of 2008 Olympics in Beijing; group of prominent Chinese write open letter to Pres Hu Jintao and other leaders calling for release of political prisoners (M)",
+        "headline": {"main": "Abuses Belie China Pledge On Rights, Critics Say"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "CIVIL RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2007-08-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/08/world/asia/08china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Human rights groups accused China of failing to improve its record on civil liberties, despite official promises to make rights a centerpiece of the 2008 Olympics.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2621b8eb7c8105d8136e4",
+        "source": "The New York Times",
+        "word_count": 611,
+        "lead_paragraph": "Human rights groups on Tuesday accused China of failing to improve its record on civil liberties, and of harassing lawyers, dissidents and journalists, despite official promises to make human rights a centerpiece of the 2008 Olympics in Beijing. Meanwhile, a group of Chinese scholars, journalists and lawyers wrote an open letter to President Hu Jintao and other national leaders calling for the release of political prisoners, including jailed Chinese reporters and inmates convicted on religious grounds. The group wrote that China's Olympic slogan, ''One World, One Dream'' should instead be ''One World, One Dream, and Universal Human Rights.''"
+      },
+      {
+        "abstract": "Historic district in Beijing is being razed and rebuilt for Olympics; Sun Ruoyu is refusing to leave and her family's restaurant and home is last building standing on street; Beijing has relocated untold numbers of residents to make way for projects intended to give city more modern, glamorous appearance; photos (M)",
+        "headline": {"main": "In Beijing, a Little Building Is Defying Olympic Ambitions"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SUN RUOYU"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "BUILDINGS (STRUCTURES)"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2007-08-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/09/world/asia/09china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A woman is refusing to leave her family home in Beijing, which Chinese officials want to raze because it lies on the planned route for the Olympic marathon.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY; Jake Hooker contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/08/09/world/09china-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/08/09/world/09china-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/08/09/world/09china-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2007/08/09/world/09china-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2007/08/09/world/09china-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2007/08/09/world/09china-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd2b13c8eb7c8105d8a15a7",
+        "source": "The New York Times",
+        "word_count": 1111,
+        "lead_paragraph": "Beijing observed the one-year countdown to the 2008 Olympics on Wednesday night with fireworks and pageantry at a celebration in Tiananmen Square. A few blocks away, Sun Ruoyu and her sister saw the streaks of color in the sky but did not dare leave their battered home. They were on a countdown of their own."
+      },
+      {
+        "abstract": "Professional measurers David Katz and Hugh Jones come up with most direct and exact course for US Olympic men's marathon trials in Central Park (NYC) for Summer Olympics; photos (M)",
+        "headline": {
+          "kicker": "BEIJING OLYMPICS",
+          "main": "Olympian Task: Measuring 26.2 Miles, to the Inch"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "JONES, HUGH"
+          },
+          {
+            "name": "persons",
+            "value": "KATZ, DAVID"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "RUNNING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "MARATHON RUNNING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2007-08-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/09/sports/othersports/09measure.html",
+        "news_desk": "Sports Desk",
+        "snippet": "David Katz and Hugh Jones are in an obscure fraternity of expert measurers around the world who are dedicated to making sure a race is true to its intended distance.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BERG",
+            "role": "reported",
+            "firstname": "Aimee"
+          }],
+          "original": "By AIMEE BERG"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/08/09/sports/09measure.1.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/08/09/sports/09measure.1.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/08/09/sports/09measure.1.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2007/08/09/sports/09measure.1.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd293a08eb7c8105d86d7d1",
+        "source": "The New York Times",
+        "word_count": 886,
+        "lead_paragraph": "Late Tuesday night and into yesterday morning, exactly one year before the start of the Beijing Olympics, two middle-aged men rode their bikes through Central Park, attending to a critical detail in the selection of America's top male marathoners for the Games. In stultifying humidity and nearly total darkness, David Katz, 55, and Hugh Jones, 52, pedaled single file along the four-mile loop in the middle of the park, armed with calculators, notepads and a measuring device affixed to their front axles."
+      },
+      {
+        "abstract": "China's Communist Party would like to eliminate politics from 2008 Olympics in Beijing; party leaders may envision Olympics as public relations opportunity but so do array of advocacy groups that are sharply criticizing China on human rights violations; criticisms are not new but Olympics have amplified dissent and brought intense media attention; drawing; photos (M)",
+        "headline": {"main": "Beijing '08: Let the Politics Begin"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2007-08-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/12/weekinreview/12yardley.html",
+        "news_desk": "Week in Review Desk",
+        "snippet": "Look for protests and China-bashing to be medal sports next summer.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Week in Review",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/08/12/weekinreview/12yardley75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/08/12/weekinreview/12yardley75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 420,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/08/12/weekinreview/12yardley650.2.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 420,
+              "xlarge": "images/2007/08/12/weekinreview/12yardley650.2.jpg",
+              "xlargewidth": 650
+            }
+          }
+        ],
+        "_id": "4fd2621c8eb7c8105d813750",
+        "source": "The New York Times",
+        "word_count": 1199,
+        "lead_paragraph": "BEIJING THE Communist Party expends much effort trying to remove politics from daily life in China, and now it wants to remove politics from the Olympics, too. Beijing Olympic officials are taking the line that political protesters agitating about China are violating the spirit and charter of the Games."
+      }
+    ],
+    "meta": {
+      "time": 44,
+      "hits": 82,
+      "offset": 30
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

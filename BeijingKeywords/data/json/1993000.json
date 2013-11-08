@@ -1,0 +1,495 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "To Bolster Olympic Bid, China Eases Its Surveillance of Reporters"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NEW YORK TIMES"
+          },
+          {
+            "name": "subject",
+            "value": "SURVEILLANCE OF CITIZENS BY GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "ENGLISH LANGUAGE"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1993-01-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/01/19/world/to-bolster-olympic-bid-china-eases-its-surveillance-of-reporters.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  The Chinese authorities appear to have stopped following foreign reporters, as part of an effort to spruce up their image and help their bid to become host of the Olympic Games in the year 2000.   The State Security Ministry and Foreign Ministry jo",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a4308eb7c8105d6bc6f7",
+        "source": "The New York Times",
+        "word_count": 776,
+        "lead_paragraph": "The Chinese authorities appear to have stopped following foreign reporters, as part of an effort to spruce up their image and help their bid to become host of the Olympic Games in the year 2000. The State Security Ministry and Foreign Ministry jointly issued an internal Government circular this month announcing an end to the following of foreign journalists, Chinese familiar with the document say. The circular said the step was necessary to improve Beijing's human rights image and therefore its chances of being awarded the Olympic Games."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "For Better or Worse, Year of Rooster Dawns"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CHINESE NEW YEAR"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "1993-01-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/01/24/world/for-better-or-worse-year-of-rooster-dawns.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  The Chinese-speaking world is celebrating its new year this weekend with deafening fireworks, homemade dumplings, family reunions and earnest discussions of whether the newly arrived year of the rooster will bring good luck or bad.   The year 4691 ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1b7ea8eb7c8105d6dedb3",
+        "source": "The New York Times",
+        "word_count": 672,
+        "lead_paragraph": "The Chinese-speaking world is celebrating its new year this weekend with deafening fireworks, homemade dumplings, family reunions and earnest discussions of whether the newly arrived year of the rooster will bring good luck or bad. The year 4691 on the Chinese calendar formally arrived at midnight Friday, ending the year of the monkey, and Chinese communities from Penang in Malaysia to Taipei in Taiwan erupted in simultaneous explosions of tens of billions of firecrackers."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Goes All Out to Get Olympics in 2000"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1993-03-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/03/11/world/beijing-goes-all-out-to-get-olympics-in-2000.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  No visiting king or president in the last two decades received a welcome as overwhelming as the one that Beijing bestowed this week on a group of obscure but, in certain ways, very powerful foreigners: representatives of the International Olympic C",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WuDUNN",
+            "role": "reported",
+            "firstname": "Sheryl"
+          }],
+          "original": "By SHERYL WuDUNN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a5548eb7c8105d6be2f6",
+        "source": "The New York Times",
+        "word_count": 671,
+        "lead_paragraph": "No visiting king or president in the last two decades received a welcome as overwhelming as the one that Beijing bestowed this week on a group of obscure but, in certain ways, very powerful foreigners: representatives of the International Olympic Committee. For starters, the authorities cut off heat to vast neighborhoods so coal smoke would not mar the sky. Taxi drivers and snack peddlers were advised to take a few days off so the visitors would not be slowed by traffic or offended by the sight of people munching on oily dough sticks."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "I.O.C. Pressured to Make Beijing a Forbidden City"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "HUMAN RIGHTS WATCH"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          }
+        ],
+        "print_page": "18",
+        "pub_date": "1993-04-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/04/21/sports/ioc-pressured-to-make-beijing-a-forbidden-city.html",
+        "news_desk": "Sports Desk",
+        "snippet": "  Human Rights Watch, an organization that monitors human rights abuses worldwide, is lobbying International Olympic Committee members in an attempt to gain I.O.C. opposition to Beijing's bid to hold the 2000 Summer Olympic Games.   Robert Bernstein,",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BONDY",
+            "role": "reported",
+            "firstname": "Filip"
+          }],
+          "original": "By FILIP BONDY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a8638eb7c8105d6c3fd5",
+        "source": "The New York Times",
+        "word_count": 465,
+        "lead_paragraph": "Human Rights Watch, an organization that monitors human rights abuses worldwide, is lobbying International Olympic Committee members in an attempt to gain I.O.C. opposition to Beijing's bid to hold the 2000 Summer Olympic Games. Robert Bernstein, chairman of Human Rights Watch, said his United States-based organization received \"an unacceptable response\" from the I.O.C. after his group had sent a letter to the I.O.C.'s president, Juan Antonio Samaranch, protesting the consideration of China as a host country."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "WHAT'S DOING IN",
+          "main": "Beijing"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "GEOGRAPHIC PROFILES"
+          },
+          {
+            "name": "subject",
+            "value": "NYTRAVEL"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1993-04-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/04/25/travel/what-s-doing-in-beijing.html",
+        "news_desk": "Travel Desk",
+        "snippet": "  THE best thing about visiting Beijing used to be the travelers' horror stories you accumulated. There was the time I was awakened in the middle of the night at the Jianguo Hotel by a cockroach strolling across my cheek, and the time a British frien",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF;"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1b8da8eb7c8105d6e0d11",
+        "source": "The New York Times",
+        "word_count": 1941,
+        "lead_paragraph": "THE best thing about visiting Beijing used to be the travelers' horror stories you accumulated. There was the time I was awakened in the middle of the night at the Jianguo Hotel by a cockroach strolling across my cheek, and the time a British friend had his contact lens case thoughtfully cleaned out by the hotel maid, who sent the lenses down the drain, and then there were the toilets . . . These days, however, travelers can easily find a comfortable hotel and good meals. They can be met at the airport by an English-speaking representative of their hotel, who can arrange for a car. In their hotel they can watch MTV, order a bagel, book a squash court and direct-dial New York."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "OUT THERE: BEIJING",
+          "main": "The Great Leap on the Runway"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SHOWS (EXHIBITS)"
+          },
+          {
+            "name": "subject",
+            "value": "APPAREL"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1993-05-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/05/23/style/out-there-beijing-the-great-leap-on-the-runway.html",
+        "news_desk": "Styles of The Times",
+        "snippet": "  As Valentino took his bows on the runway for the first time in China, Bao Haiqing towered beside him, her tall, willowy figure suggesting a fresh, supple vine wrapped in a swirl of glistening black Italian cloth.   For Valentino, the bows brought h",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Style",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WuDunn",
+            "role": "reported",
+            "firstname": "Sheryl"
+          }],
+          "original": "By Sheryl WuDunn"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a86b8eb7c8105d6c461d",
+        "source": "The New York Times",
+        "word_count": 1083,
+        "lead_paragraph": "As Valentino took his bows on the runway for the first time in China, Bao Haiqing towered beside him, her tall, willowy figure suggesting a fresh, supple vine wrapped in a swirl of glistening black Italian cloth. For Valentino, the bows brought him closer to realizing a dream of one day bringing haute couture to China. For Ms. Bao, an 18-year-old model with sassy, sleek hair and a dazzling smile, the Valentino stilettos she wore brought her one step closer to the international fashion world that every Chinese model now dreams of."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Investors Protest Government Seizure of Private Company in China"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "CORPORATE BONDS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "1993-06-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/06/25/world/investors-protest-government-seizure-of-private-company-in-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": null,
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ddc28eb7c8105d7203ea",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "New Museum Is in Beijing, but Who Will See It?"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SACKLER, JILL"
+          },
+          {
+            "name": "persons",
+            "value": "SACKLER, ARTHUR M"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FINANCES"
+          },
+          {
+            "name": "subject",
+            "value": "GIFTS"
+          }
+        ],
+        "print_page": "15",
+        "pub_date": "1993-06-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/06/30/arts/new-museum-is-in-beijing-but-who-will-see-it.html",
+        "news_desk": "Cultural Desk",
+        "snippet": "  For years, the last place to look for a modern display of Chinese art was in China. Now that may be changing with the opening of China's first Western-style museum here, more than a dozen years after its original sponsor first conceived of it.    T",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WuDUNN",
+            "role": "reported",
+            "firstname": "Sheryl"
+          }],
+          "original": "By SHERYL WuDUNN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1de028eb7c8105d721594",
+        "source": "The New York Times",
+        "word_count": 1059,
+        "lead_paragraph": "For years, the last place to look for a modern display of Chinese art was in China. Now that may be changing with the opening of China's first Western-style museum here, more than a dozen years after its original sponsor first conceived of it. The Arthur M. Sackler Museum of Art and Archeology, which opened in Beijing on May 27, has joined a string of Sackler galleries and museums around the world. This one primarily displays relics and fossils discovered by Chinese archeologists."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Chinese Dissident's Odyssey: In and Out of Prison, Now Trying to Flee Abroad"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "XU YIRU"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "1993-07-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/07/19/world/chinese-dissident-s-odyssey-in-and-out-of-prison-now-trying-to-flee-abroad.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  He is not afraid, he repeats insistently, but he peers nervously over his shoulder every few minutes.   No, he declares, he absolutely is not afraid -- not of another arrest, not of more beatings by the police, not of more toil in prison making Chr",
+        "type_of_material": "Biography",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1bd038eb7c8105d6e93c8",
+        "source": "The New York Times",
+        "word_count": 1835,
+        "lead_paragraph": "He is not afraid, he repeats insistently, but he peers nervously over his shoulder every few minutes. No, he declares, he absolutely is not afraid -- not of another arrest, not of more beatings by the police, not of more toil in prison making Christmas tree lights for foreigners, nor even of another round of exhausting 12-hour days in the prison mine where his buddy attempted suicide."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Olympics Opposed"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "13",
+        "pub_date": "1993-07-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1993/07/22/sports/beijing-olympics-opposed.html",
+        "news_desk": "Sports Desk",
+        "snippet": "  Beijing should not be allowed to hold the 2000 Olympic Games because of China's human rights violations, a House committee resolved today.   The House Foreign Affairs Committee voted in favor of a resolution, drafted by Representative Tom Lantos, D",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1cc0b8eb7c8105d702167",
+        "source": "The New York Times",
+        "word_count": 160,
+        "lead_paragraph": "Beijing should not be allowed to hold the 2000 Olympic Games because of China's human rights violations, a House committee resolved today. The House Foreign Affairs Committee voted in favor of a resolution, drafted by Representative Tom Lantos, Democrat of California, which declares \"that the Olympics in the year 2000 should not be held in Beijing or elsewhere in the People's Republic of China.\" The resolution, which will now be sent to the full House for consideration, cites the 1989 massacre of pro-democracy demonstrators in Tiananmen Square and other violations of free speech and civil liberties."
+      }
+    ],
+    "meta": {
+      "time": 49,
+      "hits": 31,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

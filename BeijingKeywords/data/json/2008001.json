@@ -1,0 +1,873 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Commerce Department is drafting new rules on what security equipment American companies can sell to China; move comes in response to rapid advances in surveillance technology and increasing involvement of American companies in Chinese market as Olympics approach; department is singling out biometric technology--face recognition software, in particular--which Chinese security agencies could use to identify political and religious dissidents; Chinese security agencies are rapidly increasing their spending on video systems with powerful computer analysis tools; American companies have played central role in helping Chinese cities install thousands of street surveillance cameras and use computers to process video; Congress has become concerned about export controls on such activity; photos (L)",
+        "headline": {"main": "Keeping An Eye On China's Security"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "COMMERCE DEPARTMENT"
+          },
+          {
+            "name": "subject",
+            "value": "SURVEILLANCE OF CITIZENS BY GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDINGS AND DOWNLOADS (VIDEO)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTER SOFTWARE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "SECURITY AND WARNING SYSTEMS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          },
+          {
+            "name": "subject",
+            "value": "CAMERAS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-01-31T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/01/31/business/worldbusiness/31security.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Concern over China\u2019s use of surveillance technology prompts new rules for U.S. exports.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 301,
+          "width": 600,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2008/01/31/business/31security.600.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 301,
+            "xlarge": "images/2008/01/31/business/31security.600.jpg",
+            "xlargewidth": 600
+          }
+        }],
+        "_id": "4fd294c38eb7c8105d86fb22",
+        "source": "The New York Times",
+        "word_count": 1036,
+        "lead_paragraph": "Since Imperial times, Chinese governments have relied on neighbors to inform on each other as a way to preserve social control. But with China now becoming wealthier and its citizens more mobile, the government is now embracing the extensive use of street-by-street surveillance technology -- and the United States government is becoming less sure that American companies should be playing a central role in the effort."
+      },
+      {
+        "abstract": "US Olympic Committee, in preparing to take more than 600 athletes to Summer Games in Beijing in 2008, faces food issues beyond steroid-laced chicken; some foods in China have been found to be tainted with insecticides and illegal veterinary drugs, and standards applied to meat there are lower than those in US, raising fears of foodborne illnesses; USOC has made arrangements with sponsors like Kellogg's and Tyson Foods, which will ship 25,000 pounds of lean protein to China about two months before opening ceremony, but will hire local vendors and importers to secure other foods and cooking equipment at Games; USOC executive chef Jacque Hamilton comments; photos (M)",
+        "headline": {"main": "Wary of Food, U.S. Olympians Plan a Big Delivery to China"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HAMILTON, JACQUE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "TYSON FOODS INC"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED STATES OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "organizations",
+            "value": "KELLOGG CO"
+          },
+          {
+            "name": "organizations",
+            "value": "KELLOGG COMPANY"
+          },
+          {
+            "name": "organizations",
+            "value": "TYSON FOODS INCORPORATED"
+          },
+          {
+            "name": "subject",
+            "value": "PESTICIDES"
+          },
+          {
+            "name": "subject",
+            "value": "STEROIDS"
+          },
+          {
+            "name": "subject",
+            "value": "DRUGS (PHARMACEUTICALS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "MEAT"
+          },
+          {
+            "name": "subject",
+            "value": "VETERINARY MEDICINE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "POULTRY"
+          },
+          {
+            "name": "subject",
+            "value": "FOOD CONTAMINATION AND POISONING"
+          },
+          {
+            "name": "subject",
+            "value": "FOOD"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-02-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/02/09/sports/othersports/09olympics.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The U.S. Olympic Committee has tried to figure out how to avoid the danger of tainted food at the Summer Games.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Front Page; Health; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SHPIGEL",
+            "role": "reported",
+            "firstname": "Ben"
+          }],
+          "original": "By BEN SHPIGEL"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/02/08/sports/09olympics_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/02/08/sports/09olympics_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 280,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/02/08/sports/09olympics_600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 280,
+              "xlarge": "images/2008/02/08/sports/09olympics_600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/02/08/sports/09olympics_337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/02/08/sports/09olympics_337.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd264e08eb7c8105d818b32",
+        "source": "The New York Times",
+        "word_count": 1309,
+        "lead_paragraph": "When a caterer working for the United States Olympic Committee went to a supermarket in China last year, he encountered a piece of chicken -- half of a breast -- that measured 14 inches. ''Enough to feed a family of eight,'' said Frank Puleo, a caterer from Staten Island who has traveled to China to handle food-related issues. ''We had it tested and it was so full of steroids that we never could have given it to athletes. They all would have tested positive.''"
+      },
+      {
+        "abstract": "Steven Spielberg says he is withdrawing as artistic adviser to 2008 Summer Olympics in Beijing after unsuccessfully trying to prod Pres Hu Jintao to use China's influence with Sudan to end attacks in Darfur region (M)",
+        "headline": {"main": "Spielberg Drops Out as Adviser to Beijing Olympics in Dispute Over Darfur Conflict"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SPIELBERG, STEVEN"
+          },
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "glocations",
+            "value": "SUDAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "DARFUR PROVINCE (SUDAN)"
+          },
+          {
+            "name": "glocations",
+            "value": "DARFUR (SUDAN)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "WAR CRIMES, GENOCIDE AND CRIMES AGAINST HUMANITY"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2008-02-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/02/13/world/asia/13china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "After trying unsuccessfully to prod China to do more to try to end Sudan\u2019s attacks in the Darfur region, Steven Spielberg said he was withdrawing as an artistic adviser to the 2008 Summer Olympics.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "COOPER",
+            "role": "reported",
+            "firstname": "Helene"
+          }],
+          "original": "By HELENE COOPER; David M. Halbfinger contributed reporting from Los Angeles"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2768c8eb7c8105d83736e",
+        "source": "The New York Times",
+        "word_count": 577,
+        "lead_paragraph": "Steven Spielberg said Tuesday that he was withdrawing as an artistic adviser to the 2008 Summer Olympics in Beijing, after almost a year of trying unsuccessfully to prod President Hu Jintao of China to do more to try to end Sudan's attacks in the Darfur region. Mr. Spielberg's decision, and the public way he announced it, is a blow to China, which has said that its relationship with Sudan should not be linked to the Olympics, which have become a source of national pride."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Swimsuit for the Olympics Is a New Skin for the Big Dip"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "SPEEDO"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-02-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/02/13/sports/othersports/13swim.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Six months before the Games begin in Beijing, Speedo staged its version of an \u201cupfront\u201d to introduce what the company is describing as \u201cthe world\u2019s fastest swimsuit.\u201d",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WILSON",
+            "role": "reported",
+            "firstname": "Eric"
+          }],
+          "original": "By ERIC WILSON"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2008/02/13/sports/13swim.1.75.jpg",
+          "legacy": {
+            "thumbnail": "images/2008/02/13/sports/13swim.1.75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd295398eb7c8105d86ffbe",
+        "source": "The New York Times",
+        "word_count": 812,
+        "lead_paragraph": "Ryan Lochte, an Olympic swimmer, said he felt like a superhero. Michael Phelps, who is expected to win multiple gold medals at the Beijing Games, said it was as if he were wearing a spacesuit. And this was after Phelps, promoting a slinky black unitard swimsuit, stood on a podium with his arms and legs splayed like Leonardo da Vinci's ''Vitruvian Man.'' It might have been a stretch to equate the latest, and supposedly fastest, swimsuit from Speedo, introduced at a news conference on Tuesday, to a Renaissance drawing that is considered to be the apotheosis of ideal proportions -- a merger of science, art and nature. But then again, some people do get really excited about the slightest changes to the get-ups that swimmers wear at the Olympics."
+      },
+      {
+        "abstract": "Vincent Wei-Cheng Wang letter on Feb 13 article about Steven Spielberg's decision to drop out as adviser to Beijing Olympics in dispute over Darfur conflict",
+        "headline": {
+          "kicker": "LETTER",
+          "main": "Pressing Beijing on Rights"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SPIELBERG, STEVEN"
+          },
+          {
+            "name": "persons",
+            "value": "WEI-CHENG WANG, VINCENT"
+          },
+          {
+            "name": "glocations",
+            "value": "SUDAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "DARFUR PROVINCE (SUDAN)"
+          },
+          {
+            "name": "subject",
+            "value": "WAR CRIMES, GENOCIDE AND CRIMES AGAINST HUMANITY"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "22",
+        "pub_date": "2008-02-15T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9901EED61130F936A25751C0A96E9C8B63",
+        "news_desk": "Editorial Desk",
+        "snippet": "To the Editor:      Re ''Spielberg Drops Out as Adviser to Beijing Olympics in Dispute Over Darfur Conflict'' (news article, Feb. 13):  ",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd264e18eb7c8105d818bdb",
+        "source": "The New York Times",
+        "word_count": 168,
+        "lead_paragraph": "To the Editor: Re ''Spielberg Drops Out as Adviser to Beijing Olympics in Dispute Over Darfur Conflict'' (news article, Feb. 13):"
+      },
+      {
+        "abstract": "Excerpts from interview with Adidas Group chief executive Herbert Haimer; Haimer says Adidas is using major athletic events like Super Bowl and Summer Olympics in its battle to catch up with and surpass Nike; photo (M)",
+        "headline": {
+          "kicker": "SATURDAY INTERVIEW",
+          "main": "Super Bowl and Olympics: This Marketer's Dream Year"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HAIMER, HERBERT"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NEW ENGLAND PATRIOTS"
+          },
+          {
+            "name": "organizations",
+            "value": "REEBOK INTERNATIONAL LTD"
+          },
+          {
+            "name": "organizations",
+            "value": "NEW YORK GIANTS"
+          },
+          {
+            "name": "organizations",
+            "value": "NIKE INC"
+          },
+          {
+            "name": "organizations",
+            "value": "ADIDAS-SALOMON AG"
+          },
+          {
+            "name": "organizations",
+            "value": "ADIDAS AG"
+          },
+          {
+            "name": "subject",
+            "value": "SHOES AND BOOTS"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "SUPER BOWL"
+          },
+          {
+            "name": "subject",
+            "value": "FOOTBALL"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2008-02-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/02/16/business/worldbusiness/16interview.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Herbert Hainer, the chief executive of Adidas, says his company is using major athletic events like the Super Bowl and the Summer Olympics in its battle to catch up with and surpass Nike.",
+        "type_of_material": "Interview",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HOLSTEIN",
+            "role": "reported",
+            "firstname": "William"
+          }],
+          "original": "By WILLIAM HOLSTEIN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2008/02/16/business/16interview.75.1.jpg",
+          "legacy": {
+            "thumbnail": "images/2008/02/16/business/16interview.75.1.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2b2af8eb7c8105d8a3bde",
+        "source": "The New York Times",
+        "word_count": 968,
+        "lead_paragraph": "THE ADIDAS GROUP of Germany, which owns the formerly independent Reebok, is using major athletic events like the Super Bowl and the Summer Olympics in its battle to catch up with and surpass Nike, says Herbert Hainer, chief executive of Adidas. Adidas, based in Bavaria, makes only 5 percent of its sales in Germany and uses English as its official language. Mr. Hainer was interviewed in New York. Here are excerpts from the conversation: Q.What was at stake for you in an event like the Super Bowl?"
+      },
+      {
+        "abstract": "Arthur Lubow profile of Cai Guo-Qiang, Chinese artist who paints with gunpowder and will direct visual and special effects for opening and closing ceremonies of Beijing Olympic Games in August; photos (L)",
+        "headline": {"main": "The Pyrotechnic Imagination"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "AI WEIWEI"
+          },
+          {
+            "name": "persons",
+            "value": "CAI GUO-QIANG"
+          },
+          {
+            "name": "persons",
+            "value": "ZHANG HUAN"
+          },
+          {
+            "name": "persons",
+            "value": "ZHANG YIMOU"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "P S 1 CONTEMPORARY ART CENTER"
+          },
+          {
+            "name": "organizations",
+            "value": "SHANGHAI ART MUSEUM"
+          },
+          {
+            "name": "organizations",
+            "value": "CREATIVE TIME"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          },
+          {
+            "name": "subject",
+            "value": "FIREWORKS"
+          }
+        ],
+        "print_page": "32",
+        "pub_date": "2008-02-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/02/17/magazine/17Fireworks-t.html",
+        "news_desk": "Magazine",
+        "snippet": "The Chinese artist Cai Guo-Qiang paints with gunpowder when he\u2019s not staging open-air \u201cexplosion events.\u201d At this summer\u2019s Beijing Olympic ceremonies, he\u2019ll be playing with fire.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Magazine",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LUBOW",
+            "role": "reported",
+            "firstname": "Arthur"
+          }],
+          "original": "By ARTHUR LUBOW"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/02/13/magazine/17fireworks-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/02/13/magazine/17fireworks-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 450,
+            "width": 369,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/02/13/magazine/17fire.1-450.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 450,
+              "xlarge": "images/2008/02/13/magazine/17fire.1-450.jpg",
+              "xlargewidth": 369
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/02/13/magazine/17fire.1-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/02/13/magazine/17fire.1-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd2b2af8eb7c8105d8a3c4c",
+        "source": "The New York Times",
+        "word_count": 5270,
+        "lead_paragraph": "Cai Guo-Qiang says his favorite artistic moment is the pregnant pause between the lighting of the fuse and the detonation of the gunpowder. ''There is a pressure in it to be preserved, and then it explodes,'' he says. ''This moment belongs just to the artist and the work.'' On a breezy afternoon last September, in a large A-frame shed at the Grucci fireworks plant on Long Island, he was setting the stage. With the help of his wife, Hong Hong Wu, he cut a long green fuse into segments, then laid the pieces carefully on eight contiguous panels of handmade Japanese rice paper. After three young female assistants placed stencils in the shape of an eagle's wings, head and beak onto the panels, Cai, a onetime serious student of martial arts, moved gracefully as he sprinkled different grades of gunpowder, some custom-made for him. ''I don't know what the result will be, even though I preplan,'' he told me, speaking through an interpreter in Chinese. ''It is like making medicine -- a little of this, a little of that, watch it and taste it a little and see how it is working. My work is like a dialogue between me and unseen powers, like alchemy.'' (In Chinese, the word for gunpowder is literally ''fire medicine,'' an allusion to the eighth-century Chinese alchemists who accidentally invented it while searching for a magic elixir.) The assistants lifted the stencils, and Cai scattered and rubbed gunpowder in the white space that had been covered. Then the women put the stencils back on the panels, and he tossed on more gunpowder. The entire process was repeated for another image, this one of a pine-tree branch below the eagle's claws."
+      },
+      {
+        "abstract": "China warns against threats to security in outer space, without mentioning its own successful anti-satellite missile test in 2007; warning is in response to United States plan to shoot down malfunctioning spy satellite; Chinese government also stops short of linking planned American strike with Beijing's repeated calls for complete ban on space weapons (M)",
+        "headline": {"main": "China Expresses Concern Over U.S. Plan to Shoot Down a Faulty Spy Satellite"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "SPACE"
+          },
+          {
+            "name": "subject",
+            "value": "SATELLITES"
+          },
+          {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+          },
+          {
+            "name": "subject",
+            "value": "MISSILES AND MISSILE DEFENSE SYSTEMS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2008-02-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/02/19/world/asia/19china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China warned against threats to security in outer space, without mentioning its own successful anti-satellite missile test last year.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LAGUE",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID LAGUE; Yuan Xi contributed"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b2af8eb7c8105d8a3c95",
+        "source": "The New York Times",
+        "word_count": 411,
+        "lead_paragraph": "In response to a United States plan to shoot down a malfunctioning spy satellite, China has warned against threats to security in outer space, without mentioning its own successful anti-satellite missile test last year. The Chinese government also stopped short of linking the planned American strike with Beijing's repeated calls for a complete ban on space weapons."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "sub": "An Olympic Hopeful",
+          "main": "U.S. Table Tennis, Beijing Style"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Tennis, Table",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Olympic Games (2008)",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-02-21T18:27:04Z",
+        "web_url": "http://www.nytimes.com/video/2008/02/21/sports/othersports/1194817113410/u-s-table-tennis-beijing-style.html",
+        "news_desk": "Sports / More Sports",
+        "snippet": "For years, Wang Chen was one of the best table tennis players in China, but never competed in the Olympics. Now, as a U.S. citizen, she will.",
+        "type_of_material": "Video",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": "More Sports",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2008/02/21/sports/othersports/2584_a2_wg_tablet.190x126.fr.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2008/02/21/sports/othersports/2584_a2_wg_tablet.190x126.fr.jpg"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2008/02/21/sports/othersports/2584_a2_wg_tablet.75x75.fr.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/02/21/sports/othersports/2584_a2_wg_tablet.75x75.fr.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "523b5c4138f0d8198973a493",
+        "source": "The New York Times",
+        "word_count": "27",
+        "lead_paragraph": "For years, Wang Chen was one of the best table tennis players in China, but never competed in the Olympics. Now, as a U.S. citizen, she will."
+      },
+      {
+        "abstract": "Profile of Wang Chen, who will represent US in table tennis at 2008 Olympics; photos (M)",
+        "headline": {"main": "A Paddle And Return Ticket"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN, WANG"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TENNIS, TABLE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-02-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/02/22/sports/othersports/22olympics.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Wang Che, a promising table tennis prodigy in China, is now one of two American table tennis players to automatically qualify for the Olympics this summer in Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BERG",
+            "role": "reported",
+            "firstname": "Aimee"
+          }],
+          "original": "By AIMEE BERG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd264e28eb7c8105d818c71",
+        "source": "The New York Times",
+        "word_count": 1144,
+        "lead_paragraph": "Wang Chen is one of two American table tennis players ranked high enough in the world to automatically qualify for the Olympics this summer in Beijing. Yet she has no coach and she receives no direct financing from the sport's national governing body. What Wang does have is the support of Jerry Wartski, a 77-year-old New York City landlord who, like Wang, ended his formal education at 9 and was separated from his family, albeit under entirely different circumstances. He is a Holocaust survivor."
+      }
+    ],
+    "meta": {
+      "time": 49,
+      "hits": 367,
+      "offset": 10
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

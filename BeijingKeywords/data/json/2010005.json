@@ -1,0 +1,794 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Wages in China are predicted to rise as some large companies and local governments raise pay for workers; China recently announced 20 percent increase in monthly wages; salaries in factory region of Southern China are still relatively low at around 75 cents per hour, but economists predict that if China appreciates currency later in year manufacturing costs will rise; analysts say that such changes will eventually translate to higher consumer prices but also create better trade balance in China; photos (M)",
+        "headline": {"main": "As China's Wages Rise, Export Prices Could Follow"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "LABOR"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "WAGES AND SALARIES"
+          },
+          {
+            "name": "subject",
+            "value": "CURRENCY"
+          },
+          {
+            "name": "subject",
+            "value": "FINANCES"
+          },
+          {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+          },
+          {
+            "name": "subject",
+            "value": "YUAN (CURRENCY)"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "FACTORIES AND INDUSTRIAL PLANTS"
+          },
+          {
+            "name": "subject",
+            "value": "LABOR AND JOBS"
+          },
+          {
+            "name": "subject",
+            "value": "GOVERNMENT EMPLOYEES"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2010-06-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/06/08/business/global/08wages.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Salary increases are expected to affect many stages of the supply chain, forcing companies to raise prices and possibly shift to higher-end goods.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA; Chen Xiaoduan contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2010/06/08/business/08WAGES/08WAGES-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2010/06/08/business/08WAGES/08WAGES-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 315,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2010/06/08/business/08WAGES/08WAGES-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 315,
+              "xlarge": "images/2010/06/08/business/08WAGES/08WAGES-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd29e9c8eb7c8105d8810b4",
+        "source": "The New York Times",
+        "word_count": 1095,
+        "lead_paragraph": "SHANGHAI -- The cost of doing business in China is going up. Coastal factories are increasing hourly payments to workers. Local governments are raising minimum wage standards. And if China allows its currency, the renminbi, to appreciate against the United States dollar later this year, as many economists are predicting, the relative cost of manufacturing in China will almost certainly rise."
+      },
+      {
+        "abstract": "Supreme Court of Sichuan Province upholds five-year prison sentence for Tan Zuoren for criticizing Chinese Communist Party over 1989 Tiananmen Square massacre; Tan's supporters say that government is punishing him for his attempt to compile independent report on widespread school collapses during 2008 Sichuan Earthquake as well; photo (S)",
+        "headline": {
+          "kicker": "WORLD BRIEFING  | ASIA",
+          "main": "China: Court Upholds Sentence Of Editor Who Criticized Party"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "TAN ZUOREN"
+          },
+          {
+            "name": "glocations",
+            "value": "SICHUAN PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINESE COMMUNIST PARTY"
+          },
+          {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+          },
+          {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS, PROTESTS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2010-06-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/06/10/world/asia/10briefs-China.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Supreme Court of Sichuan Province upheld a five-year prison sentence for Tan Zuoren for criticizing the Chinese Communist Party over the 1989 Tiananmen Square massacre.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27e9d8eb7c8105d847f5b",
+        "source": "The New York Times",
+        "word_count": 92,
+        "lead_paragraph": "The Supreme Court of Sichuan Province upheld a five-year prison sentence on Wednesday for Tan Zuoren, left, for criticizing the Chinese Communist Party over the 1989 Tiananmen Square massacre. Mr. Tan's supporters say the government was trying to silence him not only for his writings and protests over the Tiananmen bloodshed, but also over his attempt to compile an independent report on the widespread school collapses during the 2008 Sichuan earthquake in which thousands of schoolchildren died. Mr. Tan, 56, was sentenced by a lower court in February."
+      },
+      {
+        "abstract": "Hong Kong publisher Bao Pu is told by Chinese authorities that publishing memoir by Li Peng, the former Chinese prime minister, would violate copyright laws; printing is halted as copies roll off the presses; memoirs appear to be excerpts of diaries that Li reportedly kept during nine weeks that ended in bloody crackdown on student-led protests in Tiananmen Square in 1989 (M)",
+        "headline": {"main": "Chinese Order Stops Printing Of Memoirs By Ex-Premier"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BAO PU"
+          },
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "COPYRIGHTS AND COPYRIGHT VIOLATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "BOOKS AND LITERATURE"
+          },
+          {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2010-06-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/06/21/world/asia/21hong.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The publisher of a memoir by Li Peng, the former Chinese prime minister, said he was told by Chinese authorities that publication would violate copyright laws.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Books",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2010/06/21/world/21hong_inline/21hong_inline-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2010/06/21/world/21hong_inline/21hong_inline-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd29ea98eb7c8105d88171d",
+        "source": "The New York Times",
+        "word_count": 569,
+        "lead_paragraph": "BEIJING -- A Hong Kong publisher said Sunday that he was forced to halt the publication of memoirs ostensibly written by Li Peng, the former Chinese prime minister who was instrumental in bringing a violent end to student-led protests in Tiananmen Square 21 years ago. Bao Pu, the publisher, said the Chinese government warned him earlier this month that publication would violate copyright laws. He halted printing on Friday, as copies rolled off the presses."
+      },
+      {
+        "abstract": "The Chinese central bank on Wednesday set a key rate for the renminbi at a level that appeared designed to signal that Beijing is engineering only a very gradual appreciation of the Chinese currency against the U.S. dollar.",
+        "headline": {
+          "kicker": "DealBook",
+          "main": "Beijing Keeps a Tight Rein on Currency's Rise"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "ING Groep NV"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Group of Twenty"
+          },
+          {
+            "rank": "5",
+            "name": "unknown",
+            "value": "ING Groep NV|ING|NYSE"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-06-23T02:22:13Z",
+        "web_url": "http://dealbook.nytimes.com/2010/06/23/beijing-keeps-a-tight-rein-on-currencys-rise/",
+        "news_desk": null,
+        "snippet": "The Chinese central bank on Wednesday set a key rate for the renminbi at a level that appeared designed to signal that Beijing is engineering only a very gradual appreciation of the Chinese currency against the U.S. dollar.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Business Day",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By DEALBOOK"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd39b5d8eb7c8105d8d9e05",
+        "source": "The New York Times",
+        "word_count": 480,
+        "lead_paragraph": "The Chinese central bank on Wednesday set a key rate for the renminbi at a level that appeared designed to signal that Beijing is engineering only a very gradual appreciation of the Chinese currency against the U.S. dollar, Bettina Wassener reports in The New York Times."
+      },
+      {
+        "abstract": "China's central government has begun a series of investigations this week into how much debt was incurred by local governments last year as part of economic stimulus programs undertaken in response to the global financial downturn.",
+        "headline": {
+          "kicker": "DealBook",
+          "main": "Chinese Auditor Issues Warning on Local Debt"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Fitch Ratings"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-06-25T03:24:02Z",
+        "web_url": "http://dealbook.nytimes.com/2010/06/25/chinese-auditor-issues-warning-on-local-debt/",
+        "news_desk": null,
+        "snippet": "China's central government has begun a series of investigations this week into how much debt was incurred by local governments last year as part of economic stimulus programs undertaken in response to the global financial downturn.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Business Day",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By DEALBOOK"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd39b2b8eb7c8105d8d95dc",
+        "source": "The New York Times",
+        "word_count": 540,
+        "lead_paragraph": "China's central government has begun a series of investigations this week into how much debt was incurred by local governments last year as part of economic stimulus programs undertaken in response to the global financial downturn, David Barboza and Keith Bradsher report in The New York Times."
+      },
+      {
+        "abstract": "A growth in emissions in China and India \"completely nullified\" reductions made in the developed world in 2009.",
+        "headline": {
+          "kicker": "Green",
+          "main": "Per-Capita Emissions Rising in China"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Greenhouse Gas Emissions"
+          },
+          {
+            "rank": "10",
+            "name": "organizations",
+            "value": "United Nations"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Carbon Dioxide"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Kanter, James"
+          },
+          {
+            "rank": "17",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "16",
+            "name": "glocations",
+            "value": "Russia"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "International Relations"
+          },
+          {
+            "rank": "15",
+            "name": "glocations",
+            "value": "India"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Third World and Developing Countries"
+          },
+          {
+            "rank": "14",
+            "name": "glocations",
+            "value": "France"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "United Nations Framework Convention on Climate Change"
+          },
+          {
+            "rank": "13",
+            "name": "glocations",
+            "value": "Copenhagen (Denmark)"
+          },
+          {
+            "rank": "8",
+            "name": "organizations",
+            "value": "European Union"
+          },
+          {
+            "rank": "9",
+            "name": "organizations",
+            "value": "International Energy Agency"
+          },
+          {
+            "rank": "12",
+            "name": "glocations",
+            "value": "China"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-07-01T12:50:48Z",
+        "web_url": "http://green.blogs.nytimes.com/2010/07/01/emissions-soar-in-china-and-india/",
+        "news_desk": null,
+        "snippet": "A growth in emissions in China and India \"completely nullified\" reductions made in the developed world in 2009.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Science",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KANTER",
+            "role": "reported",
+            "firstname": "James"
+          }],
+          "original": "By JAMES KANTER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd39beb8eb7c8105d8db145",
+        "source": "The New York Times",
+        "word_count": 559,
+        "lead_paragraph": "Carbon dioxide emissions per person in China reached the same level as those in France last year, the Netherlands Environmental Assessment Agency said Thursday."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "A Polish 'Nationalist' Whose Music Also Resonates Across China"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHOPIN, FREDERIC"
+          },
+          {
+            "name": "persons",
+            "value": "LANG LANG"
+          },
+          {
+            "name": "glocations",
+            "value": "WARSAW (POLAND)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CLASSICAL MUSIC"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-07-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/07/06/arts/06iht-chopin.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "Chopin bicentennial commemorations are plentiful in China, where the 20th-century composer is as admired for his expressions of patriotism as for his works.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MELVIN",
+            "role": "reported",
+            "firstname": "Sheila"
+          }],
+          "original": "By SHEILA MELVIN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2010/07/05/arts/05chopin1/05chopin1-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2010/07/05/arts/05chopin1/05chopin1-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 315,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2010/07/05/arts/05chopin1/05chopin1-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 315,
+              "xlarge": "images/2010/07/05/arts/05chopin1/05chopin1-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd29e9f8eb7c8105d881220",
+        "source": "International Herald Tribune",
+        "word_count": 1207,
+        "lead_paragraph": "BEIJING -- The great Polish composer Frederic Chopin is one of the classical music world's best-loved musicians, admired both for his lyrical piano compositions and romantic life story. The bicentennial of his birth has thus been marked by a seemingly endless series of concerts and commemorations. While many of these are in Poland (where Chopin was born in 1810) and France (where he died in 1849), China's major cities are also in the grip of ''Chopin fever.''"
+      },
+      {
+        "abstract": "Yu Jie, best-selling Chinese author and democracy advocate, is detained by security agents in Beijing; they threaten to imprison him if he proceeds with plans to publish book critical of Prime Min Wen Jiabao (M)",
+        "headline": {"main": "China Seeks To Halt Book That Faults Its Premier"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WEN JIABAO"
+          },
+          {
+            "name": "persons",
+            "value": "YU JIE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2010-07-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/07/07/world/asia/07china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Yu Jie, who was detained by security agents on Monday, says the agents threatened to imprison him should he proceed with plans to publish a book criticizing Wen Jiabao.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WINES",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL WINES"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd281d38eb7c8105d84e70f",
+        "source": "The New York Times",
+        "word_count": 360,
+        "lead_paragraph": "BEIJING -- A best-selling Chinese author and democracy advocate detained by security agents on Monday said Tuesday that the agents threatened to imprison him if he proceeded with plans to publish a book criticizing Wen Jiabao, China's prime minister. The author, Yu Jie, said in a telephone interview that he still intended to publish the book, titled ''China's Best Actor: Wen Jiabao,'' by autumn. Because his books are banned in mainland China, Mr. Yu said, he is negotiating with a Hong Kong publisher."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "LETTER FROM CHINA",
+          "main": "Pollution? What Pollution?"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SMOG"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-07-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/07/09/world/asia/09iht-letter.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The weather page of the New Beijing News gives lots of helpful advice. But, in one of the most polluted cities in the world, it doesn't mention something really important: how clean is the air?",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a8478eb7c8105d892301",
+        "source": "International Herald Tribune",
+        "word_count": 1010,
+        "lead_paragraph": "BEIJING -- Every day, the weather page of the popular New Beijing News gives lots of helpful advice, should readers wish to exercise early in the morning, climb a mountain or wash their car. But like other major newspapers in one of the most polluted cities in the world, it doesn't tell them something really important: how clean is the air? This week, temperatures topped 40 degrees Celsius (104 degrees Fahrenheit). ''Wear short sleeves,'' it urged, next to a helpful drawing of a golf shirt."
+      },
+      {
+        "abstract": "Family of Chinese artist Wu Yuren, who helped lead unusually bold public protest over land dispute, says he has been languishing in Beijing jail for nearly six weeks after having been beaten by police; photo (M)",
+        "headline": {"main": "Chinese Artist Who Led Protest Has Been Jailed, His Wife Says"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WU YUREN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS, PROTESTS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2010-07-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/07/09/world/asia/09beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Wu Yuren, who helped lead a protest over a land dispute in February, has been held since the end of May after a confrontation at a police station.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2010/07/09/world/09beijing_337-span/BEIJING-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2010/07/09/world/09beijing_337-span/BEIJING-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2010/07/09/world/09beijing_337-span/BEIJING-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2010/07/09/world/09beijing_337-span/BEIJING-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd29aa38eb7c8105d87a058",
+        "source": "The New York Times",
+        "word_count": 639,
+        "lead_paragraph": "BEIJING -- Wu Yuren, an artist who helped lead an unusually bold public protest last winter over a land dispute, has been languishing in a Beijing jail for almost six weeks after having been beaten by police officers, his wife said on Thursday. Mr. Wu's wife, Karen Patterson, a Canadian citizen, said in a telephone interview that the police were accusing her husband of assaulting an officer when he visited the police station on May 31. Ms. Patterson said she learned this only through their lawyer because the police had so far not formally told her that Mr. Wu had been arrested. She decided to publicly discuss the arrest in recent days, she said, because of what she called her frustration with China's opaque legal system."
+      }
+    ],
+    "meta": {
+      "time": 11,
+      "hits": 105,
+      "offset": 50
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

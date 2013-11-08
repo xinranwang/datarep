@@ -1,0 +1,714 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Eric Wilson Front Row column on Opening Ceremony store in New York, which is featuring events and items tied to Beijing Olympic Games; photo (M)",
+        "headline": {
+          "kicker": "FRONT ROW",
+          "main": "Shoppers, On Your Marks ..."
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "OPENING CEREMONY"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "APPAREL"
+          },
+          {
+            "name": "subject",
+            "value": "RETAIL STORES AND TRADE"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-08-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/07/sports/olympics/07ROW.html",
+        "news_desk": "Style Desk",
+        "snippet": "The designers of the store Opening Ceremony are attempting to set a record by keeping their store in SoHo open for a 72-hour Olympics shopping marathon.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Style",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WILSON",
+            "role": "reported",
+            "firstname": "Eric"
+          }],
+          "original": "By ERIC WILSON"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2008/08/07/fashion/07row-75.jpg",
+          "legacy": {
+            "thumbnail": "images/2008/08/07/fashion/07row-75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2852c8eb7c8105d855064",
+        "source": "The New York Times",
+        "word_count": 395,
+        "lead_paragraph": "THERE should be a medal for this. It was obvious that the fashion quotient at the Olympic Games, already a five-ring circus of designer logos, had been raised when Polo Ralph Lauren was named to replace Roots, the Canadian sportswear company of floppy beret fame, as the official outfitter of the American team this year -- beginning with the ''Chariots of Fire''-inspired ensembles for the opening ceremonies on Friday."
+      },
+      {
+        "abstract": "Correction of Aug 5 article about private training center established by United States Olympic Committee at Beijing Normal University that misspelled name of athlete David Durante",
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DURANTE, DAVID"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "LIFE STYLES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-08-07T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9406EEDE113CF934A3575BC0A96E9C8B63",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "    A picture caption on Tuesday with an article about the private training center established by the United States Olympic Committee at Beijing Normal University -- where team members can train, eat and play in a place that looks and feels like home",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2852c8eb7c8105d855074",
+        "source": "The New York Times",
+        "word_count": 62,
+        "lead_paragraph": "A picture caption on Tuesday with an article about the private training center established by the United States Olympic Committee at Beijing Normal University -- where team members can train, eat and play in a place that looks and feels like home -- misspelled the surname of an athlete shown playing a music video game there. He is David Durante, not Durant."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Behind Beijing\u2019s Opening Night"},
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Olympic Games (2008)",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Zhang Yimou",
+            "is_major": "N"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-07T16:05:03Z",
+        "web_url": "http://www.nytimes.com/slideshow/2008/08/07/world/0807-GURU_index.html",
+        "news_desk": "World",
+        "snippet": "The Chinese director Zhang Yimou will preside over the opening ceremony of the Beijing Olympics.",
+        "type_of_material": "Slideshow",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "514c1889fdc5926e770019dc",
+        "source": "The New York Times",
+        "word_count": "15",
+        "lead_paragraph": "The Chinese director Zhang Yimou will preside over the opening ceremony of the Beijing Olympics."
+      },
+      {
+        "abstract": "Lack of work and unwritten government policy encouraging migrant workers to clear out until dignitaries and journalists have returned home is prompting thousands of Chinese to leave Beijing during Olympics; atmosphere at packed main train station is mix of speculation, boredom, disappointment and regret; Beijing has estimated 4 million migrant workers out of 17 million residents; photos (M)",
+        "headline": {"main": "Olympic Message to Some In Beijing Is 'Please Leave'"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "LABOR"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "MIGRANT AND FOREIGN WORKERS"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2008-08-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/08/sports/olympics/08beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Thousands of itinerant workers are leaving Beijing as the government encourages them to clear out until visiting dignitaries and journalists have gone home.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/07/world/08beijing_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/07/world/08beijing_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 310,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/07/world/08beijing_600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 310,
+              "xlarge": "images/2008/08/07/world/08beijing_600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/08/07/world/07beijing_337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/08/07/world/07beijing_337.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd2b3c28eb7c8105d8a5996",
+        "source": "The New York Times",
+        "word_count": 813,
+        "lead_paragraph": "Li Tianchao is an itinerant worker who has spent his adult life toiling long hours, living in bleak worksite dormitories and chasing the next construction job from boomtown to boomtown. A no-nonsense, weatherworn man, he is not quick to grouse. But as he waited for a train to take him back to his hometown north of the capital, Mr. Li, 50, could not help but feel wistful."
+      },
+      {
+        "abstract": "Ben Schott Op-Chart, on day of opening ceremonies of Olympic Games on August 8, 2008 (8/8/08) in Beijing, notes special regard Chinese hold for number 8; offers lists of miscellaneous groups of eight items (M)",
+        "headline": {
+          "kicker": "OP-CHART",
+          "main": "Crazy Eights"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "NUMBERS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "19",
+        "pub_date": "2008-08-08T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9C03E3D71738F93BA3575BC0A96E9C8B63",
+        "news_desk": "Editorial Desk",
+        "snippet": "Ben Schott Op-Chart, on day of opening ceremonies of Olympic Games on August 8, 2008 (8/8/08) in Beijing, notes special regard Chinese hold for number 8; offers lists of miscellaneous groups of eight items (M)",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SCHOTT",
+            "role": "reported",
+            "firstname": "Ben"
+          }],
+          "original": "By BEN SCHOTT"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd266128eb7c8105d81a91b",
+        "source": "The New York Times",
+        "word_count": 1,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Opening Ceremony Fashions "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "APPAREL"
+          },
+          {
+            "name": "subject",
+            "value": "UNIFORMS"
+          },
+          {
+            "name": "subject",
+            "value": "STADIUMS AND ARENAS"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": "BRIDGES, SIMONE S."
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/interactive/2008/08/08/sports/olympics/20080808-olympic-fashion2/index.html",
+        "news_desk": null,
+        "snippet": "Eric Wilson reviews the notable team fashions at the Olympics opening ceremony.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a85891c22dfde670be45d",
+        "source": null,
+        "word_count": 25,
+        "lead_paragraph": "Eric Wilson reviews the notable team fashions at the Olympics opening ceremony."
+      },
+      {
+        "abstract": "Film director Zhang Yimou, whose movies have been consistently banned in China for their depiction of struggle against poverty, war and political misrule, will preside over opening ceremonies of Olympic Games; spectacle is intended to present China's new face; Zhang's participation underscores reality that many leading artists now work with, or at least not against, ruling Communist Party; rising nationalism and pride in China's emergence as economic power, and robust state support for artists who steer clear of political defiance, have transformed cultural landscape; Zhang's critics accuse him of dealing with political leadership that has long record of restricting artistic freedom and playing role of favored court artist, while supporters say party has become more sophisticated, seeking to harness top talent and embrace broader notion of national culture; photos (L)",
+        "headline": {"main": "Gritty Renegade Now Directs China's Close-Up"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHANG YIMOU"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MOTION PICTURES"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "CULTURE"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/08/sports/olympics/08guru.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Zhang Yimou\u2019s films were once banned. Now he is presiding over the Olympic opening ceremonies.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Movies; World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/07/world/guru_7575.2.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/07/world/guru_7575.2.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 426,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/07/world/guru_650.22.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 426,
+              "xlarge": "images/2008/08/07/world/guru_650.22.jpg",
+              "xlargewidth": 650
+            }
+          },
+          {
+            "height": 245,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/08/07/world/guru_337.22.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/08/07/world/guru_337.22.jpg",
+              "tinythumbheight": 245,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd297228eb7c8105d872f85",
+        "source": "The New York Times",
+        "word_count": 2378,
+        "lead_paragraph": "For much of the past quarter century, the Chinese director Zhang Yimou made films that showcased his country's struggle against poverty, war and political misrule to the outside world -- films that Chinese, for the most part, never saw. Time and again, Mr. Zhang's terse, gritty epics were banned by government censors for portraying China's ugly side. When he won an award at the Cannes Film Festival in 1994, the authorities stopped him from attending. Up for an Oscar one year, officials lobbied to have his film withdrawn from the competition."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "View of the Opening Ceremonies "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "STADIUMS AND ARENAS"
+          },
+          {
+            "name": "subject",
+            "value": "MUSIC"
+          },
+          {
+            "name": "subject",
+            "value": "FIREWORKS"
+          },
+          {
+            "name": "subject",
+            "value": "ATHLETICS AND SPORTS"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "organizations",
+            "value": "NATIONAL BROADCASTING CO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "persons",
+            "value": "SARKOZY, NICOLAS"
+          },
+          {
+            "name": "persons",
+            "value": "ZHANG YIMOU"
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/interactive/2008/08/08/sports/olympics/20080808_OPENING_PANO.html",
+        "news_desk": null,
+        "snippet": "A panoramic view of the opening ceremony at the National Stadium in Beijing on Friday.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a85891c22dfde670be461",
+        "source": null,
+        "word_count": 31,
+        "lead_paragraph": "A panoramic view of the opening ceremony at the National Stadium in Beijing on Friday."
+      },
+      {
+        "abstract": "Pres Bush at dedication ceremony of new United States Embassy in Beijing says embassy reflects progress in two countries' relations over past 30 years; praises China's history and its hosting of Olympic Games, while rebuking it over political and religious freedoms; Bush is seeking to balance his advocacy for democracy and political liberty with his desire to cultivate cooperation; photo (M)",
+        "headline": {"main": "Bush Praises China but Continues Rebuke During Embassy Dedication in Beijing"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES FOREIGN SERVICE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2008-08-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/08/sports/olympics/08prexy.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "President Bush said that the new United States Embassy in Beijing, still unfinished, reflected the progress the two countries had made since President Nixon\u2019s historic opening in the 1970s.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Lee",
+            "role": "reported",
+            "lastname": "MYERS",
+            "firstname": "Steven"
+          }],
+          "original": "By STEVEN LEE MYERS; Thomas Fuller contributed reporting from Bangkok"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/08/world/bush75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/08/world/bush75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 280,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/08/world/bush600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 280,
+              "xlarge": "images/2008/08/08/world/bush600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd269a68eb7c8105d820e80",
+        "source": "The New York Times",
+        "word_count": 1070,
+        "lead_paragraph": "President Bush rebuked China over political and religious freedoms for a second day on Friday, though he tempered his criticism with effusive praise for the country's history and embraced its hosting of the Olympic Games. At a dedication ceremony of the new United States Embassy in Beijing, a sleek, sprawling compound that is bigger than all but the one in the fortified Green Zone in Baghdad, Mr. Bush said that the embassy, still unfinished, reflected the progress the two countries had made since President Nixon's historic opening in the 1970s ended decades of cold-war hostility and isolation."
+      },
+      {
+        "abstract": "Correction of Aug 5 article about design of swimming venue at Beijing Olympics; physicists Denis Weaire and Robert Phelan were at Trinity College Dublin when they worked on project",
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WEAIRE, DENIS"
+          },
+          {
+            "name": "persons",
+            "value": "PHELAN, ROBERT"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "TRINITY COLLEGE DUBLIN"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "STADIUMS AND ARENAS"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-08-08T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9F00E6DE1330F93BA3575BC0A96E9C8B63",
+        "news_desk": "4A",
+        "snippet": "An article on Tuesday about the design of the swimming venue at the Beijing Olympics misidentified the educational affiliation of Denis Weaire and Robert Phelan, physicists whose solution to a problem about the structure of foams was used by the buil",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2972a8eb7c8105d8735a2",
+        "source": "The New York Times",
+        "word_count": 58,
+        "lead_paragraph": "An article on Tuesday about the design of the swimming venue at the Beijing Olympics misidentified the educational affiliation of Denis Weaire and Robert Phelan, physicists whose solution to a problem about the structure of foams was used by the building's designers. They were at Trinity College Dublin, not University College Dublin, when they worked on the project."
+      }
+    ],
+    "meta": {
+      "time": 11,
+      "hits": 367,
+      "offset": 200
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

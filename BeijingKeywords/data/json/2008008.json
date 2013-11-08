@@ -1,0 +1,747 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Reader's comments submitted to Rings blog weighing pros and cons of allowing double-amputee Oscar Pistorius of South Africa to compete in 2008 Summer Olympics in Beijing using prosthetics; photo (S)",
+        "headline": {
+          "kicker": "RINGS",
+          "main": "Questions of Fairness On Runner's Eligibility"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "PISTORIUS, OSCAR"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "TRACK AND FIELD"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "PROSTHESIS"
+          },
+          {
+            "name": "subject",
+            "value": "HANDICAPPED"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2008-05-17T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9E04E2DA1E3EF934A25756C0A96E9C8B63",
+        "news_desk": "Sports Desk",
+        "snippet": "On the Rings blog at nytimes.com, readers reacted to the news Friday that Oscar Pistorius, a double-amputee runner from South Africa, may compete in the Beijing Games using blade-like prosthetics called Cheetahs. Here are excerpts, condensed and edit",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd265468eb7c8105d819777",
+        "source": "The New York Times",
+        "word_count": 287,
+        "lead_paragraph": "On the Rings blog at nytimes.com, readers reacted to the news Friday that Oscar Pistorius, a double-amputee runner from South Africa, may compete in the Beijing Games using blade-like prosthetics called Cheetahs. Here are excerpts, condensed and edited, from the responses."
+      },
+      {
+        "abstract": "Court of Arbitration for Sport rules that Oscar Pistorius, double-amputee sprinter from South Africa, is eligible to compete in 2008 Olympic Games in Beijing; ruling makes Pistorius first amputee to successfully challenge notion that his prosthetics gave him unfair advantage and assured his right to race against able-bodied athletes in Olympics, should he qualify; court overturned ban imposed by International Association of Athletics Federation, track and field's governing body; diagram; photos (M)",
+        "headline": {"main": "Olympic Dream Stays Alive, on Synthetic Legs"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "PISTORIUS, OSCAR"
+          },
+          {
+            "name": "glocations",
+            "value": "SOUTH AFRICA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "COURT OF ARBITRATION FOR SPORT"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL ASSN OF ATHLETICS FEDERATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "TRACK AND FIELD"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "PROSTHESIS"
+          },
+          {
+            "name": "subject",
+            "value": "HANDICAPPED"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-05-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/17/sports/olympics/17runner.html",
+        "news_desk": "Sports Desk",
+        "snippet": "A decision that a double-amputee sprinter was eligible for the Olympics was a watershed ruling for disabled athletes.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Front Page; Health; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "ROBINSON",
+              "role": "reported",
+              "firstname": "Joshua"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "SCHWARZ",
+              "role": "reported",
+              "firstname": "Alan"
+            }
+          ],
+          "original": "By JOSHUA ROBINSON  and ALAN SCHWARZ; Gina Kolata contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/05/16/sports/runner_7575.3.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/05/16/sports/runner_7575.3.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 425,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/05/16/sports/runner_650.3.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 425,
+              "xlarge": "images/2008/05/16/sports/runner_650.3.jpg",
+              "xlargewidth": 650
+            }
+          },
+          {
+            "height": 245,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/05/16/sports/runner_337.33.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/05/16/sports/runner_337.33.jpg",
+              "tinythumbheight": 245,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd27cbf8eb7c8105d842cd1",
+        "source": "The New York Times",
+        "word_count": 1498,
+        "lead_paragraph": "When an international court ruled Friday that a double-amputee sprinter from South Africa was eligible to compete in this summer's Olympic Games in Beijing, the stage was set for disabled athletes to meet their own trailblazer. The watershed ruling made the runner, Oscar Pistorius, the first amputee to successfully challenge the notion that his carbon-fiber prosthetics gave him an unfair advantage and assured his right to race against able-bodied athletes in the Olympics, should he qualify. Previously barred from competing in such races by track and field's world governing body, Pistorius will continue to stoke the debate over the competitive issues created by evolving technology in sports."
+      },
+      {
+        "abstract": "Correction of incomplete photo credit with photo accompanying May 18 T: Travel article about art galleries in Beijing",
+        "headline": {"main": "Corrections: For the Record"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-05-18T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9404E5DD1430F93BA25756C0A96E9C8B63",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "A photograph of an artwork today on Page 106 in T: Travel magazine, with an article about art galleries in Beijing, carries an incomplete credit. It is Andy Warhol/Richard Weisman Collection/Faurschou Gallery.               ",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27cbf8eb7c8105d842cea",
+        "source": "The New York Times",
+        "word_count": 32,
+        "lead_paragraph": "A photograph of an artwork today on Page 106 in T: Travel magazine, with an article about art galleries in Beijing, carries an incomplete credit. It is Andy Warhol/Richard Weisman Collection/Faurschou Gallery."
+      },
+      {
+        "abstract": "Article on visit to Beijing, China, which has become stylish city of the future; photos (L)",
+        "headline": {
+          "kicker": "THE PLACE: BEIJING",
+          "main": "Eastern Star"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "97",
+        "pub_date": "2008-05-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/18/style/tmagazine/18itinerary.html",
+        "news_desk": "T: Travel Magazine",
+        "snippet": "Beijing has been attracting plenty of attention (and controversy) lately. Love it or hate it, the Chinese capital is the boomtown of our times. As architects, chefs, designers and filmmakers \u0097 to say nothing of the Olympics \u0097 leave their mark, this",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel; Style; Magazine",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FABRIS-SHI",
+            "role": "reported",
+            "firstname": "Amy"
+          }],
+          "original": "By AMY FABRIS-SHI"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b32f8eb7c8105d8a4d19",
+        "source": "The New York Times",
+        "word_count": 227,
+        "lead_paragraph": "Beijing has been attracting plenty of attention (and controversy) lately. Love it or hate it, the Chinese capital is the boomtown of our times. As architects, chefs, designers and filmmakers -- to say nothing of the Olympics -- leave their mark, this once buttoned-down metropolis has become a stylish city of the future. BY AMY FABRIS-SHI 13 hours in the capital"
+      },
+      {
+        "abstract": "Meeting high cost of traveling to Beijing for 2008 Olympic Games is challenge for family members of Olympic hopefuls; photo (M)",
+        "headline": {"main": "For Many Olympic Families, The Dream Is Proving Costly"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FAMILIES AND FAMILY LIFE"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-05-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/21/sports/olympics/21olympics.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Some families of Olympic athletes have been shocked to learn that the price of attending the Games this August may be between $5,000 and $10,000 a person.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "THOMAS",
+            "role": "reported",
+            "firstname": "Katie"
+          }],
+          "original": "By KATIE THOMAS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2832a8eb7c8105d851461",
+        "source": "The New York Times",
+        "word_count": 614,
+        "lead_paragraph": "Peter Fekete is about to retire from his job as a maintenance machinist at a General Motors plant in Wilmington, Del. His wife, Irene, is an administrative assistant at a pharmaceutical company. In any other year, a family trip to China would be out of the question for the Feketes, who live in Cranford, N.J. But this is not any year. Their son, Nik, is competing next month for a spot on the United States wrestling team and with it, a trip to the Olympics in Beijing."
+      },
+      {
+        "abstract": "Tibetan movement struggles for attention as China takes center stage and turns overnight from victimizer to victim following devastating earthquake; remains fractious and informal hodgepodge of cultural, religous and political groups united by deep emotional sympathy rather than organization or cash; situation leaves Tibetan exiles and their Western supporters in quandary; Olympic torch will arrive in Tibet shortly and, where once it would have been rallying point, voice of Tibet groups has been quieted; widespread demonstrations against Chinese rule have emboldened pro-Tibetan groups and increased volunteerism, but sustaining momentum has been difficult as has developing unified goals, especially in wake of quake tragedy; photo (M)",
+        "headline": {"main": "In Ravaging China, Quake Pushes Tibet to the Sidelines"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL CAMPAIGN FOR TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF RELIGION"
+          },
+          {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "BUDDHISM"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-05-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/22/world/asia/22tibet.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Tibetan opponents of Beijing are struggling to compete with China\u2019s growing diplomatic and economic clout.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 280,
+          "width": 600,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2008/05/22/world/22tibet.600.1.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 280,
+            "xlarge": "images/2008/05/22/world/22tibet.600.1.jpg",
+            "xlargewidth": 600
+          }
+        }],
+        "_id": "4fd265468eb7c8105d8197f5",
+        "source": "The New York Times",
+        "word_count": 1789,
+        "lead_paragraph": "As the Dalai Lama toured European capitals this week, the British prime minister closed the door to 10 Downing Street and agreed to meet him only as part of an ''interfaith dialogue.'' In Germany, most government officials declined to talk with him at all. It was a precipitous comedown from just a few weeks ago, when Tibetans and their supporters unexpectedly upstaged Beijing's elaborate global torch relay and catapulted Tibet's cause to the forefront of the world's human rights agenda. The German and British leaders let it be known then that they would skip the opening ceremony of the Olympics."
+      },
+      {
+        "abstract": "Nicholas D Kristof Op-Ed column holds that Chinese citizens' response to Sichuan earthquake hints at birth of grass-roots political movement; says Chinese public and news media seized initiative from government and attempted to help; notes that private Chinese donations have already raised more than $500 million; says this is encouraging sign of bottom-up public spirit; asserts that although evidence has been mixed, China seems to be evolving toward greater freedom and pluralism (M)",
+        "headline": {
+          "kicker": "OP-ED COLUMNIST",
+          "main": "Earthquake And Hope"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WEN JIABAO"
+          },
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "MA YING-JEOU"
+          },
+          {
+            "name": "glocations",
+            "value": "SICHUAN PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "RESCUES"
+          },
+          {
+            "name": "subject",
+            "value": "PHILANTHROPY"
+          },
+          {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+          },
+          {
+            "name": "subject",
+            "value": "PROPAGANDA"
+          },
+          {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "31",
+        "pub_date": "2008-05-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/22/opinion/22kristof.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "The Sichuan earthquake may be remembered as a milestone in the peaceful evolution of China toward capitalism and democracy.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2832b8eb7c8105d851474",
+        "source": "The New York Times",
+        "word_count": 794,
+        "lead_paragraph": "In the aftermath of the great Sichuan earthquake, we've seen a hopeful glimpse of China's future: a more open and self-confident nation, and maybe -- just maybe -- the birth of grass-roots politics here."
+      },
+      {
+        "abstract": "Harvey Araton Sports of The Times discusses horrific tragedies China has endured as it prepares for Beijing Olympics; Smith College professor Eric Reeves comments (M)",
+        "headline": {
+          "kicker": "SPORTS OF THE TIMES",
+          "main": "Stepping Off Soapbox As China Mourns"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "REEVES, ERIC"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "SMITH COLLEGE"
+          },
+          {
+            "name": "subject",
+            "value": "SPORTS OF THE TIMES (TIMES COLUMN)"
+          },
+          {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-05-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/23/sports/olympics/23araton.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The world seemed prepared to chafe at Chinese sporting dominance while pouring scorn on its government, but the horror in Sichuan Province could well change that.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ARATON",
+            "role": "reported",
+            "firstname": "Harvey"
+          }],
+          "original": "By HARVEY ARATON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd266aa8eb7c8105d81bb5c",
+        "source": "The New York Times",
+        "word_count": 834,
+        "lead_paragraph": "The Beijing tournament was a modest dress rehearsal for the Summer Olympic Games. Late last month, a women's basketball team from the United States found itself in the final against the host Chinese. The Americans' coach, Anne Donovan, didn't have quite the loaded roster she will take back in August, but it did include the veteran W.N.B.A. stalwarts Lisa Leslie, Swin Cash, Kara Lawson and Katie Smith, and the graduating college stars Candice Wiggins and Sylvia Fowles."
+      },
+      {
+        "abstract": "Zagat has published guide to Beijing, China, in time for 2008 Summer Olympics; photo (S)",
+        "headline": {
+          "kicker": "COMINGS AND GOINGS",
+          "main": "Zagat Offers a Beijing Olympics Guide"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "ZAGAT SURVEY"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2008-05-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/25/travel/25COMzagat.html",
+        "news_desk": "Travel Desk",
+        "snippet": "The guide is organized into categories like favorite restaurants, hotels, nightspots, shops and tourist attractions.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HOWARD",
+            "role": "reported",
+            "firstname": "Hilary"
+          }],
+          "original": "By HILARY HOWARD"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/05/25/travel/25comings75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/05/25/travel/25comings75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/05/25/travel/25comings600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2008/05/25/travel/25comings600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2832d8eb7c8105d8514b9",
+        "source": "The New York Times",
+        "word_count": 155,
+        "lead_paragraph": "Westerners planning to attend the 2008 Summer Olympics (Aug. 8 to 24) in Beijing will be able to buy the first Zagat guide to the city. The guide, which was published earlier this month, has organized the opinions of 1,244 people surveyed into categories like favorite restaurants, hotels, nightspots, shops and tourist attractions. It also has helpful phrases, travel tips and fold-out maps of the city and the subway system. Most-popular restaurant accolades went to Alameda, a Brazilian place (Made in China, above, a Chinese restaurant popular with tourists, received top food honors, including raves for its Peking duck). The Peninsula Beijing was named the most popular hotel, and the Forbidden City won most popular tourist site. The guide is available in bookstores for $15.95 (addresses and phone numbers are available free at Zagat.com and on mobile devices at Zagat.mobi). A subscription to all online ratings and reviews costs $24.95 per year."
+      },
+      {
+        "abstract": "Nicholas D Kristof Op-Ed column holds that between 300,000 and 400,000 Chinese die prematurely every year from effects of air pollution; says Beijing's air sometimes has particulate concentration four times level considered safe by World Health Org; says filth is prompting public protests but government has tightly curbed civil society organizations that could help monitor pollution (M)",
+        "headline": {
+          "kicker": "OP-ED COLUMNIST",
+          "main": "Where Breathing Is Deadly"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD HEALTH ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+          },
+          {
+            "name": "subject",
+            "value": "MENTAL RETARDATION"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          },
+          {
+            "name": "subject",
+            "value": "FISH AND OTHER MARINE LIFE"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2008-05-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/25/opinion/25kristof.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "China\u2019s economic boom is raising living standards hugely in many ways, but the toll of the resulting pollution can be brutal.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 300,
+          "width": 600,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2008/05/25/opinion/kristof.span.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 300,
+            "xlarge": "images/2008/05/25/opinion/kristof.span.jpg",
+            "xlargewidth": 600
+          }
+        }],
+        "_id": "4fd2832d8eb7c8105d8514b5",
+        "source": "The New York Times",
+        "word_count": 801,
+        "lead_paragraph": "China's biggest health disaster isn't the terrible Sichuan earthquake this month. It's the air."
+      }
+    ],
+    "meta": {
+      "time": 10,
+      "hits": 367,
+      "offset": 80
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

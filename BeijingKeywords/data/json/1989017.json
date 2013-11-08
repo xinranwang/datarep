@@ -1,0 +1,554 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "ART",
+          "main": "China's Riches Yield To Diplomacy's Skills"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "MOYER, CHARLES A"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "METROPOLITAN MUSEUM OF ART"
+          },
+          {
+            "name": "subject",
+            "value": "ART SHOWS"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "45",
+        "pub_date": "1989-09-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/09/10/arts/art-china-s-riches-yield-to-diplomacy-s-skills.html",
+        "news_desk": "Arts and Leisure Desk",
+        "snippet": "LEAD: In early 1987, when Charles H. Moyer gave Chinese authorities his ''wish list'' of nearly 80 masterworks from Beijing's Forbidden City that he wanted for a major American exhibition of traditional Chinese painting, the Chinese responded with a ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "H.",
+            "role": "reported",
+            "lastname": "HONAN",
+            "firstname": "William"
+          }],
+          "original": "By WILLIAM H. HONAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd189928eb7c8105d68af46",
+        "source": "The New York Times",
+        "word_count": 2230,
+        "lead_paragraph": "LEAD: In early 1987, when Charles H. Moyer gave Chinese authorities his ''wish list'' of nearly 80 masterworks from Beijing's Forbidden City that he wanted for a major American exhibition of traditional Chinese painting, the Chinese responded with a counterproposal."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Journal; Revel Planned Where Goddess of Democracy Fell"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1989-09-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/09/22/world/beijing-journal-revel-planned-where-goddess-of-democracy-fell.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Near the spot in Tiananmen Square where the Goddess of Democracy held vigil over the democracy movement several months ago, the Government has put up what it regards as a more appropriate mascot of China: a giant statue showing a worker, a farm",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd188e78eb7c8105d6895ce",
+        "source": "The New York Times",
+        "word_count": 1030,
+        "lead_paragraph": "LEAD: Near the spot in Tiananmen Square where the Goddess of Democracy held vigil over the democracy movement several months ago, the Government has put up what it regards as a more appropriate mascot of China: a giant statue showing a worker, a farmer, a soldier and an intellectual united in a heroic revolutionary pose."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "ABROAD AT HOME",
+          "main": "Unhappy Birthday"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+          },
+          {
+            "name": "persons",
+            "value": "MAO ZEDONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "27",
+        "pub_date": "1989-09-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/09/28/opinion/abroad-at-home-unhappy-birthday.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: Forty years ago this Sunday, from the wall overlooking Tiananmen Square, Mao Zedong declared the establishment of the People's Republic of China. For the crowd waving red banners in the square, and for millions of Chinese elsewhere, it was a mo",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Lewis",
+            "role": "reported",
+            "firstname": "Anthony"
+          }],
+          "original": "By Anthony Lewis"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18e498eb7c8105d693664",
+        "source": "The New York Times",
+        "word_count": 752,
+        "lead_paragraph": "LEAD: Forty years ago this Sunday, from the wall overlooking Tiananmen Square, Mao Zedong declared the establishment of the People's Republic of China. For the crowd waving red banners in the square, and for millions of Chinese elsewhere, it was a moment of hope for a reborn China, united and democratic."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "'People's China' Celebrates, but Without the People"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LILLEY, JAMES R"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1989-10-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/10/02/world/people-s-china-celebrates-but-without-the-people.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: The People's Republic of China celebrated its 40th anniversary today with colorful dances and fireworks, along with such stiff security that ordinary Chinese could not get within a mile of the birthday party in Tiananmen Square for ''People's C",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd196bd8eb7c8105d6a4201",
+        "source": "The New York Times",
+        "word_count": 929,
+        "lead_paragraph": "LEAD: The People's Republic of China celebrated its 40th anniversary today with colorful dances and fireworks, along with such stiff security that ordinary Chinese could not get within a mile of the birthday party in Tiananmen Square for ''People's China.''"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Time to Seek Reconciliation With China"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "FLYNN, LAWRENCE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "20",
+        "pub_date": "1989-10-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/10/16/opinion/l-time-to-seek-reconciliation-with-china-773789.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: To the Editor:",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd185dc8eb7c8105d6856a1",
+        "source": "The New York Times",
+        "word_count": 331,
+        "lead_paragraph": "LEAD: To the Editor:"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Party Calls for Purge in Capital"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1989-10-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/10/16/world/beijing-party-calls-for-purge-in-capital.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: The Communist Party organization in the capital called today for a purge of its members, and suggested that the party would put more emphasis on ideological loyalty and less on expertise when making personnel decisions.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1aa408eb7c8105d6c7b50",
+        "source": "The New York Times",
+        "word_count": 683,
+        "lead_paragraph": "LEAD: The Communist Party organization in the capital called today for a purge of its members, and suggested that the party would put more emphasis on ideological loyalty and less on expertise when making personnel decisions."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "MARTIAL LAW'S END IS SEEN IN CHINA"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MARTIAL LAW"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "1989-10-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/10/27/world/martial-law-s-end-is-seen-in-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: China's top leaders decided in principle last week to revoke martial law, which now applies to most of Beijing, but the exact date has not been set, according to a Communist Party official.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a7ea8eb7c8105d6c3297",
+        "source": "The New York Times",
+        "word_count": 365,
+        "lead_paragraph": "LEAD: China's top leaders decided in principle last week to revoke martial law, which now applies to most of Beijing, but the exact date has not been set, according to a Communist Party official."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Koch's Stand on China Enrages Ambassador"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "KOCH, EDWARD I"
+          },
+          {
+            "name": "persons",
+            "value": "WENG FUPEI"
+          },
+          {
+            "name": "glocations",
+            "value": "NEW YORK CITY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "STATE, DEPARTMENT OF"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ASYLUM, POLITICAL"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN SERVICE"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "37",
+        "pub_date": "1989-10-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/10/29/nyregion/koch-s-stand-on-china-enrages-ambassador.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "LEAD: In the battle over Tiananmen Square - the one at 42d Street and 12th Avenue - the exchanges between the People's Republic of China and the City of New York are turning increasingly hostile.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Washington; New York and Region",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "W.",
+            "role": "reported",
+            "lastname": "DUNLAP",
+            "firstname": "David"
+          }],
+          "original": "By DAVID W. DUNLAP"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd185e08eb7c8105d685977",
+        "source": "The New York Times",
+        "word_count": 567,
+        "lead_paragraph": "LEAD: In the battle over Tiananmen Square - the one at 42d Street and 12th Avenue - the exchanges between the People's Republic of China and the City of New York are turning increasingly hostile."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "STUDENT CENSURED",
+          "main": "HERO OR DECEIVER?"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BELL, TIMOTHY W"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NATIONAL BROADCASTING CO"
+          },
+          {
+            "name": "organizations",
+            "value": "WAKE FOREST UNIVERSITY"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDINGS (VIDEO)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "19",
+        "pub_date": "1989-12-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/12/04/us/student-censured-hero-or-deceiver.html",
+        "news_desk": "National Desk",
+        "snippet": "LEAD: Students at Wake Forest University agree that Timothy W. Bell acted heroically last June when he carried videotape of the Tiananmen Square massacre out of China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "U.S.",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1aadd8eb7c8105d6c8feb",
+        "source": "The New York Times",
+        "word_count": 818,
+        "lead_paragraph": "LEAD: Students at Wake Forest University agree that Timothy W. Bell acted heroically last June when he carried videotape of the Tiananmen Square massacre out of China."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Clamor in Europe; Czech Students Belatedly Assail China Crackdown"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "CZECHOSLOVAKIA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "CZECHOSLOVAKIA-INTERNATIONAL RELATIONS-CHINA"
+          }
+        ],
+        "print_page": "15",
+        "pub_date": "1989-12-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/12/04/world/clamor-in-europe-czech-students-belatedly-assail-china-crackdown.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: In a belated expression of sympathy, several thousand Czechoslovak students marched here today to protest the violent suppression of China's pro-democracy movement in June.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By ESTHER B. FEIN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1aadd8eb7c8105d6c8fec",
+        "source": "The New York Times",
+        "word_count": 580,
+        "lead_paragraph": "LEAD: In a belated expression of sympathy, several thousand Czechoslovak students marched here today to protest the violent suppression of China's pro-democracy movement in June."
+      }
+    ],
+    "meta": {
+      "time": 16,
+      "hits": 187,
+      "offset": 170
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

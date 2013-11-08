@@ -1,0 +1,893 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Bao Tong once worked at the highest levels of the Chinese Communist Party --- until his fall from favor, his conviction in a show trial and a seven-year prison term. And now, with an important Communist Party congress coming up, the state security agencies are taking no chances with the 79-year-old dissident: He is still shadowed wherever he goes. Even to the local McDonald's.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Forever Shadowing an Elderly Dissident in China"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Mao Zedong"
+          },
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Zhao Ziyang"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Chen Guangcheng"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Johnson, Ian"
+          },
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Bo Xilai"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Communist Party of China"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Decisions and Verdicts"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-06-17T22:50:20Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/06/17/forever-shadowing-an-elderly-dissident-in-china/",
+        "news_desk": null,
+        "snippet": "Bao Tong once worked at the highest levels of the Chinese Communist Party --- until his fall from favor, his conviction in a show trial and a seven-year prison term. And now, with an important Communist Party congress coming up, the state security ag",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fdf0fbc32439115e30b6ce5",
+        "source": "The New York Times",
+        "word_count": 798,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "SPECIAL REPORT: BUSINESS OF GREEN",
+          "main": "Businesses Take Action to Clean Up London's Air"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "JOHNSON, BORIS"
+          },
+          {
+            "name": "glocations",
+            "value": "LONDON (ENGLAND)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          },
+          {
+            "name": "subject",
+            "value": "TAXICABS AND TAXICAB DRIVERS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2012)"
+          },
+          {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-06-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/06/21/business/global/cleaning-londons-air-for-the-olympics.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "With the 2012 Olympic Games just weeks away, London's pollution is drawing parallels to notoriously dirty Beijing, its 2008 Olympic precursor.",
+        "type_of_material": "Special Report",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "GARDINER",
+            "role": "reported",
+            "firstname": "Beth"
+          }],
+          "original": "By BETH GARDINER"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2012/06/21/business/21london-pic/21london-pic-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2012/06/21/business/21london-pic/21london-pic-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fe1f6f2439ee47a72ecba44",
+        "source": "International Herald Tribune",
+        "word_count": 998,
+        "lead_paragraph": "LONDON -- Boris Johnson, the mayor of London, says he has a solution to the city's air pollution problem, one of the worst in Europe: Since last year, specially equipped trucks have trundled around the capital spraying glue to stick sooty particles to the ground in its worst traffic hotspots. Critics accuse Mr. Johnson, who has a shrewd penchant for self-parody, of not taking the problem seriously. Environmentalists say the trucks have been particularly active near air quality monitoring stations, to help London avoid being fined for violating E.U. pollution limits."
+      },
+      {
+        "abstract": "Chinese authorities bar Ai Weiwei from the courtroom where his lawsuit against tax officials is being heard; hundreds of supporters gather at the court in Beijing, despite a small army of police officers; Ai's wife and legal advisers sit in on the hearing, while he sends Twitter messages ridiculing the authorities. Photo (M)d",
+        "headline": {"main": "Chinese Artist Is Barred From His Own Hearing"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "AI WEIWEI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "TWITTER"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS, PROTESTS, AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "TAXATION"
+          },
+          {
+            "name": "subject",
+            "value": "SOCIAL NETWORKING (INTERNET)"
+          },
+          {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2012-06-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/06/21/world/asia/supporters-take-up-chinese-artist-ai-weiwei-s-cause-at-court.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The artist, Ai Weiwei, is suing tax officials, and hundreds of his supporters showed up at the Chaoyang District Court in Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Mia Li and Jacob Fromer contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2012/06/21/world/asia/21beijing/21beijing-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2012/06/21/world/asia/21beijing/21beijing-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2012/06/21/world/asia/21beijing/21beijing-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2012/06/21/world/asia/21beijing/21beijing-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fe1f5e4439ee47a72ecba07",
+        "source": "The New York Times",
+        "word_count": 676,
+        "lead_paragraph": "BEIJING -- If the Chinese authorities thought that barring the artist Ai Weiwei from the courtroom where his lawsuit against tax officials is being heard might tamp down public interest in the matter, they must be sorely disappointed. On Wednesday, after the police told Mr. Ai that he could not attend the proceedings and blocked scores of other dissidents from leaving their homes in the capital, hundreds of supporters gathered outside the Chaoyang District Court here in Beijing despite a small army of police officers, some of whom videotaped the crowd and led several people away."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Hong Kong Newspaper Comes Under Fire for Downplaying Coverage of Dissident's Death"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "SOUTH CHINA MORNING POST LIMITED"
+          },
+          {
+            "name": "subject",
+            "value": "COMMUNISM (THEORY AND PHILOSOPHY)"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-06-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/06/22/business/global/hong-kong-newspaper-charged-with-downplaying-dissidents-death.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "The controversy involving The South China Morning Post has focused attention on perceived attempts by Beijing to rein in moves toward democracy.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [],
+          "organization": "REUTERS",
+          "original": "By REUTERS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fe31e60439ee47a72ecbcd5",
+        "source": "International Herald Tribune",
+        "word_count": 526,
+        "lead_paragraph": "HONG KONG -- A prominent Hong Kong newspaper has been accused of playing down coverage of the death of a Chinese dissident, stoking new concerns that Communist Party rulers in Beijing are seeking to limit news media freedom in the former British colony. In a tumultuous year for Hong Kong that will see a new pro-Beijing leader take power July 1, the 15th anniversary of the city's return to Chinese rule, the controversy involving The South China Morning Post has focused attention on perceived attempts by Beijing to rein in moves toward democracy."
+      },
+      {
+        "abstract": "Contaminated milk, cabbage, pork, soft drinks, baby formula, cooking oil, even \"artificial peas\" -- there seems to be no end to the food-safety issues in China. And a new investigative report says regulators and inspectors are not keeping up with the cheaters.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "From Milk to Peas, a Chinese Food-Safety Mess "
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Caixin"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Carlyle Group"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Kohlberg Kravis Roberts & Co"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "McDonald's Corporation"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "Melamine"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Infant Formulas"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Fast Food Industry"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Dairy Products"
+          },
+          {
+            "rank": "10",
+            "name": "subject",
+            "value": "Milk"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Food Contamination and Poisoning"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Food"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Baby Foods"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Hazardous and Toxic Substances"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Foreign Investments"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-06-21T00:28:51Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/06/21/from-milk-to-peas-a-chinese-food-safety-mess/",
+        "news_desk": null,
+        "snippet": "Contaminated milk, cabbage, pork, soft drinks, baby formula, cooking oil, even \"artificial peas\" -- there seems to be no end to the food-safety issues in China. And a new investigative report says regulators and inspectors are not keeping up with the",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fe2aaf5439ee47a72ecbc1d",
+        "source": "The New York Times",
+        "word_count": 953,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Swimmers Dana Vollmer and Davis Tarwater, who each missed a berth to Beijing in their specialties by a single spot, are back, and excited to compete in the 2012 Olympic trials. Photo (M)",
+        "headline": {"main": "Pain of Swim Trials in '08 Rekindles Love of Sport"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "PHELPS, MICHAEL"
+          },
+          {
+            "name": "persons",
+            "value": "TARWATER, DAVIS"
+          },
+          {
+            "name": "persons",
+            "value": "VOLLMER, DANA"
+          },
+          {
+            "name": "glocations",
+            "value": "LONDON (ENGLAND)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2012)"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2012-06-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/06/25/sports/olympics/at-olympic-trials-2-swimmers-return-to-site-of-rejection.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Dana Vollmer and Davis Tarwater barely missed making the Olympic team at the 2008 trials. Now, the two swimmers are at the same pool, with the same goal.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CROUSE",
+            "role": "reported",
+            "firstname": "Karen"
+          }],
+          "original": "By KAREN CROUSE"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2012/06/25/sports/SWIM/SWIM-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2012/06/25/sports/SWIM/SWIM-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fe7d523439ee47a72ecc59a",
+        "source": "The New York Times",
+        "word_count": 1210,
+        "lead_paragraph": "OMAHA -- The name on the building has changed since she last stepped foot inside it, but CenturyLink Center otherwise was exactly how Dana Vollmer remembered it. It was cold comfort. Entering the multisport arena Friday night, Vollmer said, was ''like hitting a brick wall.'' She was like a bride left at the altar returning to the spot of her deepest mortification. ''It was weirder for me than I had anticipated,'' Vollmer said. ''I was having flashbacks.''"
+      },
+      {
+        "abstract": "Swimmers Dana Vollmer and Davis Tarwater, who each missed a berth to Beijing in their specialties by a single spot, are back, and excited to compete in the 2012 Olympic trials.",
+        "headline": {
+          "seo": "At Olympic Trials, 2 Swimmers Return to Site of Rejection",
+          "print_headline": "Pain of Swim Trials in \u201908 Rekindles Love of Sport",
+          "main": "Pain of Swim Trials in &#8217;08 Rekindles Love of Sport"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Tarwater, Davis",
+            "is_major": "Y"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Olympic Games (2012)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "8",
+            "name": "glocations",
+            "value": "London (England)",
+            "is_major": "N"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Swimming",
+            "is_major": "Y"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "Olympic Games",
+            "is_major": "N"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Phelps, Michael",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Olympic Games (2008)",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Vollmer, Dana",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2012-06-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/06/25/sports/olympics/at-olympic-trials-2-swimmers-return-to-site-of-rejection.html",
+        "news_desk": "Sports",
+        "snippet": "Dana Vollmer and Davis Tarwater barely missed making the Olympic team at the 2008 trials. Now, the two swimmers are at the same pool, with the same goal.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CROUSE",
+            "role": "reported",
+            "firstname": "Karen"
+          }],
+          "contributor": "",
+          "original": "By KAREN CROUSE"
+        },
+        "subsection_name": "Olympics",
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "width": 75,
+          "type": "image",
+          "url": "images/2012/06/25/sports/SWIM/SWIM-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2012/06/25/sports/SWIM/SWIM-thumbStandard.jpg",
+            "thumbnailwidth": "75",
+            "thumbnailheight": "75"
+          }
+        }],
+        "_id": "515da151cf28d0219d001066",
+        "source": "The New York Times",
+        "word_count": "1210",
+        "lead_paragraph": "Dana Vollmer and Davis Tarwater barely missed making the Olympic team at the 2008 trials. Now, the two swimmers are at the same pool, with the same goal."
+      },
+      {
+        "abstract": "A new chief executive took the oath of office in Hong Kong on Sunday morning, and then, astoundingly, he made his inaugural speech in Mandarin Chinese, the language of the mainland.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "A Telling Language Lesson in Hong Kong"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Hu Jintao"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Leung Chun-ying"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Li Wangyang"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Hong Kong"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Great Britain"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "South China Morning Post Limited"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Apple Daily"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "English Language"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Demonstrations, Protests, and Riots"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "Speeches and Statements"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)"
+          },
+          {
+            "rank": "10",
+            "name": "subject",
+            "value": "Suicides and Suicide Attempts"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Freedom of the Press"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Food Contamination and Poisoning"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Chinese Language"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Polls and Public Opinion"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Language and Languages"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-07-01T00:12:12Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/07/01/a-shocking-language-lesson-in-hong-kong/",
+        "news_desk": null,
+        "snippet": "A new chief executive took the oath of office in Hong Kong on Sunday morning, and then, astoundingly, he made his inaugural speech in Mandarin Chinese, the language of the mainland.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "50008c841c22dfde670af4e3",
+        "source": "The New York Times",
+        "word_count": 752,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "North and South Korea will not be marching together at the opening of the London Olympics three weeks hence. The bilateral relationship is in bad shape, and even though there's a new Kim in charge, the North keeps threatening to turn the South into a sea of fire.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "In Olympic Infighting, the Koreas Take the Gold"
+        },
+        "keywords": [
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Kim Jong-un"
+          },
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Kim Jong Il"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "Sydney (Australia)"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "South Korea"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Seoul (South Korea)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "North Korea"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Los Angeles (Calif)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "London (England)"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Guardian (British Newspaper)"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Los Angeles Times"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "World Cup (Soccer)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Gymnastics"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Cold War Era"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Olympic Games (2012)"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Olympic Games"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Boycotts"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Women's World Cup (Soccer)"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Soccer"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-07-02T00:25:53Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/07/02/in-olympic-infighting-the-koreas-take-the-gold/",
+        "news_desk": null,
+        "snippet": "North and South Korea will not be marching together at the opening of the London Olympics three weeks hence. The bilateral relationship is in bad shape, and even though there's a new Kim in charge, the North keeps threatening to turn the South into a",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "50008c351c22dfde670af4b5",
+        "source": "The New York Times",
+        "word_count": 717,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "LETTER",
+          "main": "Beijing's Role in Africa"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "AFRICA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          }
+        ],
+        "print_page": "18",
+        "pub_date": "2012-07-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/07/05/opinion/beijings-role-in-africa.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "An African-history professor says China\u2019s creation of low-paying jobs in Africa is hardly the solution to the continent\u2019s political problems.",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "50007d181c22dfde670aebaa",
+        "source": "The New York Times",
+        "word_count": 174,
+        "lead_paragraph": "To the Editor: Dambisa Moyo (''Beijing, a Boon for Africa,'' Op-Ed, June 28) argues that China's involvement with Africa is not exploitative, since it is merely motivated by a quest for ''land, oil and minerals.'' Yet many Europeans who colonized Africa were seeking exactly the same thing. Colonialism left African countries stripped of resources and devoid of domestic industry -- conditions that fostered dependence on foreign aid and hindered democracy."
+      }
+    ],
+    "meta": {
+      "time": 12,
+      "hits": 167,
+      "offset": 100
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,755 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "After a difficult court battle, Kim Lee, an American, was divorced from Li Yang on grounds of domestic violence, in a victory for the rule of law that contained one major flaw, feminists said.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "In China's Most-Watched Divorce Case, 3 Victories, 1 Defeat"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Li Yang"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Domestic Violence"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Divorce, Separations and Annulments"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Women and Girls"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Education (K-12)"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Decisions and Verdicts"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Women's Rights"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-02-04T01:05:48Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/02/04/in-chinas-most-watched-divorce-case-3-victories-1-defeat/",
+        "news_desk": null,
+        "snippet": "After a difficult court battle, Kim Lee, an American, was divorced from Li Yang on grounds of domestic violence, in a victory for the rule of law that contained one major flaw, feminists said.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "510f519400315214fbb88f66",
+        "source": "The New York Times",
+        "word_count": 763,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "When members of China's Greenpeace office inspected the site of a massive chemical spill in Shanxi province last month, they found an even more worrying environmental problem: disappearing water resources.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Worse Than Poisoned Water: Dwindling Water, in China's North"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Yellow River (China)"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Far East, South and Southeast Asia and Pacific Areas"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Tianji Coal Chemical Industry Group"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "United Nations"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "World Wildlife Fund"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Greenpeace"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Hazardous and Toxic Substances"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Conservation of Resources"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Water"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Rivers"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Chemicals"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Water Pollution"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-02-05T01:28:21Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/02/05/worse-than-poisoned-water-dwindling-water-in-chinas-north-and-west/",
+        "news_desk": null,
+        "snippet": "When members of China's Greenpeace office inspected the site of a massive chemical spill in Shanxi province last month, they found an even more worrying environmental problem: disappearing water resources.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5110a8df00315214fbb892cb",
+        "source": "The New York Times",
+        "word_count": 528,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "The gulf between China\u2019s booming cities and its poor countryside has become a major source of social unrest.",
+        "headline": {
+          "kicker": "The Great Divide",
+          "main": "In China, a Vast Chasm Between the Rich and the Rest "
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Shanghai (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-02-09T14:00:04Z",
+        "web_url": "http://opinionator.blogs.nytimes.com/2013/02/09/in-china-a-vast-chasm-between-the-rich-and-the-rest/",
+        "news_desk": null,
+        "snippet": "The gulf between China\u2019s booming cities and its poor countryside has become a major source of social unrest.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Chi",
+            "role": "reported",
+            "lastname": "YIN",
+            "firstname": "Sim"
+          }],
+          "original": "By SIM CHI YIN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5117efed00315214fbb8a402",
+        "source": "The New York Times",
+        "word_count": "995",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "As news of the Pope's resignation rippled into China, shock and acceptance, even approval, seemed the main feelings among Chinese Catholics.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "In China, Shock and Acceptance Over Pope's Resignation"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Benedict XVI"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Roman Catholic Church"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "New Year"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Chinese Language"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-02-12T01:15:16Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/02/12/in-china-shock-and-acceptance-over-popes-resignation/",
+        "news_desk": null,
+        "snippet": "As news of the Pope's resignation rippled into China, shock and acceptance, even approval, seemed the main feelings among Chinese Catholics.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5119f95600315214fbb8a610",
+        "source": "The New York Times",
+        "word_count": 479,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "It may be Chinese New Year, but it\u2019s also austerity time and the Chinese government is clamping down on pyrotechnics.",
+        "headline": {
+          "kicker": "Latitude",
+          "main": "Firecrackers"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "New Year"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Lunar New Year"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-02-12T07:38:30Z",
+        "web_url": "http://latitude.blogs.nytimes.com/2013/02/12/austerity-in-china-means-fewer-fireworks-for-new-year-celebrations/",
+        "news_desk": null,
+        "snippet": "It may be Chinese New Year, but it\u2019s also austerity time and the Chinese government is clamping down on pyrotechnics.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SEBAG-MONTEFIORE",
+            "role": "reported",
+            "firstname": "Clarissa"
+          }],
+          "original": "By CLARISSA SEBAG-MONTEFIORE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "511a387800315214fbb8a646",
+        "source": "The New York Times",
+        "word_count": 435,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "China\u2019s other major pollution problem \u2014 degradation of its water supply \u2014 is drawing increasing attention from environmentalists, and investors.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Concerns Grow About 'Severely Polluted' Water in China's Cities"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "India"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Henan Province (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Yellow River (China)"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Caixin"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-02-20T00:02:31Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/02/20/concerns-grow-about-severely-polluted-water-in-chinas-cities/",
+        "news_desk": null,
+        "snippet": "China\u2019s other major pollution problem \u2014 degradation of its water supply \u2014 is drawing increasing attention from environmentalists, and investors.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MULLANY",
+            "role": "reported",
+            "firstname": "Gerry"
+          }],
+          "original": "By GERRY MULLANY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "51245e0dcf28d009de000db7",
+        "source": "The New York Times",
+        "word_count": "602",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Melting ice has opened or widened so many corridors that NOAA has prepared new charts.",
+        "headline": {
+          "kicker": "Green",
+          "main": "On Our Radar: Shipping Paths Redrawn Off Alaska"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Alaska"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Arctic Regions"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "National Oceanic and Atmospheric Administration"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-02-28T15:43:46Z",
+        "web_url": "http://green.blogs.nytimes.com/2013/02/28/on-our-radar-shipping-paths-redrawn-off-alaska/",
+        "news_desk": null,
+        "snippet": "Melting ice has opened or widened so many corridors that NOAA has prepared new charts.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Science",
+        "document_type": "blogpost",
+        "byline": {
+          "organization": "THE NEW YORK TIMES",
+          "person": [],
+          "original": "By THE NEW YORK TIMES"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "512fdcb3cf28d009de002acd",
+        "source": "The New York Times",
+        "word_count": "160",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Thomas Sauvin\u2019s photo collection consists of scratched, faded or otherwise discarded snapshots. They present a surprising and intimate window into daily Chinese life.",
+        "headline": {
+          "kicker": "Lens",
+          "main": "Chinese Family Memories, Recycled"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Photography"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Collectors and Collections"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Recycling of Waste Materials"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Archives and Records"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-03-01T05:00:09Z",
+        "web_url": "http://lens.blogs.nytimes.com/2013/03/01/chinese-family-memories-recycled/",
+        "news_desk": null,
+        "snippet": "Thomas Sauvin\u2019s photo collection consists of scratched, faded or otherwise discarded snapshots. They present a surprising and intimate window into daily Chinese life.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Multimedia",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MACDONALD",
+            "role": "reported",
+            "firstname": "Kerri"
+          }],
+          "original": "By KERRI MACDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "width": 190,
+            "subtype": "wide",
+            "type": "image",
+            "url": "images/2013/02/28/blogs/20130228-lens-sauvin-slide-36CA/20130228-lens-sauvin-slide-36CA-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/02/28/blogs/20130228-lens-sauvin-slide-36CA/20130228-lens-sauvin-slide-36CA-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 403,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2013/02/28/blogs/20130228-lens-sauvin-slide-36CA/20130228-lens-sauvin-slide-36CA-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "403",
+              "xlarge": "images/2013/02/28/blogs/20130228-lens-sauvin-slide-36CA/20130228-lens-sauvin-slide-36CA-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2013/02/28/blogs/20130228-lens-sauvin-slide-36CA/20130228-lens-sauvin-slide-36CA-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/02/28/blogs/20130228-lens-sauvin-slide-36CA/20130228-lens-sauvin-slide-36CA-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51309815cf28d009de002cfe",
+        "source": "The New York Times",
+        "word_count": "1116",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Restaurants, shops and bars with Brooklyn sensibility are taking over some of Beijing's ancient hutong neighborhoods.",
+        "headline": {
+          "seo": "A Streak of Brooklyn in Beijing",
+          "print_headline": "Brooklyn, Even in China",
+          "kicker": "Heads Up",
+          "main": "A Streak of Brooklyn in Beijing"
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Travel and Vacations",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2013-03-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/03/03/travel/a-streak-of-brooklyn-in-beijing.html",
+        "news_desk": "Travel",
+        "snippet": "In a cluster of traditional alleys in the Chinese capital, old-timers have been joined by a new breed of residents clad in skinny jeans and riding fixed-gear bikes.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MOXLEY",
+            "role": "reported",
+            "firstname": "Mitch"
+          }],
+          "contributor": "",
+          "original": "By MITCH MOXLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/03/03/travel/03HEADSUP_SPAN/SUB303HEADSUP-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/03/03/travel/03HEADSUP_SPAN/SUB303HEADSUP-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 400,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/03/03/travel/03HEADSUP_SPAN/SUB303HEADSUP-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "400",
+              "xlarge": "images/2013/03/03/travel/03HEADSUP_SPAN/SUB303HEADSUP-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/03/03/travel/03HEADSUP_SPAN/03HEADSUP_SPAN-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/03/03/travel/03HEADSUP_SPAN/03HEADSUP_SPAN-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "512ffd79cf28d009de002b64",
+        "source": "The New York Times",
+        "word_count": "685",
+        "lead_paragraph": "In a cluster of traditional alleys in the Chinese capital, old-timers have been joined by a new breed of residents clad in skinny jeans and riding fixed-gear bikes."
+      },
+      {
+        "abstract": "Screenwriters who live in the United States may submit feature film proposals or completed short film scripts in a Beijing-based contest that aims to turn some of them into movies.",
+        "headline": {
+          "print_headline": "A Screenplay Contest From Beijing",
+          "kicker": "Media Decoder",
+          "main": "A Screenplay Contest From Beijing"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Movies"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-03-03T21:27:23Z",
+        "web_url": "http://mediadecoder.blogs.nytimes.com/2013/03/03/beijing-international-screenwriting-competition-announced-for-u-s-writers/",
+        "news_desk": null,
+        "snippet": "Screenwriters who live in the United States may submit feature film proposals or completed short film scripts in a Beijing-based contest that aims to turn some of them into movies.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CIEPLY",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL CIEPLY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "width": 190,
+            "subtype": "wide",
+            "type": "image",
+            "url": "images/2013/03/04/business/chinafilm1/chinafilm1-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/03/04/business/chinafilm1/chinafilm1-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 900,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2013/03/04/business/chinafilm1/chinafilm1-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "900",
+              "xlarge": "images/2013/03/04/business/chinafilm1/chinafilm1-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2013/03/04/business/chinafilm1/chinafilm1-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/03/04/business/chinafilm1/chinafilm1-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51342b14cf28d009de0033a9",
+        "source": "The New York Times",
+        "word_count": "406",
+        "lead_paragraph": null
+      }
+    ],
+    "meta": {
+      "time": 16,
+      "hits": 144,
+      "offset": 20
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,650 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Outbreak of new respiratory disease SARS inflicts greatest blow to Chinese economy since Tiananmen Square killings in 1989, causing plunge in retail sales, slump in demand for some Chinese exports and near-collapse in domestic and foreign tourism; Chinese economy has gone from expanding at annual rate of 9.9 percent in first quarter to shrinking at annual rate of 2 percent in second quarter, according to estimates from J P Morgan Chase; economic damage is being increased by some government policies adopted to slow spread of SARS, such as ordering closing of all movie theaters, Internet cafes and other places of entertainment in Beijing, or refusing entry to tour groups in Guangdong Province; if current economic downturn proves prolonged, it could damage Communist Party's claim to be best way to offer greater prosperity to 1.3 billion Chinese; photos; graph (L)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC: ECONOMY",
+          "main": "Outbreak of Disease Brings Big Drop-Off In China's Economy"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "GUANGDONG PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "MORGAN, J P, CHASE & CO"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL RESTRICTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "THEATERS (BUILDINGS)"
+          },
+          {
+            "name": "subject",
+            "value": "MOTION PICTURES"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2003-04-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/04/28/world/sars-epidemic-economy-outbreak-disease-brings-big-drop-off-china-s-economy.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The outbreak of a new respiratory disease has inflicted the greatest blow to the Chinese economy since the Tiananmen Square killings in 1989, causing a plunge in retail sales, a slump in demand for some Chinese exports and a near-collapse in domestic",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Movies; World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd242928eb7c8105d7db8fa",
+        "source": "The New York Times",
+        "word_count": 1447,
+        "lead_paragraph": "The outbreak of a new respiratory disease has inflicted the greatest blow to the Chinese economy since the Tiananmen Square killings in 1989, causing a plunge in retail sales, a slump in demand for some Chinese exports and a near-collapse in domestic and foreign tourism. J. P. Morgan Chase, which does investment banking in China, estimates that after expanding at a torrid annual rate of 9.9 percent in the first quarter, the Chinese economy is actually shrinking at an annual rate of 2 percent in the second quarter."
+      },
+      {
+        "abstract": "SARS epidemic that may have emerged from teeming markets of Guangzhou has quickly mutated into threat to China's Communist Party elite in Beijing; several business executives and senior officials have come down with respiratory ailment and authorities have quarantined unknown number of people inside leadership compound; outbreak may have influenced government's abrupt shift to more aggressive battle against SARS; photos (M)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC: THE ELITE",
+          "main": "The Contagion Reaches Near the Top of the Chinese Communist Hierarchy"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          },
+          {
+            "name": "subject",
+            "value": "QUARANTINE"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2003-04-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/04/30/world/sars-epidemic-elite-contagion-reaches-near-top-chinese-communist-hierarchy.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "While the SARS virus may have emerged from teeming animal markets or sprawling suburbs in distant Guangzhou, it quickly mutated into a threat to China's Communist Party elite in Beijing.    In early April, around the time that top leaders were first ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2428e8eb7c8105d7db607",
+        "source": "The New York Times",
+        "word_count": 1262,
+        "lead_paragraph": "While the SARS virus may have emerged from teeming animal markets or sprawling suburbs in distant Guangzhou, it quickly mutated into a threat to China's Communist Party elite in Beijing. In early April, around the time that top leaders were first acknowledging the dangers of SARS, the respiratory disease infected the group executive director of the biggest government-owned financial conglomerate and at least four people at the Commerce Ministry, including a senior official overseeing foreign business ties, according to employees of the business and the agency."
+      },
+      {
+        "abstract": "New Beijing Acting Mayor Wang Qishan calls SARS epidemic severe and uncontrolled as he seeks to convince panicky public that battle against disease has been effectively joined at last; was summoned to Beijing 10 days ago after Mayor Meng Xuenong was fired for his part in covering up city's surging epidemic; Wang is showing new face of candor that China's leaders have adopted after months of denial led to medical and diplomatic disasters; he admits city has been sadly unprepared for SARS, had misled public about its spread and now faces shortage of qualified hospitals and medical staff; many Beijing residents say they are encouraged by his statements, but strong undercurrents of anger and mistrust remain; reported cases of disease in capital climb by another 101, to 1,440; photo (M)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC: BEIJING",
+          "main": "As Cases Mount, Chinese Officials Try to Calm a Panicky Public"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WANG QISHAN"
+          },
+          {
+            "name": "persons",
+            "value": "MENG XUENONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SUSPENSIONS, DISMISSALS AND RESIGNATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "LABOR"
+          },
+          {
+            "name": "subject",
+            "value": "SHORTAGES"
+          },
+          {
+            "name": "subject",
+            "value": "HOSPITALS"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2003-05-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/01/world/sars-epidemic-beijing-cases-mount-chinese-officials-try-calm-panicky-public.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "In a live, televised news conference, the new acting mayor of Beijing called the SARS epidemic severe and uncontrolled today as he sought to convince a panicky public that the battle against the disease had been effectively joined at last.    ''We ar",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2428c8eb7c8105d7db4dd",
+        "source": "The New York Times",
+        "word_count": 938,
+        "lead_paragraph": "In a live, televised news conference, the new acting mayor of Beijing called the SARS epidemic severe and uncontrolled today as he sought to convince a panicky public that the battle against the disease had been effectively joined at last. ''We are now facing up to this grave difficulty,'' said the acting mayor, Wang Qishan, a former banking chief and a protégé of the no-nonsense former prime minister, Zhu Rongji."
+      },
+      {
+        "abstract": "May Day revelries in Beijing are sharply curbed by pervasive fear of SARS infection; to discourage travel that might spread disease, government officially shortens national holiday to five days from planned seven; photo of Tiananmen Square, deserted on day when thousands would normally gather to mark most hallowed of Communist holidays (M)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC: THE STREETS",
+          "main": "Illness Brings Subdued May Day in Beijing"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "MAY DAY"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "15",
+        "pub_date": "2003-05-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/02/world/the-sars-epidemic-the-streets-illness-brings-subdued-may-day-in-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Today, as every day, an imploring throng milled outside the iron gates of the Communist Party's central discipline office. These 50 or 60 people, from all over the country, had journeyed to the capital in the hope of righting some heartfelt injustice",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd23ebc8eb7c8105d7d57ba",
+        "source": "The New York Times",
+        "word_count": 761,
+        "lead_paragraph": "Today, as every day, an imploring throng milled outside the iron gates of the Communist Party's central discipline office. These 50 or 60 people, from all over the country, had journeyed to the capital in the hope of righting some heartfelt injustice. They also made up one of the few large crowds to be seen anywhere in Beijing at the start of the May Day vacation."
+      },
+      {
+        "abstract": "Dismaying developments in Canada, Hong Kong and Taiwan underscore capriciousness of SARS; health officials in Canada announce two new possible cases in Toronto, first identified there in 11 days; in Hong Kong many patients who seemed to have recovered and were discharged from hospital may still have some SARS virus in their bodies, raising possibility they might still be able to spread disease; scientists in Taiwan report 11 new cases and 2 additional deaths; Taiwan's caseload has more than doubled in week, to 89; local authorities are putting large numbers of people into quarantine; SARS continues to rage in China, particularly Beijing, where 122 new cases are reported, bringing city's total to more than 1,550 and national total to 3,638; World Health Orgn officials are particularly disturbed to learn that one Toronto case was tentatively diagnosed before Canadian health officials traveled to Geneva to try to persuade WHO to reverse travel advisory; photo (M)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC: THE SCIENTISTS",
+          "main": "More SARS Cases Are Reported; Virus Found to Persist in Patients"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CANADA"
+          },
+          {
+            "name": "glocations",
+            "value": "TORONTO (ONTARIO)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD HEALTH ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL RESTRICTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          },
+          {
+            "name": "subject",
+            "value": "QUARANTINE"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2003-05-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/02/business/sars-epidemic-scientists-more-sars-cases-are-reported-virus-found-persist.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Dismaying developments in three nations yesterday underscored the capriciousness of SARS, the respiratory virus that had seemed to be coming under control in many countries.    In Canada, health officials announced two new possible cases in Toronto, ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Front Page; Health; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "K.",
+            "role": "reported",
+            "lastname": "ALTMAN",
+            "firstname": "Lawrence"
+          }],
+          "original": "By LAWRENCE K. ALTMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd22b818eb7c8105d7b7042",
+        "source": "The New York Times",
+        "word_count": 1555,
+        "lead_paragraph": "Dismaying developments in three nations yesterday underscored the capriciousness of SARS, the respiratory virus that had seemed to be coming under control in many countries. In Canada, health officials announced two new possible cases in Toronto, the first identified there in 11 days. The cases involved health care workers in two hospitals where the disease, severe acute respiratory syndrome, had spread in the past."
+      },
+      {
+        "abstract": "China, in reversal, approves rare mission by World Health Organization to Taiwan, easing diplomatic logjam that has hindered disputed territory's access to medical assistance even as it fights growing outbreak of SARS; China reports nine new SARS deaths and 181 new confirmed cases, including 114 in Beijing; says that while spread of disease is still rapid, it has stabilized at below 200 new cases each day, more than half of those occurring in Beijing, now hardest-hit city in world (M)",
+        "headline": {"main": "China Allows Health Group Into Taiwan In SARS Fight"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD HEALTH ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "2003-05-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/04/world/china-allows-health-group-into-taiwan-in-sars-fight.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China said today that it had approved a rare mission by the World Health Organization to Taiwan, easing a diplomatic logjam that had hindered the disputed territory's access to medical assistance even as it fights a growing outbreak of SARS.    Two m",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "KAHN",
+              "role": "reported",
+              "firstname": "Joseph"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "BRADSHER",
+              "role": "reported",
+              "firstname": "Keith"
+            }
+          ],
+          "original": "By JOSEPH KAHN with KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd22c0a8eb7c8105d7b7f19",
+        "source": "The New York Times",
+        "word_count": 602,
+        "lead_paragraph": "China said today that it had approved a rare mission by the World Health Organization to Taiwan, easing a diplomatic logjam that had hindered the disputed territory's access to medical assistance even as it fights a growing outbreak of SARS. Two medical experts from the health agency are expected to arrive in Taiwan on Sunday to help the island control the infection, which has spread quickly there over the last week, W.H.O. officials said."
+      },
+      {
+        "abstract": "Health officials in Hong Kong say dozen former SARS patients there who were initially thought to have suffered relapses actually had other medical problems; initial report caused international alarm; rate of new SARS cases being reported around world slows somewhat; several governments announce lower daily totals for new cases; Beijing reports 69 new cases, down from 114 day earlier and lowest daily total in last two weeks; Taiwan, which has been posting 8 or 10 new cases a day, has only 2 new cases on May 3 but 14 more on May 4; photo (M)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC: THE DATA",
+          "main": "Cases Thought to Be Relapses Now Seen as Other Conditions"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2003-05-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/05/world/sars-epidemic-data-cases-thought-be-relapses-now-seen-other-conditions.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A dozen former SARS patients here who were initially thought to have suffered relapses actually had other medical problems, health officials said here today, as the rate of new SARS cases being reported around the world slowed somewhat.    The Hong K",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd274098eb7c8105d831b4c",
+        "source": "The New York Times",
+        "word_count": 765,
+        "lead_paragraph": "A dozen former SARS patients here who were initially thought to have suffered relapses actually had other medical problems, health officials said here today, as the rate of new SARS cases being reported around the world slowed somewhat. The Hong Kong Hospital Authority caused international alarm last Wednesday when it said that 12 patients who seemed to have recovered from SARS, or severe acute respiratory syndrome, had been readmitted to the hospital after apparently relapsing."
+      },
+      {
+        "abstract": "About 400 students, teachers and workers emerge from two weeks' quarantine at university in Beijing, but there are 94 more confirmed cases of SARS in capital; one Communist Party leader says more than 120 officials around country have been fired or disciplined for 'lack of vigor' in containing virus or for concealing local cases; greatest fear of Chinese and international health officials now is that SARS may start spreading fast in China's vast, medically underequipped interior provinces; photo (M)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC: CHINA",
+          "main": "Quarantine Ends for Some in Beijing, but the Infection Is Still Spreading"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNIVERSITY OF BEIJING"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          },
+          {
+            "name": "subject",
+            "value": "QUARANTINE"
+          }
+        ],
+        "print_page": "13",
+        "pub_date": "2003-05-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/09/world/sars-epidemic-china-quarantine-ends-for-some-beijing-but-infection-still.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "With the giddy joy of a graduation party, some 400 students, teachers and workers emerged today from two weeks' quarantine at a university in central Beijing, providing some of the first cheerful television images from the SARS epidemic.    Even so, ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2432e8eb7c8105d7dc9bb",
+        "source": "The New York Times",
+        "word_count": 941,
+        "lead_paragraph": "With the giddy joy of a graduation party, some 400 students, teachers and workers emerged today from two weeks' quarantine at a university in central Beijing, providing some of the first cheerful television images from the SARS epidemic. Even so, there were 94 more confirmed cases of severe acute respiratory syndrome today in this frightened capital, and a Communist Party leader said more than 120 officials around the country had been fired or disciplined for a ''lack of vigor'' in containing the virus or for concealing local cases."
+      },
+      {
+        "abstract": "SARS spawns booming market in Beijing for potions, disinfectants, gloves, masks and herbal concoctions of dubious utility for warding off infection; millions of Chinese rush to buy new products touted every few days by newspapers, experts or officials; photo; prevention strategies range from vitamin C to injections of bull thymus (M)",
+        "headline": {"main": "Herbs? Bull Thymus? Beijing Leaps at Anti-SARS Potions"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DIETARY SUPPLEMENTS AND HERBAL REMEDIES"
+          },
+          {
+            "name": "subject",
+            "value": "VITAMINS"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2003-05-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/10/world/herbs-bull-thymus-beijing-leaps-at-anti-sars-potions.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "With hotels empty and foreign businesses fleeing China in fear of SARS, it goes without saying that the new pneumonia has decimated Beijing's economy. But you would not know it here at the White Pagoda Pharmacy.    Packets of an herbal SARS preventio",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd270d38eb7c8105d82c5a0",
+        "source": "The New York Times",
+        "word_count": 1352,
+        "lead_paragraph": "With hotels empty and foreign businesses fleeing China in fear of SARS, it goes without saying that the new pneumonia has decimated Beijing's economy. But you would not know it here at the White Pagoda Pharmacy. Packets of an herbal SARS prevention brew are selling like lemonade on the Fourth of July, and bottles of Long An 84 disinfectant bleach -- limit one to a customer -- seem to grow legs and race out the door."
+      },
+      {
+        "abstract": "China, stung by ruinous effects of initial cover-up on SARS, issues stringent new rules requiring local officials to report disease outbreaks immediately to Beijing or face dismissal or criminal charges; officials report 80 new SARS cases nationwide, but say Beijing epidemic is easing; WHO experts warn numbers could jump again (M)",
+        "headline": {"main": "China Issues Strict Rules On Reporting Of Disease"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD HEALTH ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+          },
+          {
+            "name": "subject",
+            "value": "GOVERNMENT INFORMATION POLICIES"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2003-05-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/14/world/china-issues-strict-rules-on-reporting-of-disease.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Stung by the ruinous effects of an initial cover-up of the SARS epidemic, the Chinese government has issued stringent new rules requiring local officials to report disease outbreaks to Beijing immediately or face dismissal or even criminal charges.  ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd22c058eb7c8105d7b7b56",
+        "source": "The New York Times",
+        "word_count": 473,
+        "lead_paragraph": "Stung by the ruinous effects of an initial cover-up of the SARS epidemic, the Chinese government has issued stringent new rules requiring local officials to report disease outbreaks to Beijing immediately or face dismissal or even criminal charges. Potentially more important in a country where news about disasters has often been treated as a state secret, the rules say the government must provide the public with quick information about epidemics, wide-scale poisonings or other health emergencies."
+      }
+    ],
+    "meta": {
+      "time": 22,
+      "hits": 79,
+      "offset": 30
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

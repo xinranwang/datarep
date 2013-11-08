@@ -1,0 +1,862 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Photo of an honor guard at the Great Hall of the People practicing for the arrival of President Raul Castro of Cuba, who is making a four-day visit to China. Photo (S)",
+        "headline": {"main": "PREPARING FOR A VISITOR IN BEIJING"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CASTRO, RAUL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CUBA"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2012-07-06T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9E02EED61E3DF935A35754C0A9649D8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "Photo of an honor guard at the Great Hall of the People practicing for the arrival of President Raul Castro of Cuba, who is making a four-day visit to China. Photo (S)",
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5000b93a1c22dfde670afbd3",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Disney has long cracked down on unauthorized use of its characters. But how do you read the riot act to a mysterious and authoritarian government?",
+        "headline": {
+          "kicker": "Media Decoder",
+          "main": "North Korea Has Long Irritated Foreign Powers. But Disney?"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Kim Jong-un"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "North Korea"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Hollywood (Fla)"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Walt Disney Company"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Copyrights and Copyright Violations"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Amusement and Theme Parks"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-07-10T18:04:23Z",
+        "web_url": "http://mediadecoder.blogs.nytimes.com/2012/07/10/north-korea-has-long-irritated-foreign-powers-but-disney/",
+        "news_desk": null,
+        "snippet": "Disney has long cracked down on unauthorized use of its characters. But how do you read the riot act to a mysterious and authoritarian government?",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARNES",
+            "role": "reported",
+            "firstname": "Brooks"
+          }],
+          "original": "By BROOKS BARNES"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "500090661c22dfde670af7c8",
+        "source": "The New York Times",
+        "word_count": 473,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "When some of Walt Disney's most celebrated characters showed up on North Korean television the other day, one could almost hear Uncle Walt screaming down oaths from the afterlife.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Disney to Asian Pirates: Knock It Off"
+        },
+        "keywords": [
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Gray, David"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Kim Jong-un"
+          },
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Barnes, Brooks"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Shanghai (China)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "North Korea"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Far East, South and Southeast Asia and Pacific Areas"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "World Trade Organization"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Apple Incorporated"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Disneyland"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Mattel Inc"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "Walt Disney Company"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Counterfeit Merchandise"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Copyrights and Copyright Violations"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "International Trade and World Market"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Economic Conditions and Trends"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Amusement and Theme Parks"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-07-11T00:18:59Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/07/11/disney-to-asian-pirates-knock-it-off/",
+        "news_desk": null,
+        "snippet": "When some of Walt Disney's most celebrated characters showed up on North Korean television the other day, one could almost hear Uncle Walt screaming down oaths from the afterlife.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "500091361c22dfde670af886",
+        "source": "The New York Times",
+        "word_count": 687,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "The photographic genre of ruin porn - those grim pictures of mothballed auto factories, dead power plants, vine-swallowed houses - has a new theme: Olympic venues.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "'Ruin Porn' --- the Aftermath of the Beijing Olympics"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Gray, David"
+          },
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Phelps, Michael"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Bolt, Usain"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Drapeau, Jean"
+          },
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Ai Weiwei"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Athens (Greece)"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Sydney (Australia)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Montreal (Quebec)"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "London (England)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-07-15T00:49:48Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/07/15/ruin-porn-the-aftermath-of-the-beijing-olympics/",
+        "news_desk": null,
+        "snippet": "The photographic genre of ruin porn - those grim pictures of mothballed auto factories, dead power plants, vine-swallowed houses - has a new theme: Olympic venues.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5002d5b81c22dfde670b02c4",
+        "source": "The New York Times",
+        "word_count": 975,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "The state film censors in Beijing can be a prickly lot. They prefer to see foreign films that have a rosy view of the mainland and heroic Chinese actors - which could spell trouble for the upcoming \"Iron Man 3\" and its evil comic-book fiend the Mandarin. Hollywood studios have already edited and rewritten some major films to please the censors.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Beijing's Censors Could Test the Mettle of Iron Man"
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "creative_works",
+            "value": "Mission: Impossible III (Movie)"
+          },
+          {
+            "rank": "2",
+            "name": "creative_works",
+            "value": "Iron Man 3 (Movie)"
+          },
+          {
+            "rank": "1",
+            "name": "creative_works",
+            "value": "2012 (Movie)"
+          },
+          {
+            "rank": "7",
+            "name": "creative_works",
+            "value": "The Avengers (Movie)"
+          },
+          {
+            "rank": "6",
+            "name": "creative_works",
+            "value": "Salmon Fishing in the Yemen (Movie)"
+          },
+          {
+            "rank": "5",
+            "name": "creative_works",
+            "value": "Red Dawn (Movie)"
+          },
+          {
+            "rank": "4",
+            "name": "creative_works",
+            "value": "Pirates of the Caribbean: At World's End (Movie)"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "North America"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "Walt Disney Company"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "China Film Group"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Marvel Comics"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Marvel Studios"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "Paramount Pictures"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Comic Books and Strips"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Censorship"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Freedom of the Press"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Actors and Actresses"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "United States Economy"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Theater"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-07-17T00:32:24Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/07/17/beijings-censors-could-test-the-mettle-of-iron-man/",
+        "news_desk": null,
+        "snippet": "The state film censors in Beijing can be a prickly lot. They prefer to see foreign films that have a rosy view of the mainland and heroic Chinese actors - which could spell trouble for the upcoming \"Iron Man 3\" and its evil comic-book fiend the Manda",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5004eb7b1c22dfde670b08d1",
+        "source": "The New York Times",
+        "word_count": 839,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Rafael Nadal, winner of the 2008 Olympic men's singles tennis title, withdraws from London Games because of knee problems. Photo (M)",
+        "headline": {"main": "Knee Pain Knocks Nadal From the London Games"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "NADAL, RAFAEL"
+          },
+          {
+            "name": "glocations",
+            "value": "LONDON (ENGLAND)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "TENNIS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2012)"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "2012-07-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/07/20/sports/olympics/rafael-nadal-withdraws-from-london-games.html",
+        "news_desk": "Sports / Olympics",
+        "snippet": "Rafael Nadal, who won men\u2019s singles at the Beijing Olympics in 2008 but has battled knee tendinitis, said, \u201cI do not find myself in a condition to compete.\u201d",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CLAREY",
+            "role": "reported",
+            "firstname": "Christopher"
+          }],
+          "original": "By CHRISTOPHER CLAREY; Tim Rohan contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "http://www.nytimes.com/images/2012/07/20/sports/tennis/20nadal-pic/20nadal-pic-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "http://www.nytimes.com/images/2012/07/20/sports/tennis/20nadal-pic/20nadal-pic-thumbStandard-v2.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 360,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2012/07/20/sports/tennis/20nadal-pic/20nadal-pic-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 360,
+              "xlarge": "images/2012/07/20/sports/tennis/20nadal-pic/20nadal-pic-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "5008e82c1c22dfde670b11f7",
+        "source": "The New York Times",
+        "word_count": 890,
+        "lead_paragraph": "On a turbulent Thursday in Spain, when thousands protested throughout the country over unpopular economic reforms, this news could not have improved the national mood: Rafael Nadal, the Spanish tennis icon, will not defend his Olympic title at the London Games. Nadal, who had been named to carry the flag for Spain at next Friday's Opening Ceremony, announced his withdrawal from the Spanish team after a morning practice session in which he concluded, according to his uncle and coach Toni Nadal, that his recurring knee problems would not allow him to compete effectively."
+      },
+      {
+        "abstract": "On forest walks, we have been discovering water tumbling down stony slopes or rushing by in transparent streams. My daughter has stuck her little hands into the silvery flows, drinking in nature - literally. That's simply not possible in many places in China.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "A Beijing Family's Holiday From Pollution"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Air Pollution"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-07-19T23:28:44Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/07/19/a-beijing-familys-holiday-from-pollution/",
+        "news_desk": null,
+        "snippet": "On forest walks, we have been discovering water tumbling down stony slopes or rushing by in transparent streams. My daughter has stuck her little hands into the silvery flows, drinking in nature - literally. That's simply not possible in many places ",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5008f00f1c22dfde670b1524",
+        "source": "The New York Times",
+        "word_count": 683,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Rafael Nadal, winner of the 2008 Olympic men's singles tennis title, withdraws from London Games because of knee problems.",
+        "headline": {
+          "seo": "Rafael Nadal Withdraws From London Games",
+          "print_headline": "Knee Pain Knocks Nadal From the London Games",
+          "main": "Rafael Nadal Withdraws From London Games"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Olympic Games",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Nadal, Rafael",
+            "is_major": "Y"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "London (England)",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Olympic Games (2012)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Tennis",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Olympic Games (2008)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "2012-07-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/07/20/sports/olympics/rafael-nadal-withdraws-from-london-games.html",
+        "news_desk": "Sports",
+        "snippet": "Rafael Nadal, who won men\u2019s singles at the Beijing Olympics in 2008 but has battled knee tendinitis, said, \u201cI do not find myself in a condition to compete.\u201d",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CLAREY",
+            "role": "reported",
+            "firstname": "Christopher"
+          }],
+          "contributor": "Tim Rohan contributed reporting.",
+          "original": "By CHRISTOPHER CLAREY"
+        },
+        "subsection_name": "Olympics",
+        "multimedia": [
+          {
+            "height": 360,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2012/07/20/sports/tennis/20nadal-pic/20nadal-pic-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "360",
+              "xlarge": "images/2012/07/20/sports/tennis/20nadal-pic/20nadal-pic-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2012/07/20/sports/tennis/20nadal-pic/20nadal-pic-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2012/07/20/sports/tennis/20nadal-pic/20nadal-pic-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "515d9f38cf28d0219d000be4",
+        "source": "The New York Times",
+        "word_count": "890",
+        "lead_paragraph": "Rafael Nadal, who won men\u2019s singles at the Beijing Olympics in 2008 but has battled knee tendinitis, said, \u201cI do not find myself in a condition to compete.\u201d"
+      },
+      {
+        "abstract": "Britain's track cycling team, preparing for the 2012 Games in London, is looking to repeat the astonishing success it had at the 2008 Olympics; team is led by Chris Hoy, who became one of Britain's most popular athletes after winning three gold medals in Beijing. Photos (M)/",
+        "headline": {"main": "Cycling's British Invasion"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "STAFF, JAMIE"
+          },
+          {
+            "name": "persons",
+            "value": "HOY, CHRIS"
+          },
+          {
+            "name": "glocations",
+            "value": "LONDON (ENGLAND)"
+          },
+          {
+            "name": "glocations",
+            "value": "GREAT BRITAIN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BICYCLES AND BICYCLING"
+          },
+          {
+            "name": "subject",
+            "value": "CYCLING, TRACK"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2012)"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2012-07-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/07/23/sports/olympics/2012-olympics-how-britain-conquered-the-cycling-world.html",
+        "news_desk": "Sports / Olympics",
+        "snippet": "Britain set out to dominate the sport of cycling and has transformed its program from white elephant to gold medal factory.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BISHOP",
+            "role": "reported",
+            "firstname": "Greg"
+          }],
+          "original": "By GREG BISHOP"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "http://www.nytimes.com/images/2012/07/23/sports/OLY-BRITCYCLE/OLY-BRITCYCLE-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "http://www.nytimes.com/images/2012/07/23/sports/OLY-BRITCYCLE/OLY-BRITCYCLE-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "500b7f6c1c22dfde670b1bfb",
+        "source": "The New York Times",
+        "word_count": 1735,
+        "lead_paragraph": "Before the British came to dominate track cycling, before the Olympic medal haul of 2008, before the velodrome sold out faster than any site for the London Games, there was ''E.T.'' The movie inspired Chris Hoy's foray into cycling. He started in BMX and later moved onto the track and won three golds at the Beijing Games. Afterward, he was knighted -- joining Sir Elton John, Sir Alfred Hitchcock and Sir Isaac Newton -- for riding a bicycle around a wooden track."
+      },
+      {
+        "abstract": "Heavy rain and fierce thunderstorms hit Beijing, flooding roads, collapsing roofs and causing power outages; at least 37 people are killed and 50,000 others are forced to evacuate waterlogged neighborhoods and villages. Photo (S)s",
+        "headline": {"main": "Heavy Rains Blamed for at Least 37 Deaths in Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FLOODS"
+          },
+          {
+            "name": "subject",
+            "value": "WEATHER"
+          },
+          {
+            "name": "subject",
+            "value": "RAIN"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2012-07-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/07/23/world/asia/beijing-rains-leave-dozens-dead.html",
+        "news_desk": "World / Asia Pacific",
+        "snippet": "The heaviest rainfall in six decades caused widespread havoc in China\u2019s capital over the weekend, forcing the evacuation of 50,000 people.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "http://www.nytimes.com/images/2012/07/23/world/23china1_span/23china1_span-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "http://www.nytimes.com/images/2012/07/23/world/23china1_span/23china1_span-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2012/07/23/world/23china1_span/23china1_span-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2012/07/23/world/23china1_span/23china1_span-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "500c57f71c22dfde670b1d44",
+        "source": "The New York Times",
+        "word_count": 258,
+        "lead_paragraph": "BEIJING -- The heaviest rainfall in six decades caused widespread havoc in this capital over the weekend, killing at least 37 people and forcing the evacuation of 50,000 others from waterlogged neighborhoods and villages, according to the state news media. More than six inches of rain fell overnight Saturday into Sunday, collapsing roofs, downing power lines and turning highway underpasses into ponds that engulfed scores of cars and buses. About 80,000 passengers at Beijing Capital International Airport were stranded overnight after fierce thunderstorms forced the cancellation of 500 flights, the state-run Xinhua news agency said."
+      }
+    ],
+    "meta": {
+      "time": 10,
+      "hits": 167,
+      "offset": 110
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

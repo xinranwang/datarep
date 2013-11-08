@@ -1,0 +1,610 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "TURMOIL IN CHINA: Reporter's Notebook; Civil Warfare as a Spectator Sport"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1989-06-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/08/world/turmoil-in-china-reporter-s-notebook-civil-warfare-as-a-spectator-sport.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: When the cacophony of submachine-gun fire broke out for a solid five minutes two blocks away from him, the old vendor turned his back, pushed his cart toward a small crowd, and went on selling his wares.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18bf38eb7c8105d68f0c2",
+        "source": "The New York Times",
+        "word_count": 1415,
+        "lead_paragraph": "LEAD: When the cacophony of submachine-gun fire broke out for a solid five minutes two blocks away from him, the old vendor turned his back, pushed his cart toward a small crowd, and went on selling his wares."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Turmoil in China; After Decades of Restraint, Japan Criticizes China"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-JAPAN"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "1989-06-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/08/world/turmoil-in-china-after-decades-of-restraint-japan-criticizes-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Japan today ended four decades of unwillingness to criticize the Chinese Government publicly, declaring that the shooting of civilians on Beijing's streets ''could not be tolerated.''",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "E.",
+              "role": "reported",
+              "lastname": "SANGER",
+              "firstname": "David"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By DAVID E. SANGER, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd184108eb7c8105d68263d",
+        "source": "The New York Times",
+        "word_count": 670,
+        "lead_paragraph": "LEAD: Japan today ended four decades of unwillingness to criticize the Chinese Government publicly, declaring that the shooting of civilians on Beijing's streets ''could not be tolerated.''"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1989-06-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/08/nyregion/c-corrections-428289.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "LEAD: A map on Tuesday showing sites of major developments in Beijing misidentified one of two military groups reported to have clashed at an airfield south of the city. The clash was said to involve units of the 27th Army, not the 17th. A military a",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd184108eb7c8105d682662",
+        "source": "The New York Times",
+        "word_count": 126,
+        "lead_paragraph": "LEAD: A map on Tuesday showing sites of major developments in Beijing misidentified one of two military groups reported to have clashed at an airfield south of the city. The clash was said to involve units of the 27th Army, not the 17th. A military analysis article on Tuesday misidentified the home base of the 27th Army."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "TURMOIL IN CHINA",
+          "main": "FOREBODING GRASPS BEIJING; ARMY UNITS CRISSCROSS CITY; FOREIGNERS HURRY TO LEAVE"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-06-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/08/world/turmoil-china-foreboding-grasps-beijing-army-units-crisscross-city-foreigners.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: As reports of clashes between military units on the outskirts of Beijing continued, a major convoy of tanks and trucks returned to the capital early today, dashing hopes that the unit responsible for large-scale killing might be withdrawing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a63e8eb7c8105d6c0049",
+        "source": "The New York Times",
+        "word_count": 2085,
+        "lead_paragraph": "LEAD: As reports of clashes between military units on the outskirts of Beijing continued, a major convoy of tanks and trucks returned to the capital early today, dashing hopes that the unit responsible for large-scale killing might be withdrawing."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Turmoil in China; U.S. Says 200,000 Troops Are Near Chinese Capital"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "AMERICANS ABROAD"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          }
+        ],
+        "print_page": "13",
+        "pub_date": "1989-06-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/08/world/turmoil-in-china-us-says-200000-troops-are-near-chinese-capital.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: An Administration official estimated today that up to 200,000 troops of the Chinese People's Liberation Army are now in or around Beijing and that troop movement into the vicinity of the capital ''has apparently not yet ended.''",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "L.",
+              "role": "reported",
+              "lastname": "FRIEDMAN",
+              "firstname": "Thomas"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By THOMAS L. FRIEDMAN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a59d8eb7c8105d6bee76",
+        "source": "The New York Times",
+        "word_count": 1185,
+        "lead_paragraph": "LEAD: An Administration official estimated today that up to 200,000 troops of the Chinese People's Liberation Army are now in or around Beijing and that troop movement into the vicinity of the capital ''has apparently not yet ended.''"
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "CHINA'S PREMIER REAPPEARS",
+          "main": "ARMY SEEMS TO TIGHTEN GRIP; BUSH BARS NORMAL TIES NOW; BEIJING IS WARNED"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ARMIES"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-06-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/09/world/china-s-premier-reappears-army-seems-tighten-grip-bush-bars-normal-ties-now.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: President Bush said tonight that the United States could not have normal relations with China until the authorities in Beijing ''recognize the validity'' of the pro-democracy student movement.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Education; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "E.",
+              "role": "reported",
+              "lastname": "TRAINOR",
+              "firstname": "Bernard"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By BERNARD E. TRAINOR, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd183c28eb7c8105d681dab",
+        "source": "The New York Times",
+        "word_count": 1241,
+        "lead_paragraph": "LEAD: President Bush said tonight that the United States could not have normal relations with China until the authorities in Beijing ''recognize the validity'' of the pro-democracy student movement."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Turmoil in China; On the Surface, Beijing Starts to Appear Normal"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "ARMIES"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "1989-06-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/09/world/turmoil-in-china-on-the-surface-beijing-starts-to-appear-normal.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: A bitter memory lingers on a narrow street where soldiers opened fire on scores of citizens last Sunday, but even here on South Pond Street, life today seemed to be gradually returning to normal.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a4008eb7c8105d6bbdcd",
+        "source": "The New York Times",
+        "word_count": 958,
+        "lead_paragraph": "LEAD: A bitter memory lingers on a narrow street where soldiers opened fire on scores of citizens last Sunday, but even here on South Pond Street, life today seemed to be gradually returning to normal."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Quotation of the Day"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "QUOTATION OF THE DAY"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ARMIES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "1989-06-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/09/nyregion/quotation-of-the-day-873189.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "LEAD: ''Comrades, thanks for your hard work. We hope you will continue with your fine efforts to safeguard security in the capital.''  - Prime Minister Li Peng, addressing soldiers who attacked civilians in Beijing.  [ A1:6. ]",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Education; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a6418eb7c8105d6c02ab",
+        "source": "The New York Times",
+        "word_count": 73,
+        "lead_paragraph": "LEAD: ''Comrades, thanks for your hard work. We hope you will continue with your fine efforts to safeguard security in the capital.'' - Prime Minister Li Peng, addressing soldiers who attacked civilians in Beijing. [ A1:6. ]"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Turmoil in China; 'We Can Do It,' Envoy Says of Evacuation"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LILLEY, JAMES R"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ARMIES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1989-06-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/09/world/turmoil-in-china-we-can-do-it-envoy-says-of-evacuation.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: The United States Ambassador promised today that his embassy would get all Americans who want to leave out of the Chinese capital.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [],
+          "organization": "AP",
+          "original": "AP"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a4008eb7c8105d6bbdd2",
+        "source": "The New York Times",
+        "word_count": 343,
+        "lead_paragraph": "LEAD: The United States Ambassador promised today that his embassy would get all Americans who want to leave out of the Chinese capital."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Turmoil in CHina; Evacuated Americans Recount Some Near Misses"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ARMIES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1989-06-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/09/world/turmoil-in-china-evacuated-americans-recount-some-near-misses.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: The nightmare began while Michael and Matthew Krug were watching a video movie in their Beijing apartment Wednesday morning. Suddenly army tanks and trucks rumbled outside the window, followed by random shots and then a rattling sound of bullet",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "R.",
+              "role": "reported",
+              "lastname": "WEISMAN",
+              "firstname": "Steven"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By STEVEN R. WEISMAN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1954c8eb7c8105d6a1631",
+        "source": "The New York Times",
+        "word_count": 1199,
+        "lead_paragraph": "LEAD: The nightmare began while Michael and Matthew Krug were watching a video movie in their Beijing apartment Wednesday morning. Suddenly army tanks and trucks rumbled outside the window, followed by random shots and then a rattling sound of bullets."
+      }
+    ],
+    "meta": {
+      "time": 35,
+      "hits": 187,
+      "offset": 110
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

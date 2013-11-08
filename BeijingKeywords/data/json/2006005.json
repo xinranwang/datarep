@@ -1,0 +1,718 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "American officials and specialists on China have said Wu Yi, vice prime minister, might not have inclination, or influence, to challenge party apparatus that is tied to sprawling state-owned export industries; China appears to view dialogue between China and US less as vehicle for adjusting its policies than as means to air its opinion that US should alter its economy to end addiction to Chinese goods and loans that sustain huge American trade and budget deficits; Yu Yongding, director of Institute of World Economics and Politics at Chinese Academy of Social Sciences, says visit by US Treas Sec Henry M Paulson will have some influence on Chinese political leaders, but China always prefers gradualism; Yu says Wu is not seen in China as especially sympathetic to main American demand that China stop manipulating its currency in order to expand exports; photo (M)",
+        "headline": {"main": "In Beijing Talks, Issues of Will and Way"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WU YI"
+          },
+          {
+            "name": "persons",
+            "value": "PAULSON, HENRY M JR"
+          },
+          {
+            "name": "persons",
+            "value": "YU YONGDING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINESE ACADEMY OF SOCIAL SCIENCES"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN INVESTMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ECONOMY"
+          },
+          {
+            "name": "subject",
+            "value": "CURRENCY"
+          },
+          {
+            "name": "subject",
+            "value": "FINANCES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2006-12-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/12/14/business/worldbusiness/14trade.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "U.S. officials say a Chinese vice prime minister may not have the influence to challenge the party apparatus that is tied to the sprawling state-owned export industries.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "R.",
+            "role": "reported",
+            "lastname": "WEISMAN",
+            "firstname": "Steven"
+          }],
+          "original": "By STEVEN R. WEISMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2006/12/14/business/75_trade_1.jpg",
+            "legacy": {
+              "thumbnail": "images/2006/12/14/business/75_trade_1.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 285,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2006/12/14/business/600_trade_1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 285,
+              "xlarge": "images/2006/12/14/business/600_trade_1.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd258e18eb7c8105d804b31",
+        "source": "The New York Times",
+        "word_count": 1572,
+        "lead_paragraph": "When Treasury Secretary Henry M. Paulson Jr. proposed a strategic economic dialogue with China last summer, American officials were cheered by the choice for leader of the Chinese team: an aggressive troubleshooter with a reputation for tough but successful trade negotiations since the early 1990s. But in the last few months, American officials and specialists on China have said that Wu Yi, a vice prime minister and the country's highest-ranking female official, might not have the inclination, or the influence, to challenge the party apparatus that is tied to the sprawling state-owned export industries."
+      },
+      {
+        "abstract": "Photo of retired people in Beijing exercising in park space built as part of preparations for 2008 Olympic Games",
+        "headline": {"main": "I'll Just Watch  "},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2006-12-15T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9D07E1DD1231F936A25751C1A9609C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "Photo of retired people in Beijing exercising in park space built as part of preparations for 2008 Olympic Games",
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd257cf8eb7c8105d802d67",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Business groups and lawmakers are frustrated at Treasury Secretary Henry M Paulson's lack of progress in trade talks with China; Paulson's latest trip, accompanied by high-level delegation including several cabinet members and Federal Reserve chief Ben S Bernanke, produces few results; photo (M)",
+        "headline": {
+          "kicker": "NEWS ANALYSIS",
+          "main": "Balancing Act With Beijing"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BERNANKE, BEN S"
+          },
+          {
+            "name": "persons",
+            "value": "PAULSON, HENRY M JR"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "FEDERAL RESERVE SYSTEM"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ECONOMY"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2006-12-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/12/16/business/worldbusiness/16trade.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Lawmakers are unlikely to be satisfied with the inconclusive results Treasury Secretary Henry M. Paulson Jr. achieved in Beijing.",
+        "type_of_material": "An Analysis; News Analysis",
+        "blog": [],
+        "section_name": "Business; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "R.",
+            "role": "reported",
+            "lastname": "WEISMAN",
+            "firstname": "Steven"
+          }],
+          "original": "By STEVEN R. WEISMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2006/12/16/business/75_trade.jpg",
+            "legacy": {
+              "thumbnail": "images/2006/12/16/business/75_trade.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 273,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2006/12/16/business/600_trade.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 273,
+              "xlarge": "images/2006/12/16/business/600_trade.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd272668eb7c8105d82f1f9",
+        "source": "The New York Times",
+        "word_count": 1215,
+        "lead_paragraph": "Treasury Secretary Henry M. Paulson Jr. went to China with a team of heavyweights, including an array of Bush administration cabinet members and the Federal Reserve chairman. But he is returning home to a more critical audience that is unlikely to be satisfied with the inconclusive results he achieved in opening a new economic dialogue with Beijing."
+      },
+      {
+        "abstract": "Street market in Beijing draws many old people for cabbage that is given free by market managers who hope to attract curiosity of younger more affluent morning commuters to buy other products; photos (M)",
+        "headline": {
+          "kicker": "BEIJING JOURNAL",
+          "main": "Crowding People's Market for Cabbage: The Price Is Right"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CABBAGE"
+          },
+          {
+            "name": "subject",
+            "value": "AGED"
+          },
+          {
+            "name": "subject",
+            "value": "FOOD"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2006-12-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/12/19/world/asia/19cabbage.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Markets in Beijing give away cabbage to attract hordes of old people in hopes that the spectacle will attract more affluent customers.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2006/12/19/world/19cabbage1.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2006/12/19/world/19cabbage1.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 434,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2006/12/19/world/19cabbage1.650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 434,
+              "xlarge": "images/2006/12/19/world/19cabbage1.650.jpg",
+              "xlargewidth": 650
+            }
+          }
+        ],
+        "_id": "4fd272c48eb7c8105d82f603",
+        "source": "The New York Times",
+        "word_count": 997,
+        "lead_paragraph": "At 5:45 in the morning the cabbage line outside the Old Drum Tower Outer Street New People's Produce Market is nearly two hours old. First in line is a 72-year-old woman named Mrs. Wang, who awoke at 3, arrived at 4 and would wait until 8:30 for a single head of winter cabbage. Free. Cabbage, or bai cai, costs about 4 cents a head, so Mrs. Wang's prize was not quite a free refrigerator. She did not mind. Nor did another retired matron who passed the time singing patriotic tunes and a shaky but enthusiastic English rendition of ''Baa Baa Black Sheep.'' And neither did two elderly combatants who shouted at each another in unprintable Chinese for inexplicable reasons."
+      },
+      {
+        "abstract": "Verizon Communications unit and consortium of five Asian companies, including China Telecom, China Netcom, China Unicom, Korea Telecom and Chunghwa Telecom, agree to build high-speed fiber optic cable to link China and United States before Olympic Games open in Beijing in August 2008; construction of 11,000 mile cable will cost $500 million; will end by third quarter of 2008 (M)",
+        "headline": {"main": "Group Plans to Build China-U.S. Fiber Optic Link"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "FAR EAST, SOUTH AND SOUTHEAST ASIA AND PACIFIC AREAS"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "KOREA TELECOM"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINA NETCOM"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINA TELECOM"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINA UNICOM LIMITED"
+          },
+          {
+            "name": "organizations",
+            "value": "CHUNGHWA TELECOM"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINA UNICOM"
+          },
+          {
+            "name": "organizations",
+            "value": "VERIZON COMMUNICATIONS"
+          },
+          {
+            "name": "organizations",
+            "value": "KOREA TELECOM CORP"
+          },
+          {
+            "name": "organizations",
+            "value": "NETCOM"
+          },
+          {
+            "name": "subject",
+            "value": "FIBER OPTICS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2006-12-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/12/19/technology/19cable.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "A consortium of five Asian companies and Verizon plans to build a high-speed fiber optic cable to link China and the U.S. by the time the Beijing Olympics open in 2008.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SHANNON",
+            "role": "reported",
+            "firstname": "Victoria"
+          }],
+          "original": "By VICTORIA SHANNON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd258e18eb7c8105d804c03",
+        "source": "The New York Times",
+        "word_count": 318,
+        "lead_paragraph": "A consortium of five Asian companies and a unit of Verizon Communications has agreed to build a high-speed fiber optic cable to link China and the United States by the time the Olympic Games open in Beijing in August 2008. Verizon Business said yesterday that it had signed a construction agreement for the so-called Trans-Pacific Express with China Telecom, China Netcom, China Unicom, Korea Telecom and Chunghwa Telecom of Taiwan. Ownership of the cable will be evenly split among the six participants."
+      },
+      {
+        "abstract": "Chinese court convicts human rights lawyer Gao Zhisheng of subversion and sentences him to three years in prison with five-year reprieve; Gao does not have to serve his sentence in prison as long as he does not commit another crime in next five years; he was expected to receive harsher penalty for his efforts to defend followers of banned Falun Gong spiritual sect; his photo (M)",
+        "headline": {"main": "China Gives Rights Lawyer Light Sentence"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "GAO ZHISHENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "FALUN GONG"
+          },
+          {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2006-12-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/12/23/world/asia/23china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The lawyer was convicted of subversion, but given an unusually light sentence under terms that may mean he will soon be released.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2006/12/23/world/23china.1_75x75.jpg",
+            "legacy": {
+              "thumbnail": "images/2006/12/23/world/23china.1_75x75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 485,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2006/12/23/world/23china.1_650x485.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 485,
+              "xlarge": "images/2006/12/23/world/23china.1_650x485.jpg",
+              "xlargewidth": 650
+            }
+          }
+        ],
+        "_id": "4fd258e28eb7c8105d804c79",
+        "source": "The New York Times",
+        "word_count": 741,
+        "lead_paragraph": "A Chinese court convicted a leading human rights lawyer of subversion on Friday but gave him an unusually light sentence under terms that may mean that he will soon be released. The lawyer, Gao Zhisheng, 42, was sentenced to three years in prison with a five-year reprieve, the official New China News Agency said. That means he does not have to serve his sentence in prison as long as he does not commit another crime in the next five years, legal experts said."
+      },
+      {
+        "abstract": "Rescuers looking for missing American mountain climbers Christine Boskoff and Charlie Fowler will begin exploring two mountain areas in Sichuan Province, China, after getting tip from woman who met pair shortly before they disappeared; map (M)",
+        "headline": {"main": "Search for Climbers in China Gains Focus"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BOSKOFF, CHRISTINE"
+          },
+          {
+            "name": "persons",
+            "value": "FOWLER, CHARLIE"
+          },
+          {
+            "name": "glocations",
+            "value": "SICHUAN PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "RESCUES"
+          },
+          {
+            "name": "subject",
+            "value": "MOUNTAIN CLIMBING"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "BUDDHISM"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2006-12-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/12/23/world/asia/23climbers.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The decision to focus on two mountains in Sichuan Province came after a tip from a woman who met the pair shortly before they disappeared.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd279c48eb7c8105d83d1e0",
+        "source": "The New York Times",
+        "word_count": 643,
+        "lead_paragraph": "Rescuers looking for two missing American mountain climbers in a vast and isolated section of southwestern China are concentrating on two mountain areas after getting a tip from a woman who met the pair shortly before they disappeared. Ted Callahan, an American climber involved in the rescue effort, said Friday that search teams would begin exploring mountains in Sichuan Province on Saturday, near the cities of Litang and Batang. The missing climbers, Christine Boskoff and Charlie Fowler, were last heard from on Nov. 8."
+      },
+      {
+        "abstract": "Talks to end North Korea's nuclear weapons program end in Beijing without tangible progress, and Pyongyang renews threats to improve its nuclear deterrent (M)",
+        "headline": {"main": "Talks End on North Korea's Nuclear Weapons"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "RUSSIA"
+          },
+          {
+            "name": "glocations",
+            "value": "SOUTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "NORTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "STATE DEPARTMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ATOMIC WEAPONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2006-12-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/12/23/world/asia/23korea.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The talks ended Friday without tangible progress, and afterward Pyongyang quickly renewed threats to \u201cimprove its nuclear deterrent.\u201d",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2006/12/22/world/22cnd_korea.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2006/12/22/world/22cnd_korea.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 419,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2006/12/22/world/22cnd_korea.650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 419,
+              "xlarge": "images/2006/12/22/world/22cnd_korea.650.jpg",
+              "xlargewidth": 650
+            }
+          },
+          {
+            "height": 230,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2006/12/22/world/22cnd_korea.337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2006/12/22/world/22cnd_korea.337.jpg",
+              "tinythumbheight": 230,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd279c58eb7c8105d83d1e4",
+        "source": "The New York Times",
+        "word_count": 585,
+        "lead_paragraph": "Talks to end North Korea's nuclear weapons program ended Friday without tangible progress, and Pyongyang quickly renewed threats to ''improve its nuclear deterrent.'' American and Asian diplomats said that during five days of negotiations in Beijing, the North Korean delegation had declined to discuss disarmament in formal sessions, insisting it would do so only after the United States removed financial measures that have further isolated North Korea from the international economy."
+      }
+    ],
+    "meta": {
+      "time": 10,
+      "hits": 58,
+      "offset": 50
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

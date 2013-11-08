@@ -1,0 +1,762 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Beijing Journal; cross talk, traditional form of performance comedy, has undergone a revival recently in China thanks largely to comedian Guo Degang; photos (M)",
+        "headline": {
+          "kicker": "BEIJING JOURNAL",
+          "main": "To Restore a Lost Art, Chinese Channel Abbott and Costello"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "GUO DEGANG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "COMEDY AND HUMOR"
+          },
+          {
+            "name": "subject",
+            "value": "ENTERTAINMENT AND AMUSEMENTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2011-03-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/03/03/world/asia/03beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A traditional form of performance comedy called cross talk has undergone a revival recently, but some see it being marginalized by political controls.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HAAS",
+            "role": "reported",
+            "firstname": "Benjamin"
+          }],
+          "original": "By BENJAMIN HAAS"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2011/03/03/world/03BEIJING1/03BEIJING1-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2011/03/03/world/03BEIJING1/03BEIJING1-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2913d8eb7c8105d869c85",
+        "source": "The New York Times",
+        "word_count": 1074,
+        "lead_paragraph": "BEIJING -- Guo Degang, wearing sunglasses at night, strutted into the club followed by an entourage of sharply dressed men and was shown to an elegant private dining room in the back. He sat down and held court as friends from out of town presented him with gifts of liquor, rare mushrooms and artwork. It could have been a scene out of a Chinese version of ''The Godfather,'' but Mr. Guo is more Ricky Gervais than Don Corleone."
+      },
+      {
+        "abstract": "The truth about a film crew following Jon Huntsman? It's for a documentary about U.S.-China diplomacy.",
+        "headline": {
+          "kicker": "The Caucus",
+          "main": "Video Crew On Huntsman? It's Documentary, Not Politics"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Presidential Election of 2012"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Miller, Tim"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Huntsman, Jon M Jr"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "State Department"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "United States"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-03-03T17:18:58Z",
+        "web_url": "http://thecaucus.blogs.nytimes.com/2011/03/03/video-crew-on-huntsman-its-documentary-not-politics/",
+        "news_desk": null,
+        "snippet": "The truth about a film crew following Jon Huntsman? It's for a documentary about U.S.-China diplomacy.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "U.S.",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By MICHAEL D. SHEAR"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd39f458eb7c8105d8e310b",
+        "source": "The New York Times",
+        "word_count": 708,
+        "lead_paragraph": "Word that Jon Huntsman, the American ambassador in China and a possible 2012 Republican presidential candidate, has a television crew following him around in Beijing has gotten the political world all, well, a-Twitter."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "LETTER FROM CHINA",
+          "main": "Out of Jail in China, but Not Free"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JIA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HUMAN RIGHTS AND HUMAN RIGHTS VIOLATIONS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-03-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/03/10/world/asia/10iht-letter10.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Beijing is increasing its use of soft detention against activists. Many who leave prison are still subjected to house arrest and surveillance.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2899b8eb7c8105d85b588",
+        "source": "International Herald Tribune",
+        "word_count": 1074,
+        "lead_paragraph": "BEIJING -- After Zeng Jinyan's husband, the AIDS and environmental activist Hu Jia, was jailed in 2008 for ''incitement to subvert state power,'' Ms. Zeng began bringing their newborn daughter to jail for scheduled family visits. Today, Baobao is 3, and Mr. Hu, 38, is due out in June. But Ms. Zeng plans to leave their daughter at home for the remaining trips to the Beijing Municipal Prison."
+      },
+      {
+        "abstract": "Shiho Fukada wanted to get a behind-the-scenes look at China's legislature. Instead, she put the spotlight on its theatricality.",
+        "headline": {
+          "kicker": "Lens",
+          "main": "Tension and Theater at China's Congress"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "National People's Congress (China)"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-03-14T05:00:35Z",
+        "web_url": "http://lens.blogs.nytimes.com/2011/03/14/tension-and-theater-at-chinas-congress/",
+        "news_desk": null,
+        "snippet": "Shiho Fukada wanted to get a behind-the-scenes look at China's legislature. Instead, she put the spotlight on its theatricality.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Multimedia",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MACDONALD",
+            "role": "reported",
+            "firstname": "Kerri"
+          }],
+          "original": "By KERRI MACDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd39ead8eb7c8105d8e1a71",
+        "source": "The New York Times",
+        "word_count": 257,
+        "lead_paragraph": "In a formal political environment, Shiho Fukada found a remarkably theatrical atmosphere."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "seo": "Asian Odysseys",
+          "kicker": "The Asia Issue",
+          "main": "37 Asian Odysseys"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Sri Lanka"
+          },
+          {
+            "rank": "9",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "15",
+            "name": "glocations",
+            "value": "Phuket (Thailand)"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Hong Kong"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "South Korea"
+          },
+          {
+            "rank": "11",
+            "name": "glocations",
+            "value": "Penang (Malaysia)"
+          },
+          {
+            "rank": "16",
+            "name": "glocations",
+            "value": "Hanoi (Vietnam)"
+          },
+          {
+            "rank": "14",
+            "name": "glocations",
+            "value": "Bangkok (Thailand)"
+          },
+          {
+            "rank": "8",
+            "name": "glocations",
+            "value": "Siem Reap (Cambodia)"
+          },
+          {
+            "rank": "13",
+            "name": "glocations",
+            "value": "Tokyo (Japan)"
+          },
+          {
+            "rank": "10",
+            "name": "glocations",
+            "value": "Myanmar"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          },
+          {
+            "rank": "12",
+            "name": "glocations",
+            "value": "Luang Prabang (Laos)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Kerala (India)"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "Bali (Indonesia)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2011-03-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/03/20/travel/20asia-roundup.html",
+        "news_desk": "Travel",
+        "snippet": "From Vietnam to Sri Lanka, a must-do list of essential experiences from reporters who have been there.",
+        "type_of_material": "",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": [],
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 366,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2011/03/20/travel/Asia-1/Asia-1-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "366",
+              "xlarge": "images/2011/03/20/travel/Asia-1/Asia-1-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2011/03/19/travel/20asia-cover/20asia-cover-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/03/19/travel/20asia-cover/20asia-cover-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "5112176100315214fbb899e6",
+        "source": "The New York Times",
+        "word_count": 3306,
+        "lead_paragraph": "From Vietnam to Sri Lanka, a must-do list of essential experiences from reporters who have been there."
+      },
+      {
+        "abstract": "Michelle Higgins Practical Traveler column offers tips on saving money on vacations in Asia; drawing (M)",
+        "headline": {
+          "kicker": "PRACTICAL TRAVELER",
+          "main": "Trimming the Cost of an Asia Trip"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "YANGON (MYANMAR)"
+          },
+          {
+            "name": "glocations",
+            "value": "BALI (INDONESIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "MALAYSIA"
+          },
+          {
+            "name": "glocations",
+            "value": "FAR EAST, SOUTH AND SOUTHEAST ASIA AND PACIFIC AREAS"
+          },
+          {
+            "name": "glocations",
+            "value": "VIETNAM"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "SINGAPORE"
+          },
+          {
+            "name": "subject",
+            "value": "BUDGET TRAVEL"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2011-03-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/03/20/travel/20prac-save.html",
+        "news_desk": "Travel Desk",
+        "snippet": "How to find bargains in an era of higher airfares and stronger local currencies.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HIGGINS",
+            "role": "reported",
+            "firstname": "Michelle"
+          }],
+          "original": "By MICHELLE HIGGINS"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2011/03/20/travel/16practical/16practical-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2011/03/20/travel/16practical/16practical-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2ab118eb7c8105d897a57",
+        "source": "The New York Times",
+        "word_count": 1201,
+        "lead_paragraph": "PLANNING a trip to Asia this year? Better get booking. International tourist arrivals to the region increased 11 percent in 2010, according to the Pacific Asia Travel Association. And tour operators that cater to United States travelers say bookings this year are already well ahead of last year."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "THE ASIA ISSUE: BITES",
+          "main": "Sushi Without Fish, and Other Exotic Lures"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HANOI (VIETNAM)"
+          },
+          {
+            "name": "glocations",
+            "value": "TOKYO (JAPAN)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "SINGAPORE"
+          },
+          {
+            "name": "subject",
+            "value": "RESTAURANTS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2011-03-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/03/20/travel/20bites-asia.html",
+        "news_desk": "Travel Desk",
+        "snippet": "Notable restaurants worth a visit in four Asian cities.",
+        "type_of_material": "Review",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "YANG",
+              "role": "reported",
+              "firstname": "Xiyun"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "LINDT",
+              "role": "reported",
+              "firstname": "Naomi"
+            },
+            {
+              "rank": 3,
+              "organization": "",
+              "lastname": "ECKHARDT",
+              "role": "reported",
+              "firstname": "Robyn"
+            },
+            {
+              "rank": 4,
+              "organization": "",
+              "lastname": "KITAGAWA",
+              "role": "reported",
+              "firstname": "Jane"
+            }
+          ],
+          "original": "By XIYUN YANG, NAOMI LINDT, ROBYN ECKHARDT and JANE KITAGAWA"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2011/03/20/travel/20bites-span/20bites-span-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/03/20/travel/20bites-span/20bites-span-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 380,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2011/03/20/travel/20bites-span/20bites-span-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 380,
+              "xlarge": "images/2011/03/20/travel/20bites-span/20bites-span-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2899c8eb7c8105d85b622",
+        "source": "The New York Times",
+        "word_count": 1632,
+        "lead_paragraph": "A look at notable restaurants that are worth a visit in four Asian cities."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Happenings"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "KERALA (INDIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "HIMALAYAS"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2011-03-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/03/20/travel/20calendar-asia.html",
+        "news_desk": "Travel Desk",
+        "snippet": "A look ahead at some notable events taking place around Asia over the coming months.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "TSUI",
+            "role": "reported",
+            "firstname": "Bonnie"
+          }],
+          "original": "By BONNIE TSUI"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2011/03/20/travel/20-CALENDAR/20-CALENDAR-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/03/20/travel/20-CALENDAR/20-CALENDAR-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 376,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2011/03/20/travel/20-CALENDAR/20-CALENDAR-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 376,
+              "xlarge": "images/2011/03/20/travel/20-CALENDAR/20-CALENDAR-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2ab098eb7c8105d8973ce",
+        "source": "The New York Times",
+        "word_count": 421,
+        "lead_paragraph": "April Looking to get away from the Everest base camp scrum? This month, REI Adventures introduces a new lodge-to-lodge trekking trip in Nepal that takes hikers off the beaten path to visit remote monasteries and Sherpa villages. Guests spend several hours a day on the trail earning majestic views of Everest, as well as other sacred Himalayan peaks (including Nuptse, Lhotse and Ama Dablam); also included in the journey are stays at family-run inns and a snack at what is billed as the world's highest hotel, the Everest View, above, situated at 12,730 feet. (800-622-2236; rei.com/adventures; from $2,599)"
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "BOOKS",
+          "main": "Memoir (or Is It?) of Sex and Opium"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "LITERARY FRAUD"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-03-31T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/03/31/books/decadence-mandchoue-by-sir-edmund-trelawny-backhouse.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "An explicitly erotic 1943 manuscript by British Orientalist Edmund Trelawny Backhouse is soon to be on bookstore shelves.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Hor-chung",
+            "role": "reported",
+            "lastname": "LAU",
+            "firstname": "Joyce"
+          }],
+          "original": "By JOYCE HOR-CHUNG LAU"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2011/03/31/arts/31iht-memoirs31-inline1/31iht-memoirs31-inline1-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2011/03/31/arts/31iht-memoirs31-inline1/31iht-memoirs31-inline1-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd29e478eb7c8105d8800a5",
+        "source": "International Herald Tribune",
+        "word_count": 1142,
+        "lead_paragraph": "HONG KONG -- There are things we know about Sir Edmund Trelawny Backhouse, 2nd Baronet, of England: He was one of few Europeans to live among the Chinese in the early 20th century, and his writings greatly influenced the way the West saw Peking. Then there are fuzzier facts, like his claim that he had affairs with both Oscar Wilde and the Empress Dowager Cixi. At the peak of his career, Backhouse was a respected expert in the field of Orientalism. He worked for The Times of London as a researcher and translator, and his books on China were best sellers. Two works he wrote with the British journalist J.O.P. Bland, ''Annals and Memoirs of the Court of Peking'' (1914) and ''China Under the Empress Dowager'' (1910), shaped 20th-century views of the empress. But some of his sources and claims have since been proved fraudulent (he was roundly criticized after it was discovered that a diary he quoted turned out be a forgery), and historians are divided on the significance of his contribution to Western understanding of Chinese life -- and whether it is significant at all."
+      },
+      {
+        "abstract": "Beijing Dance Theater debuts dance performance adaptation of banned Ming Dynasty erotic novel Jin Ping Mei, or The Golden Lotus, at the Hong Kong Arts Festival. Photo (M)",
+        "headline": {"main": "Dancing Past Censors: 1500s Chinese Erotica"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING DANCE THEATER"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "DANCING"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2011-03-31T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9D0CEFDA1530F932A05750C0A9679D8B63",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "BEIJING -- The Experimental Theater of Central Academy of Drama is tucked away in a warren of ancient streets named for goods long ago sold there -- Fried Bean Lane and East Cotton Alley -- that nowadays are lined with small shops and cafes.     Neve",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MELVIN",
+            "role": "reported",
+            "firstname": "Sheila"
+          }],
+          "original": "By SHEILA MELVIN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd289a98eb7c8105d85beef",
+        "source": "The New York Times",
+        "word_count": 1088,
+        "lead_paragraph": "BEIJING -- The Experimental Theater of Central Academy of Drama is tucked away in a warren of ancient streets named for goods long ago sold there -- Fried Bean Lane and East Cotton Alley -- that nowadays are lined with small shops and cafes. Never easy to find, the theater was particularly forbidding on a frigid evening in late January, when the gate to the entire complex stood locked and guarded, opened only to those in possession of a printed invitation to the event within: a dress rehearsal for the Beijing Dance Theater's adaptation of ''Jin Ping Mei,'' or ''The Golden Lotus.'' The piece had its premiere last weekend at the Hong Kong Arts Festival, which commissioned it."
+      }
+    ],
+    "meta": {
+      "time": 62,
+      "hits": 102,
+      "offset": 10
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

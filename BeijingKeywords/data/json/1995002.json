@@ -1,0 +1,574 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Chinese Aides Vex a Women's Forum"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED NATIONS CONFERENCE ON WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "CONVENTIONS AND CONFERENCES"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1995-08-31T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/08/31/world/chinese-aides-vex-a-women-s-forum.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Just after dawn today, a senior staff member of an international women's forum assembling here left her hotel room for stroll around Huairou reservoir, where the mist-shrouded Fragrant Hills loomed to the west and the morning light caught delicate ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER;"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1eb6a8eb7c8105d73bd09",
+        "source": "The New York Times",
+        "word_count": 462,
+        "lead_paragraph": "Just after dawn today, a senior staff member of an international women's forum assembling here left her hotel room for stroll around Huairou reservoir, where the mist-shrouded Fragrant Hills loomed to the west and the morning light caught delicate pagodas in silhouette. A policeman stepped into her path and ordered her back to her room."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED NATIONS CONFERENCE ON WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "1995-08-31T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/08/31/nyregion/c-corrections-634695.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "  Because of a production error, an article yesterday about Chinese Government restrictions on the United Nations women's conference in Beijing was omitted from some copies, and a duplicate of an article about India appeared in its place. The missing",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1bfe18eb7c8105d6ee185",
+        "source": "The New York Times",
+        "word_count": 46,
+        "lead_paragraph": "Because of a production error, an article yesterday about Chinese Government restrictions on the United Nations women's conference in Beijing was omitted from some copies, and a duplicate of an article about India appeared in its place. The missing article is reprinted today on page A10."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "MEDDLING BY CHINA IS SEEN AS MARRING MEETING ON WOMEN"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HUAIROU (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "AMNESTY INTERNATIONAL"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED NATIONS CONFERENCE ON WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1995-09-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/09/02/world/meddling-by-china-is-seen-as-marring-meeting-on-women.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  China continued today to obstruct a meeting of nearly 20,000 women here, leading a senior Western official to warn that its actions as host to the Fourth World Conference on Women threatened to overshadow the event itself.    \"It is just out of con",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd201468eb7c8105d765096",
+        "source": "The New York Times",
+        "word_count": 879,
+        "lead_paragraph": "China continued today to obstruct a meeting of nearly 20,000 women here, leading a senior Western official to warn that its actions as host to the Fourth World Conference on Women threatened to overshadow the event itself. \"It is just out of control and we have protested very strongly,\" said the official, a delegate to the conference. \"The United Nations has got to move on this,\" he said, adding that the world body has a responsibility as guarantor of the conference."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED NATIONS CONFERENCE ON WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "1995-09-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/09/04/nyregion/c-corrections-222495.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "  Because of an editing error, a front-page article yesterday about the international gathering of women's groups in China misstated in some copies where Calvin Mitchell, a spokesman for the National Security Council, commented on the gathering. Mr. ",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ec438eb7c8105d73d09f",
+        "source": "The New York Times",
+        "word_count": 43,
+        "lead_paragraph": "Because of an editing error, a front-page article yesterday about the international gathering of women's groups in China misstated in some copies where Calvin Mitchell, a spokesman for the National Security Council, commented on the gathering. Mr. Mitchell was in Hawaii, not Washington."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "WOMEN AT FORUM AGREE TO PRESS ON"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CLINTON, HILLARY RODHAM"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED NATIONS CONFERENCE ON WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "CONVENTIONS AND CONFERENCES"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1995-09-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/09/04/world/women-at-forum-agree-to-press-on.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Divided over whether to step up their confrontation with China over excessive security and poor facilities, the leaders of an international women's forum here said today that they would carry on despite concerns that, in some cases, freedom of expr",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1c06e8eb7c8105d6eed0b",
+        "source": "The New York Times",
+        "word_count": 979,
+        "lead_paragraph": "Divided over whether to step up their confrontation with China over excessive security and poor facilities, the leaders of an international women's forum here said today that they would carry on despite concerns that, in some cases, freedom of expression was being severely stifled. The leaders of about 2,000 private groups meeting here for the Non-Governmental Organizations Forum on Women threatened on Saturday to suspend or cancel their meeting unless China withdrew its oppressive security forces from the meeting site within 24 hours."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "'Women in Black' Defy China's Police"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED NATIONS CONFERENCE ON WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "DOMESTIC VIOLENCE"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1995-09-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/09/05/world/women-in-black-defy-china-s-police.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  The women wore black, and stood in silence.   Yet even they, in a peaceful vigil against violence, would soon come face to face with Chinese officialdom in a confrontation over the right to demonstrate.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FAISON",
+            "role": "reported",
+            "firstname": "Seth"
+          }],
+          "original": "By SETH FAISON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1eb6f8eb7c8105d73c185",
+        "source": "The New York Times",
+        "word_count": 955,
+        "lead_paragraph": "The women wore black, and stood in silence. Yet even they, in a peaceful vigil against violence, would soon come face to face with Chinese officialdom in a confrontation over the right to demonstrate."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "At U.N. Women's Meeting, An Outbreak of Harmony"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "IRAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "ROMAN CATHOLIC CHURCH"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED NATIONS CONFERENCE ON WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "CONDOMS"
+          },
+          {
+            "name": "subject",
+            "value": "ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS)"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "BIRTH CONTROL AND FAMILY PLANNING"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "1995-09-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/09/09/world/at-un-women-s-meeting-an-outbreak-of-harmony.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  It was billed as a clash of civilizations over how to define the rights of women in language that could influence how all nations act.   So when delegates and advocates from 185 nations started converging on the Chinese capital late last month for ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1eb708eb7c8105d73c284",
+        "source": "The New York Times",
+        "word_count": 688,
+        "lead_paragraph": "It was billed as a clash of civilizations over how to define the rights of women in language that could influence how all nations act. So when delegates and advocates from 185 nations started converging on the Chinese capital late last month for the United Nations Fourth World Conference on Women and a parallel forum of nongovernmental organizations, many people thought that conservative Muslims allied with the Vatican and the anti-abortion coalitions of North America would join forces and storm the ramparts of the meeting halls here."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "INTERNATIONAL BUSINESS",
+          "main": "Shanghai Offer That's Hard to Refuse"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "XU KUANGDI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "AREA PLANNING AND RENEWAL"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "1995-09-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/09/19/business/international-business-shanghai-offer-that-s-hard-to-refuse.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "  Foreign bankers here have often joked that the only way the city's leaders could persuade them to move their branches to East Shanghai -- the half-built development zone across the river from the city's downtown area -- would be by saying that a ba",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FAISON",
+            "role": "reported",
+            "firstname": "Seth"
+          }],
+          "original": "By SETH FAISON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1cf0c8eb7c8105d7077cd",
+        "source": "The New York Times",
+        "word_count": 630,
+        "lead_paragraph": "Foreign bankers here have often joked that the only way the city's leaders could persuade them to move their branches to East Shanghai -- the half-built development zone across the river from the city's downtown area -- would be by saying that a bank had to be there if it wanted to do business in the local currency. Today, Mayor Xu Kuangdi of Shanghai announced precisely that. In a series of moves aimed at speeding the advancement of East Shanghai, Mr. Xu announced that the zone was moving into the second phase of its development. Because the zone, which opened in 1990, has already established itself as an industrial base, it should now concentrate on becoming a financial center as well, Mr. Xu said."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "ON LANGUAGE",
+          "main": "Hillary Speaks"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CLINTON, HILLARY RODHAM"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "ENGLISH LANGUAGE"
+          }
+        ],
+        "print_page": "28",
+        "pub_date": "1995-10-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/10/01/magazine/on-language-hillary-speaks.html",
+        "news_desk": "Magazine Desk",
+        "snippet": "I PUT IT DIRECTLY TO the Dalai Lama, who was in Washington pressing for the protection of Tibetan culture: did Hillary Rodham Clinton's unexpectedly strong  speech to the United Nations Fourth World Conference on Women, held in Beijing,  help the cau",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Magazine",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SAFIRE",
+            "role": "reported",
+            "firstname": "William"
+          }],
+          "original": "By WILLIAM SAFIRE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1c1ed8eb7c8105d6f10f3",
+        "source": "The New York Times",
+        "word_count": 1124,
+        "lead_paragraph": "I PUT IT DIRECTLY TO the Dalai Lama, who was in Washington pressing for the protection of Tibetan culture: did Hillary Rodham Clinton's unexpectedly strong speech to the United Nations Fourth World Conference on Women, held in Beijing, help the cause of human rights in his country? \"Yes,\" the monk in red robes replied without hesitation. \"The speech will have an enormous positive impact in the long run.\""
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Bridge Teams Contesting World Titles"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MARLBORO WORLD BRIDGE CHAMPIONSHIPS"
+          },
+          {
+            "name": "subject",
+            "value": "BRIDGE (CARD GAME)"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "1995-10-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/10/10/arts/bridge-teams-contesting-world-titles.html",
+        "news_desk": "Cultural Desk",
+        "snippet": "  Three of the four American teams started well in the Marlboro World Bridge Championships here today, but the fourth is in trouble. After 3 of 14 qualifying rounds, the team captained by Jim Cayne was in last place in its pool.    The top four will ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ece68eb7c8105d73e7b4",
+        "source": "The New York Times",
+        "word_count": 229,
+        "lead_paragraph": "Three of the four American teams started well in the Marlboro World Bridge Championships here today, but the fourth is in trouble. After 3 of 14 qualifying rounds, the team captained by Jim Cayne was in last place in its pool. The top four will qualify for playoffs starting Saturday. The standings are: 1st, Indonesia, 55 victory points out of a possible 75; 2d, Australia, 53; 3d, South Africa, 49; 4th, Netherlands, 48; 5th, Argentina, 47; 6th, France, 40; 7th, Venezuela, 36; 8th, Cayne team, 31."
+      }
+    ],
+    "meta": {
+      "time": 204,
+      "hits": 42,
+      "offset": 20
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

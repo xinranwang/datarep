@@ -1,0 +1,844 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Chen Guangcheng, a blind human rights lawyer, is said to have found refuge in the U.S. Embassy in Beijing. Although the diplomatic silence from Beijing and Washington has been deafening, there's something of a precedent for Mr. Chen's situation: Two dissident physicists, wanted by the Chinese authorities in the days after the Tiananmen massacre in 1989, spent 13 months living in the embassy's basement.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "U.S. Embassy in Beijing Has Been a Sanctuary Before"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "subject",
+            "value": "United States International Relations"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Fang Lizhi"
+          },
+          {
+            "rank": "10",
+            "name": "subject",
+            "value": "Prisons and Prisoners"
+          },
+          {
+            "rank": "19",
+            "name": "glocations",
+            "value": "Washington (DC)"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Chen Guangcheng"
+          },
+          {
+            "rank": "18",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "17",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "16",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Link, Perry"
+          },
+          {
+            "rank": "15",
+            "name": "organizations",
+            "value": "University of Arizona"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "persons",
+            "value": "Liu Xiaobo"
+          },
+          {
+            "rank": "14",
+            "name": "organizations",
+            "value": "State Department"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Human Rights and Human Rights Violations"
+          },
+          {
+            "rank": "13",
+            "name": "organizations",
+            "value": "New York Review of Books"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Immigration and Emigration"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "International Relations"
+          },
+          {
+            "rank": "12",
+            "name": "subject",
+            "value": "United States Politics and Government"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-05-01T02:09:40Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/05/01/u-s-embassy-in-beijing-has-been-a-sanctuary-before/",
+        "news_desk": null,
+        "snippet": "Chen Guangcheng, a blind human rights lawyer, is said to have found refuge in the U.S. Embassy in Beijing. Although the diplomatic silence from Beijing and Washington has been deafening, there's something of a precedent for Mr. Chen's situation: Two ",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a46c8eb7c8105d8ef000",
+        "source": "The New York Times",
+        "word_count": 981,
+        "lead_paragraph": "HONG KONG - The saga of the late-night escape of Chen Guangcheng has been thoroughly engrossing - the blind human rights lawyer scaling a wall at his rural farmhouse, eluding dozens of guards, stumbling through the countryside, being bundled into a getaway car and now, it seems, seeking refuge in the U.S. Embassy in Beijing."
+      },
+      {
+        "abstract": "New details of intrigue, heroics and ultimately what some people involved called a betrayal emerge from the 10-day saga of Chinese dissident Chen Guangcheng, the blind rights lawyer who escaped house arrest in Shandong Province and subsequently left protection of the American embassy in Beijing; tale does not have a clear ending, with Chen expressing fears about his safety if he remains in China; it is likely to endure as one of the most dramatic episodes in history of relations between the United States and China. Photo, Map (M)",
+        "headline": {"main": "A Car Chase, Secret Talks and Second Thoughts"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN GUANGCHENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "STATE DEPARTMENT"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "HUMAN RIGHTS AND HUMAN RIGHTS VIOLATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "DIPLOMATIC SERVICE, EMBASSIES AND CONSULATES"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2012-05-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/05/03/world/asia/a-car-chase-secret-talks-and-second-thoughts.html",
+        "news_desk": "World / Asia Pacific",
+        "snippet": "Details of intrigue, heroics and ultimately what some people involved called a betrayal emerged from Chen Guangcheng\u2019s saga.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "PERLEZ",
+              "role": "reported",
+              "firstname": "Jane"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "JACOBS",
+              "role": "reported",
+              "firstname": "Andrew"
+            }
+          ],
+          "original": "By JANE PERLEZ and ANDREW JACOBS; Shi Da contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a7ca8eb7c8105d89142d",
+        "source": "The New York Times",
+        "word_count": 1831,
+        "lead_paragraph": "BEIJING -- Injuries suffered in the course of a daring nighttime escape. A covert appeal from underground activists to top State Department officials for humanitarian protection. A car chase through the streets of Beijing to spirit a dissident to safety inside the fortified American Embassy. Those are among the new details that emerged Wednesday from the 10-day saga of Chen Guangcheng, the blind rights lawyer who escaped house arrest in rural Shandong Province, and then, after managing to reach Beijing and come under American protection, was the subject of a series of highly unusual secret negotiations with the Chinese government."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "SPECIAL REPORT: ASIA TRAVEL",
+          "main": "Amid Mountains Outside Beijing, Ruins With Romance"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-05-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/05/03/travel/03iht-srbeijing03.html",
+        "news_desk": "Travel",
+        "snippet": "Not far from the Great Wall, the smog of China\u2019s congested capital clears and nature, religion and philosophy come to the fore at Silver Mountain.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "width": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2012/05/03/travel/03iht-srbeijing03/03iht-srbeijing03--thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2012/05/03/travel/03iht-srbeijing03/03iht-srbeijing03--thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailwidth": 75,
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd299bd8eb7c8105d877da8",
+        "source": "International Herald Tribune",
+        "word_count": 1257,
+        "lead_paragraph": "BEIJING -- At Silver Mountain, nature and Buddhism interlace in ways so ethereally beautiful and historically rich that visitors know immediately they have arrived somewhere special. Here, not far from the Great Wall, the smog of China's congested capital clears and the pleasures of nature, religion and philosophy come to the fore. In the spring, white pear and pink peach flowers blossom in the orchards surrounding a plain at the base of the mountain, in the center of which seven large, weathered, yellow-and-gray stone pagodas, first built nearly 900 years ago during the Jin dynasty, rear skyward."
+      },
+      {
+        "abstract": "American and Chinese officials simultaneously broke the news on Wednesday afternoon that the blind dissident lawyer Chen Guangcheng had left the U.S. Embassy in Beijing. Within minutes, the Chinese followed up with a demand that the U.S. apologize for harboring Mr. Chen.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "China Demands Apology from U.S."
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Zweig, David"
+          },
+          {
+            "rank": "10",
+            "name": "organizations",
+            "value": "Xinhua"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Wen Jiabao"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Chen Guangcheng"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Apologies"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Chinese-Americans"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Human Rights and Human Rights Violations"
+          },
+          {
+            "rank": "13",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Presidential Election of 2012"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "United States Economy"
+          },
+          {
+            "rank": "12",
+            "name": "glocations",
+            "value": "China"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-05-02T05:42:38Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/05/02/china-demands-an-apology-from-the-u-s/",
+        "news_desk": null,
+        "snippet": "American and Chinese officials simultaneously broke the news on Wednesday afternoon that the blind dissident lawyer Chen Guangcheng had left the U.S. Embassy in Beijing. Within minutes, the Chinese followed up with a demand that the U.S. apologize fo",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a4ba8eb7c8105d8ef975",
+        "source": "The New York Times",
+        "word_count": 692,
+        "lead_paragraph": "HONG KONG - The news broke simultaneously from both the Chinese and the Americans on Wednesday afternoon, with U.S. officials speaking to reporters on background just as Xinhua, the official Chinese news agency, was issuing its own brief bulletin: Chen Guangcheng had left the U.S. Embassy in Beijing of his own accord and was getting medical treatment at a hospital in the city."
+      },
+      {
+        "abstract": "Chen Guangcheng, a self-taught lawyer and advocate for the handicapped, has managed to evade China's attempts to isolate him by posting video messages online.",
+        "headline": {
+          "kicker": "The Lede",
+          "main": "A Chinese Dissident's Smuggled Video Messages"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Wen Jiabao"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Chen Guangcheng"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Disabilities"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Human Rights and Human Rights Violations"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Video Recordings and Downloads"
+          },
+          {
+            "rank": "8",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "9",
+            "name": "glocations",
+            "value": "China"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-05-02T14:36:33Z",
+        "web_url": "http://thelede.blogs.nytimes.com/2012/05/02/a-dissidents-smuggled-video-messages/",
+        "news_desk": null,
+        "snippet": "Chen Guangcheng, a self-taught lawyer and advocate for the handicapped, has managed to evade China's attempts to isolate him by posting video messages online.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": null,
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MACKEY",
+            "role": "reported",
+            "firstname": "Robert"
+          }],
+          "original": "By ROBERT MACKEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a42c8eb7c8105d8ee809",
+        "source": "The New York Times",
+        "word_count": 575,
+        "lead_paragraph": "Updated, 8:14 p.m. As my colleague Jane Perlez reports, Chen Guangcheng, the blind Chinese dissident who fled house arrest last week in a dramatic escape from security forces, left the American Embassy in Beijing on Wednesday and is now in a nearby hospital."
+      },
+      {
+        "abstract": "Chinese state-controlled media expressed a certain contempt for Chen Guangcheng and U.S. involvement in his case, saying Thursday that he was merely a village lawyer whose role as a human rights advocate had been concocted and inflated by Western media and diplomats. Once again, they suggested, China was being made out to be the villain.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Chinese Media Decry Western Interference in Chen Case"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Human Rights and Human Rights Violations"
+          },
+          {
+            "rank": "10",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Teng Biao"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Chen Guangcheng"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "United States International Relations"
+          },
+          {
+            "rank": "7",
+            "name": "organizations",
+            "value": "Global Times"
+          },
+          {
+            "rank": "8",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "9",
+            "name": "glocations",
+            "value": "China"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-05-03T00:32:12Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/05/03/chinese-media-decry-western-interference-in-chen-case/",
+        "news_desk": null,
+        "snippet": "Chinese state-controlled media expressed a certain contempt for Chen Guangcheng and U.S. involvement in his case, saying Thursday that he was merely a village lawyer whose role as a human rights advocate had been concocted and inflated by Western med",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a46c8eb7c8105d8eeffd",
+        "source": "The New York Times",
+        "word_count": 682,
+        "lead_paragraph": "HONG KONG - The dramatic departure of the human rights lawyer Chen Guangcheng from his safe harbor at the U.S. Embassy became ever more confused on Thursday, as he seemed to be wavering in his resolve to remain in China."
+      },
+      {
+        "abstract": "Mitt Romney faults the Obama administration for its handling of the case of Chen Guangcheng, the Chinese dissident.",
+        "headline": {
+          "kicker": "The Caucus",
+          "main": "Romney Assails Obama on Handling of Chen Case"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Geithner, Timothy F"
+          },
+          {
+            "rank": "10",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Clinton, Hillary Rodham"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Chen Guangcheng"
+          },
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "persons",
+            "value": "Romney, Mitt"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "United States International Relations"
+          },
+          {
+            "rank": "8",
+            "name": "organizations",
+            "value": "State Department"
+          },
+          {
+            "rank": "9",
+            "name": "organizations",
+            "value": "Treasury Department"
+          },
+          {
+            "rank": "12",
+            "name": "glocations",
+            "value": "United States"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-05-03T15:18:22Z",
+        "web_url": "http://thecaucus.blogs.nytimes.com/2012/05/03/romney-assails-obama-on-handling-of-chen/",
+        "news_desk": null,
+        "snippet": "Mitt Romney faults the Obama administration for its handling of the case of Chen Guangcheng, the Chinese dissident.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "U.S.",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "PARKER",
+            "role": "reported",
+            "firstname": "Ashley"
+          }],
+          "original": "By ASHLEY PARKER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a48e8eb7c8105d8ef446",
+        "source": "The New York Times",
+        "word_count": 473,
+        "lead_paragraph": "PORTSMOUTH, Va. - Mitt Romney criticized the Obama administration on Thursday for its handling of the case of Chen Guangcheng, the blind Chinese dissident lawyer, calling reports coming out of China \"a dark day for freedom.\""
+      },
+      {
+        "abstract": "First time travel to China can be daunting, but insiders offer easy-to-use cheat sheets and tips for spending a week in Beijing, Hong Kong or Shanghai. Map, Photos (L)/",
+        "headline": {"main": "Easy China, Through Three Doors"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2012-05-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/05/06/travel/tips-for-visiting-beijing-hong-kong-and-shanghai.html",
+        "news_desk": "Travel",
+        "snippet": "Insiders cut through the chaos to offer easy-to-use cheat sheets for spending a week in Beijing, Hong Kong or Shanghai.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "LEVIN",
+              "role": "reported",
+              "firstname": "Dan"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "BRADSHER",
+              "role": "reported",
+              "firstname": "Keith"
+            },
+            {
+              "rank": 3,
+              "organization": "",
+              "lastname": "BARBOZA",
+              "role": "reported",
+              "firstname": "David"
+            }
+          ],
+          "original": "By DAN LEVIN, KEITH BRADSHER and DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2012/05/06/travel/06CHINA_SPAN/06CHINA_SPAN-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2012/05/06/travel/06CHINA_SPAN/06CHINA_SPAN-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailwidth": 75,
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 203,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2012/05/06/travel/06CHINA_SPAN/06CHINA_SPAN-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 203,
+              "xlarge": "images/2012/05/06/travel/06CHINA_SPAN/06CHINA_SPAN-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2a9998eb7c8105d895044",
+        "source": "The New York Times",
+        "word_count": 4465,
+        "lead_paragraph": "FOR the first-time visitor to China, planning a trip to the most populous country on earth can be an exercise in trying to tame the infinite. Where to begin? Since most people will be flying into Beijing, Hong Kong or Shanghai, we suggest basing yourself in one of these three cities, each in its own state of frenzied transformation. As two Times correspondents, David Barboza in Shanghai and Keith Bradsher in Hong Kong, and Dan Levin, a regular contributor from Beijing point out, each city is a study in contrasts. Dazzling, ultramodern skylines conceal hidden corners of traditional China: historic neighborhoods crisscrossed by alleyways in Beijing; teahouses in Shanghai; and centuries-old temples in Hong Kong. Which isn't to say that these metropolises, with their up-to-the-minute shops, galleries, restaurants and bars don't possess their own magic. They do. Below, essential tips on what to see and do for a week in China's gateway cities. BEIJING"
+      },
+      {
+        "abstract": "In Seoul or Beijing, craving some mountain air? Do you want to get out on the waterways of Hong Kong? Three of our correspondents in Asia have some suggestions for treks. Read theirs and tell us yours.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "A Change of Scenery a Short Hop From Asia's Cities"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Hong Kong"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Far East, South and Southeast Asia and Pacific Areas"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Seoul (South Korea)"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-05-04T11:45:12Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/05/04/day-trips-from-asian-cities/",
+        "news_desk": null,
+        "snippet": "In Seoul or Beijing, craving some mountain air? Do you want to get out on the waterways of Hong Kong? Three of our correspondents in Asia have some suggestions for treks. Read theirs and tell us yours.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [],
+          "organization": "THE INTERNATIONAL HERALD TRIBUNE",
+          "original": "By THE INTERNATIONAL HERALD TRIBUNE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a4a28eb7c8105d8ef75c",
+        "source": "The New York Times",
+        "word_count": 74,
+        "lead_paragraph": "In Seoul or Beijing, craving some mountain air? Do you want to get out on the waterways of Hong Kong? Three of our correspondents in Asia have some suggestions. Choe Sang-Hun takes the Bukaksan Fortress Walk; Didi Kirsten Tatlow explores temple ruins at Silver Mountain and Joyce Hor-Chung Lau takes the Star Ferry."
+      },
+      {
+        "abstract": "New York Yankees utility player Jayson Nix, who hit the batting-practice fly ball that closer Mariano Rivera was hurt chasing, was himself the victim of a freak injury while bunting at the 2008 Olympics. Photo (M)",
+        "headline": {"main": "A Yankee's Unfortunate Pregame Debut"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "NIX, JAYSON"
+          },
+          {
+            "name": "persons",
+            "value": "RIVERA, MARIANO"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NEW YORK YANKEES"
+          },
+          {
+            "name": "subject",
+            "value": "BASEBALL"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "SPORTS INJURIES"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2012-05-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/05/06/sports/baseball/yankees-nix-now-on-other-end-of-strange-injury.html",
+        "news_desk": "Sports / Baseball",
+        "snippet": "Jayson Nix, who hit the batting-practice fly that Mariano Rivera was hurt chasing, was himself the victim of a freak injury while bunting at the Beijing Olympics.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WALDSTEIN",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID WALDSTEIN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "width": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2012/05/06/sports/footnote1/footnote1-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2012/05/06/sports/footnote1/footnote1-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailwidth": 75,
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2ae598eb7c8105d89ca63",
+        "source": "The New York Times",
+        "word_count": 837,
+        "lead_paragraph": "KANSAS CITY, Mo. -- Jayson Nix lowered his head and didn't realize what had happened until Alex Rodriguez said, ''Oh, my God; oh, my God,'' and told Joe Girardi to get out to center field, where Mariano Rivera had just sustained a season-ending knee injury. It was a cruel bit of fate that Nix was the one who hit the ball to the outfield in his first round of batting practice before his first Yankee game."
+      }
+    ],
+    "meta": {
+      "time": 15,
+      "hits": 167,
+      "offset": 60
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,1015 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Mr. Reeves, who directed the film, toned down the violence and made sure there were no depictions of corrupt Beijing police officers to satisfy government officials.",
+        "headline": {
+          "kicker": "Sinosphere",
+          "main": "Keanu Reeves Bowed to Chinese Censors to Make 'Man of Tai Chi'"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Reeves, Keanu"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Taiwan"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Hong Kong"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "China Film Group"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Metro-Goldwyn-Mayer Inc"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Movies"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Martial Arts"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Censorship"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-10-29T09:28:53Z",
+        "web_url": "http://sinosphere.blogs.nytimes.com/2013/10/29/keanu-reeves-bowed-to-chinese-censors-to-make-man-of-tai-chi/",
+        "news_desk": null,
+        "snippet": "Mr. Reeves, who directed the film, toned down the violence and made sure there were no depictions of corrupt Beijing police officers to satisfy government officials.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LEVIN",
+            "role": "reported",
+            "firstname": "Dan"
+          }],
+          "original": "By DAN LEVIN"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [],
+        "_id": "526fe2b438f0d83b1c13961c",
+        "source": "The New York Times",
+        "word_count": "554",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Not all women are grateful for tips helpfully offered to a category of driver deemed prone to panic, lacking a sense of direction and never switching gears.",
+        "headline": {
+          "kicker": "Sinosphere",
+          "main": "Beijing Police Strive to Save Women From Driving \u2018Mistakes\u2019 "
+        },
+        "keywords": [
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Sina Weibo"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Women and Girls"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Traffic Accidents and Safety"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Police"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-10-29T17:55:52Z",
+        "web_url": "http://sinosphere.blogs.nytimes.com/2013/10/29/beijing-police-strive-to-save-women-from-their-mistakes/",
+        "news_desk": null,
+        "snippet": "Not all women are grateful for tips helpfully offered to a category of driver deemed prone to panic, lacking a sense of direction and never switching gears.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LI",
+            "role": "reported",
+            "firstname": "Mia"
+          }],
+          "original": "By MIA LI"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/10/29/world/asia/29SINO-DRIVERS/29SINO-DRIVERS-thumbWide.png",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/10/29/world/asia/29SINO-DRIVERS/29SINO-DRIVERS-thumbWide.png"
+            }
+          },
+          {
+            "height": 406,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/10/29/world/asia/29SINO-DRIVERS/29SINO-DRIVERS-articleLarge.png",
+            "legacy": {
+              "xlargeheight": "406",
+              "xlarge": "images/2013/10/29/world/asia/29SINO-DRIVERS/29SINO-DRIVERS-articleLarge.png",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/10/29/world/asia/29SINO-DRIVERS/29SINO-DRIVERS-thumbStandard.png",
+            "legacy": {
+              "thumbnail": "images/2013/10/29/world/asia/29SINO-DRIVERS/29SINO-DRIVERS-thumbStandard.png",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "5270802a38f0d83b1c13983e",
+        "source": "The New York Times",
+        "word_count": "413",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Beijing couples are divorcing in soaring numbers, with 41 percent more splits recorded in the first three quarters of this year over the same period last year. Commentators say people are circumventing restrictions aimed at cooling an overheated property market.",
+        "headline": {
+          "kicker": "Sinosphere",
+          "main": "To Save Money, Beijing Couples Divorce in Soaring Numbers"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Shanghai (China)"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Guangzhou (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Beijing News, The"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Real Estate (Commercial)"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Divorce, Separations and Annulments"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-10-29T23:31:32Z",
+        "web_url": "http://sinosphere.blogs.nytimes.com/2013/10/29/to-save-money-beijing-couples-divorce-in-soaring-numbers/",
+        "news_desk": null,
+        "snippet": "Beijing couples are divorcing in soaring numbers, with 41 percent more splits recorded in the first three quarters of this year over the same period last year. Commentators say people are circumventing restrictions aimed at cooling an overheated prop",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/10/31/world/30sino-divorce1/30sino-divorce1-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/10/31/world/30sino-divorce1/30sino-divorce1-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 405,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/10/31/world/30sino-divorce1/30sino-divorce1-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "405",
+              "xlarge": "images/2013/10/31/world/30sino-divorce1/30sino-divorce1-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/10/31/world/30sino-divorce1/30sino-divorce1-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/10/31/world/30sino-divorce1/30sino-divorce1-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "52707e4b38f0d83b1c13983c",
+        "source": "The New York Times",
+        "word_count": "345",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Chinese authorities investigating deadly episode near Tiananmen Square that left five people dead appear to focus on suspects from Xinjiang, region in China's far west that has been the scene of increasingly violent resistance to Beijing's hard-line policies.",
+        "headline": {
+          "print_headline": "China Focuses on an Ethnic Minority in a Car Explosion",
+          "main": "China Focuses on an Ethnic Minority in a Car Explosion"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Xi Jinping",
+            "is_major": "N"
+          },
+          {
+            "rank": "8",
+            "name": "organizations",
+            "value": "Politburo Standing Committee of the Communist Party of China",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Uighurs (Chinese Ethnic Group)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Han Chinese (Ethnic Group)",
+            "is_major": "N"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "Xinjiang (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Tiananmen Square (Beijing)",
+            "is_major": "N"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "Terrorism",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2013-10-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/10/30/world/asia/china-beijing-car-explosion.html",
+        "news_desk": "Foreign",
+        "snippet": "Security in the capital was tightened amid suspicions that the episode was a protest against China\u2019s hard-line policies toward Uighurs.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "contributor": "Patrick Zuo and Frank Ye contributed research.",
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/10/29/world/BEIJING/BEIJING-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/10/29/world/BEIJING/BEIJING-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 399,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/10/29/world/BEIJING/BEIJING-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "399",
+              "xlarge": "images/2013/10/29/world/BEIJING/BEIJING-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/10/30/world/SUB-BEIJING/SUB-BEIJING-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/10/30/world/SUB-BEIJING/SUB-BEIJING-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "526fc8db38f0d81489d169a6",
+        "source": "The New York Times",
+        "word_count": "907",
+        "lead_paragraph": "Security in the capital was tightened amid suspicions that the episode was a protest against China\u2019s hard-line policies toward Uighurs."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "print_headline": "China's Clean-Air Drive Likely to Take a Long Time",
+          "kicker": "Green Column",
+          "main": "China's Clean-Air Drive Likely to Take a Long Time"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Coal",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "London (England)",
+            "is_major": "N"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Acid Rain",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Air Pollution",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "",
+        "pub_date": "2013-10-31T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/10/31/business/energy-environment/chinas-clean-air-drive-likely-to-take-a-long-time.html",
+        "news_desk": "Business",
+        "snippet": "British and American efforts to curb smog show that serious change can take decades, especially when pollution is a byproduct of economic growth.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business Day",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "GALBRAITH",
+            "role": "reported",
+            "firstname": "Kate"
+          }],
+          "contributor": "",
+          "original": "By KATE GALBRAITH"
+        },
+        "subsection_name": "Energy & Environment ",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/10/31/business/energy-environment/31green/31green-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/10/31/business/energy-environment/31green/31green-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 353,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/10/31/business/energy-environment/31green/31green-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "353",
+              "xlarge": "images/2013/10/31/business/energy-environment/31green/31green-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/10/31/business/energy-environment/31green/31green-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/10/31/business/energy-environment/31green/31green-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "5270eebc38f0d83b1c139906",
+        "source": "The New York Times",
+        "word_count": "854",
+        "lead_paragraph": "British and American efforts to curb smog show that serious change can take decades, especially when pollution is a byproduct of economic growth."
+      },
+      {
+        "abstract": "Chinese authorities announce arrests of five suspects described as Islamic jihadists who they say helped orchestrate Beijing attack near Tiananmen Square that left five people dead.",
+        "headline": {
+          "print_headline": "5 Suspects Are Held In Attack In Beijing",
+          "main": "5 Suspects Are Held in Attack in Beijing"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Tiananmen Square (Beijing)",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Uighurs (Chinese Ethnic Group)",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Terrorism",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2013-10-31T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/10/31/world/asia/china-says-5-jihadis-are-arrested-in-beijing-attack.html",
+        "news_desk": "Foreign",
+        "snippet": "Investigators say they recovered a banner with &#8220;religious extremist messages&#8221; from the car used in a suicide attack at the foot of the Tiananmen Gate that killed five people.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "contributor": "Patrick Zuo contributed research.",
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [],
+        "_id": "52710c0438f0d83b1c139961",
+        "source": "The New York Times",
+        "word_count": "697",
+        "lead_paragraph": "Investigators say they recovered a banner with &#8220;religious extremist messages&#8221; from the car used in a suicide attack at the foot of the Tiananmen Gate that killed five people."
+      },
+      {
+        "abstract": "The relative openness of Chinese society in its eastern cities, coupled with a highly authoritarian approach to western regions, may provide incentives to militants to stage attacks in population centers in the east, where targets are less secure and the rewards are higher.",
+        "headline": {
+          "kicker": "Sinosphere",
+          "main": "Q. & A.: Philip Potter on the Growing Risk of Terrorism in China"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Xinjiang (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Uighurs (Chinese Ethnic Group)"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Terrorism"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-10-31T05:35:07Z",
+        "web_url": "http://sinosphere.blogs.nytimes.com/2013/10/31/q-a-philip-potter-on-the-growing-risk-of-terrorism-in-china/",
+        "news_desk": null,
+        "snippet": "The relative openness of Chinese society in its eastern cities, coupled with a highly authoritarian approach to western regions, may provide incentives to militants to stage attacks in population centers in the east, where targets are less secure and",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "organization": "The New York Times",
+          "person": [],
+          "original": "By THE NEW YORK TIMES"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/11/01/world/31SINO-POTTER02/31SINO-POTTER02-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/11/01/world/31SINO-POTTER02/31SINO-POTTER02-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 404,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/11/01/world/31SINO-POTTER02/31SINO-POTTER02-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "404",
+              "xlarge": "images/2013/11/01/world/31SINO-POTTER02/31SINO-POTTER02-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/11/01/world/31SINO-POTTER02/31SINO-POTTER02-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/11/01/world/31SINO-POTTER02/31SINO-POTTER02-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "527224f738f0d869cf22d6e4",
+        "source": "The New York Times",
+        "word_count": "1512",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "A 100-kilometer race that takes runners up a mountainous course exceeding heights of 4,000 meters, or 13,400 feet, is not for the weak of heart.",
+        "headline": {
+          "print_headline": "In China, Gearing Up for a Marathon and Then Some",
+          "kicker": "Sinosphere",
+          "main": "Gearing Up for an Ultramarathon in Southwest China"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Great Wall of China"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Dalian (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Ultramarathon Running"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Marathon Running"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-11-01T00:53:52Z",
+        "web_url": "http://sinosphere.blogs.nytimes.com/2013/11/01/gearing-up-for-an-ultramarathon-in-southwest-china/",
+        "news_desk": null,
+        "snippet": "A 100-kilometer race that takes runners up a mountainous course exceeding heights of 4,000 meters, or 13,400 feet, is not for the weak of heart.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/11/02/world/01sino-marathon2/01sino-marathon2-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/11/02/world/01sino-marathon2/01sino-marathon2-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 338,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/11/02/world/01sino-marathon/01sino-marathon-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "338",
+              "xlarge": "images/2013/11/02/world/01sino-marathon/01sino-marathon-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/11/02/world/01sino-marathon2/01sino-marathon2-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/11/02/world/01sino-marathon2/01sino-marathon2-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "527334dc38f0d829b45e93ee",
+        "source": "The New York Times",
+        "word_count": "1078",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "A Chinese official said the deadly attack that killed five people was instigated by the East Turkestan Islamic Movement.",
+        "headline": {
+          "print_headline": "China: Group Accused in Attack",
+          "kicker": "Sinosphere",
+          "main": "China Says Terror Group Was Behind Tiananmen Attack"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Kadeer, Rebiya"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Xinjiang (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "East Turkestan Islamic Movement"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Shanghai Cooperation Organization"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Central Intelligence Agency"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Uighurs (Chinese Ethnic Group)"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Terrorism"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Muslims and Islam"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-11-01T01:31:47Z",
+        "web_url": "http://sinosphere.blogs.nytimes.com/2013/11/01/china-says-terror-group-behind-tiananmen-attack/",
+        "news_desk": null,
+        "snippet": "A Chinese official said the deadly attack that killed five people was instigated by the East Turkestan Islamic Movement.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "RAMZY",
+            "role": "reported",
+            "firstname": "Austin"
+          }],
+          "original": "By AUSTIN RAMZY"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [],
+        "_id": "52733d5a38f0d829b45e93fc",
+        "source": "The New York Times",
+        "word_count": "457",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "A switch to cleaner-burning vehicles has in one respect actually worsened smog in Hong Kong, forcing the city to modify its effort.",
+        "headline": {
+          "print_headline": "Effort to Clean Hong Kong&#8217;s Air Results in a Pollutant&#8217;s Increase",
+          "kicker": "Sinosphere",
+          "main": "Hong Kong Finds Switch to Cleaner Fuels Has Flaws"
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Hong Kong"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "World Health Organization"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "European Union"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Buses"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Automobiles"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Greenhouse Gas Emissions"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Fuel Efficiency"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Trucks and Trucking"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Taxicabs and Taxicab Drivers"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Air Pollution"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-11-01T04:26:46Z",
+        "web_url": "http://sinosphere.blogs.nytimes.com/2013/11/01/hong-kong-finds-switch-to-cleaner-fuels-has-flaws/",
+        "news_desk": null,
+        "snippet": "A switch to cleaner-burning vehicles has in one respect actually worsened smog in Hong Kong, forcing the city to modify its effort.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/11/02/world/01sino-hkpollution2/01sino-hkpollution2-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/11/02/world/01sino-hkpollution2/01sino-hkpollution2-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 389,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/11/02/world/01sino-hkpollution2/01sino-hkpollution2-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "389",
+              "xlarge": "images/2013/11/02/world/01sino-hkpollution2/01sino-hkpollution2-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/11/02/world/01sino-hkpollution2/01sino-hkpollution2-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/11/02/world/01sino-hkpollution2/01sino-hkpollution2-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "5273668638f0d829b45e9441",
+        "source": "The New York Times",
+        "word_count": "904",
+        "lead_paragraph": null
+      }
+    ],
+    "meta": {
+      "time": 8,
+      "hits": 144,
+      "offset": 130
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

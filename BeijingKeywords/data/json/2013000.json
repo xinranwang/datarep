@@ -1,0 +1,863 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Fears are growing that the Chinese mainland is slowly engulfing democratic Taiwan through ever-deepening economic integration and purchases of the island republic's free media by Taiwanese businessmen with large financial stakes in China.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "As Taiwan's Links With Mainland Grow, So Do Concerns"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Chiang Kai-shek"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Lai, Jimmy"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Taiwan"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Taipei (Taiwan)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Tiananmen Square (Beijing)"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "Washington Post"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Communist Party of China"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Next Media Ltd"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "Radio Free Asia"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Apple Daily"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Economic Conditions and Trends"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Demonstrations, Protests, and Riots"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Newspapers"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Mergers, Acquisitions and Divestitures"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Antitrust Laws and Competition Issues"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-01-01T01:37:06Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/01/01/as-taiwans-links-with-mainland-grow-so-do-concerns/",
+        "news_desk": null,
+        "snippet": "Fears are growing that the Chinese mainland is slowly engulfing democratic Taiwan through ever-deepening economic integration and purchases of the island republic's free media by Taiwanese businessmen with large financial stakes in China.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "50e285ff00315214fbb81ea8",
+        "source": "The New York Times",
+        "word_count": 228,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "seo": "Censored Newspaper in China Returns to Publication Amid Struggles",
+          "main": "Censored Newspaper Returns to Publication Amid Struggles"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Newspapers"
+          },
+          {
+            "rank": "9",
+            "name": "persons",
+            "value": "Hu Chunhua"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Beijing News, The"
+          },
+          {
+            "rank": "6",
+            "name": "organizations",
+            "value": "Communist Party of China"
+          },
+          {
+            "rank": "11",
+            "name": "persons",
+            "value": "Tuo Zhen"
+          },
+          {
+            "rank": "8",
+            "name": "glocations",
+            "value": "Guangzhou (China)"
+          },
+          {
+            "rank": "10",
+            "name": "subject",
+            "value": "Censorship"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Freedom of the Press"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Southern Weekend (Chinese Newspaper)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2013-01-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/01/10/world/asia/chinese-officials-pledge-to-loosen-controls-over-embattled-newspaper.html",
+        "news_desk": "Foreign",
+        "snippet": "A compromise deal appeared to bring a tentative peace to Southern Weekend\u2019s newsroom, as another Chinese newspaper faced a crisis on Wednesday over the forced publishing of an editorial.",
+        "type_of_material": "",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WONG",
+              "role": "reported",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "ANSFIELD",
+              "role": "reported",
+              "firstname": "Jonathan"
+            }
+          ],
+          "contributor": "Edward Wong reported from Guangzhou, and Jonathan Ansfield from Beijing. Mia Li contributed research from Guangzhou, and Shi Da from Beijing.",
+          "original": "By EDWARD WONG and JONATHAN ANSFIELD"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 400,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2013/01/10/world/china/china-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "400",
+              "xlarge": "images/2013/01/10/world/china/china-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2013/01/10/world/china/china-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/01/10/world/china/china-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "50edc26800315214fbb8347a",
+        "source": "The New York Times",
+        "word_count": 1034,
+        "lead_paragraph": "A compromise deal appeared to bring a tentative peace to Southern Weekend\u2019s newsroom, as another Chinese newspaper faced a crisis on Wednesday over the forced publishing of an editorial."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Poetic Voice That Spoke for Pluralism"},
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "10",
+            "name": "subject",
+            "value": "Language and Languages"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Hong Kong"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "Guangzhou (China)"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "Freedom of Speech and Expression"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Poetry and Poets"
+          },
+          {
+            "rank": "8",
+            "name": "glocations",
+            "value": "Guangdong Province (China)"
+          },
+          {
+            "rank": "6",
+            "name": "organizations",
+            "value": "Communist Party of China"
+          },
+          {
+            "rank": "11",
+            "name": "subject",
+            "value": "Chinese Language"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Politics and Government"
+          }
+        ],
+        "print_page": "",
+        "pub_date": "2013-01-10T13:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/01/10/world/asia/10iht-letter10.html",
+        "news_desk": "Foreign",
+        "snippet": "The writer Leung Ping-kwan was a caring, intelligent advocate of diversity in Chinese culture. In an age that saw so many attempts to reduce the many to the one, he wrote for the many.",
+        "type_of_material": "",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "50ed83d200315214fbb8339c",
+        "source": "International Herald Tribune",
+        "word_count": 947,
+        "lead_paragraph": "The writer Leung Ping-kwan was a caring, intelligent advocate of diversity in Chinese culture. In an age that saw so many attempts to reduce the many to the one, he wrote for the many."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "seo": "Beijing Air Pollution Off the Charts",
+          "print_headline": "On Scale of 0 to 500, Beijing\u2019s Air Quality Tops \u2018Crazy Bad\u2019 at 755",
+          "main": "On Scale of 0 to 500, Beijing\u2019s Air Quality Tops \u2018Crazy Bad\u2019 at 755"
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Environment",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Air Pollution",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "2013-01-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/01/13/science/earth/beijing-air-pollution-off-the-charts.html",
+        "news_desk": "Foreign",
+        "snippet": "An air-quality monitor atop the United States Embassy recently measured an air quality index well above 500, which is supposed to be the top of the scale.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Science",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "contributor": "",
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": "Environment",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/01/13/world/china/china-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/01/13/world/china/china-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 400,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/01/13/world/china/china-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "400",
+              "xlarge": "images/2013/01/13/world/china/china-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/01/13/world/china/china-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/01/13/world/china/china-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "50f23ff400315214fbb83f04",
+        "source": "The New York Times",
+        "word_count": "819",
+        "lead_paragraph": "An air-quality monitor atop the United States Embassy recently measured an air quality index well above 500, which is supposed to be the top of the scale."
+      },
+      {
+        "abstract": "As the air quality in China's capital, and elsewhere in the country, worsened to perhaps new records over the weekend, anger grew among ordinary Chinese - and one family coped with the mess.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Breathing in Beijing: Coping With China's Smog"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Greenhouse Gas Emissions"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Carbon Dioxide"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Air Pollution"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-01-13T02:18:40Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/01/13/breathing-in-beijing-coping-with-chinas-smog/",
+        "news_desk": null,
+        "snippet": "As the air quality in China's capital, and elsewhere in the country, worsened to perhaps new records over the weekend, anger grew among ordinary Chinese - and one family coped with the mess.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "50f2619d00315214fbb83f68",
+        "source": "The New York Times",
+        "word_count": 812,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "A weekly capsule of travel news curated by our writers and editors.",
+        "headline": {
+          "kicker": "In Transit",
+          "main": "Walkabout &mdash; 1/14: Travel Restrictions Loosen for Cubans, and Beijing Gets a New, Much-Needed Airport"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Cuba"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-01-14T14:13:32Z",
+        "web_url": "http://intransit.blogs.nytimes.com/2013/01/14/walkabout-114-travel-restrictions-loosen-for-cubans-and-beijing-gets-a-new-much-needed-airport/",
+        "news_desk": null,
+        "snippet": "A weekly capsule of travel news curated by our writers and editors.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [],
+          "organization": "THE NEW YORK TIMES",
+          "original": "By THE NEW YORK TIMES"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "50f50ea200315214fbb84d8c",
+        "source": "The New York Times",
+        "word_count": 168,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "The new government may be using the aggressive reporting to demonstrate a commitment to transparency and accountability as well as use this crisis to further the difficult reforms toward a more sustainable development model, the author writes.",
+        "headline": {
+          "kicker": "DealBook",
+          "main": "Questions About China's Growth, Censorship and Air Pollution"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Global Times"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "People's Daily"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Southern Weekend (Chinese Newspaper)"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "Tencent Holdings"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Economic Conditions and Trends"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Censorship"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Wireless Communications"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Freedom of the Press"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Air Pollution"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-01-14T14:23:03Z",
+        "web_url": "http://dealbook.nytimes.com/2013/01/14/questions-about-chinas-growth-censorship-and-air-pollution/",
+        "news_desk": null,
+        "snippet": "The new government may be using the aggressive reporting to demonstrate a commitment to transparency and accountability as well as use this crisis to further the difficult reforms toward a more sustainable development model, the author writes.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Business Day",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BISHOP",
+            "role": "reported",
+            "firstname": "Bill"
+          }],
+          "original": "By BILL BISHOP"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "50f50ef200315214fbb84dbd",
+        "source": "The New York Times",
+        "word_count": 872,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "Patrick Chappatte",
+          "main": "Pollution Alert in Beijing"
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Chappatte, Patrick"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Air Pollution"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-01-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/01/15/opinion/chappatte-cartoon-pollution-alert-in-beijing.html",
+        "news_desk": "OpEd",
+        "snippet": "In China\u2019s capital, a thick smog caused by air pollution is alarming citizens.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": [],
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 486,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2013/01/15/opinion/global/15iht-edchappatte15/15iht-edchappatte15-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "486",
+              "xlarge": "images/2013/01/15/opinion/global/15iht-edchappatte15/15iht-edchappatte15-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2013/01/15/opinion/global/15iht-edchappatte15/15iht-edchappatte15-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/01/15/opinion/global/15iht-edchappatte15/15iht-edchappatte15-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "50f54b9700315214fbb85007",
+        "source": "The New York Times",
+        "word_count": 13,
+        "lead_paragraph": "In China\u2019s capital, a thick smog caused by air pollution is alarming citizens."
+      },
+      {
+        "abstract": "As China's economy looks to strengthen again this year, some are concerned that exotic investment vehicles may pose hidden risks that could cause real problems in a few years.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Is Something Toxic Buried in China's Financial System?"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Mao Zedong"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Ponzi, Charles"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Guangzhou (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Bank of China"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "KPMG"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "21st Century Business Herald"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "E-Commerce"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Collateralized Debt Obligations"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Ponzi and Pyramid Schemes"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Economic Conditions and Trends"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Chinese Language"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-01-17T02:09:28Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/01/17/is-something-toxic-buried-in-chinas-financial-system/",
+        "news_desk": null,
+        "snippet": "As China's economy looks to strengthen again this year, some are concerned that exotic investment vehicles may pose hidden risks that could cause real problems in a few years.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "50f7b1e200315214fbb8569e",
+        "source": "The New York Times",
+        "word_count": 782,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Data indicates that China's gross domestic product expanded by 7.9 percent during the final quarter of 2012, but figures support view that future growth will likely remain slower than in recent years.",
+        "headline": {
+          "print_headline": "Chinese Economy Expanded\r\nAt End of 2012, Data Shows",
+          "main": "Chinese Economy Expanded at End of 2012, Data Shows"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Gross Domestic Product",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Economic Conditions and Trends",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2013-01-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/01/19/business/global/chinese-economy-picks-up-steam-in-last-quarter.html",
+        "news_desk": "Business",
+        "snippet": "Though there was improvement, economic data also underlined the view that the pace of future growth is likely to remain well below that seen in recent years.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business Day",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WASSENER",
+            "role": "reported",
+            "firstname": "Bettina"
+          }],
+          "contributor": "",
+          "original": "By BETTINA WASSENER"
+        },
+        "subsection_name": "Global Business",
+        "multimedia": [],
+        "_id": "50f8c86c00315214fbb85ab9",
+        "source": "The New York Times",
+        "word_count": "716",
+        "lead_paragraph": "Though there was improvement, economic data also underlined the view that the pace of future growth is likely to remain well below that seen in recent years."
+      }
+    ],
+    "meta": {
+      "time": 13,
+      "hits": 144,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

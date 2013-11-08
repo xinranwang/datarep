@@ -1,0 +1,985 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Tens of thousands of people took part in a democracy rally in Hong Kong to mark the crushing of the June 4, 1989, demonstrations in Beijing, lashed by heavy rain.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "In Hong Kong, a Rain-Soaked Celebration of Democracy"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Buckley, Chris"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Mullany, Gerry"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Hong Kong"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Guangdong Province (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "South China Morning Post Limited"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Communist Party of China"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Elections"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Demonstrations, Protests, and Riots"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-06-05T01:41:18Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/06/05/in-hong-kong-a-rain-soaked-celebration-of-democracy/",
+        "news_desk": null,
+        "snippet": "Tens of thousands of people took part in a democracy rally in Hong Kong to mark the crushing of the June 4, 1989, demonstrations in Beijing, lashed by heavy rain.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/06/05/world/asia/5RallyRDV2/5RallyRDV2-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/06/05/world/asia/5RallyRDV2/5RallyRDV2-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 400,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/06/05/world/asia/5RallyRDV3/5RallyRDV3-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "400",
+              "xlarge": "images/2013/06/05/world/asia/5RallyRDV3/5RallyRDV3-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/06/05/world/asia/5RallyRDV6/5RallyRDV6-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/06/05/world/asia/5RallyRDV6/5RallyRDV6-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51aed0cf40e9ec65d203b561",
+        "source": "The New York Times",
+        "word_count": "557",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "While Chinese and Indian university graduates are struggling to find jobs, those coming out of vocational schools as skilled mechanics, technicians and hotel workers are having better luck.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Can Job Training Trump a Degree? "
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "India"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Delhi (India)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Education (K-12)"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Colleges and Universities"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Youth"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Vocational Training"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Careers and Professions"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-06-05T03:46:32Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/06/05/can-job-training-trump-a-degree/",
+        "news_desk": null,
+        "snippet": "While Chinese and Indian university graduates are struggling to find jobs, those coming out of vocational schools as skilled mechanics, technicians and hotel workers are having better luck.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LAU",
+            "role": "reported",
+            "firstname": "Joyce"
+          }],
+          "original": "By JOYCE LAU"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/06/03/blogs/vocational3/vocational3-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/06/03/blogs/vocational3/vocational3-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 400,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/06/03/blogs/vocational3/vocational3-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "400",
+              "xlarge": "images/2013/06/03/blogs/vocational3/vocational3-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/06/03/blogs/vocational3/vocational3-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/06/03/blogs/vocational3/vocational3-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51aeee5940e9ec65d203b596",
+        "source": "The New York Times",
+        "word_count": "452",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Liu Ping, a rights activist, has had her charges lessened from subversion to \u201cillegal assembly,\u201d her daughter and lawyer said; but could still face a multi-year jail term if convicted.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Charges Against Chinese Rights Activist Said to Be Reduced"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Liu Ping"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "National People's Congress (China)"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Political Prisoners"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Elections"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-06-06T01:33:51Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/06/06/charges-against-chinese-rights-activist-said-to-be-reduced/",
+        "news_desk": null,
+        "snippet": "Liu Ping, a rights activist, has had her charges lessened from subversion to \u201cillegal assembly,\u201d her daughter and lawyer said; but could still face a multi-year jail term if convicted.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kiisten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIISTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/06/06/world/06LiuPingRDV2/06LiuPingRDV2-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/06/06/world/06LiuPingRDV2/06LiuPingRDV2-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 493,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/06/06/world/asia/06LiuRDV1/06LiuRDV1-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "493",
+              "xlarge": "images/2013/06/06/world/asia/06LiuRDV1/06LiuRDV1-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/06/06/world/asia/06LiuRDV1/06LiuRDV1-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/06/06/world/asia/06LiuRDV1/06LiuRDV1-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51b020e840e9ec65d203b918",
+        "source": "The New York Times",
+        "word_count": "503",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "China\u2019s Shenzhou 10 space capsule launched successfully Tuesday from the edges of the Gobi Desert, carrying three astronauts and some special holiday food.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "China Celebrates First Dragon Boat Festival in Space"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Hadfield, Chris"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Xi Jinping"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Yang Liwei"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "Reuters Group Plc"
+          },
+          {
+            "rank": "6",
+            "name": "organizations",
+            "value": "Xinhua"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Beijing News, The"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "China Daily"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "People's Daily"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Associated Press"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "International Space Station"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Food"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Space Stations"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Space"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Cooking and Cookbooks"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-06-12T00:16:02Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/06/12/chinese-celebrate-first-dragon-boat-festival-in-space/",
+        "news_desk": null,
+        "snippet": "China\u2019s Shenzhou 10 space capsule launched successfully Tuesday from the edges of the Gobi Desert, carrying three astronauts and some special holiday food.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/06/12/world/asia/12SpaceRDV/12SpaceRDV-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/06/12/world/asia/12SpaceRDV/12SpaceRDV-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 362,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/06/12/world/asia/12SpaceRDV/12SpaceRDV-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "362",
+              "xlarge": "images/2013/06/12/world/asia/12SpaceRDV/12SpaceRDV-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/06/12/world/asia/12SpaceRDV/12SpaceRDV-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/06/12/world/asia/12SpaceRDV/12SpaceRDV-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51b8878e7e0d9c0839d27315",
+        "source": "The New York Times",
+        "word_count": "674",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Du Bin, Chinese journalist who released documentary about forced-labor camp and has worked as freelance photographer for The New York Times, is detained by police officers in Beijing.",
+        "headline": {
+          "print_headline": "Journalist Held In Beijing, Friends Say",
+          "main": "Journalist Held in Beijing, Friends Say"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "8",
+            "name": "persons",
+            "value": "Du Bin",
+            "is_major": "Y"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Censorship",
+            "is_major": "N"
+          },
+          {
+            "rank": "7",
+            "name": "persons",
+            "value": "Xi Jinping",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "New York Times",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Forced Labor",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "News and News Media",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2013-06-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/06/13/world/asia/chinese-journalist-beijing.html",
+        "news_desk": "Foreign",
+        "snippet": "The journalist, Du Bin, recently released a documentary about a forced-labor camp and has worked as a freelance photographer for The New York Times.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "contributor": "Jonathan Ansfield contributed reporting from Beijing, and Chris Buckley from Hong Kong.",
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [],
+        "_id": "51b89e8a7e0d9c0839d27fb0",
+        "source": "The New York Times",
+        "word_count": "446",
+        "lead_paragraph": "The journalist, Du Bin, recently released a documentary about a forced-labor camp and has worked as a freelance photographer for The New York Times."
+      },
+      {
+        "abstract": "Liu Xia, wife of jailed Nobel Peace laureate Liu Xiaobo, writes open letter to Chinese Pres Xi Jinping to protest 11-year prison term given to her brother Liu Hui; urges Xi to govern China in way that respects rights of individuals.",
+        "headline": {
+          "print_headline": "China: Protest Over Sentence Given To Dissident\u2019s Brother-in-Law",
+          "main": "Protest in China Over Sentence Given to Dissident\u2019s Brother-in-Law"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Liu Hui",
+            "is_major": "N"
+          },
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Liu Xia",
+            "is_major": "N"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Liu Xiaobo",
+            "is_major": "Y"
+          },
+          {
+            "rank": "6",
+            "name": "persons",
+            "value": "Xi Jinping",
+            "is_major": "Y"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Sentences (Criminal)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2013-06-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/06/15/world/asia/protest-in-china-over-sentence-given-to-dissidents-brother-in-law.html",
+        "news_desk": "Foreign",
+        "snippet": "In an open letter to President Xi Jinping, Liu Xia said the sentencing last Sunday had been unfair and urged Mr. Xi to govern China in a way that respects the rights of individuals and avoids \u201cruthless suppression based on violence.\u201d",
+        "type_of_material": "Brief",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "organization": "THE ASSOCIATED PRESS",
+          "person": [],
+          "contributor": "",
+          "original": "By THE ASSOCIATED PRESS"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [],
+        "_id": "51bbd7c37e0d9c0839d289d1",
+        "source": "The New York Times",
+        "word_count": "95",
+        "lead_paragraph": "In an open letter to President Xi Jinping, Liu Xia said the sentencing last Sunday had been unfair and urged Mr. Xi to govern China in a way that respects the rights of individuals and avoids \u201cruthless suppression based on violence.\u201d"
+      },
+      {
+        "abstract": "Chen Guangcheng, dissident legal advocate whose escape from house arrest to American Embassy in Beijing provoked diplomatic crisis in 2012, says he is being forced to leave New York University over concerns that his activism is harming university's relationship with China.",
+        "headline": {
+          "print_headline": "China Dissident Says He\u2019s Being Forced From N.Y.U.",
+          "main": "China Dissident Says He\u2019s Being Forced From N.Y.U."
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Scholarships and Fellowships",
+            "is_major": "N"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Law Schools",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "New York University",
+            "is_major": "Y"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Colleges and Universities",
+            "is_major": "Y"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Chen Guangcheng",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Politics and Government",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2013-06-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/06/17/world/asia/china-dissident-says-hes-being-forced-from-nyu.html",
+        "news_desk": "Foreign",
+        "snippet": "Chen Guangcheng, the legal advocate, said he was being forced to leave the university over concerns that his activism was harming its relationship with China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "contributor": "",
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/06/17/world/CHINA/CHINA-thumbWide-v2.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/06/17/world/CHINA/CHINA-thumbWide-v2.jpg"
+            }
+          },
+          {
+            "height": 847,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/06/17/world/CHINA/CHINA-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "847",
+              "xlarge": "images/2013/06/17/world/CHINA/CHINA-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/06/17/world/CHINA/CHINA-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/06/17/world/CHINA/CHINA-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51be54377e0d9c0839d28d3e",
+        "source": "The New York Times",
+        "word_count": "981",
+        "lead_paragraph": "Chen Guangcheng, the legal advocate, said he was being forced to leave the university over concerns that his activism was harming its relationship with China."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "print_headline": "Raw Scenes, Unspeakable Violations",
+          "main": "Raw Scenes, Unspeakable Violations"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Sex Crimes",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Sexual Harassment",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Women's Rights",
+            "is_major": "N"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Performance Art",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "",
+        "pub_date": "2013-06-19T17:45:00Z",
+        "web_url": "http://www.nytimes.com/2013/06/19/world/asia/19iht-letter19.html",
+        "news_desk": "Foreign",
+        "snippet": "The artists at Zajia Lab in Beijing used their second annual \u201cBald Girls\u201d feminist art show to highlight the problem of sexual violence against women and girls.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "contributor": "",
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [],
+        "_id": "51c051027e0d9c0839d2922a",
+        "source": "International Herald Tribune",
+        "word_count": "850",
+        "lead_paragraph": "The artists at Zajia Lab in Beijing used their second annual \u201cBald Girls\u201d feminist art show to highlight the problem of sexual violence against women and girls."
+      },
+      {
+        "abstract": "Teaching from space like an American female astronaut six years ago, Wang Yaping of China told students she couldn\u2019t see any U.F.O.\u2019s as she showed how water, pendulums and gyroscopes behaved in weightless conditions.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Teaching Science, in Chinese, From Space"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Wang Yaping"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-06-20T22:10:19Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/06/20/teaching-science-in-chinese-from-space/",
+        "news_desk": null,
+        "snippet": "Teaching from space like an American female astronaut six years ago, Wang Yaping of China told students she couldn\u2019t see any U.F.O.\u2019s as she showed how water, pendulums and gyroscopes behaved in weightless conditions.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/06/21/world/asia/21SpaceRDV2/21SpaceRDV2-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/06/21/world/asia/21SpaceRDV2/21SpaceRDV2-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 478,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/06/21/world/asia/21SpaceRDV1/21SpaceRDV1-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "478",
+              "xlarge": "images/2013/06/21/world/asia/21SpaceRDV1/21SpaceRDV1-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/06/21/world/asia/21SpaceRDV2/21SpaceRDV2-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/06/21/world/asia/21SpaceRDV2/21SpaceRDV2-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51c3b6bf7e0d9c0839d2ab2c",
+        "source": "The New York Times",
+        "word_count": "561",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "A List of the Dogs Banned in Beijing"},
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Dogs",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Search and Seizure",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Police Brutality, Misconduct and Shootings",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "",
+        "pub_date": "2013-06-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/06/23/world/asia/a-list-of-the-dogs-banned-in-beijing.html",
+        "news_desk": "Foreign",
+        "snippet": "Dozens of breeds are considered too vicious or too tall.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "organization": "THE NEW YORK TIMES",
+          "person": [],
+          "contributor": "",
+          "original": "By THE NEW YORK TIMES"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [],
+        "_id": "51c64e5c7e0d9c0839d2b0f6",
+        "source": "The New York Times",
+        "word_count": "244",
+        "lead_paragraph": "Dozens of breeds are considered too vicious or too tall."
+      }
+    ],
+    "meta": {
+      "time": 15,
+      "hits": 144,
+      "offset": 70
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

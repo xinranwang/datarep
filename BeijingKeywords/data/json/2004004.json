@@ -1,0 +1,826 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Eleven men, 15 women and 3 children, all apparently from North Korea and seeking political asylum in Japan, break into Japanese school in Beijing (China); Japan has not announced fate of group (S)",
+        "headline": {"main": "World Briefing | Asia: China: North Korean Refugees Rush School"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "NORTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ASYLUM (POLITICAL)"
+          },
+          {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2004-09-02T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=940DEFDB1231F931A3575AC0A9629C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "A group of 29 people apparently from North Korea forced their way into a Japanese school in Beijing in a gambit for political asylum. The group apparently cut a hole in a fence that surrounded the school and presented themselves as political refugees",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Yardley",
+            "role": "reported",
+            "lastname": "NYT",
+            "firstname": "Jim"
+          }],
+          "original": "By Jim Yardley (NYT)"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd23e508eb7c8105d7d4731",
+        "source": "The New York Times",
+        "word_count": 114,
+        "lead_paragraph": "A group of 29 people apparently from North Korea forced their way into a Japanese school in Beijing in a gambit for political asylum. The group apparently cut a hole in a fence that surrounded the school and presented themselves as political refugees. The Japanese government expressed confidence that they were from North Korea but had not yet announced how it would handle the matter. For several years, a growing number of North Koreans have used China as an escape path. In several incidents, small groups have sought asylum at embassies in Beijing. But yesterday's group -- 11 men, 15 women and 3 children -- is the largest in recent memory. Jim Yardley (NYT)"
+      },
+      {
+        "abstract": "Chinese basketball officials hold scouting tryouts in Oregon for 14-team Chinese Basketball Association in attempt to improve national team in preparation for hosting 2008 Beijing Olympics; photos (M)",
+        "headline": {
+          "kicker": "BASKETBALL",
+          "main": "China's Plan: Import a Gold Medal"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "OREGON"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DRAFT AND RECRUITMENT (SPORTS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "BASKETBALL"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2004-09-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/09/15/sports/basketball/15hoops.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Bringing in American players is part of a deliberate push to raise the skill level of China's best homegrown players.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BROOKS",
+            "role": "reported",
+            "firstname": "Oakley"
+          }],
+          "original": "By OAKLEY BROOKS"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2004/09/15/sports/hoops.7575.jpg",
+          "legacy": {
+            "thumbnail": "images/2004/09/15/sports/hoops.7575.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd259a88eb7c8105d805de7",
+        "source": "The New York Times",
+        "word_count": 867,
+        "lead_paragraph": "Eighty-four players on the fringes of American professional basketball and two dozen Chinese basketball officials eyed one another this week across a wooden floor here. They were trying to bridge language and cultural barriers, sometimes wondering aloud what the other side was thinking. One point was understood: as basketball in China undergoes a rapid evolution, each side knows its value to the other. The Chinese officials were in rural Oregon to scout talent for their burgeoning, 14-team professional league, the Chinese Basketball Association. Their first-ever association tryout was to end Wednesday with a three-round draft to fill two slots designated on each team for foreign players."
+      },
+      {
+        "abstract": "China is cutting back or canceling high-profile architectural projects awarded to foreign firms amid apparent concerns about costs and appropriateness of using foreign rather than domestic talent; among projects affected are national theater in Beijing, dramatic new headquarers for CCTV and as many as half the new venues for 2008 Olympic Games; foreign architects in China says decision-making process can be maddeningly opaque and vulnerable to unpredictable shifts in political currents; photos; drawings (L)",
+        "headline": {
+          "kicker": "ARCHITECTURE",
+          "main": "China Pulls Up The Drawbridge"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WEN JIABAO"
+          },
+          {
+            "name": "persons",
+            "value": "ANDREU, PAUL"
+          },
+          {
+            "name": "persons",
+            "value": "KOOLHAAS, REM"
+          },
+          {
+            "name": "persons",
+            "value": "HADID, ZAHA"
+          },
+          {
+            "name": "persons",
+            "value": "FOSTER, NORMAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "BUILDINGS (STRUCTURES)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2004-09-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/09/19/arts/design/19HAWT.html",
+        "news_desk": "Arts and Leisure Desk",
+        "snippet": "Over the summer, a number of high-profile building projects by foreign firms were halted, scaled back or savaged in the press.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HAWTHORNE",
+            "role": "reported",
+            "firstname": "Christopher"
+          }],
+          "original": "By CHRISTOPHER HAWTHORNE"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2004/09/16/arts/hawthorne.7575.forslideshow.jpg",
+            "legacy": {
+              "thumbnail": "images/2004/09/16/arts/hawthorne.7575.forslideshow.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 55,
+            "width": 55,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2004/09/16/arts/hawthorne.5555.jpg",
+            "legacy": {
+              "tinythumbwidth": 55,
+              "tinythumb": "images/2004/09/16/arts/hawthorne.5555.jpg",
+              "tinythumbheight": 55,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd247f08eb7c8105d7e3d16",
+        "source": "The New York Times",
+        "word_count": 2427,
+        "lead_paragraph": "FOR a while, it was looking like the Wild Wild East here. After essentially sealing the country off from foreign architects for much of the 20th century, the Chinese government kicked off the 21st by turning itself into the biggest single patron of avant-garde architecture in the world. Many of the projects were commissioned for the 2008 Olympic Games, for which Beijing originally planned to spend a staggering $37 billion -- more than three times what Athens paid -- as it remade the city and its infrastructure. The proposed new venues include a 100,000-seat Olympic stadium by the Swiss architects Herzog & de Meuron wrapped in a ''bird's nest'' of tangled columns, and a swimming center by the Australian firm PTW with a facade of translucent, lightweight panels to be inflated to resemble huge bubbles."
+      },
+      {
+        "abstract": "Discovery of new species of protorosaurs, long-necked marine dinosaur, in southern China lends clue to peculiar growth pattern and functional purpose of long neck; Dr Olivier Rieppel of Chicago's Field Museum, Dr Michael LaBarbera of University of Chicago and Dr Chun Li, Institute of Vertebrate Paleontology and Paleoanthropology in Bejing researcher, suggest that neck created suction force to capture prey; drawing (M)",
+        "headline": {"main": "Paleontologists Put Ancient Long-Necked Monster in Its Place"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHUN LI"
+          },
+          {
+            "name": "persons",
+            "value": "LABARBERA, MICHAEL"
+          },
+          {
+            "name": "persons",
+            "value": "RIEPPEL, OLIVIER"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHICAGO (ILL)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNIVERSITY OF CHICAGO"
+          },
+          {
+            "name": "organizations",
+            "value": "FIELD MUSEUM"
+          },
+          {
+            "name": "organizations",
+            "value": "INSTITUTE OF VERTEBRATE PALEONTOLOGY AND PALEOANTHROPOLOGY"
+          },
+          {
+            "name": "subject",
+            "value": "PALEONTOLOGY"
+          },
+          {
+            "name": "subject",
+            "value": "DINOSAURS"
+          },
+          {
+            "name": "subject",
+            "value": "RESEARCH"
+          },
+          {
+            "name": "subject",
+            "value": "NECK"
+          },
+          {
+            "name": "subject",
+            "value": "FISH AND OTHER MARINE LIFE"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2004-09-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/09/28/science/28rept.html",
+        "news_desk": "Science Desk",
+        "snippet": "Paleontologists have discovered a species of protorosaur, and they think the fossils hold the solution to the mystery of long-necked dinosaurs.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Science; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Noble",
+            "role": "reported",
+            "lastname": "WILFORD",
+            "firstname": "John"
+          }],
+          "original": "By JOHN NOBLE WILFORD"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2004/09/28/science/28rept.75.jpg",
+          "legacy": {
+            "thumbnail": "images/2004/09/28/science/28rept.75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd23e568eb7c8105d7d4cac",
+        "source": "The New York Times",
+        "word_count": 437,
+        "lead_paragraph": "Giraffes evolved long necks to browse in trees high above the competition. That is as plain as the explanation the wolf in granny clothing gave Little Red Riding Hood for his big teeth: ''The better to eat you with, my dear.'' Scientists have had a tougher time satisfying curiosity about the extremely long necks of some ancient marine reptiles known as protorosaurs."
+      },
+      {
+        "abstract": "State Dept expresses concern over detention of Zhao Yan, Chinese research assistant in Beijing bureau of The New York Times, raising his case with Foreign Ministry in Beijing and Chinese Embassy in Washington (S)",
+        "headline": {"main": "U.S. Voices Concern on Chinese Detainee"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO YAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NEW YORK TIMES"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN SERVICE"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2004-09-28T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9907EFDF1738F93BA1575AC0A9629C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "The State Department expressed concern on Monday over the detention of Zhao Yan, a Chinese research assistant in the Beijing bureau of The New York Times, saying American officials had raised his case with the Foreign Ministry in Beijing and with the",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd247f28eb7c8105d7e3e5e",
+        "source": "The New York Times",
+        "word_count": 150,
+        "lead_paragraph": "The State Department expressed concern on Monday over the detention of Zhao Yan, a Chinese research assistant in the Beijing bureau of The New York Times, saying American officials had raised his case with the Foreign Ministry in Beijing and with the Chinese Embassy in Washington. ''We are seeking clarification of his status, and expressing our concern for his welfare and underscoring our view that the role of a free press is critical in providing information to build a strong civil society,'' said Adam Ereli, the deputy State Department spokesman, speaking at the regular daily briefing in response to a question about Mr. Zhao's status."
+      },
+      {
+        "abstract": "Secretary of State Colin L Powell announces that Chinese Foreign Minister Li Zhaoxing, after meeting at State Department, has agreed to look into China's detention of New York Times Beijing bureau researcher Zhao Yan, who is being held for allegedly possessing state secrets (S)",
+        "headline": {"main": "World Briefing | Asia: China: U.S. Inquiry About Detained News Researcher"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "POWELL, COLIN L"
+          },
+          {
+            "name": "persons",
+            "value": "LI ZHAOXING"
+          },
+          {
+            "name": "persons",
+            "value": "ZHAO YAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "STATE DEPARTMENT"
+          },
+          {
+            "name": "organizations",
+            "value": "NEW YORK TIMES"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ESPIONAGE"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "RESEARCH"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2004-10-01T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9802EFDE1338F932A35753C1A9629C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "Secretary of State Colin L. Powell said in Washington that he had expressed concern to the Chinese foreign minister, Li Zhaoxing, about the detention of a Chinese research assistant in the Beijing bureau of The New York Times, and that Mr. Li had sai",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "R.",
+            "role": "reported",
+            "lastname": "Weisman",
+            "firstname": "Steven"
+          }],
+          "original": "By Steven R. Weisman (NYT)"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd25a5f8eb7c8105d806a2d",
+        "source": "The New York Times",
+        "word_count": 108,
+        "lead_paragraph": "Secretary of State Colin L. Powell said in Washington that he had expressed concern to the Chinese foreign minister, Li Zhaoxing, about the detention of a Chinese research assistant in the Beijing bureau of The New York Times, and that Mr. Li had said he would look into the matter. Mr. Powell spoke of the detention of the assistant, Zhao Yan, during a news conference after his meeting with Mr. Li at the State Department. Previously, a Foreign Ministry spokesman said China regarded the arrest as an internal matter. Mr. Zhao was arrested on Sept. 17 in Shanghai on suspicion of revealing state secrets. Steven R. Weisman (NYT)"
+      },
+      {
+        "abstract": "American Express Global Business Travel Forecast shows there will be steady rebound in business travel throughout world in 2005; says domestic air fares could rise 1 percent to 3 percent as demand continues to increase; FedEx says it will add 12 weekly flights to 11 it currently operates to Beijing, Shangahi and Shenzhen; asks Transportation Department for authority to add six additional flights to China in 2006 to link Guangzhou to its delivery networks; TNS Financial Services survey shows affluent travelers are far more likely to keep track of their frequent-flier miles and carefully manage other loyalty-incentive programs; Transportation Security Adminstration defends spending $500,000 on awards banquet for employees last November; photo (Memo Pad column) (M)",
+        "headline": {
+          "kicker": "BUSINESS TRAVEL",
+          "main": "MEMO PAD"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "GUANGZHOU (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "SHENZHEN (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "AMERICAN EXPRESS CO"
+          },
+          {
+            "name": "organizations",
+            "value": "FEDEX CORP"
+          },
+          {
+            "name": "organizations",
+            "value": "TRANSPORTATION DEPARTMENT"
+          },
+          {
+            "name": "organizations",
+            "value": "FEDEX CORPORATION"
+          },
+          {
+            "name": "organizations",
+            "value": "TRANSPORTATION SECURITY ADMINISTRATION"
+          },
+          {
+            "name": "organizations",
+            "value": "AMERICAN EXPRESS COMPANY"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          },
+          {
+            "name": "subject",
+            "value": "LABOR"
+          },
+          {
+            "name": "subject",
+            "value": "DELIVERY SERVICES"
+          },
+          {
+            "name": "subject",
+            "value": "AIRPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+          },
+          {
+            "name": "subject",
+            "value": "SECURITY AND WARNING SYSTEMS"
+          },
+          {
+            "name": "subject",
+            "value": "PARTIES (SOCIAL)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "AWARDS, DECORATIONS AND HONORS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2004-10-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/10/19/business/19memo.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "BUSINESS TRAVEL RECOVERY There will be a steady rebound in business travel throughout the world next year, according to the annual American Express Global Business Travel Forecast, which was released yesterday. \"The business travel industry is certai",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SHARKEY",
+            "role": "reported",
+            "firstname": "Joe"
+          }],
+          "original": "By JOE SHARKEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd254e28eb7c8105d7fcb36",
+        "source": "The New York Times",
+        "word_count": 543,
+        "lead_paragraph": "BUSINESS TRAVEL RECOVERY -- There will be a steady rebound in business travel throughout the world next year, according to the annual American Express Global Business Travel Forecast, which was released yesterday. ''The business travel industry is certainly in a recovery mode,'' said Matthew Davis, the director of global consulting for American Express. As demand continues to increase, domestic air fares could rise 1 percent to 3 percent, the survey said. Other recent surveys have shown that corporate travel managers are keeping the pressure on domestic prices by continuing to increase their use of cheaper, nonrefundable advance-purchase fares that formerly were categorized as leisure-market fares. International business-class fares, meanwhile, are expected to rise 2 percent to 5 percent, the survey said. In North America, corporate rates for hotels in the mid and upper ranges are expected to rise as much as 3 percent. Business travel grew most sharply on trans-Atlantic and trans-Pacific routes, as well as to South America, said Mr. Davis, who added: ''These trends, we believe, will place upward pressure on prices as demand begins to outpace supply.'' FEDEX EXPANDS IN CHINA -- Underscoring the sharp growth in demand for business travel and cargo services in China, FedEx Express said yesterday that it would add 12 weekly flights to the 11 it currently operates to Beijing, Shanghai and Shenzhen. FedEx also said it had asked the Transportation Department for authority to add six additional flights to China in 2006 to link Guangzhou to its delivery networks. FedEx has a worldwide fleet of 629 aircraft and delivers more than three million packages daily. MONEY COUNTS -- Affluent travelers are far more likely to keep track of their frequent-flier miles and carefully manage other loyalty-incentive programs, according to a survey by TNS Financial Services. Among travelers with a net worth of more than $250,000 or a household income of more than $100,000, or both, 69 percent use travel-reward programs, compared with 37 percent of nonaffluent travelers, said the survey, which conceded that the rich simply travel more frequently. Nevertheless, affluent travelers are significantly more likely to join airline and hotel loyalty programs and to have credit cards that award points for air travel. Well-heeled travelers have the opportunity and the inclination to ''leverage awards'' in various programs, including free air trips. The survey said that 11 percent of affluent travelers will cash in miles for air travel this year, compared with 2 percent of nonaffluent travelers. PARTY TIME -- Stung by a recent official report that said it spent nearly $500,000 on an awards banquet for employees last November, the Transportation Security Administration is defending the spending. ''Given the hours and productivity of the work force during this critical period, T.S.A. believes the award expenditures were fully justified'' and in compliance with federal policies, the agency said in a statement. In a recent report, the inspector general's office at the Homeland Security Department questioned the spending for the dinner at a luxury Washington hotel, where more than 500 agency employees were cited for exemplary performance. Among the costs were nearly $200,000 for travel and accommodations and $85,000 to hire a professional party planner, according to the internal report; a copy of the report was obtained by The Associated Press. JOE SHARKEY"
+      },
+      {
+        "abstract": "China's transformation into one of world's great industrial powers is seen at Beijing auto show, where clunkers from countries like India have been replaced by sleek models made in China by automakers like Honda, General Motors and Toyota; photos (special section, Cars) (M)",
+        "headline": {
+          "kicker": "OVERSEAS",
+          "main": "At the Beijing Auto Show, Signs of a Behemoth to Come"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "GENERAL MOTORS CORP"
+          },
+          {
+            "name": "organizations",
+            "value": "HONDA MOTOR CO"
+          },
+          {
+            "name": "organizations",
+            "value": "TOYOTA MOTOR CORP"
+          },
+          {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "UTILITY VEHICLES AND OTHER LIGHT TRUCKS"
+          },
+          {
+            "name": "subject",
+            "value": "THIRD WORLD AND DEVELOPING COUNTRIES"
+          },
+          {
+            "name": "subject",
+            "value": "TRADE SHOWS AND FAIRS"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "2004-10-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/10/27/automobiles/27BRAD.html",
+        "news_desk": "Cars",
+        "snippet": "Auto shows are windows into countries' souls. On display in Beijing is a China where the rich desperately want to live Western lifestyles while maintaining Eastern values.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Automobiles",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a5608eb7c8105d88c6f3",
+        "source": "The New York Times",
+        "word_count": 1284,
+        "lead_paragraph": "THE Beijing auto show is starting to look a lot like auto shows in Detroit or Frankfurt or Geneva, a sign of how China has become one of the world's great industrial powers. The idiosyncratic, locally built clunkers found in other developing countries, like the Ambassador cars of India, are nearly gone. In their place are sleek models made in China by practically all of the world's multinational automakers -- sedans from Honda, minivans from General Motors and sport utility vehicles from Toyota -- and a range of locally designed cars."
+      },
+      {
+        "abstract": "At Home With interview with Ai Weiwei, Chinese artist, designer and architect who worked with Swiss firm Herzog & de Meuron on Olympic Stadium being built in Beijing for 2008 Summer Games; photos (M)",
+        "headline": {
+          "kicker": "AT HOME WITH: AI WEIWEI",
+          "main": "An Exile Steps Onto China's Big Stage"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "AI WEIWEI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "HERZOG & DE MEURON"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "subject",
+            "value": "STADIUMS AND ARENAS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2004-10-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/10/28/garden/28STAD.html",
+        "news_desk": "House & Home/Style Desk",
+        "snippet": "Thanks to his work on the Olympic stadium being built in Beijing for the 2008 Summer Games, the Chinese artist Ai Weiwei suddenly finds himself with a rising profile in the architecture world.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Home and Garden; Style",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HAWTHORNE",
+            "role": "reported",
+            "firstname": "Christopher"
+          }],
+          "original": "By CHRISTOPHER HAWTHORNE"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2004/10/28/fashion/28stad1.75.jpg",
+          "legacy": {
+            "thumbnail": "images/2004/10/28/fashion/28stad1.75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd23f1b8eb7c8105d7d611b",
+        "source": "The New York Times",
+        "word_count": 1511,
+        "lead_paragraph": "THANKS to his work with the Swiss firm Herzog & de Meuron on the Olympic stadium being built here for the 2008 Summer Games, the Chinese artist Ai Weiwei suddenly finds himself with a rising profile in the architecture world. It's a funny coincidence given the nature of the project, Mr. Ai, 47, said on a rainy afternoon recently, breaking out of his usually stoic mien to laugh at himself. ''I'm just not a very sporty man,'' he said."
+      },
+      {
+        "abstract": "Eleanor Randolph Editorial Observer column on modern art exhibit at Shanghai Art Museum; holds that what is most shocking about exhibit is lack of surprise among Chinese viewers; holds that only newcomers to China seem startled, not at art itself, but at new and uncharted places artists and art galleries in China are managing to explore (M)o",
+        "headline": {
+          "kicker": "Editorial Observer",
+          "main": "China's Moving Art Scene: Pushing Into Dark New Territory"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "ART MUSEUM"
+          },
+          {
+            "name": "organizations",
+            "value": "SHANGHAI ART MUSEUM"
+          },
+          {
+            "name": "subject",
+            "value": "MUSEUMS"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2004-11-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/11/07/opinion/07sun3.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "Instead of misty landscapes and delicate Chinese figurines, the Shanghai Art Museum is offering something else entirely this fall.",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "RANDOLPH",
+            "role": "reported",
+            "firstname": "Eleanor"
+          }],
+          "original": "By ELEANOR RANDOLPH"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2497f8eb7c8105d7e6c3f",
+        "source": "The New York Times",
+        "word_count": 510,
+        "lead_paragraph": "Instead of misty landscapes and delicate Chinese figurines, the Shanghai Art Museum is offering something else entirely this fall. Through November, visitors can study a disorienting upside-down room, or examine photos of distant nudes on blinding, white ice, or visit a roomful of strange, troubling videos that could fit easily in a Guggenheim anywhere in the world. The exhibit is the 2004 Shanghai Biennale, the fifth offering of adventurous contemporary art reminiscent of the Whitney's biennales in New York City. Perhaps what is most shocking about this outlay of modern creations is how few of the museum's Chinese visitors looked shocked, even at the mock mountain landscape created by a row of naked human bottoms. Only the newcomers to China seem startled, not at the art itself, but at the new and uncharted places today's artists and art galleries in China are managing to explore."
+      }
+    ],
+    "meta": {
+      "time": 24,
+      "hits": 55,
+      "offset": 40
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

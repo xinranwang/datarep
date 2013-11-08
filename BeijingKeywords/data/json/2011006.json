@@ -1,0 +1,791 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "New Chinese regulations that require Wi-Fi spots like bars, bookstores, restaurants and hotels to install costly Web monitoring software are prompting many Beijing businesses to cut Internet access; photo (M)",
+        "headline": {"main": "As China Steps Up Web Monitoring, Many Wi-Fi Users Stay Away"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          },
+          {
+            "name": "subject",
+            "value": "SURVEILLANCE OF CITIZENS BY GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "WIRELESS COMMUNICATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2011-07-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/07/26/world/asia/26china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "New regulations that require bars, bookstores, restaurants and hotels to install costly Web monitoring software are prompting some of them to cut Internet access.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Technology",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Adam Century contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2011/07/26/world/CHINA/CHINA-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/07/26/world/CHINA/CHINA-thumbStandard-v2.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 315,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2011/07/26/world/CHINA/CHINA-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 315,
+              "xlarge": "images/2011/07/26/world/CHINA/CHINA-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2a3788eb7c8105d888c7b",
+        "source": "The New York Times",
+        "word_count": 805,
+        "lead_paragraph": "BEIJING -- New regulations that require bars, restaurants, hotels and bookstores to install costly Web monitoring software are prompting many businesses to cut Internet access and sending a chill through the capital's game-playing, Web-grazing literati who have come to expect free Wi-Fi with their lattes and green tea. The software, which costs businesses about $3,100, provides public security officials the identities of those logging on to the wireless service of a restaurant, cafe or private school and monitors their Web activity. Those who ignore the regulation and provide unfettered access face a $2,300 fine and the possible revocation of their business license."
+      },
+      {
+        "abstract": "Mainland Chinese are visiting Taiwan as relations continue to warm; in 2010, nearly 1.6 million mainlanders arrived on the island on tightly-managed, all-inclusive eight-day visits, and in June of 2011, another landmark agreement brought the first independent travelers to Taiwan, also heavily restricted in their activities; photos (M)",
+        "headline": {"main": "As Chinese Visit Taiwan, the Cultural Influence Is Subdued"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "COMMUNIST PARTY OF CHINA"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2011-08-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/08/11/world/asia/11taiwan.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The rules of engagement put travelers through an exhausting gantlet of museums, monuments and jade shops with little free time to rub elbows with the locals.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2011/08/11/world/TAIWAN/TAIWAN-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/08/11/world/TAIWAN/TAIWAN-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 315,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2011/08/11/world/TAIWAN/TAIWAN-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 315,
+              "xlarge": "images/2011/08/11/world/TAIWAN/TAIWAN-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2a2808eb7c8105d88749f",
+        "source": "The New York Times",
+        "word_count": 1390,
+        "lead_paragraph": "TAIPEI, Taiwan -- As two dozen anxious Chinese travelers began their maiden voyage across the Taiwan Strait, their tour guide called an impromptu meeting in the airport departure lounge. He warned them about littering, spitting, flooding hotel bathroom floors -- and the local cuisine. ''Our Taiwanese brothers do not like salt, oil and MSG the way we do,'' the guide, Guo Xin, said with a sigh."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "ART",
+          "main": "A Beijing Exhibition on Art for the 'Post-Human Era'"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SCIENCE AND TECHNOLOGY"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-08-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/08/12/arts/12iht-translife12.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "The cutting-edge collection rings the death knell for \"representational\" art, questions the very notion of life as we know it, and posits our collective entry into a \"post-human era.\"",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MELVIN",
+            "role": "reported",
+            "firstname": "Sheila"
+          }],
+          "original": "By SHEILA MELVIN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2011/08/12/arts/12iht-translife12A/12iht-translife12A-thumbStandard-v2.jpg",
+          "legacy": {
+            "thumbnail": "images/2011/08/12/arts/12iht-translife12A/12iht-translife12A-thumbStandard-v2.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2a2808eb7c8105d8874b0",
+        "source": "International Herald Tribune",
+        "word_count": 1246,
+        "lead_paragraph": "BEIJING -- The National Art Museum of China, the country's flagship art museum, marked the 90th anniversary of the Communist Party of China this summer with a major retrospective of socialist artwork intended to ''make the public strengthen its faith'' in the slogan ''Without the Communist Party, there would be no new China.'' Then, when the retrospective ended, it closed the museum, emptied the galleries and prepared to mount ''Translife,'' a cutting-edge International Triennial of New Media Art that purports to ring the death knell for ''representational'' art, questions the very notion of life as we know it, and posits our collective entry into a ''post-human era.''"
+      },
+      {
+        "abstract": "CNR Corp, one of China's high-speed train manufacturers, announces the recall of 54 of its trains to test sensors that might be causing the trains to stop unneccessarily (S)",
+        "headline": {
+          "kicker": "WORLD BRIEFING | ASIA",
+          "main": "China: Maker Recalls 54 Trains"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CNR CORP"
+          },
+          {
+            "name": "subject",
+            "value": "HIGH-SPEED RAIL PROJECTS"
+          },
+          {
+            "name": "subject",
+            "value": "RAILROAD ACCIDENTS AND SAFETY"
+          },
+          {
+            "name": "subject",
+            "value": "RECALLS AND BANS OF PRODUCTS"
+          },
+          {
+            "name": "subject",
+            "value": "RAILROADS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2011-08-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/08/13/world/asia/13briefs-China.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "One of China\u2019s high-speed train manufacturers announced Friday that it was recalling 54 of its trains from the Beijing to Shanghai route.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b9548eb7c8105d8af232",
+        "source": "The New York Times",
+        "word_count": 115,
+        "lead_paragraph": "One of China's high-speed train manufacturers, the CNR Corporation, announced Friday that it was recalling 54 of its trains from the Beijing to Shanghai route to test sensors that may be causing the trains to stop unnecessarily, such as when a passenger lights a cigarette in a restroom. The Rail Ministry announced separately Thursday that the number of high-speed trains each day between Beijing and Shanghai would be reduced to 66 in each direction starting next Tuesday, from 88 in each direction now. The moves, coming after the government announced a safety review of high-speed rail on Wednesday, seemed to reflect heightened concern after a deadly high-speed rail crash last month."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Maids Test Residency Rules in Hong Kong"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "PHILIPPINES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "INDONESIA"
+          },
+          {
+            "name": "subject",
+            "value": "CIVIL RIGHTS AND LIBERTIES"
+          },
+          {
+            "name": "subject",
+            "value": "CITIZENSHIP AND NATURALIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "LABOR AND JOBS"
+          },
+          {
+            "name": "subject",
+            "value": "MIGRANT AND FOREIGN WORKERS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-08-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/08/22/world/asia/22iht-maids22.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Long-term domestic workers are the focus of a court case that has fueled an emotional debate about what it means to be a Hong Kong resident.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "DREW",
+            "role": "reported",
+            "firstname": "Kevin"
+          }],
+          "original": "By KEVIN DREW"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2011/08/22/world/22iht-maids/22iht-maids-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2011/08/22/world/22iht-maids/22iht-maids-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd294538eb7c8105d86eb05",
+        "source": "International Herald Tribune",
+        "word_count": 1202,
+        "lead_paragraph": "HONG KONG -- On any given Sunday, public spaces here are filled with young women from across Southeast Asia whose presence has become a signature of Hong Kong: foreign-born maids enjoying their one weekly day off. Tens of thousands of domestic workers fan across places like Victoria Park on Hong Kong Island, huddling together eating, singing, dancing, reading or playing cards. Sunday offers an escape from long days of housekeeping and child care, which often start at dawn and stretch well into the evening."
+      },
+      {
+        "abstract": "In an angry, despairing essay for Newsweek, Ai Weiwei, a prominent Chinese artist and dissident who was released from detention two months ago, described life in the Chinese capital as a Kafkaesque \"nightmare.\"",
+        "headline": {
+          "kicker": "The Lede",
+          "main": "Dissident Chinese Artist Calls Life in Beijing a 'Constant Nightmare'"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Human Rights and Human Rights Violations"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Ai Weiwei"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-08-29T13:00:24Z",
+        "web_url": "http://thelede.blogs.nytimes.com/2011/08/29/dissident-chinese-artist-calls-life-in-beijing-a-constant-nightmare/",
+        "news_desk": null,
+        "snippet": "In an angry, despairing essay for Newsweek, Ai Weiwei, a prominent Chinese artist and dissident who was released from detention two months ago, described life in the Chinese capital as a Kafkaesque \"nightmare.\"",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": null,
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MACKEY",
+            "role": "reported",
+            "firstname": "Robert"
+          }],
+          "original": "By ROBERT MACKEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a0908eb7c8105d8e6041",
+        "source": "The New York Times",
+        "word_count": 594,
+        "lead_paragraph": "In an angry, despairing essay for Newsweek, Ai Weiwei, a prominent Chinese artist and dissident who was released from detention two months ago, described life in the Chinese capital as a Kafkaesque \"nightmare.\""
+      },
+      {
+        "abstract": "Chinese government demolishes 30 private schools in Beijing that cater to children of migrants from poor rural areas, in what school administrators, parents and many Beijing residents view as a roughshod exercise in population control; while government bills campaign as war against illegal, unsafe and unhygienic school buildings, many others say it is a campaign to discourage the influx of migrants from China's rural hinterland; photos (M)",
+        "headline": {"main": "China Takes Aim at Rural Influx"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "PRIVATE AND SECTARIAN SCHOOLS"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION (K-12)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "TEACHERS AND SCHOOL EMPLOYEES"
+          },
+          {
+            "name": "subject",
+            "value": "MIGRANT AND FOREIGN WORKERS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2011-08-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/08/30/world/asia/30china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Many schools attended by migrants have been destroyed recently, but some parents and administrators view the bulldozing as an exercise in population control.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Shi Da contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2011/08/30/world/asia/JP-CHINA/JP-CHINA-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/08/30/world/asia/JP-CHINA/JP-CHINA-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 315,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2011/08/30/world/asia/JP-CHINA/JP-CHINA-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 315,
+              "xlarge": "images/2011/08/30/world/asia/JP-CHINA/JP-CHINA-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2a2838eb7c8105d8876f2",
+        "source": "The New York Times",
+        "word_count": 1302,
+        "lead_paragraph": "BEIJING -- Xie Zhenqing spent 12 years transforming a collection of ramshackle houses into Red Star, a privately run, low-cost school for 1,400 children of migrants from poor rural areas. It took just a few hours this month for a government-dispatched demolition crew to turn the place into a jagged pile of bricks. ''What the government did to us is unconscionable,'' Ms. Xie, Red Star's principal, said angrily as parents of her students scrambled to find other arrangements before the start of the new school year on Thursday. ''I'll never work for a migrant school again.''"
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "MUSEUMS",
+          "main": "China's Reluctant Emperor"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHAEOLOGY AND ANTHROPOLOGY"
+          },
+          {
+            "name": "subject",
+            "value": "TOMBS AND TOMBSTONES"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-09-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/09/08/arts/08iht-wanli08.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "An exhibition at the Capital Museum reassesses the paradoxical life of Wan Li, who refused to rule for nearly 30 years, but whose reign saw prosperity and creativity flourish across China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MELVIN",
+            "role": "reported",
+            "firstname": "Shelia"
+          }],
+          "original": "By SHELIA MELVIN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2011/09/08/arts/08iht-wanli08B/08iht-wanli08B-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/09/08/arts/08iht-wanli08B/08iht-wanli08B-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 162,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2011/09/08/arts/08iht-wanli08A/08iht-wanli08A-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 162,
+              "xlarge": "images/2011/09/08/arts/08iht-wanli08A/08iht-wanli08A-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2a37d8eb7c8105d8890b8",
+        "source": "International Herald Tribune",
+        "word_count": 1203,
+        "lead_paragraph": "BEIJING -- The Emperor Wan Li was the longest-reigning monarch of the Ming Dynasty (1368-1644), an era considered by some historians to have been one of the most prosperous in human history. Wan Li ascended the Dragon Throne when he was only 9, but was diligently tutored in history, ritual and statecraft by a minister named Zhang Juzheng. Ensconced in the Forbidden City, he lived a coddled life, doted on by his mother, waited upon by legions of eunuchs and served by multitudes of women, among them his empress (whom he married at 14), a principal consort, associate consorts and hosts of ordinary concubines. But despite all this -- or perhaps because of it -- Wan Li was not a happy monarch."
+      },
+      {
+        "abstract": "A survey by the company ranked cities worldwide according to respondents' levels of displeasure with their commutes.",
+        "headline": {
+          "kicker": "Wheels",
+          "main": "I.B.M. Study Quantifies the Pain of the Commuting Motorist"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "glocations",
+            "value": "Montreal (Quebec)"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Roads and Traffic"
+          },
+          {
+            "rank": "10",
+            "name": "glocations",
+            "value": "Mexico City (Mexico)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Commuting"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Automobiles"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "International Business Machines Corporation"
+          },
+          {
+            "rank": "15",
+            "name": "unknown",
+            "value": "International Business Machines Corporation|IBM|NYSE"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "14",
+            "name": "glocations",
+            "value": "Toronto (Ontario)"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "Johannesburg (South Africa)"
+          },
+          {
+            "rank": "13",
+            "name": "glocations",
+            "value": "Nairobi (Kenya)"
+          },
+          {
+            "rank": "8",
+            "name": "glocations",
+            "value": "London (England)"
+          },
+          {
+            "rank": "9",
+            "name": "glocations",
+            "value": "Los Angeles (Calif)"
+          },
+          {
+            "rank": "12",
+            "name": "glocations",
+            "value": "Moscow (Russia)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-09-09T06:00:19Z",
+        "web_url": "http://wheels.blogs.nytimes.com/2011/09/09/i-b-m-study-quantifies-the-pain-of-commuting/",
+        "news_desk": null,
+        "snippet": "A survey by the company ranked cities worldwide according to respondents' levels of displeasure with their commutes.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Autos",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JENSEN",
+            "role": "reported",
+            "firstname": "Cheryl"
+          }],
+          "original": "By CHERYL JENSEN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a0f48eb7c8105d8e6e75",
+        "source": "The New York Times",
+        "word_count": 480,
+        "lead_paragraph": "I.B.M. knows your pain. Not the pain of the frustrated desktop user or the stymied motherboard programmer, but of the commuting motorist."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Angry Over Pollution, Hundreds Protest at Chinese Factory"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "WATER POLLUTION"
+          },
+          {
+            "name": "subject",
+            "value": "SOLAR ENERGY"
+          },
+          {
+            "name": "subject",
+            "value": "WASTE MATERIALS AND DISPOSAL"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS, PROTESTS, AND RIOTS"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2011-09-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/09/19/world/asia/chinese-protesters-accuse-solar-panel-plant-of-pollution.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Hundreds of demonstrators in the eastern Chinese province of Zhejiang were camped outside a solar panel factory that stands accused of contaminating a nearby river.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LaFRANIERE",
+            "role": "reported",
+            "firstname": "Sharon"
+          }],
+          "original": "By SHARON LaFRANIERE; Mia Li contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2011/09/19/world/CHINA/CHINA-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/09/19/world/CHINA/CHINA-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 315,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2011/09/19/world/CHINA/CHINA-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 315,
+              "xlarge": "images/2011/09/19/world/CHINA/CHINA-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2ac208eb7c8105d89969e",
+        "source": "The New York Times",
+        "word_count": 556,
+        "lead_paragraph": "BEIJING -- In a fresh indication of growing public anger over pollution, hundreds of demonstrators in the eastern Chinese province of Zhejiang on Sunday were camped outside a solar panel manufacturing plant that stands accused of contaminating a nearby river. The demonstration was the latest move in a four-day protest that has sometimes turned violent."
+      }
+    ],
+    "meta": {
+      "time": 14,
+      "hits": 102,
+      "offset": 60
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

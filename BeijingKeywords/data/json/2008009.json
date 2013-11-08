@@ -1,0 +1,921 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Mike Myer Letter From Beijing notes that with Olympic Games approaching, China is undertaking effort to have 35 percent of population conversant in English; is using cartoon monkey popularized in elementary school language textbook series; drawing (M)",
+        "headline": {
+          "kicker": "LETTER FROM BEIJING",
+          "main": "Learning to Speak Olympics"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "MYER, MIKE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CARTOONS AND CARTOONISTS"
+          },
+          {
+            "name": "subject",
+            "value": "TEXTBOOKS"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+          },
+          {
+            "name": "subject",
+            "value": "BOOKS AND LITERATURE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "ENGLISH LANGUAGE"
+          }
+        ],
+        "print_page": "23",
+        "pub_date": "2008-05-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/25/books/review/Meyer2-t.html",
+        "news_desk": "Book Review Desk",
+        "snippet": "With the Games approaching, a question: Can an irritating monkey help China become conversant in English?",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts; Education; Books",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MEYER",
+            "role": "reported",
+            "firstname": "Mike"
+          }],
+          "original": "By MIKE MEYER"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2008/05/25/books/essay-75.jpg",
+          "legacy": {
+            "thumbnail": "images/2008/05/25/books/essay-75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2b3308eb7c8105d8a4dbb",
+        "source": "The New York Times",
+        "word_count": 1333,
+        "lead_paragraph": "Mocky is a naughty monkey. His friends Ken and Ann are humans. Together, they teach English in Beijing's elementary schools. My students love Mocky. He and his pals are more fun than the characters in their previous textbook series, Ma Nan and her teacher Miss Zhang. Those primers could have been titled ''Hectoring English.'' A typical dialogue went: ''You're late again, Ma Nan.''"
+      },
+      {
+        "abstract": "Debut of BMX racing at 2008 Olympic Games draws former BMX world champion Jill Kintner (US) out of retirement; photo (M)",
+        "headline": {"main": "Lure of Olympics Prompts Return Of a BMX Star"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "KINTNER, JILL"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BICYCLES AND BICYCLING"
+          },
+          {
+            "name": "subject",
+            "value": "BICYCLE MOTOCROSS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-05-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/27/sports/olympics/27kintner.html",
+        "news_desk": "Sports Desk",
+        "snippet": "As BMX racing makes its Olympic debut in August, the sport hopes to capitalize on increased exposure in Beijing, buoyed by the return of a former world champion.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BISHOP",
+            "role": "reported",
+            "firstname": "Greg"
+          }],
+          "original": "By GREG BISHOP"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/05/27/sports/27bmx_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/05/27/sports/27bmx_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 450,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/05/27/sports/27bmx_650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 450,
+              "xlarge": "images/2008/05/27/sports/27bmx_650.jpg",
+              "xlargewidth": 650
+            }
+          }
+        ],
+        "_id": "4fd2832d8eb7c8105d8514de",
+        "source": "The New York Times",
+        "word_count": 1029,
+        "lead_paragraph": "When Jill Kintner left BMX racing six years ago, she never planned to come back. She finished the 2002 season with typical dominance, adding a national pro title and a world championship to a racing résumé filled with more than 70 career wins. Burdened by lack of sponsorship and burned out on BMX, Kintner decided to leave the sport while perched atop the rankings."
+      },
+      {
+        "abstract": "US Olympic softball team embarks on 25-state pre-games tour to rally support at home for their 2008 gold medal bid, and last chance to change International Olympic Committee decision to do away with softball; photos (M)",
+        "headline": {"main": "Riding the Road to Beijing Aboard the U.S.A. Local"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "SOFTBALL"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-05-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/30/sports/olympics/30softball.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The United States Olympic softball team is preparing more publicly than any other, winding through 25 states. The 2008 games are scheduled to be the last for softball.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRANCH",
+            "role": "reported",
+            "firstname": "John"
+          }],
+          "original": "By JOHN BRANCH"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "2",
+            "height": 700,
+            "width": 750,
+            "caption": "U.S.A. Softball Team on the Road",
+            "type": "Slideshow",
+            "credit": "The Olympians are playing local all-stars on a nation-wide tour.",
+            "url": "http://www.nytimes.com/slideshow/2008/05/30/sports/0530SOFTBALL_index.html",
+            "legacy": {
+              "MultimediaSummary2": "The Olympians are playing local all-stars on a nation-wide tour.",
+              "MultimediaPopupWidth2": "750",
+              "MultimediaType2": "Slideshow",
+              "MultimediaPopupHeight2": "700",
+              "MultimediaUrl2": "http://www.nytimes.com/slideshow/2008/05/30/sports/0530SOFTBALL_index.html",
+              "MultimediaHeadline2": "U.S.A. Softball Team on the Road"
+            }
+          },
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 820,
+            "caption": "The Girls of Summer",
+            "type": "External",
+            "credit": "The U.S. women's softball team goes for the gold in what could be its last Olympic campaign.",
+            "url": "http://video.on.nytimes.com/?fr_story=93ab78a284c34d3fcbf244fbb172153f4e461486",
+            "legacy": {
+              "MultimediaSummary1": "The U.S. women's softball team goes for the gold in what could be its last Olympic campaign.",
+              "MultimediaPopupWidth1": "820",
+              "MultimediaType1": "External",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "The Girls of Summer",
+              "MultimediaUrl1": "http://video.on.nytimes.com/?fr_story=93ab78a284c34d3fcbf244fbb172153f4e461486"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/05/30/sports/30softball.thumb.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/05/30/sports/30softball.thumb.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/05/30/sports/30softball.span.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2008/05/30/sports/30softball.span.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd265478eb7c8105d81988f",
+        "source": "The New York Times",
+        "word_count": 1569,
+        "lead_paragraph": "Just where in the world was the United States Olympic softball team? It should not take eight hours to get here from Visalia, even with a McDonald's stop in Madera and an out-of-the-way detour through Palo Alto. Everything else was set. The temporary bleachers were in place. A dozen portable toilets were lined behind them. Concession tents had sprouted. The old pine trees down the right-field line were trimmed to make more room around the rough little diamond at the edge of the Sonoma State campus. The 2,000 tickets, at $25 each, went quickly. More could have sold had there been room to put everyone."
+      },
+      {
+        "abstract": "Hotel G Beijing is slated to open this month, part of continuing hotel boom in Beijing as Summer Olympics draw near; photo (S)",
+        "headline": {
+          "kicker": "COMINGS AND GOINGS",
+          "main": "High-End Hotels Are Still Opening In Beijing"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "HOTEL G BEIJING"
+          },
+          {
+            "name": "subject",
+            "value": "HOTELS AND MOTELS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2008-06-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/01/travel/01COMbeijing.html",
+        "news_desk": "Travel Desk",
+        "snippet": "The stylish Hotel G Beijing opens this month in the Chaoyang District, while the Park Hyatt Beijing opens its doors in the business-district next month.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HOWARD",
+            "role": "reported",
+            "firstname": "Hilary"
+          }],
+          "original": "By HILARY HOWARD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2699c8eb7c8105d82057a",
+        "source": "The New York Times",
+        "word_count": 184,
+        "lead_paragraph": "The hotel boom in Beijing continues as the Summer Olympics draw near. The stylish Hotel G Beijing will open this month in the Chaoyang District, where bars and restaurants like the Green T. House abound. The design of the 110-room hotel (www.avantgardehotels.com) seems to be inspired by the retro-chic sensibility of the Austin Powers movie series, and guests have a choice of three restaurants: 25 Degrees (upscale burgers and cocktails), Gilt (Mediterranean cuisine) and Morio (Japanese fine dining). There is also a spa. Nightly rates start at about 2,010 yuan, or $289 at 7 yuan to the dollar, through the end of the month, after which the rates will increase to about 2,369 yuan, or $334 at the same exchange rate. For those who prefer a corporate ambience -- and to stay high above the city -- there is the Park Hyatt Beijing (www.beijing.park.hyatt.com), scheduled to open next month in the business district. There will be 237 rooms on floors 37 to 49 in the Park Tower (part of the Beijing Yintai Center). Rates are expected to start at 3,500 yuan."
+      },
+      {
+        "abstract": "China has spent heavily on personnel and infrastructure to accelerate growth in medal-rich Olympic sports in which it previously has had little success; rowing is at heart of China's plan to capture more gold medals than any other nation; no other country has been as elaborate or lavish in funding its efforts as China, which has built $10 million athletic complex; graph; photos (L)",
+        "headline": {
+          "kicker": "COUNTDOWN TO BEIJING",
+          "main": "China's Pride: A 24-Karat Olympic Machine"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ROWING"
+          },
+          {
+            "name": "subject",
+            "value": "FINANCES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-06-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/01/sports/olympics/01gold.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Rowing is at the heart of China\u2019s plan to capture, for the first time, more golds than any other nation.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Front Page; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MACUR",
+            "role": "reported",
+            "firstname": "Juliet"
+          }],
+          "original": "By JULIET MACUR; Jimmy Wang and Andrew W. Lehren contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "2",
+            "height": 700,
+            "width": 750,
+            "caption": "China\u2019s Investment in Medal-Rich Rowing",
+            "type": "Slideshow",
+            "credit": "Rowing is at the heart of China\u2019s plan to capture, for the first time, more gold medals than any other nation at the Olympic Games.",
+            "url": "http://www.nytimes.com/slideshow/2008/06/01/sports/20080601_GOLD_SLIDESHOW_index.html",
+            "legacy": {
+              "MultimediaSummary2": "Rowing is at the heart of China\u2019s plan to capture, for the first time, more gold medals than any other nation at the Olympic Games.",
+              "MultimediaPopupWidth2": "750",
+              "MultimediaType2": "Slideshow",
+              "MultimediaPopupHeight2": "700",
+              "MultimediaUrl2": "http://www.nytimes.com/slideshow/2008/06/01/sports/20080601_GOLD_SLIDESHOW_index.html",
+              "MultimediaHeadline2": "China\u2019s Investment in Medal-Rich Rowing"
+            }
+          },
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 820,
+            "caption": "Rowing for Gold",
+            "type": "External",
+            "credit": "The Chinese are recruiting foreign help with the aim of increasing their medal count this summer. But amidst their improvement there is also controversy.",
+            "url": "http://video.on.nytimes.com/?fr_story=03fbf41afa8afc2408be6b304db3faba35c7ee85",
+            "legacy": {
+              "MultimediaSummary1": "The Chinese are recruiting foreign help with the aim of increasing their medal count this summer. But amidst their improvement there is also controversy.",
+              "MultimediaPopupWidth1": "820",
+              "MultimediaType1": "External",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Rowing for Gold",
+              "MultimediaUrl1": "http://video.on.nytimes.com/?fr_story=03fbf41afa8afc2408be6b304db3faba35c7ee85"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/06/01/sports/01gold.1.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/06/01/sports/01gold.1.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 328,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/06/01/sports/01gold.1.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 328,
+              "xlarge": "images/2008/06/01/sports/01gold.1.600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/06/01/sports/01gold2_337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/06/01/sports/01gold2_337.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd285238eb7c8105d8547d6",
+        "source": "The New York Times",
+        "word_count": 3151,
+        "lead_paragraph": "When Igor Grinko, a former Soviet coach with an impressive résumé, agreed to take over the Chinese rowing team four years ago, Olympic officials outlined their expectations with a simple equation: one gold equals 1,000 silvers. ''Silver? It means nothing here; you might as well finish last,'' Grinko said. ''Coaches like me come, help them win gold medals, or we are fired.''"
+      },
+      {
+        "abstract": "Donald Morrison travel article on smog and air pollution in Beijing, China, and efforts by authorities to clean air before Summer Olympics; photo (M)",
+        "headline": {
+          "kicker": "GLOBESPOTTERS | BEIJING",
+          "main": "Smoke Clears. Dust Does Not."
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SMOG"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2008-06-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/01/travel/01globe.html",
+        "news_desk": "Travel Desk",
+        "snippet": "Slowly but visibly, the air is getting cleaner. But there\u2019s one problem: the city is built on dust that seeps and creeps everywhere.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MORRISON",
+            "role": "reported",
+            "firstname": "Donald"
+          }],
+          "original": "By DONALD MORRISON"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/06/01/travel/01globe75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/06/01/travel/01globe75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/06/01/travel/01globe600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2008/06/01/travel/01globe600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2b3b78eb7c8105d8a4f97",
+        "source": "The New York Times",
+        "word_count": 512,
+        "lead_paragraph": "THESE pre-Olympic mornings, when the air is thick with the scent of jasmine and roses, I gaze out the window of my high-rise apartment in northwest Beijing and see -- alas, not much. That's because the air is also thick with oxides of many colors and complex carbon chains yet unclassified. What I can see, not 400 feet distant, is a 20-story smokestack. I have no idea what it emits or why; the building's facade is unblemished by signage, and no goods-laden trucks leave its walled courtyard."
+      },
+      {
+        "abstract": "Smaller crowd than in previous years turns out in Hong Kong for annual candlelight vigil commemorating 1989 crackdown on pro-democracy in Tiananmen Square, Beijing; Hong Kong residents have become less critical of China on human rights issues after devestating earthquake and growing prosperity of China's economic boom; photo (M)",
+        "headline": {"main": "Vigil for Tiananmen Dead Draws Fewer in Hong Kong"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "HUMAN RIGHTS WATCH"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF RELIGION"
+          },
+          {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2008-06-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/05/world/asia/05hong.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Enthusiasm for the coming Olympic Games and sympathy for victims of the May 12 earthquake combined to weaken the city\u2019s once-vigorous protest movement.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/06/04/world/04hong-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/06/04/world/04hong-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/06/04/world/04hong-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2008/06/04/world/04hong-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/06/04/world/04hong-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/06/04/world/04hong-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd285248eb7c8105d854841",
+        "source": "The New York Times",
+        "word_count": 476,
+        "lead_paragraph": "A somewhat smaller crowd than in previous years turned out here on Wednesday evening for the annual candlelight vigil commemorating the 1989 crackdown on pro-democracy protesters in Tiananmen Square, the participation depressed by a growing reluctance among many Hong Kong residents to confront Beijing officials on human rights issues. Enthusiasm for the Olympic Games in Beijing, sympathy for victims of the May 12 earthquake in Sichuan Province and growing prosperity because of China's economic boom have combined to weaken Hong Kong's once-vigorous protest movement."
+      },
+      {
+        "abstract": "Chinese scientists say they have known of risk of potentially catastrophic earthquake in area where May 12 quake struck for decades and repeatedly raised their concerns with government authorities; say preparations for quake in Sichuan Province were cursory at best and building codes remained well short of codes that have become standard in other well-known earthquake zones, including Beijing; photos (M)",
+        "headline": {"main": "Long Warned of Quake Risk, China Did Little to Prepare, Scientists Say"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "SICHUAN PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+          },
+          {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "BUILDING (CONSTRUCTION)"
+          },
+          {
+            "name": "subject",
+            "value": "GEOLOGY"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2008-06-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/05/world/asia/05quake.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Chinese scientists said the death toll from the earthquake stems partly from a failure to heed clear warnings.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "W.",
+            "role": "reported",
+            "lastname": "FRENCH",
+            "firstname": "Howard"
+          }],
+          "original": "By HOWARD W. FRENCH; Reporting was contributed by Fan Wenxin, Li Zhen and Shi Jing from Shanghai, and John Schwartz from New York"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 280,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/06/05/world/05quake.600.1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 280,
+              "xlarge": "images/2008/06/05/world/05quake.600.1.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 260,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/06/05/world/05_quake_337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/06/05/world/05_quake_337.jpg",
+              "tinythumbheight": 260,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd27cc08eb7c8105d842dde",
+        "source": "The New York Times",
+        "word_count": 1558,
+        "lead_paragraph": "Chinese scientists say that even before a final accounting can be made in last month's earthquake in Sichuan Province, one thing is painfully evident: The huge death toll stems partly from a failure to heed clear warnings of a devastating earthquake in the area. For decades, Chinese scientists say, they have known of the risk of a potentially catastrophic earthquake along the Longmenshan belt, the area where the Wenchuan earthquake struck, and repeatedly raised their concerns with government authorities. But they say preparations for a quake there were cursory at best, and building codes remained well short of the codes that have become standard in other well-known earthquake zones, including Beijing itself."
+      },
+      {
+        "abstract": "Beijing city government bans fireworks for three months around Summer Olympics for safety reasons (S)",
+        "headline": {
+          "kicker": "WORLD BRIEFING | ASIA",
+          "main": "China: Beijing Bans Fireworks"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FIREWORKS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2008-06-10T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9501E4D91739F933A25755C0A96E9C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Beijing city government has banned fireworks for three months around the time of the Summer Olympics for safety reasons, according to a post on a government Web site. From July 1 until Oct. 8, fireworks dealers will have to suspend sales and lock",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2660c8eb7c8105d81a2a4",
+        "source": "The New York Times",
+        "word_count": 75,
+        "lead_paragraph": "The Beijing city government has banned fireworks for three months around the time of the Summer Olympics for safety reasons, according to a post on a government Web site. From July 1 until Oct. 8, fireworks dealers will have to suspend sales and lock existing stocks in special warehouses. The ban is among a host of restrictions that the Chinese government has imposed for the Olympics, which begin on Aug. 8."
+      },
+      {
+        "abstract": "Hitoshi Mimura custom-makes racing shoes with rice-husk soles for handful of elite marathon runners; Ryan Hall and Deena Kastor of US plan to begin testing latest design at 2008 Olympics in Beijing; rice husks, which are ground and imbedded in rubber soles of racing shoes, are designed to absorb water and to provide better traction; Mimura's footwear is known for its minimal weight, cushioning and efficiency at dissipating heat, which could play vital role in Beijing; Mimura, former marathon runner himself, is something of legend in running circles in Japan; he is master craftsman for Asics, where he has worked for 41 years; photos (M)",
+        "headline": {"main": "Can Rice Lead to Gold? Marathon Will Offer Test"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "MIMURA, HITOSHI"
+          },
+          {
+            "name": "persons",
+            "value": "KASTOR, DEENA"
+          },
+          {
+            "name": "persons",
+            "value": "HALL, RYAN"
+          },
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "ASIC CORP"
+          },
+          {
+            "name": "subject",
+            "value": "RICE"
+          },
+          {
+            "name": "subject",
+            "value": "SHOES AND BOOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "MARATHON RUNNING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-06-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/11/sports/olympics/11shoes.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Shoe soles incorporating rice husks will be worn by elite marathon runners in the Beijing Olympics.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Front Page; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LONGMAN",
+            "role": "reported",
+            "firstname": "Jeré"
+          }],
+          "original": "By JERÉ LONGMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/06/11/sports/11shoes.1.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/06/11/sports/11shoes.1.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 280,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/06/11/sports/11shoes.1.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 280,
+              "xlarge": "images/2008/06/11/sports/11shoes.1.600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/06/11/sports/11shoes.1.337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/06/11/sports/11shoes.1.337.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd295bc8eb7c8105d8712d3",
+        "source": "The New York Times",
+        "word_count": 1508,
+        "lead_paragraph": "Olympic marathon runners are no less obsessed about shoes than the gal pals in ''Sex and the City.'' Later this month, Ryan Hall and Deena Kastor of the United States plan to begin testing the latest design from the distance-running equivalent of Manolo Blahnik. Their shoemaker is a Japanese master craftsman whose soles are renowned not for space-age gels or air bladders but for the gripping properties of rice husks."
+      }
+    ],
+    "meta": {
+      "time": 28,
+      "hits": 367,
+      "offset": 90
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

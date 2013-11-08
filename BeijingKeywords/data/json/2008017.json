@@ -1,0 +1,745 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Several China experts weigh in on significance of 2008 Olympics in Beijing; photos (M)",
+        "headline": {"main": "VIEWS FROM NEAR AND FAR"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2008-08-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/04/sports/olympics/04voices.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Progress, With a Price.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2852c8eb7c8105d855023",
+        "source": "The New York Times",
+        "word_count": 1846,
+        "lead_paragraph": "Progress, With a Price Xiaowei William Su was born in Beijing and left for the United States in 1989. He graduated from Yale in May and lives in Cheshire, Conn."
+      },
+      {
+        "abstract": "Chinese officials, who have taken extensive security measures in preparation for Olympic Games in Beijing, warn that terrorism is constant threat, particularly from Muslim separatist groups in western China; state news agency reports that 16 policemen were killed and 16 others injured when attackers threw grenades into police station in Kashgar; human rights advocates accuse Chinese government of using pretext of terrorism to silence dissent and clamp down on ethnic minority groups; terrorist experts say biggest threat to Olympics comes from violent separatists from Xinjiang, region historically dominated by Uighurs, Muslim Turkic group, now governed by Han Chinese; photo (M)",
+        "headline": {"main": "As China Girds For Olympics, New Violence"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "KASHGAR (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "XINJIANG PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SURVEILLANCE OF CITIZENS BY GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CAMERAS"
+          },
+          {
+            "name": "subject",
+            "value": "BOMBS AND EXPLOSIVES"
+          },
+          {
+            "name": "subject",
+            "value": "UIGHURS (CHINESE ETHNIC GROUP)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SECURITY AND WARNING SYSTEMS"
+          },
+          {
+            "name": "subject",
+            "value": "ISLAM"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "POLICE"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "TERRORISM"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/04/sports/olympics/04china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Chinese officials have thrown an almost smothering blanket of security across Beijing in preparation for the start of the Olympic Games on Friday.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WONG",
+              "role": "reported",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "BRADSHER",
+              "role": "reported",
+              "firstname": "Keith"
+            }
+          ],
+          "original": "By EDWARD WONG and KEITH BRADSHER; Edward Wong reported from Beijing and Keith Bradsher from Hong Kong. Jake Hooker, Huang Yuanxi and Jessie Jiang contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 820,
+            "caption": "Olympics Security",
+            "type": "External",
+            "credit": "China has deployed tens of thousands of security officers to ensure the Olympic games go smoothly.",
+            "url": "http://video.on.nytimes.com/?fr_story=74947a293f39f2afd447cc91188d1b590e8f2a4a",
+            "legacy": {
+              "MultimediaSummary1": "China has deployed tens of thousands of security officers to ensure the Olympic games go smoothly.",
+              "MultimediaPopupWidth1": "820",
+              "MultimediaType1": "External",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Olympics Security",
+              "MultimediaUrl1": "http://video.on.nytimes.com/?fr_story=74947a293f39f2afd447cc91188d1b590e8f2a4a"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/04/world/04china-span-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/04/world/04china-span-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 309,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/04/world/04china-span-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 309,
+              "xlarge": "images/2008/08/04/world/04china-span-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/08/04/world/04china-span-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/08/04/world/04china-span-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd269a58eb7c8105d820d21",
+        "source": "The New York Times",
+        "word_count": 1437,
+        "lead_paragraph": "Chinese officials have thrown an almost smothering blanket of security across this capital of 17 million in preparation for the start of the Olympic Games on Friday. Above all else, Chinese leaders say, these Olympics will be ''safe.'' They warn that terrorism is a constant threat, particularly from Muslim separatist groups in the Xinjiang region of western China. On Monday morning, Xinhua, the state news agency, reported what appeared to be the deadliest attack against Chinese security forces in recent memory: 16 policemen were killed and 16 others injured when attackers threw two grenades into a police station in the desert oasis town of Kashgar, in the far west, after driving a truck into the station at 8 a.m. Two men were arrested."
+      },
+      {
+        "abstract": "George Vecsey Sports of The Times column discusses significance of 2008 Olympics to Beijing and China, which are Olympic hosts for first time; photos (M)",
+        "headline": {
+          "kicker": "SPORTS OF THE TIMES",
+          "main": "China's Moment: Referendum on a Nation"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SPORTS OF THE TIMES (TIMES COLUMN)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-04T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9D0CEEDC173FF937A3575BC0A96E9C8B63",
+        "news_desk": "Sports Desk",
+        "snippet": "May the algae vanish. May the hot Gobi sands desist. May the noxious air take a holiday. May peace settle over Beijing.      On the only planet we have, it would seem to be in everybody's best interests that China produce a successful Summer Games. A",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "VECSEY",
+            "role": "reported",
+            "firstname": "George"
+          }],
+          "original": "By GEORGE VECSEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd267df8eb7c8105d81deb1",
+        "source": "The New York Times",
+        "word_count": 928,
+        "lead_paragraph": "May the algae vanish. May the hot Gobi sands desist. May the noxious air take a holiday. May peace settle over Beijing. On the only planet we have, it would seem to be in everybody's best interests that China produce a successful Summer Games. As an Olympic host for the first time, China wants to be seen as capable and friendly, more than the source of inexpensive goods for the First World, more than an emerging consumer of oil and air and water. China is a player."
+      },
+      {
+        "abstract": "Recent television advertisement simultaneously plugs new Universal movie The Mummy: Tomb of the Dragon Emperor and NBC's broadcast of Beijing Olympics (S)",
+        "headline": {
+          "kicker": "MEDIA TALK",
+          "main": "NBC Ad Pairs 'Mummy' and Olympics"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "MUMMY: TOMB OF THE DRAGON EMPEROR, THE (MOVIE)>"
+          },
+          {
+            "name": "creative_works",
+            "value": "MUMMY, THE: TOMB OF THE DRAGON EMPEROR (MOVIE)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNIVERSAL PICTURES"
+          },
+          {
+            "name": "organizations",
+            "value": "NATIONAL BROADCASTING CO"
+          },
+          {
+            "name": "organizations",
+            "value": "NBC UNIVERSAL"
+          },
+          {
+            "name": "subject",
+            "value": "MOVIES"
+          },
+          {
+            "name": "subject",
+            "value": "MOTION PICTURES"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2008-08-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/04/sports/olympics/04mummy.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "NBC executives call the company\u2019s TV ads plugging its new movie, \u201cThe Mummy,\u201d and the Beijing Olympics synergy. Some viewers call it confusing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Movies; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CLIFFORD",
+            "role": "reported",
+            "firstname": "Stephanie"
+          }],
+          "original": "By STEPHANIE CLIFFORD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd269a68eb7c8105d820e4f",
+        "source": "The New York Times",
+        "word_count": 451,
+        "lead_paragraph": "In the General Electric corporate family, NBC and Universal Pictures are like two glamorous cousins from the coasts: they make movies and television shows, while the other G.E. divisions make things like humidifiers, steam turbines and fluorescent lights. NBC even makes fun of this in its show ''30 Rock,'' where a G.E. executive has the title ''vice president of East Coast television and microwave oven programming.'' These days, the cousins, both part of NBC Universal, are pulling together for marketing. A recent TV commercial tries to simultaneously plug a new movie from Universal (''The Mummy: Tomb of the Dragon Emperor'') and NBC's broadcast of the Beijing Olympics."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "An Ancient City, Still Growing "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/interactive/2008/08/04/sports/20080804_OLYMPICS_GRAPHIC.html",
+        "news_desk": null,
+        "snippet": "An interactive tour of Beijing and its various Olympic venues.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a859c1c22dfde670be604",
+        "source": null,
+        "word_count": 16,
+        "lead_paragraph": "An interactive tour of Beijing and its various Olympic venues."
+      },
+      {
+        "abstract": "Three photos of Beijing as China makes final preparations for Olympic Games",
+        "headline": {
+          "kicker": "GREETINGS FROM CHINA",
+          "main": "GREETINGS FROM CHINA"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-05T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9E04E2DB1430F936A3575BC0A96E9C8B63",
+        "news_desk": "Sports Desk",
+        "snippet": "Three photos of Beijing as China makes final preparations for Olympic Games",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2972a8eb7c8105d8735c5",
+        "source": "The New York Times",
+        "word_count": 3,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Harvey Araton Sports of The Times column on runner Gary Kikaya of Democratic Republic of Congo; Kikaya is headed for Beijing Olympic Games, where he is underdog in quest for gold medal in 400-meter race (M)",
+        "headline": {
+          "kicker": "SPORTS OF THE TIMES",
+          "main": "Out of the Limelight, but Still Running Hard"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "KIKAYA, GARY"
+          },
+          {
+            "name": "glocations",
+            "value": "CONGO REPUBLIC"
+          },
+          {
+            "name": "glocations",
+            "value": "CONGO (FORMERLY ZAIRE)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SPORTS OF THE TIMES (TIMES COLUMN)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "TRACK AND FIELD"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/05/sports/olympics/05araton.html",
+        "news_desk": "Sports Desk",
+        "snippet": "It is instructive to remember that other athletes are coming to Beijing besides those from the United States and China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ARATON",
+            "role": "reported",
+            "firstname": "Harvey"
+          }],
+          "original": "By HARVEY ARATON"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2008/08/04/sports/05araton_75.jpg",
+          "legacy": {
+            "thumbnail": "images/2008/08/04/sports/05araton_75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2972a8eb7c8105d8735c6",
+        "source": "The New York Times",
+        "word_count": 871,
+        "lead_paragraph": "Before we get around to the competitive narrative of the 2008 Summer Olympics, it is instructive to remember that other athletes are coming here besides those from the world's foremost athletic superpower, the United States, and the emerging one, host China."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Races to Finish Olympic Preparations "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "FLAGS, EMBLEMS AND INSIGNIA"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2008/08/05/sports/0805-OLYMPICS_index.html",
+        "news_desk": null,
+        "snippet": "On Tuesday, athletes and organizers continued to prepare for the kickoff of the 2008 Olympic Games.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a89951c22dfde670c2ad4",
+        "source": null,
+        "word_count": 26,
+        "lead_paragraph": "On Tuesday, athletes and organizers continued to prepare for the kickoff of the 2008 Olympic Games."
+      },
+      {
+        "abstract": "Two men armed with knives and explosives ambush military police unit in Kashgar in Xinjiang region of China, area where dominant Uighur population is predominantly Muslim; state media reports attackers killed 16 officers and wounded 16 others; it is deadliest outburst of ethnic violence since early 1990s; Chinese security officials have claimed for months that extremists in region pose terrorist threat to Olympics; many Western experts say China has provided little information to back up its claim that Uighur extremists have capacity or intention to stage major attacks; attack underscores ethnic instability China faces in its western regions; photo (M)",
+        "headline": {"main": "AMBUSH IN CHINA RAISES CONCERNS AS OLYMPICS NEAR"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "KASHGAR (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "XINJIANG (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ATTACKS ON POLICE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "UIGHURS (ETHNIC GROUP)"
+          },
+          {
+            "name": "subject",
+            "value": "ISLAM"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "TERRORISM"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/05/world/asia/05china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Officials labeled the attack terrorism and suggested the culprits were from a group seeking independence for China\u2019s Uighur minority.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Jake Hooker and Tang Xuemei contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 330,
+          "width": 600,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2008/08/04/world/04kashgar2-600.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 330,
+            "xlarge": "images/2008/08/04/world/04kashgar2-600.jpg",
+            "xlargewidth": 600
+          }
+        }],
+        "_id": "4fd269a58eb7c8105d820d26",
+        "source": "The New York Times",
+        "word_count": 1222,
+        "lead_paragraph": "Two men armed with knives and explosives ambushed a military police unit in China's majority Muslim northwest on Monday. State media reported the attackers killed 16 officers and wounded 16 others, likely making it the deadliest outburst of ethnic violence in China since at least the early 1990s. The assault took place 2,100 miles from Beijing, but it added to security concerns in the capital as tens of thousands of foreign athletes, journalists and spectators begin to arrive for the opening of the Olympic Games on Friday."
+      },
+      {
+        "abstract": "Gina Kolata essay on cautionary tales about trying to exercise or run in heavily polluted and pollen-laden air of Beijing, which is scheduled to open Olympic games on August 8; offers advice to athletes; photos (M)",
+        "headline": {
+          "kicker": "ESSAY",
+          "main": "Running on Fumes in Beijing"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "WEATHER"
+          },
+          {
+            "name": "subject",
+            "value": "RUNNING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/05/sports/olympics/05essa.html",
+        "news_desk": "Science Desk",
+        "snippet": "Will a training plan survive the air, heat and humidity of China?",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Science; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KOLATA",
+            "role": "reported",
+            "firstname": "Gina"
+          }],
+          "original": "By GINA KOLATA"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/04/science/05essay_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/04/science/05essay_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 203,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/04/science/05essay_600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 203,
+              "xlarge": "images/2008/08/04/science/05essay_600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2972a8eb7c8105d873559",
+        "source": "The New York Times",
+        "word_count": 1001,
+        "lead_paragraph": "It was a hot, humid, oppressive Thursday night, but my running group was ready to go. Jen Davis, one of the regulars, had mapped out a hilly eight-and-a-half-mile course in Princeton, N.J., and nine of us set out, trying to ignore the steamy weather. I had a hard time. My legs felt heavy and I just could not get going. Along with five others in the group, I ended up cutting the run short, avoiding the last couple of miles. And that's something I almost never do."
+      }
+    ],
+    "meta": {
+      "time": 29,
+      "hits": 367,
+      "offset": 170
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

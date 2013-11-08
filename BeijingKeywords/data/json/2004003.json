@@ -1,0 +1,624 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Editorial says student-led demonstration in Tiananmen Square that was crushed by army tanks 15 years ago remains an unhealed wound for China because of leaders' refusal to acknowledge that such brutal repression was mistake; says it is time for Communist Party leadership to honor idealism and courage of so many Chinese citizens and tell true story of that terrible night",
+        "headline": {"main": "The Truth About Tiananmen"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "26",
+        "pub_date": "2004-06-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/06/04/opinion/the-truth-about-tiananmen.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "In countries around the world, people will recall the searing drama that unfolded 15 years ago today in and around Tiananmen Square in Beijing after a divided Chinese Communist leadership ordered in army tanks to crush a peaceful student-led democrac",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a1e98eb7c8105d886f35",
+        "source": "The New York Times",
+        "word_count": 408,
+        "lead_paragraph": "In countries around the world, people will recall the searing drama that unfolded 15 years ago today in and around Tiananmen Square in Beijing after a divided Chinese Communist leadership ordered in army tanks to crush a peaceful student-led democracy movement. People will recall it in China, too. But there, public commemoration is strictly forbidden, accurate information is legally secret, and an honest official assessment of Tiananmen's true significance is not in sight. After 15 years, China's leaders still pretend that the Tiananmen movement was a violent counterrevolutionary rebellion that endangered China's security and its future. By not acknowledging that the brutal suppression was a tragic mistake, China keeps Tiananmen an unhealed wound. For the generation that lived through it, and especially for those whose lives and families were abruptly torn apart, there can be no moving on until that wound is recognized. For others, the Tiananmen taboo feeds the suspicion that China's rulers will always put preserving their own power ahead of the truth and the interests of ordinary people."
+      },
+      {
+        "abstract": "Estimated 82,000 people, including some mainland Chinese, gather in Hong Kong to mark 15th anniversary of Tiananmen Square crackdown on pro-democracy students; square itself in Beijing is largely quiet; photo (M)",
+        "headline": {"main": "Hong Kong Crowds Mark Tiananmen Square Killings"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2004-06-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/06/05/world/hong-kong-crowds-mark-tiananmen-square-killings.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Holding white candles and singing songs, an unexpectedly large crowd numbering in the tens of thousands, including some mainland Chinese, gathered here under clear skies on Friday night to mark the 15th anniversary of the Tiananmen Square killings.  ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER; Keith Bradsher reported from Hong Kong for this article, and Jim Yardley reported from Beijing"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd23aa18eb7c8105d7cf163",
+        "source": "The New York Times",
+        "word_count": 1034,
+        "lead_paragraph": "Holding white candles and singing songs, an unexpectedly large crowd numbering in the tens of thousands, including some mainland Chinese, gathered here under clear skies on Friday night to mark the 15th anniversary of the Tiananmen Square killings. By contrast, the square itself in Beijing was largely quiet. Despite light rain, foreign tourists and some school groups roamed the vast space under the watchful gaze of a noticeably strengthened but not overwhelming police presence."
+      },
+      {
+        "abstract": "Chinese media and cultural community in Beijing are openly complaining about $300-million National Theater nearing completion near Tiananmen Square; photos; much-derided titanium and glass complex was designed by French architect Paul Andreu, subject of scrutiny since collapse of his terminal at de Gaulle Airport; government has still not lined up operating group as it remakes capital for 2008 Olympics, razing old neighborhoods and building new roads, subways and modern architectural monuments; local designers say projects by world's leading architects are overpriced, out of touch with Chinese history and inappropriate for poor country (M)",
+        "headline": {"main": "A Glass Bubble That's Bringing Beijing to a Boil"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ANDREU, PAUL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+          },
+          {
+            "name": "subject",
+            "value": "THEATERS (BUILDINGS)"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          },
+          {
+            "name": "subject",
+            "value": "AIRPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "subject",
+            "value": "DE GAULLE, CHARLES, INTERNATIONAL AIRPORT (PARIS)"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "THEATER"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2004-06-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/06/15/world/a-glass-bubble-that-s-bringing-beijing-to-a-boil.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Some compare it to a globe severed at the Equator. To others it resembles a phosphorescent egg floating in a crystal sea. One prominent Beijing architect said that when the desert dust kicks up around Beijing, lathering the expansive glass dome in a ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Theater",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a2d48eb7c8105d88864a",
+        "source": "The New York Times",
+        "word_count": 1330,
+        "lead_paragraph": "Some compare it to a globe severed at the Equator. To others it resembles a phosphorescent egg floating in a crystal sea. One prominent Beijing architect said that when the desert dust kicks up around Beijing, lathering the expansive glass dome in a pall of gray grime, it resembles nothing so much as dried dung. But the most apt analogy for the $300 million National Theater of China, now nearing completion in the political heart of Beijing, near Tiananmen Square, may be a hot potato."
+      },
+      {
+        "abstract": "Senior Bush administration official, speaking from nuclear talks in Beijing, says US and North Korea have made little headway in resolving their standoff, but intend to keep trying (M)",
+        "headline": {"main": "U.S. Cites Scant Progress in Nuclear Talks With North Korea"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "glocations",
+            "value": "NORTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ATOMIC WEAPONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2004-06-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/06/26/world/us-cites-scant-progress-in-nuclear-talks-with-north-korea.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Describing nuclear talks here as ''some good, some bad and some ugly,'' a senior Bush administration official said Friday that the United States and North Korea had made little headway in resolving their standoff, but intended to keep trying.    Both",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27e848eb7c8105d847951",
+        "source": "The New York Times",
+        "word_count": 853,
+        "lead_paragraph": "Describing nuclear talks here as ''some good, some bad and some ugly,'' a senior Bush administration official said Friday that the United States and North Korea had made little headway in resolving their standoff, but intended to keep trying. Both countries presented new proposals for ending North Korea's nuclear program at the six-nation talks, which concluded here on Friday ahead of a formal closing ceremony on Saturday. But the administration official who participated in the talks said the two sides ''remained far from an agreement'' and engaged in no substantive bargaining at the three-day session."
+      },
+      {
+        "abstract": "China reports industrial output rose 16.2 percent in June from June 2003, down from 17.5 percent growth in May; drop makes imminent interest rate rise less likely; demand for electricity is running far ahead of supply, leading to blackouts and orders that 6,400 state-owned Beijing area factories operate only on alternate weeks through end of Aug; government report finds recent administrative steps have slowed economy that showed signs of overheating; Western and Chinese economists increasingly score such steps (M)",
+        "headline": {
+          "kicker": "INTERNATIONAL BUSINESS",
+          "main": "Pace of Industrial Output In China Slowed in June"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BLACKOUTS AND BROWNOUTS (ELECTRICAL)"
+          },
+          {
+            "name": "subject",
+            "value": "INTEREST RATES"
+          },
+          {
+            "name": "subject",
+            "value": "CREDIT"
+          },
+          {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "PRODUCTION"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2004-07-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/07/10/business/international-business-pace-of-industrial-output-in-china-slowed-in-june.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "The odds of an imminent interest rate increase in China fell on Friday, as Beijing announced that industrial production grew at a slightly slower clip in June. At the same time, the expected rate of inflation was said to be below the central bank's t",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd258198eb7c8105d803711",
+        "source": "The New York Times",
+        "word_count": 624,
+        "lead_paragraph": "The odds of an imminent interest rate increase in China fell on Friday, as Beijing announced that industrial production grew at a slightly slower clip in June. At the same time, the expected rate of inflation was said to be below the central bank's threshold for tightening monetary policy. The National Bureau of Statistics announced on Friday that industrial output rose 16.2 percent in June compared with a year earlier. That fevered pace, however, was less than the 17.5 percent growth recorded in May and considerably below the 23.2 percent peak in February."
+      },
+      {
+        "abstract": "Chinese military authorities release Jiang Yanyong, prominent surgeon who exposed SARS cover-up and condemned 1989 crackdown on democracy protesters; officials apparently bow to Jiang's status as local hero and to international pressure, freeing him after 45 days, but forbidding contact with outsiders; photo (M)",
+        "headline": {"main": "China Releases the SARS Whistle-Blower"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "JIANG YANYONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2004-07-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/07/21/world/china-releases-the-sars-whistle-blower.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Chinese military authorities have released the prominent surgeon who exposed China's SARS cover-up and condemned the 1989 crackdown on democracy protesters, apparently bowing to the doctor's status as a local hero and to international pressure to fre",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd23cb78eb7c8105d7d26d1",
+        "source": "The New York Times",
+        "word_count": 1036,
+        "lead_paragraph": "Chinese military authorities have released the prominent surgeon who exposed China's SARS cover-up and condemned the 1989 crackdown on democracy protesters, apparently bowing to the doctor's status as a local hero and to international pressure to free him, people informed about his case said Tuesday. The doctor, Jiang Yanyong, 72, returned home Monday night after about 45 days in military custody, where he underwent political indoctrination and was investigated for possible criminal activity, one person told about his case said. He is not expected to be charged with a crime."
+      },
+      {
+        "abstract": "Pink and similar hues are popular with Chinese developers, who have also proven partial to tinted, highly reflective glass and rooftops in shape of lotus blossoms; result is extraordinary number of garish buildings, especially in southeastern China, many of which are empty; one-sixth of luxury residential real estate in Shanghai is vacant, quarter in Beijing and third in Shenzhen; photos (M)",
+        "headline": {"main": "Ideas & Trends; China's Buildings: In Pink, and in the Red"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "SHENZHEN (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "GLASS"
+          },
+          {
+            "name": "subject",
+            "value": "HOUSING"
+          },
+          {
+            "name": "subject",
+            "value": "ROOFS"
+          },
+          {
+            "name": "subject",
+            "value": "BUILDINGS (STRUCTURES)"
+          },
+          {
+            "name": "subject",
+            "value": "COLOR"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2004-08-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/08/15/weekinreview/ideas-trends-china-s-buildings-in-pink-and-in-the-red.html",
+        "news_desk": "Week in Review Desk",
+        "snippet": "CHINA has a serious problem these days, and the color of the problem is pink.     Pink and similar hues -- from rose-tinged brick to tangerine and even magenta -- have been popular in the last few years with Chinese developers, who have also proven p",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Week in Review",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a4898eb7c8105d88afb8",
+        "source": "The New York Times",
+        "word_count": 747,
+        "lead_paragraph": "CHINA has a serious problem these days, and the color of the problem is pink. Pink and similar hues -- from rose-tinged brick to tangerine and even magenta -- have been popular in the last few years with Chinese developers, who have also proven partial to tinted, highly reflective glass and rooftops in the shape of lotus blossoms."
+      },
+      {
+        "abstract": "Chen Hualan, chief of China National Avian Influenza Reference Laboratory, tells World Health Organization conference in Beijing that her country has found lethal strain of avian influenza among pigs at several farms, discovery that could move virus step closer to becoming potentially deadly problem for people (M)",
+        "headline": {"main": "Lethal Strain of Avian Flu Is Reported Found in Pigs in China"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN HUALAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD HEALTH ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "INFLUENZA"
+          },
+          {
+            "name": "subject",
+            "value": "PIGS"
+          },
+          {
+            "name": "subject",
+            "value": "AVIAN INFLUENZA"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2004-08-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/08/21/world/lethal-strain-of-avian-flu-is-reported-found-in-pigs-in-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A senior Chinese health official disclosed on Friday that her country had found a lethal strain of avian influenza among pigs at several farms, a discovery that could move the virus a step closer to becoming a potentially deadly problem for people.  ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27e878eb7c8105d847b8b",
+        "source": "The New York Times",
+        "word_count": 776,
+        "lead_paragraph": "A senior Chinese health official disclosed on Friday that her country had found a lethal strain of avian influenza among pigs at several farms, a discovery that could move the virus a step closer to becoming a potentially deadly problem for people. The discovery of the bird flu strain in pigs is alarming, health officials said, because scientists have long regarded pigs as an important conduit for new influenza strains to infect people."
+      },
+      {
+        "abstract": "China looks ahead to Beijing Olympics, which will be held in 2008, closely monitoring Chinese delegation's performance at 2004 Olympics and successes and failures of Athens (Greece) planning; photos (M)",
+        "headline": {
+          "kicker": "SUMMER 2004 GAMES -- BEIJING GAMES: LOOKING AHEAD",
+          "main": "Point Made in Athens, China Looks Toward Beijing in '08"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "ATHENS (GREECE)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2004)"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2004-08-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/08/27/sports/summer-2004-games-beijing-games-looking-ahead-point-made-athens-china-looks.html",
+        "news_desk": "Sports Desk",
+        "snippet": "It was easy to see that Lithuania was a better basketball team than China in the Olympic quarterfinals on Thursday, but it was also easy to fill in the blanks and the seats with future Olympics in mind: to imagine Yao Ming with a better, stronger sup",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CLAREY",
+            "role": "reported",
+            "firstname": "Christopher"
+          }],
+          "original": "By CHRISTOPHER CLAREY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd247fd8eb7c8105d7e46c9",
+        "source": "The New York Times",
+        "word_count": 1101,
+        "lead_paragraph": "It was easy to see that Lithuania was a better basketball team than China in the Olympic quarterfinals on Thursday, but it was also easy to fill in the blanks and the seats with future Olympics in mind: to imagine Yao Ming with a better, stronger supporting cast and to imagine the stands that were dotted with Chinese flags here becoming a sea of national colors in Beijing in four years. The face of the Olympics is changing, even before Gianna Angelopoulos-Daskalaki and the rest of the Athens organizers pass the torch to the Chinese delegation at Sunday's closing ceremony."
+      },
+      {
+        "abstract": "Article on maverick Chinese avant-garde art promoter Xu Yong, who has opened 798 Space, contemporary art gallery in northeastern Beijing; Xu comments on once crumbling 1950's-era weapons factory that has become artists' studios and galleries and success of Dashanzi International Arts Festival; photos (M)",
+        "headline": {"main": "Amid Ghosts of the Red Guard, The Avant-Garde Now Blooms"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "XU YONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DASHANZI INTERNATIONAL ARTS FESTIVAL"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          },
+          {
+            "name": "subject",
+            "value": "BUILDINGS (STRUCTURES)"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2004-09-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/09/01/arts/01beij.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "A refurbished 1950's-era weapons factory in China has become a haven for avant-garde art.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SIMONS",
+            "role": "reported",
+            "firstname": "Craig"
+          }],
+          "original": "By CRAIG SIMONS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd280168eb7c8105d84a89e",
+        "source": "The New York Times",
+        "word_count": 1182,
+        "lead_paragraph": "In his gray fleece jacket and pressed khaki pants, Xu Yong looks more like a department store manager than a maverick who is one of the most successful promoters of avant-garde art in China and a protector of its historic architecture. Standing in 798 Space, his contemporary art gallery in northeastern Beijing, next to a row of faded photographs of a woman firing a handgun, Mr. Xu carefully thanks the city government for supporting the Dashanzi International Art Festival, a collaboration among 74 galleries and private art studios in a refurbished 1950's-era weapons factory. It is perhaps his mild demeanor, coupled with his fondness for making art and old architecture profitable cultural enterprises, that has helped push the Communist leadership here toward aiding the arts and protecting the past. Two years ago Factory 798 was largely abandoned and physically crumbling, a forlorn complex of warehouses and workshops built by East German architects using World War II reparations money. It was given a number rather than a name, in the old-fashioned Communist manner."
+      }
+    ],
+    "meta": {
+      "time": 38,
+      "hits": 55,
+      "offset": 30
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

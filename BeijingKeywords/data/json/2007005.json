@@ -1,0 +1,800 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Olympic sponsors like Coca-Cola, McDonald's and Lenovo celebrated start of one-year countdown to opening ceremonies for Summer Games in Beijing, on Aug 8, with marketing initiatives intended to break through Olympics ad hype; China is set to take over from US next year as biggest source of growth in global ad spending; China will account for 24 percent of new spending worldwide, compared with 20 percent for US; photo (M)",
+        "headline": {
+          "kicker": "ADVERTISING",
+          "main": "For 2008 Olympics Campaigns, the Starter's Gun Went Off This Month"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "MCDONALD'S CORP"
+          },
+          {
+            "name": "organizations",
+            "value": "COCA-COLA CO"
+          },
+          {
+            "name": "organizations",
+            "value": "LENOVO GROUP"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2007-08-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/23/business/media/23adco.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Olympic sponsors celebrated the start of the one-year countdown to the opening ceremonies with marketing initiatives intended to break through the hype.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "PFANNER",
+            "role": "reported",
+            "firstname": "Eric"
+          }],
+          "original": "By ERIC PFANNER"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/08/23/business/23adco.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/08/23/business/23adco.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 320,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/08/23/business/23adco.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 320,
+              "xlarge": "images/2007/08/23/business/23adco.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd27f018eb7c8105d848a4c",
+        "source": "The New York Times",
+        "word_count": 674,
+        "lead_paragraph": "WITH less than a year to go until the 2008 Summer Games, the Olympic rings are everywhere in Beijing. How is an advertiser, even an official sponsor, supposed to stand out? Olympic sponsors like Coca-Cola, McDonald's and Lenovo, the Chinese computer maker that bought I.B.M.'s PC business, celebrated the start of the one-year countdown to the opening ceremonies, on Aug. 8, with marketing initiatives intended to break through the Olympics ad hype."
+      },
+      {
+        "abstract": "World track and field championships discussed; photo (M)",
+        "headline": {"main": "The Ones to Watch in Osaka"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WILLIAMS, LAURYN"
+          },
+          {
+            "name": "persons",
+            "value": "ISINBAYEVA, YELENA"
+          },
+          {
+            "name": "persons",
+            "value": "GATLIN, JUSTIN"
+          },
+          {
+            "name": "persons",
+            "value": "DIBABA, TIRUNESH"
+          },
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "OSAKA (JAPAN)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ATHLETICS AND SPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "TRACK AND FIELD"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "POLE VAULT"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2007-08-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/25/sports/othersports/25track.html",
+        "news_desk": "Sports Desk",
+        "snippet": "With an Olympics looming in Beijing, the world track and field championships that begin Saturday in Osaka, Japan, are a prologue. A look at some of the most intriguing events.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CLAREY",
+            "role": "reported",
+            "firstname": "Christopher"
+          }],
+          "original": "By CHRISTOPHER CLAREY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/08/25/sports/25track.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/08/25/sports/25track.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 973,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/08/25/sports/25track.650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 973,
+              "xlarge": "images/2007/08/25/sports/25track.650.jpg",
+              "xlargewidth": 650
+            }
+          }
+        ],
+        "_id": "4fd27f028eb7c8105d848aae",
+        "source": "The New York Times",
+        "word_count": 861,
+        "lead_paragraph": "With an Olympics looming in Beijing next year, the world track and field championships that begin today in Osaka, Japan, are a nine-day prologue to the main event, complete with the requisite heat and humidity. A look, in chronological order, at some of the most intriguing events:"
+      },
+      {
+        "abstract": "Beijing (China) looks for ways to control pollution and improve air quality before 2008 Olympics; photos (M)0",
+        "headline": {"main": "Air in Beijing Raises Questions For Olympics"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ROGGE, JACQUES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2007-08-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/26/sports/othersports/26runners.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Jacques Rogge, president of the International Olympic Committee, said some Beijing Olympic events might be postponed if the pollution would put the athletes at risk.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MACUR",
+            "role": "reported",
+            "firstname": "Juliet"
+          }],
+          "original": "By JULIET MACUR"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/08/26/sports/26runners.2.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/08/26/sports/26runners.2.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 280,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/08/26/sports/26runners.1.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 280,
+              "xlarge": "images/2007/08/26/sports/26runners.1.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2b1408eb7c8105d8a186c",
+        "source": "The New York Times",
+        "word_count": 1196,
+        "lead_paragraph": "With temperatures rising into the low 90s and with the humidity closing in on 90 percent Saturday, some marathoners could not bear it at the track and field world championships. They staggered and collapsed. They were taken away on stretchers, soaked in sweat that had no chance of cooling them. Others simply stopped running, as their bodies failed to cope with the weather. Of the 85 runners who started, about a third failed to finish behind Luke Kibet of Kenya, who won in 2 hours 15 minutes 59 seconds."
+      },
+      {
+        "abstract": "Phillip Alder Bridge column on deal from 2003 World Youth Team Championship; diagram (M)",
+        "headline": {
+          "kicker": "BRIDGE",
+          "main": "A Test of Skill in Beijing, but Not the Olympics"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CARDS AND CARD GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "BRIDGE (CARD GAME)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2007-08-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/27/crosswords/bridge/27card.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "The diagramed deal was Board 12 of the 96-deal final of the 2003 World Youth Team Championship between Denmark and Italy, played in Paris.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ALDER",
+            "role": "reported",
+            "firstname": "Phillip"
+          }],
+          "original": "By PHILLIP ALDER"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 508,
+          "width": 306,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2007/08/26/arts/27card.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 508,
+            "xlarge": "images/2007/08/26/arts/27card.jpg",
+            "xlargewidth": 306
+          }
+        }],
+        "_id": "4fd260068eb7c8105d8102b3",
+        "source": "The New York Times",
+        "word_count": 613,
+        "lead_paragraph": "In this column 16 days ago I mentioned that the 2008 World Youth Team Championship might not take place because no country had undertaken to be host. I have since learned that my information was inaccurate. The World Bridge Federation is making it part of the inaugural World Mind Sports Games, which will take place Oct. 3 to 18, 2008, in Beijing. There will be competitions in bridge, checkers (draughts), chess and go. The events will be played in the National Convention Center, which is in the heart of the area that will be used for the 2008 Olympic Games."
+      },
+      {
+        "abstract": "Chinese diplomats and government officials are holding news conferences on food and product safety; they are showing contrition in high-level talks with Western officials and offering tours of government safety laboratories to foreign journalists; China has also struck back at critics who have called Chinese goods shoddy or dangerous, and highlighted problems with exports of other nations; China introduced new food and toy recall system last week and announced 'special war' to crack down on poor-quality products and unlicensed manufacturers; bold actions and tough talk suggest that China is growing increasingly worried about possibility of trade sanctions or further damage to its international profile heading into 2008, when Beijing is to be host to Summer Olympics; photo (L)",
+        "headline": {"main": "China Acts To Cleanse Reputation"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "TOYS"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+          },
+          {
+            "name": "subject",
+            "value": "RECALLS AND BANS OF PRODUCTS"
+          },
+          {
+            "name": "subject",
+            "value": "FOOD CONTAMINATION AND POISONING"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2007-09-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/09/05/business/05counter.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Even as it cracks down on product safety and substandard goods, China lashes out at critics of its exports.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/09/05/business/05counter-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/09/05/business/05counter-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/09/05/business/05counter-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2007/09/05/business/05counter-600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd281868eb7c8105d84d5ba",
+        "source": "The New York Times",
+        "word_count": 1056,
+        "lead_paragraph": "In recent weeks, Beijing has begun its most concerted global public relations offensive since the outbreak of SARS, the severe acute respiratory syndrome. Diplomats and government officials are holding news conferences on food and product safety. They are showing contrition in high-level talks with Western officials and offering tours of government safety laboratories to foreign journalists."
+      },
+      {
+        "abstract": "Pres Bush accepts invitation from Pres Hu Jintao of China to attend 2008 summer Olympics in Beijing; move draws condemnation from human rights advocates and Rep Dana Rohrabacher, who call for boycott of Games; photo (M)",
+        "headline": {"main": "Bush, After Talks With China's Leader, Accepts Invitation to Beijing Olympics"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "ROHRABACHER, DANA"
+          },
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "BOYCOTTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "2007-09-07T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9F0CE5D9103AF934A3575AC0A9619C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "President Bush has accepted an invitation from President Hu Jintao of China to attend the 2008 summer Olympics in Beijing, a move that drew condemnation from human rights advocates and a Republican member of Congress, who are calling for a boycott of",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Gay",
+            "role": "reported",
+            "lastname": "STOLBERG",
+            "firstname": "Sheryl"
+          }],
+          "original": "By SHERYL GAY STOLBERG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27f038eb7c8105d848c66",
+        "source": "The New York Times",
+        "word_count": 861,
+        "lead_paragraph": "President Bush has accepted an invitation from President Hu Jintao of China to attend the 2008 summer Olympics in Beijing, a move that drew condemnation from human rights advocates and a Republican member of Congress, who are calling for a boycott of the Games. Mr. Hu extended the invitation -- reiterating an offer he had made -- during a private meeting with Mr. Bush here late on Thursday, on the eve of an economic meeting of leaders of Asian nations. Their 90-minute talk touched on a variety of issues, including climate change, the recent recalls of tainted toys made in China and a new plan for a hot line to link the Chinese and American militaries."
+      },
+      {
+        "abstract": "Sept 7 article about Pres Bush's decision to attend 2008 Olympics in Beijing despite opposition by human rights advocates, referred incorrectly to American presence at 1936 Olympics in Hitler's Germany; Pres Franklin D Roosevelt did not attend",
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "persons",
+            "value": "ROOSEVELT, FRANKLIN DELANO"
+          },
+          {
+            "name": "persons",
+            "value": "HITLER, ADOLF"
+          },
+          {
+            "name": "glocations",
+            "value": "GERMANY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (1936)"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2007-09-08T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9C03EEDE163DF93BA3575AC0A9619C8B63",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "An article yesterday  about President Bush's decision to attend the 2008 summer Olympics in Beijing, despite opposition by human rights advocates, referred incorrectly to the American presence at the 1936 Olympics in Hitler's Germany. President Frank",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections; Washington; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd293a48eb7c8105d86dbaf",
+        "source": "The New York Times",
+        "word_count": 82,
+        "lead_paragraph": "An article yesterday about President Bush's decision to attend the 2008 summer Olympics in Beijing, despite opposition by human rights advocates, referred incorrectly to the American presence at the 1936 Olympics in Hitler's Germany. President Franklin D. Roosevelt did not attend. (The 1936 circumstances were raised on Thursday by Representative Dana Rohrabacher, Republican of California, who likened Mr. Bush's situation to the one faced by Roosevelt. But Mr. Rohrabacher did not say in his statement that Roosevelt attended the games in Germany.)"
+      },
+      {
+        "abstract": "Arts, Briefly column; thousands of fans flock to Chaoyang Park in Beijing to hear Western bands at third annual Pop Festival (S)",
+        "headline": {"main": "Arts Briefly"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MUSIC"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2007-09-10T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9903E3DE143BF933A2575AC0A9619C8B63",
+        "news_desk": null,
+        "snippet": "Western Pop Rocks Beijing     Chinese music fans flocked by the thousands to Chaoyang Park in Beijing over the weekend to hear Western bands at the third annual Pop Festival. Among the performers at the two-day event were Marky Ramone, the New York D",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Van",
+            "role": "reported",
+            "lastname": "GELDER",
+            "firstname": "Lawrence"
+          }],
+          "original": "Compiled by LAWRENCE VAN GELDER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd293a58eb7c8105d86dc06",
+        "source": "The New York Times",
+        "word_count": 142,
+        "lead_paragraph": "Western Pop Rocks Beijing Chinese music fans flocked by the thousands to Chaoyang Park in Beijing over the weekend to hear Western bands at the third annual Pop Festival. Among the performers at the two-day event were Marky Ramone, the New York Dolls, Nine Inch Nails and Public Enemy, billed as PE because of the anti-establishment nature of its name, Agence France-Presse reported. The crowd heard Chuck D, the Public Enemy frontman, deliver a politically charged rap, saying: ''The people have a voice, the people want choice''; ''We got freedom of speech''; ''Break the power''; and ''Fight the powers that be.'' An army of security guards looked on as the crowd jumped up and down and chanted with him. The trend toward allowing controversial material was attributed to China's pledge of greater openness in advance of the Olympics in Beijing next year."
+      },
+      {
+        "abstract": "Editorial contends that China sees 2008 Olympics as international coming-out party for its rising global economic, political and military power; maintains that is why Pres Hu Jintao lobbied so hard to persuade Pres Bush to accept his invitation to opening ceremonies; says that Bush was right to agree, but he should have played harder to get; notes that critics continue to call for protests or boycotts because of China's abysmal human rights record; holds that administration needs to remind Chinese that whole world will be watching, and that Olympics, which extol human dignity in sports competition, give China opportunity to prove that it truly has advanced as far as it claims",
+        "headline": {
+          "kicker": "EDITORIAL",
+          "main": "Olympics Bound"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "2007-09-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/09/15/opinion/15sat1.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "American officials must be more vigilant in the coming months in pressing China to relax restrictions on reporters and to give space to political dissidents.",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27f048eb7c8105d848d0e",
+        "source": "The New York Times",
+        "word_count": 547,
+        "lead_paragraph": "China sees the 2008 Olympics, to which it is playing host, as an international coming-out party for its rising global economic, political and military power. Which is why China's president, Hu Jintao, lobbied so hard to persuade President Bush to accept his invitation to the opening ceremonies. Mr. Bush was right to agree, although we wish he had played a lot harder to get. China's Olympic bid was controversial from the start. Human Rights Watch notes that the 2008 Games will be the first since the 1984 Games in Sarajevo to be held in an undemocratic country. Some critics continue to call for protests or a boycott because of China's abysmal human rights record and its inaction on Darfur."
+      },
+      {
+        "abstract": "Zhao Yan, Chinese researcher for New York Times, walks out of Beijing prison after serving three years on fraud conviction that prompted international outrage and criticism of China's legal system; Zhao was working in Beijing bureau of Times when state security agents detained him in Sept 2004; he was eventually charged with disclosing state secrets to Times, accusation linked to exclusive Times article about inner workings of China's top leaders; investigators added lesser, unrelated fraud charge; more serious state secrets charge was dismissed, but court convicted him of fraud charge (M)",
+        "headline": {"main": "Times Researcher in China Is Free After 3 Years in Jail"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO YAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NEW YORK TIMES"
+          },
+          {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2007-09-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/09/15/world/asia/15zhao.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Zhao Yan, a Chinese research assistant for The New York Times, was released from a Beijing prison.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 330,
+          "width": 600,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2007/09/14/world/15zhao-600.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 330,
+            "xlarge": "images/2007/09/14/world/15zhao-600.jpg",
+            "xlargewidth": 600
+          }
+        }],
+        "_id": "4fd260098eb7c8105d810529",
+        "source": "The New York Times",
+        "word_count": 656,
+        "lead_paragraph": "Zhao Yan, a Chinese researcher for The New York Times, walked out of a prison here shortly after 8 a.m. Saturday after serving three years on a fraud conviction that prompted international outrage and criticism of China's legal system. Mr. Zhao was greeted with hugs by a gathering of family and friends. He looked relieved, noticeably thinner and a little shaken."
+      }
+    ],
+    "meta": {
+      "time": 17,
+      "hits": 82,
+      "offset": 50
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

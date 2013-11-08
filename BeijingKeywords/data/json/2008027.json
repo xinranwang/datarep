@@ -1,0 +1,790 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "US swimmer Michael Phelps is breakout athlete of Beijing Olympics; he has tied Mark Spitz's record of seven gold medals in one Olympics and has one more race to swim; Phelps has led monastic life at Olympic Village; his motto--'eat, sleep and swim'--is hardly exaggeration; he continues to eat pasta and pizza, but not as much as astonishing 12,000 calories a day he usually consumes when training; Phelps has been tested at least eight times for performance-enhancing drugs; photo (M)",
+        "headline": {"main": "In Pool or Out, Olympic Star Stands Apart"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "PHELPS, MICHAEL"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED STATES OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "DIET AND NUTRITION"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDS AND ACHIEVEMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "STEROIDS"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "CALORIES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/16/sports/olympics/16phelps.html",
+        "news_desk": "Sports Desk",
+        "snippet": "In the Olympic Village, Michael Phelps is leading a monastic life, one in which fast food, fast friends and family are sacrificed for fast times.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Front Page; Health; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CROUSE",
+            "role": "reported",
+            "firstname": "Karen"
+          }],
+          "original": "By KAREN CROUSE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd267cf8eb7c8105d81d40b",
+        "source": "The New York Times",
+        "word_count": 1560,
+        "lead_paragraph": "In the international melting pot that is the Olympic Village, Michael Phelps is in his own world, set apart by circumstance and by choice, his universe seemingly contained in a three-bedroom suite and in the contents of his iPod. A day in the life of an Olympic athlete would seem a kaleidoscope dream of racing and revelry. In the case of Phelps, the breakout athlete of the Beijing Games, it is a window into a monastic life, one in which fast food, fast friends and family are sacrificed for fast times."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Reducing Pollutants in Beijing "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/interactive/2008/08/16/sports/olympics/20080816-c0-graphic.html",
+        "news_desk": null,
+        "snippet": "Measures taken by the Chinese government to reduce carbon monoxide emissions in Beijing appear to have worked, based on preliminary data collected by Columbia University's Spatial Information Design Lab.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a858a1c22dfde670be476",
+        "source": null,
+        "word_count": 36,
+        "lead_paragraph": "Measures taken by the Chinese government to reduce carbon monoxide emissions in Beijing appear to have worked, based on preliminary data collected by Columbia University's Spatial Information Design Lab."
+      },
+      {
+        "abstract": "Edward Wong recalls his feelings about moving into poor neighborhood of Beijing to report on Olympic Games; describes Olympics as rallying point that gripped nation, even though many Chinese have complicated feelings for their government and the West; photo (M)",
+        "headline": {
+          "kicker": "THE WORLD",
+          "main": "The Games Began. Hearts Swelled."
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "SICHUAN PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "FLAGS, EMBLEMS AND INSIGNIA"
+          },
+          {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2008-08-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/17/sports/olympics/17wong.html",
+        "news_desk": "Week in Review Desk",
+        "snippet": "Living and working in China during the Games reveals how complicated Chinese patriotism is.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Week in Review",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/17/weekinreview/wong-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/17/weekinreview/wong-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/17/weekinreview/wong-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2008/08/17/weekinreview/wong-600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd27cc98eb7c8105d843810",
+        "source": "The New York Times",
+        "word_count": 1382,
+        "lead_paragraph": "-- The flags were everywhere when I returned home. I had been reporting in the western desert right before the start of the Olympic Games, and in the 48 hours I had been gone, my gray alleyway in Beijing had been splashed with the bright red of dozens of Chinese flags. The neighborhood committee had decreed that in the spirit of the Olympics, every household should hang up a flag. It had even installed a small metal flagpole stand on the wall beside every door."
+      },
+      {
+        "abstract": "Profile of and interview with David Peng, 55-year-old immigrant from Taiwan whose life story was played out in shadow of moment in Olympic history in which collision of sports and politics derailed aspirations of Taiwanese athletes; Peng was vying for 1976 Olympic spot to represent Taiwan in pentathlon when Canada bowed to pressure from China and Peng learned that Taiwanese athletes would not be allowed to compete in games; says that he is very proud today to see Taiwanese athletes competing on Chinese soil for Beijing games and that he is proud of Chinese people; photo (M)",
+        "headline": {"main": "Kept Out of the '76 Games, Now Looking On, and Proud of China"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "PENG, DAVID"
+          },
+          {
+            "name": "glocations",
+            "value": "QUEENS (NYC)"
+          },
+          {
+            "name": "glocations",
+            "value": "CANADA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (1976)"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "PENTATHLON"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "25",
+        "pub_date": "2008-08-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/17/sports/olympics/17taiwanese.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "Barred from the Olympics of 1976, a former pentathlon competitor now cheers athletes from both Taiwan and mainland China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "New York and Region",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "W.",
+            "role": "reported",
+            "lastname": "CHEN",
+            "firstname": "David"
+          }],
+          "original": "By DAVID W. CHEN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/17/nyregion/17taiwan.751.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/17/nyregion/17taiwan.751.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/17/nyregion/17taiwan.xlarge1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2008/08/17/nyregion/17taiwan.xlarge1.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/08/17/nyregion/17taiwan.3371.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/08/17/nyregion/17taiwan.3371.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd296428eb7c8105d87231b",
+        "source": "The New York Times",
+        "word_count": 1145,
+        "lead_paragraph": "Inside his ruby-hued, custom-designed office in Flushing, Queens, David Peng is surrounded by the tokens of the present. There, on a shelf, rests a dog-eared copy of the New York City Building Code, bulging with notes written in Chinese on memo stickers. There, in the back, stands a drafting table, opposite a scroll blessing his company, Windstar Construction. And there, next to the tea set on his desk, is a rare memento from the past: a weathered pamphlet called ''Modern Pentathlon: The Challenge of Skill and Endurance,'' which is written in Chinese and features black-and-white photos of a young Olympic hopeful -- Mr. Peng."
+      },
+      {
+        "abstract": "Correction of Aug 16 Sports of the Times article about swimmer Michael Phelps's performance in 100-meter butterfly, for which he won his seventh gold medal at Beijing Olympics",
+        "headline": {"main": "Corrections: For The Record"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "PHELPS, MICHAEL"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-08-17T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9C03E5DC1238F934A2575BC0A96E9C8B63",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "A Sports of The Times column in some editions on Saturday, about the performance by Michael Phelps in the 100-meter butterfly to win his seventh swimming gold medal at the Beijing Olympics, misstated the timing of the race. It was on Saturday morning",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27cca8eb7c8105d84385a",
+        "source": "The New York Times",
+        "word_count": 48,
+        "lead_paragraph": "A Sports of The Times column in some editions on Saturday, about the performance by Michael Phelps in the 100-meter butterfly to win his seventh swimming gold medal at the Beijing Olympics, misstated the timing of the race. It was on Saturday morning in Beijing, not Friday morning."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "SPORTS OF THE TIMES",
+          "main": "Finishing Second With a Champion's Grace"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SPITZ, MARK"
+          },
+          {
+            "name": "persons",
+            "value": "PHELPS, MICHAEL"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "FINA"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/17/sports/olympics/17vescey.html",
+        "news_desk": "National Desk",
+        "snippet": "When Michael Phelps extended his Olympic accomplishment with a desperate extra lunge in the 100-meter butterfly final, he sealed Milorad Cavic's legacy as well.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "U.S.",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "VECSEY",
+            "role": "reported",
+            "firstname": "George"
+          }],
+          "original": "By GEORGE VECSEY"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 280,
+          "width": 600,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2008/08/15/sports/olympics/16phelps01_600.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 280,
+            "xlarge": "images/2008/08/15/sports/olympics/16phelps01_600.jpg",
+            "xlargewidth": 600
+          }
+        }],
+        "_id": "4fd267d08eb7c8105d81d432",
+        "source": "The New York Times",
+        "word_count": 880,
+        "lead_paragraph": "Michael Phelps heard that one of his races had been shown on the scoreboard of a baseball game in the States. His delight in being celebrated back home is part of Phelps's somewhat uncomplicated charm, which will now be tested as he comes home with all his medals."
+      },
+      {
+        "abstract": "Swimmer Michael Phelps is on United States' 4x100-meter medley relay that team holds off Australia to win victory, giving him his eighth gold medal in current Olympic Games and his 14th overall in his career; team sets world record with time of 3 minutes 29.34 seconds; Phelps has surpassed Mark Spitz's single Games record of seven gold medals set in 1972; photos (L)",
+        "headline": {"main": "Phelps's Epic Journey Ends in Perfection"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SPITZ, MARK"
+          },
+          {
+            "name": "persons",
+            "value": "PHELPS, MICHAEL"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDS AND ACHIEVEMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (1972)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/17/sports/olympics/17swim.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The U.S. 4x100-meter medley relay team helped Michael Phelps surpass Mark Spitz\u2019s record of seven gold medals.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Front Page; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CROUSE",
+            "role": "reported",
+            "firstname": "Karen"
+          }],
+          "original": "By KAREN CROUSE"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/16/sports/olympics/17phelps01_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/16/sports/olympics/17phelps01_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 450,
+            "width": 349,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/16/sports/olympics/17phelps01_450.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 450,
+              "xlarge": "images/2008/08/16/sports/olympics/17phelps01_450.jpg",
+              "xlargewidth": 349
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/08/16/sports/olympics/17phelps01_337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/08/16/sports/olympics/17phelps01_337.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd267d88eb7c8105d81d963",
+        "source": "The New York Times",
+        "word_count": 1394,
+        "lead_paragraph": "BEIJING -- It was so surreal to be Michael Phelps here, to listen to people debate whether he is the greatest athlete in Olympic history after he passed a group that included the runners Carl Lewis and Paavo Nurmi to become the one with the most gold medals. Phelps is a self-described klutz, a real fish out of water on land, and he has a surgical scar on his right wrist to prove it. In October he took a nasty stumble that imperiled his pursuit of Mark Spitz's single Games record of seven gold medals. Phelps, 23, slipped on a patch of ice and fell while climbing into a friend's car in Michigan and broke his right wrist."
+      },
+      {
+        "abstract": "Correction of Aug 15 chart of Olympic medal winners that misspelled name of Jason Lezak's hometown of Irvine, Calif",
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LEZAK, JASON"
+          },
+          {
+            "name": "glocations",
+            "value": "IRVINE (CALIF)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-08-17T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9F01E5DC1238F934A2575BC0A96E9C8B63",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "A chart of Olympic medal winners on Friday misspelled, in some editions, the California hometown of the swimmer Jason Lezak, who won a bronze medal in the men's 100-meter freestyle. It is Irvine, not Irving.  ",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2972b8eb7c8105d87366e",
+        "source": "The New York Times",
+        "word_count": 35,
+        "lead_paragraph": "A chart of Olympic medal winners on Friday misspelled, in some editions, the California hometown of the swimmer Jason Lezak, who won a bronze medal in the men's 100-meter freestyle. It is Irvine, not Irving."
+      },
+      {
+        "abstract": "Interest in table tennis, commonly known as ping pong, is fading across China as enthusiasts of sport age and younger athletes pursue other sports; table tennis scene at Beijing's Chaoyang Park, which is still bustling early in day and in evening, is described; photos (M)",
+        "headline": {"main": "In China, Table Tennis Is for Gramps"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHAOYANG PARK (BEIJING, CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "AGE, CHRONOLOGICAL"
+          },
+          {
+            "name": "subject",
+            "value": "TENNIS, TABLE"
+          },
+          {
+            "name": "subject",
+            "value": "ATHLETICS AND SPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "BASKETBALL"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/17/sports/olympics/17pingpong.html",
+        "news_desk": "Style Desk",
+        "snippet": "Young athletes seem to be less interested in table tennis, and are embracing basketball and other sports.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Style",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRANCH",
+            "role": "reported",
+            "firstname": "John"
+          }],
+          "original": "By JOHN BRANCH"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 583,
+            "width": 680,
+            "caption": "The Persistent Symphony of Ping-Pong",
+            "type": "AudioSS",
+            "credit": "In Beijing\u2019s Chaoyang Park, the chorus of unseen insects could not drown out the rhythmic metronome of Ping-Pong paddles that have long kept the pace for free time in China.",
+            "url": "http://www.nytimes.com/interactive/2008/08/15/style/2008081608-pingpong2-multimedia/index.html",
+            "legacy": {
+              "MultimediaSummary1": "In Beijing\u2019s Chaoyang Park, the chorus of unseen insects could not drown out the rhythmic metronome of Ping-Pong paddles that have long kept the pace for free time in China.",
+              "MultimediaPopupWidth1": "680",
+              "MultimediaType1": "AudioSS",
+              "MultimediaPopupHeight1": "583",
+              "MultimediaHeadline1": "The Persistent Symphony of Ping-Pong",
+              "MultimediaUrl1": "http://www.nytimes.com/interactive/2008/08/15/style/2008081608-pingpong2-multimedia/index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/17/fashion/17pingpong.751.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/17/fashion/17pingpong.751.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/17/fashion/17pingpong.xlarge1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2008/08/17/fashion/17pingpong.xlarge1.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/08/17/fashion/17pingpong.3371.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/08/17/fashion/17pingpong.3371.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd269a78eb7c8105d820eda",
+        "source": "The New York Times",
+        "word_count": 1365,
+        "lead_paragraph": "ON the far edge of dusk, the cicadas screeched in the eastern shadows of Chaoyang Park. But even the chorus of unseen insects, both a summer soundtrack and a delicacy in these parts, could not drown out the rhythmic metronome that has long kept the pace for free time in China. Ka-donk, ka-dink, ka-donk, ka-dink."
+      },
+      {
+        "abstract": "Maureen Dowd Op-Ed column contends that Bush administration has so bungled its dealings with Russia that it has no leverage to intervene in Russia's aggression toward Georgia (M)",
+        "headline": {
+          "kicker": "OP-ED COLUMNIST",
+          "main": "Russia Is Not Jamaica"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "glocations",
+            "value": "RUSSIA"
+          },
+          {
+            "name": "glocations",
+            "value": "GEORGIA (GEORGIAN REPUBLIC)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2008-08-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/17/opinion/17dowd.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "The cheerleader in chief was in Beijing with bikini-clad beach volleyball players while the Re-Evil Empire was sending columns of tanks into its former republic.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "DOWD",
+            "role": "reported",
+            "firstname": "Maureen"
+          }],
+          "original": "By MAUREEN DOWD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2852c8eb7c8105d8550a6",
+        "source": "The New York Times",
+        "word_count": 806,
+        "lead_paragraph": "America's back in the cold war and W.'s back on vacation."
+      }
+    ],
+    "meta": {
+      "time": 236,
+      "hits": 367,
+      "offset": 270
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

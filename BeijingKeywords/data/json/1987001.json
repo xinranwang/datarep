@@ -1,0 +1,562 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Giant Pandas Arrive For Bronx Zoo Visit"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "NEW YORK CITY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BRONX (NYC)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING ZOO"
+          },
+          {
+            "name": "organizations",
+            "value": "ZOOLOGICAL SOCIETY, NY"
+          },
+          {
+            "name": "subject",
+            "value": "ZOOS"
+          },
+          {
+            "name": "subject",
+            "value": "PANDAS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1987-04-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1987/04/20/nyregion/giant-pandas-arrive-for-bronx-zoo-visit.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "LEAD: Two giant pandas arrived safely in New York City this weekend after a flight of more than 20 hours from China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd16c338eb7c8105d65df2f",
+        "source": "The New York Times",
+        "word_count": 138,
+        "lead_paragraph": "LEAD: Two giant pandas arrived safely in New York City this weekend after a flight of more than 20 hours from China."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Correction"},
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "MUSIC MAN, THE (PLAY)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "O'NEILL, EUGENE, CENTER"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          },
+          {
+            "name": "subject",
+            "value": "THEATER"
+          }
+        ],
+        "print_page": "36",
+        "pub_date": "1987-04-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1987/04/26/theater/correction-523687.html",
+        "news_desk": "Arts and Leisure Desk",
+        "snippet": "LEAD: An article in the Arts and Leisure section last Sunday about a Beijing production of ''The Music Man'' gave an incorrect location for the Eugene O'Neill Theater Center. It is in Waterford, Conn.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts; Theater",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd16a588eb7c8105d65a975",
+        "source": "The New York Times",
+        "word_count": 67,
+        "lead_paragraph": "LEAD: An article in the Arts and Leisure section last Sunday about a Beijing production of ''The Music Man'' gave an incorrect location for the Eugene O'Neill Theater Center. It is in Waterford, Conn."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "CHINA'S 'WAVE OF THE FUTURE': MILLIONS MOVING TO THE BIG CITY"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POPULATION"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1987-05-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1987/05/04/world/china-s-wave-of-the-future-millions-moving-to-the-big-city.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Su Yufeng dangled his left arm from a window of the baby-blue bus without wheels planted on a scruffy patch of dirt at the Baiwanzhuan free market. ''Watches Repaired,'' a gaudy sign on the bus announced.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "A.",
+              "role": "reported",
+              "lastname": "GARGAN",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By EDWARD A. GARGAN, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd16c348eb7c8105d65df7a",
+        "source": "The New York Times",
+        "word_count": 668,
+        "lead_paragraph": "LEAD: Su Yufeng dangled his left arm from a window of the baby-blue bus without wheels planted on a scruffy patch of dirt at the Baiwanzhuan free market. ''Watches Repaired,'' a gaudy sign on the bus announced."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "RESTAURANTEUR BRINGS IN 6 CHEFS FROM BEIJING"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "YU TIEZHU"
+          },
+          {
+            "name": "persons",
+            "value": "WANG YIJUNG"
+          },
+          {
+            "name": "persons",
+            "value": "WANG, ALICE"
+          },
+          {
+            "name": "persons",
+            "value": "ZHANG YONGZAI"
+          },
+          {
+            "name": "persons",
+            "value": "YIN ZHINJING"
+          },
+          {
+            "name": "glocations",
+            "value": "SPRINGFIELD (NJ)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CATHAY 22"
+          },
+          {
+            "name": "subject",
+            "value": "RESTAURANTS"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1987-05-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1987/05/10/nyregion/restauranteur-brings-in-6-chefs-from-beijing.html",
+        "news_desk": "New Jersey Weekly Desk",
+        "snippet": "LEAD: THINGS are a bit different these days for Wang Yijung, and Union County is quite different from Beijing, but the master chef is starting to enjoy himself and to see that this part of America will be his universe for two years.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "New York and Region",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Yin-fei",
+            "role": "reported",
+            "lastname": "LO",
+            "firstname": "Eileen"
+          }],
+          "original": "By EILEEN YIN-FEI LO; Eileen Yin-Fei Lo, who teaches Regional Chinese cooking at the China Institute in America, New York, is the author of ''The Chinese Banquet Cookbook: Authentic Feasts From China's Regions,'' which won the Tastemaker Award for Asian cookery in December"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd16c338eb7c8105d65dedf",
+        "source": "The New York Times",
+        "word_count": 754,
+        "lead_paragraph": "LEAD: THINGS are a bit different these days for Wang Yijung, and Union County is quite different from Beijing, but the master chef is starting to enjoy himself and to see that this part of America will be his universe for two years."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "ADVERTISING",
+          "main": "Beijing Ad Congress Likely to Attract 1,200"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING"
+          },
+          {
+            "name": "subject",
+            "value": "CONVENTIONS AND CONFERENCES"
+          },
+          {
+            "name": "subject",
+            "value": "THIRD WORLD AND DEVELOPING COUNTRIES"
+          }
+        ],
+        "print_page": "33",
+        "pub_date": "1987-06-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1987/06/09/business/advertising-beijing-ad-congress-likely-to-attract-1200.html",
+        "news_desk": "Financial Desk",
+        "snippet": "LEAD: At least 1,200 people are expected to be in Beijing for the opening of the Third World Advertising Congress, according to James L. Fleury, the director, who called last week from Hong Kong with his report.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "H.",
+            "role": "reported",
+            "lastname": "Dougherty",
+            "firstname": "Philip"
+          }],
+          "original": "By Philip H. Dougherty"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1804e8eb7c8105d67bad3",
+        "source": "The New York Times",
+        "word_count": 241,
+        "lead_paragraph": "LEAD: At least 1,200 people are expected to be in Beijing for the opening of the Third World Advertising Congress, according to James L. Fleury, the director, who called last week from Hong Kong with his report."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "ADVERTISING",
+          "main": "Bozell, Jacobs Campaign Impresses the Chinese"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BOZELL JACOBS KENYON & ECKHARDT"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING"
+          },
+          {
+            "name": "subject",
+            "value": "CONVENTIONS AND CONFERENCES"
+          }
+        ],
+        "print_page": "23",
+        "pub_date": "1987-06-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1987/06/18/business/advertising-bozell-jacobs-campaign-impresses-the-chinese.html",
+        "news_desk": "Financial Desk",
+        "snippet": "LEAD: Bozell, Jacobs, Kenyon & Eckhardt was invited to the Third World Advertising Congress in Beijing to present a campaign for a fictional product for the edification of some 2,000 guests at the Great Hall of the People.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "H.",
+            "role": "reported",
+            "lastname": "DOUGHERTY",
+            "firstname": "Philip"
+          }],
+          "original": "By PHILIP H. DOUGHERTY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd16abc8eb7c8105d65ba68",
+        "source": "The New York Times",
+        "word_count": 262,
+        "lead_paragraph": "LEAD: Bozell, Jacobs, Kenyon & Eckhardt was invited to the Third World Advertising Congress in Beijing to present a campaign for a fictional product for the edification of some 2,000 guests at the Great Hall of the People."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "PAPERS PLAY UP DENG'S IDEAS, SIGNALING CHANGES FOR CHINA"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1987-07-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1987/07/02/world/papers-play-up-deng-s-ideas-signaling-changes-for-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: A seven-year-old speech by China's senior leader, Deng Xiaoping, denouncing bureaucracy and ''feudal'' ideas within the Communist Party and calling for a measure of political change appeared on the front pages of newspapers today.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "A.",
+              "role": "reported",
+              "lastname": "GARGAN",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By EDWARD A. GARGAN, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd171248eb7c8105d664577",
+        "source": "The New York Times",
+        "word_count": 614,
+        "lead_paragraph": "LEAD: A seven-year-old speech by China's senior leader, Deng Xiaoping, denouncing bureaucracy and ''feudal'' ideas within the Communist Party and calling for a measure of political change appeared on the front pages of newspapers today."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Journal; Hooligans and Hounds Gone, Bring On the Party"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DOGS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1987-09-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1987/09/28/world/beijing-journal-hooligans-and-hounds-gone-bring-on-the-party.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: The clots of shaggy-haired young men from Xinjiang, who once loitered outside large hotels here changing money, hawking cashmere scarves and brandishing scrolls with painted pandas, are gone.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "A.",
+              "role": "reported",
+              "lastname": "GARGAN",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By EDWARD A. GARGAN, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1726c8eb7c8105d6661ea",
+        "source": "The New York Times",
+        "word_count": 917,
+        "lead_paragraph": "LEAD: The clots of shaggy-haired young men from Xinjiang, who once loitered outside large hotels here changing money, hawking cashmere scarves and brandishing scrolls with painted pandas, are gone."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Glimpses of Old China in Modern Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "20",
+        "pub_date": "1987-10-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1987/10/04/magazine/glimpses-of-old-china-in-modern-beijing.html",
+        "news_desk": "Magazine Desk",
+        "snippet": "LEAD: EVERY TIME I RETURN TO BEIJING AND SEE its skyline growing with cell-blocklike high-rise apartments, drive through its charmless streets and have to breathe the polluted air, I am reminded of how far the city has drifted from its past and wonde",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel; Magazine",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SCHELL",
+            "role": "reported",
+            "firstname": "Orville"
+          }],
+          "original": "By ORVILLE SCHELL; Orville Schell is the author of ''To Get Rich Is Glorious: China in the Eighties'' (Pantheon)"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd171918eb7c8105d664be3",
+        "source": "The New York Times",
+        "word_count": 2271,
+        "lead_paragraph": "LEAD: EVERY TIME I RETURN TO BEIJING AND SEE its skyline growing with cell-blocklike high-rise apartments, drive through its charmless streets and have to breathe the polluted air, I am reminded of how far the city has drifted from its past and wonder how the myth of Beijing as a beautiful city redolent of history has managed to survive its modern esthetic impoverishment."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Tishman's Global Strategy"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SPEYER, JERRY I"
+          },
+          {
+            "name": "glocations",
+            "value": "NEW YORK CITY"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "TISHMAN SPEYER PROPERTIES"
+          },
+          {
+            "name": "subject",
+            "value": "COMPANY AND ORGANIZATION PROFILES"
+          },
+          {
+            "name": "subject",
+            "value": "INVESTMENT STRATEGIES"
+          }
+        ],
+        "print_page": "43",
+        "pub_date": "1987-10-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1987/10/10/business/tishman-s-global-strategy.html",
+        "news_desk": "Financial Desk",
+        "snippet": "LEAD: Jerry I. Speyer, chief executive of one of the oldest and most respected real estate companies in New York, has quietly shifted his attention away from the city that made his family rich.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SCARDINO",
+            "role": "reported",
+            "firstname": "Albert"
+          }],
+          "original": "By ALBERT SCARDINO"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1718e8eb7c8105d6649b5",
+        "source": "The New York Times",
+        "word_count": 1873,
+        "lead_paragraph": "LEAD: Jerry I. Speyer, chief executive of one of the oldest and most respected real estate companies in New York, has quietly shifted his attention away from the city that made his family rich."
+      }
+    ],
+    "meta": {
+      "time": 99,
+      "hits": 23,
+      "offset": 10
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

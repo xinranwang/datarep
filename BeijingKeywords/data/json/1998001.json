@@ -1,0 +1,590 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Chinese Foreign Min Tang Jiaxuan calls on Pres Clinton to publicly restate during his China visit United States opposition to any move by Taiwan toward independence, news conference; also urges US to halt sales of advance weapons to Taiwan; holds visit will spur improved ties with US; defends plan to greet Clinton in Tiananmen Square, where military crushed student demonstrations in 1989 (M)",
+        "headline": {"main": "Clinton Is Pressed On 'One China' Policy"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+          },
+          {
+            "name": "persons",
+            "value": "TANG JIAXUAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "TAIWAN-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "ARMS SALES ABROAD"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1998-06-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/06/23/world/clinton-is-pressed-on-one-china-policy.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China's Foreign Minister today called on President Clinton to make a public statement during his state visit this week restating American opposition to any move by Taiwan toward independence.     In a news conference this morning the minister, Tang J",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1deb08eb7c8105d723221",
+        "source": "The New York Times",
+        "word_count": 671,
+        "lead_paragraph": "China's Foreign Minister today called on President Clinton to make a public statement during his state visit this week restating American opposition to any move by Taiwan toward independence. In a news conference this morning the minister, Tang Jiaxuan, also called on the United States to halt sales of advanced weapons like fighter planes and defensive missiles to Taiwan."
+      },
+      {
+        "abstract": "Correction of June 23 picture caption on preparations for Pres Clinton's visit to China, which misspelled name of state guesthouse",
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "1998-06-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/06/25/nyregion/c-corrections-586048.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "A picture caption on Tuesday about preparations for President Clinton's visit to Beijing misspelled the name of the state guesthouse there. It is Diaoyutai, not Daiyutai.",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections; Washington; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1fd0d8eb7c8105d75ce5d",
+        "source": "The New York Times",
+        "word_count": 26,
+        "lead_paragraph": "A picture caption on Tuesday about preparations for President Clinton's visit to Beijing misspelled the name of the state guesthouse there. It is Diaoyutai, not Daiyutai."
+      },
+      {
+        "abstract": "Zhao Ziyang, who was ousted as Communist Party chief at time of 1989 Tiananmen Square, Beijing, crackdown, challenges China's leaders to admit incident was both wrong and immense political blunder, letter to party's Central Committee; holds Pres Clinton's visit offers chance to reverse official verdict on massacre; has been under house arrest for nine years and risks further punishment with bid to spur debate; photos (M)",
+        "headline": {
+          "kicker": "CLINTON IN CHINA: THE APPEAL",
+          "main": "EX-CHINESE LEADER CONFRONTS BEIJING ON 1989 MASSACRE"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO ZIYANG"
+          },
+          {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1998-06-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/06/25/world/clinton-in-china-the-appeal-ex-chinese-leader-confronts-beijing-on-1989-massacre.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Zhao Ziyang, who was ousted as Communist Party chief at the time of the crackdown in Tiananmen Square in 1989, has challenged the nation's leaders to admit that the incident was not only reprehensible but also an immense political blunder.     Mr. Zh",
+        "type_of_material": "Chronology",
+        "blog": [],
+        "section_name": "World; Front Page; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FAISON",
+            "role": "reported",
+            "firstname": "Seth"
+          }],
+          "original": "By SETH FAISON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd213c78eb7c8105d78b5ea",
+        "source": "The New York Times",
+        "word_count": 1161,
+        "lead_paragraph": "Zhao Ziyang, who was ousted as Communist Party chief at the time of the crackdown in Tiananmen Square in 1989, has challenged the nation's leaders to admit that the incident was not only reprehensible but also an immense political blunder. Mr. Zhao, who has been under house arrest for nine years, made his case in a letter to the party's Central Committee by arguing that President Clinton's visit to China, which begins today, offered a chance to reverse the official verdict on the massacre that bloodied the streets of Beijing and deeply scarred the nation's conscience. The Communist Party has insisted that the Government had to call in the military to quell a ''counter-revolutionary rebellion.''"
+      },
+      {
+        "abstract": "Editorial urges Pres Clinton to assert American values during visit to Tiananmen Square in Beijing, where hundreds of peaceful pro-democracy demonstrators were massacred in 1989; says Clinton can honor them by describing their sacrifice as reminder of how far China and its leaders must travel (M)",
+        "headline": {"main": "Democrats in China"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "22",
+        "pub_date": "1998-06-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/06/25/opinion/democrats-in-china.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "We would feel more confident about the lasting value of President Clinton's trip to China, which begins today, if we knew that someone had included among his briefing papers a summary of Ronald Reagan's extraordinary visit to the Soviet Union in 1988",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20c618eb7c8105d77baeb",
+        "source": "The New York Times",
+        "word_count": 530,
+        "lead_paragraph": "We would feel more confident about the lasting value of President Clinton's trip to China, which begins today, if we knew that someone had included among his briefing papers a summary of Ronald Reagan's extraordinary visit to the Soviet Union in 1988. Mr. Reagan used that trip to meet with prominent dissidents and speak directly to Soviet audiences about fundamental freedoms and the advantages of democracy, and there was little that his host, Mikhail Gorbachev, could do about it but grumble. Mr. Reagan knew that one of the important powers of a traveling President is the right to speak plainly in lands unaccustomed to open debate. Bill Clinton has the same luxury. The cause of human rights will be poorer if he squanders it. Mr. Clinton's aides have said he will address the issue in some way, and there is no shortage of promising venues. His itinerary includes a small village that has just conducted its first open election, an ecumenical church and a classroom at Beijing University. But there is one obvious setting in which Mr. Clinton can seize the moment, politely but firmly, to assert American values. That is Tiananmen Square, which he will visit on Saturday, and where hundreds of peaceful pro-democracy demonstrators were slaughtered on June 4, 1989."
+      },
+      {
+        "abstract": "Pres Clinton's appearance in Tiananmen Square, symbolic center of Communist China, has been nonnegotiable point with Chinese officials since Pres Clinton first agreed to visit country; June 1989 massacre that ended pro-democracy demonstrations in square did not take place in square itself; armed forces approaching square from west began shooting indiscriminately at unarmed civilians when they were three miles away from square and ceased shooting by the time they reached the edge of square; plan of square (M)",
+        "headline": {
+          "kicker": "CLINTON IN CHINA: THE SITE",
+          "main": "Clinton, in Beijing Square, May Tread on the Ghosts"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "1998-06-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/06/27/world/clinton-in-china-the-site-clinton-in-beijing-square-may-tread-on-the-ghosts.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Tiananmen Square is the symbolic center of Communist China.    It is where Mao Zedong proclaimed the founding of the People's  Republic in 1949, where millions of Red Guards gathered in the political frenzy of the 1960's, and where students spontaneo",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FAISON",
+            "role": "reported",
+            "firstname": "Seth"
+          }],
+          "original": "By SETH FAISON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd206668eb7c8105d76f679",
+        "source": "The New York Times",
+        "word_count": 704,
+        "lead_paragraph": "Tiananmen Square is the symbolic center of Communist China. It is where Mao Zedong proclaimed the founding of the People's Republic in 1949, where millions of Red Guards gathered in the political frenzy of the 1960's, and where students spontaneously convened the largest demonstrations in the nation's history to demand greater democracy during the spring of 1989."
+      },
+      {
+        "abstract": "Editorial holds China has seriously embarrassed Pres Clinton by detaining democracy advocates during his stop in Xian and by imposing heavy surveillance on other democrats in Beijing; holds he must respond personally, publicly and bluntly",
+        "headline": {"main": "China's Rude Reception"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "XIAN (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "1998-06-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/06/27/opinion/china-s-rude-reception.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "The ceremonial part of President Clinton's welcome may be fit for an emperor, but other aspects of the Chinese Government's behavior have looked like calculated insults. By detaining several democracy advocates during the President's stop in Xian and",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd218738eb7c8105d79521f",
+        "source": "The New York Times",
+        "word_count": 397,
+        "lead_paragraph": "The ceremonial part of President Clinton's welcome may be fit for an emperor, but other aspects of the Chinese Government's behavior have looked like calculated insults. By detaining several democracy advocates during the President's stop in Xian and imposing heavy surveillance on other democrats in Beijing, Chinese leaders have seriously embarrassed Mr. Clinton. He must respond personally, publicly and bluntly. As Beijing well knows, Mr. Clinton took considerable political risks to go through with this trip. By making his presence a pretext for picking up political activists, China's leaders demonstrated indifference to his efforts on their behalf."
+      },
+      {
+        "abstract": "Comment on Pres and Mrs Clinton's visits to Shanghai and Beijing; Clintons take trip on tour boat on Li River near Guilan; photo (M)",
+        "headline": {
+          "kicker": "CLINTON IN CHINA: REPORTER'S NOTEBOOK",
+          "main": "The Campaign Never Rests: On the Road in China, Clinton Was Right at Home"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+          },
+          {
+            "name": "persons",
+            "value": "CLINTON, HILLARY RODHAM"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1998-07-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/07/03/world/clinton-china-reporter-s-notebook-campaign-never-rests-road-china-clinton-was.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "As President Clinton traveled through China, his permanent campaign rolled on.     In Shanghai on Wednesday, for example, the President spoke at a Chamber of Commerce breakfast, chatted with students at a cybercafe, shmoozed with traders on the floor",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By JOHN M. BRODER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20c5f8eb7c8105d77ba62",
+        "source": "The New York Times",
+        "word_count": 1120,
+        "lead_paragraph": "As President Clinton traveled through China, his permanent campaign rolled on. In Shanghai on Wednesday, for example, the President spoke at a Chamber of Commerce breakfast, chatted with students at a cybercafe, shmoozed with traders on the floor of the Shanghai Stock Exchange, hyped home ownership to residents of a new apartment complex and sat for an interview with Chinese state television. Pretty much like any other day on the road in America."
+      },
+      {
+        "abstract": "Puccini's Turandot will be staged in 500-year-old courtyard of Forbidden City in Beijing in September; Zubin Mehta will be conductor and artistic chief; Zhang Zimou will direct (M)",
+        "headline": {"main": "'Turandot' to Be Staged in Beijing's Forbidden City"},
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "TURANDOT (OPERA)"
+          },
+          {
+            "name": "persons",
+            "value": "MEHTA, ZUBIN"
+          },
+          {
+            "name": "persons",
+            "value": "ZHANG ZIMOU"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "OPERA"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "1998-07-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/07/10/movies/turandot-to-be-staged-in-beijing-s-forbidden-city.html",
+        "news_desk": "Movies, Performing Arts/Weekend Desk",
+        "snippet": "The superlatives are swirling around the ''Turandot'' that will be mounted this September in a 500-year-old courtyard of the Forbidden City here.    With Zubin Mehta as conductor and artistic chief, the Chinese filmmaker Zhang Yimou as director and a",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Movies; Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ec6f8eb7c8105d73db75",
+        "source": "The New York Times",
+        "word_count": 490,
+        "lead_paragraph": "The superlatives are swirling around the ''Turandot'' that will be mounted this September in a 500-year-old courtyard of the Forbidden City here. With Zubin Mehta as conductor and artistic chief, the Chinese filmmaker Zhang Yimou as director and a colorful temple where emperors once offered sacrifices to their ancestors as a backdrop, this production is sure to be an Event."
+      },
+      {
+        "abstract": "Beijing Journal on Government's long-delayed plans to build world-class opera house on empty lot across from Great Hall of the People; photo; plan was first announced 40 years ago, but officials insist this time they have $400-million budget, and work will be completed by 2002 (S)",
+        "headline": {
+          "kicker": "BEIJING JOURNAL",
+          "main": "40 Years of Opera House Plans, but Still No Music"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OPERA"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1998-08-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/08/01/world/beijing-journal-40-years-of-opera-house-plans-but-still-no-music.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "In a city where real estate prices have skyrocketed, where developers compete to put up glitzy apartment complexes and shopping centers, it is little short of stunning that this capital's best-located empty lot has remained just that -- empty -- for ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FAISON",
+            "role": "reported",
+            "firstname": "Seth"
+          }],
+          "original": "By SETH FAISON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20b0b8eb7c8105d778d2b",
+        "source": "The New York Times",
+        "word_count": 905,
+        "lead_paragraph": "In a city where real estate prices have skyrocketed, where developers compete to put up glitzy apartment complexes and shopping centers, it is little short of stunning that this capital's best-located empty lot has remained just that -- empty -- for 40 years. Situated across the street from the Great Hall of the People and a stone's throw from Zhongnanhai, the secretive compound where China's leaders live and work, this parcel of land is about as prime as you can find in all of China. Today it serves as a sunken parking lot for mail trucks, and is surrounded by dilapidated shacks where a few dozen itinerant workers bunk."
+      },
+      {
+        "abstract": "Chen Xitong, powerful former mayor and Communist party boss of Beijing, is sentenced to 16 years in prison for corruption; photo; sentence reflects leadership's determination to crack down on corruption, and concludes Chen's long, bitter rivalry with Pres Jiang Zemin; Chen controlled building permits in booming city and amassed $24-million fund, and was also implicated in much larger financial schemes (S)",
+        "headline": {"main": "Jailing of Ex-Mayor Shows a Tougher China"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN XITONG"
+          },
+          {
+            "name": "persons",
+            "value": "JIANG ZEMIN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1998-08-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/08/01/world/jailing-of-ex-mayor-shows-a-tougher-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The 16-year sentence given today to Chen Xitong, the powerful former Mayor and Communist Party boss of Beijing, is intended to show that China's leaders are serious about cracking down on the corruption that is eating away at the core of their author",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FAISON",
+            "role": "reported",
+            "firstname": "Seth"
+          }],
+          "original": "By SETH FAISON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd213c68eb7c8105d78b56f",
+        "source": "The New York Times",
+        "word_count": 611,
+        "lead_paragraph": "The 16-year sentence given today to Chen Xitong, the powerful former Mayor and Communist Party boss of Beijing, is intended to show that China's leaders are serious about cracking down on the corruption that is eating away at the core of their authority. Mr. Chen was found guilty by a Beijing court of corruption and dereliction of duty, the state news media reported. He is the only member of the party's ruling Politburo to be jailed since the show trials of the so-called Gang of Four, the leftists who were ousted from power 20 years ago."
+      }
+    ],
+    "meta": {
+      "time": 88,
+      "hits": 37,
+      "offset": 10
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

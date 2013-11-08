@@ -1,0 +1,734 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Dusting Off a Serene Jewel Box"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD MONUMENTS FUND"
+          },
+          {
+            "name": "subject",
+            "value": "RESTORATION AND REHABILITATION"
+          },
+          {
+            "name": "subject",
+            "value": "PALACES AND CASTLES"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2009-01-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/01/01/arts/design/01forb.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "Chinese and American conservators are restoring a mothballed Qing Dynasty retreat in the Forbidden City.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "caption": "Long Forgotten in the Forbidden City",
+            "type": "Slideshow",
+            "credit": "After decades of neglect, the Juanqinzhai is the first part of the 18th-century Palace of Tranquillity and Longevity to be restored.",
+            "url": "http://www.nytimes.com/slideshow/2008/12/31/arts/design/20090101_FORBIDDEN_index.html",
+            "legacy": {
+              "MultimediaSummary1": "After decades of neglect, the Juanqinzhai is the first part of the 18th-century Palace of Tranquillity and Longevity to be restored.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Long Forgotten in the Forbidden City",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2008/12/31/arts/design/20090101_FORBIDDEN_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/01/01/arts/thumb.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/01/01/arts/thumb.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 373,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/01/01/arts/forbid.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 373,
+              "xlarge": "images/2009/01/01/arts/forbid.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd298fa8eb7c8105d8760b8",
+        "source": "The New York Times",
+        "word_count": 952,
+        "lead_paragraph": "Like any sensible adult, the Emperor Qianlong planned ahead for his retirement. A compulsive poet who oversaw the unprecedented expansion of China's borders, Qianlong began creating a refuge in 1771, at 61, for his golden years. Unlike his predecessors, who ruled until death or disability, Qianlong, the fifth emperor of the Qing Dynasty, vowed to abdicate at 85 and settle down in comparatively modest quarters carved out of the Forbidden City, the imperial behemoth with hundreds of rooms that anchors the Chinese capital."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Fireworks Spark Beijing Blaze "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "FIRES AND FIREFIGHTERS"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": "KOOLHAAS, REM"
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2009-02-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2009/02/10/sports/0210-BEIJING_index.html",
+        "news_desk": null,
+        "snippet": "A fireworks show on the final day of celebrations marking the Lunar New Year sparked a fire at the landmark China Central Television headquarters complex in Beijing.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a8a2d1c22dfde670c301c",
+        "source": null,
+        "word_count": 35,
+        "lead_paragraph": "A fireworks show on the final day of celebrations marking the Lunar New Year sparked a fire at the landmark China Central Television headquarters complex in Beijing."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Fireworks Spark Beijing Blaze "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": ""
+          },
+          {
+            "name": "organizations",
+            "value": "CHINA CENTRAL TELEVISION"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "persons",
+            "value": "KOOLHAAS, REM"
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2009-02-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2009/02/10/world/asia/0210-BEIJING2_index.html",
+        "news_desk": null,
+        "snippet": "A fireworks show on the final day of celebrations marking the Lunar New Year sparked a fire at the landmark China Central Television headquarters complex in Beijing.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a8a2d1c22dfde670c301d",
+        "source": null,
+        "word_count": 32,
+        "lead_paragraph": "A fireworks show on the final day of celebrations marking the Lunar New Year sparked a fire at the landmark China Central Television headquarters complex in Beijing."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Fireworks Spark Beijing Blaze "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "FIRES AND FIREFIGHTERS"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": "KOOLHAAS, REM"
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2009-02-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2009/02/10/world/0210-BEIJING_index.html",
+        "news_desk": null,
+        "snippet": "A fireworks show on the final day of celebrations marking the Lunar New Year sparked a fire at the landmark China Central Television headquarters complex in Beijing.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a8a291c22dfde670c2fba",
+        "source": null,
+        "word_count": 35,
+        "lead_paragraph": "A fireworks show on the final day of celebrations marking the Lunar New Year sparked a fire at the landmark China Central Television headquarters complex in Beijing."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Fire Ravages Renowned Building in Beijing"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "KOOLHAAS, REM"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FIRES AND FIREFIGHTERS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2009-02-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/02/10/world/asia/10beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A fierce blaze started by an illegal fireworks show engulfed one of the Chinese capital\u2019s most architecturally celebrated modern buildings on Monday.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Edward Wong contributed reporting from Beijing, and Graham Bowley from New York"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "col": "MULTIMEDIA",
+            "rank": "1",
+            "caption": "Fire Ravages Beijing Building",
+            "type": "Video",
+            "credit": "Fire consumed a building in Beijing that formed part of Central China Television's new headquarters as residents set off fireworks throughout the city to celebrate the Lantern Festival on Monday evening.",
+            "url": "http://video.nytimes.com/video/2009/02/09/multimedia/1231547491645/fire-ravages-beijing-building.html",
+            "legacy": {
+              "MultimediaSummary1": "Fire consumed a building in Beijing that formed part of Central China Television's new headquarters as residents set off fireworks throughout the city to celebrate the Lantern Festival on Monday evening.",
+              "MultimediaCol1": "MULTIMEDIA",
+              "MultimediaType1": "Video",
+              "MultimediaUrl1": "http://video.nytimes.com/video/2009/02/09/multimedia/1231547491645/fire-ravages-beijing-building.html",
+              "MultimediaHeadline1": "Fire Ravages Beijing Building"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/02/09/world/09beijing-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/02/09/world/09beijing-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 326,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/02/09/world/09beijing-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 326,
+              "xlarge": "images/2009/02/09/world/09beijing-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2009/02/09/world/09beijing-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2009/02/09/world/09beijing-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd268ce8eb7c8105d81f63e",
+        "source": "The New York Times",
+        "word_count": 551,
+        "lead_paragraph": "A fierce blaze started by an illegal fireworks show engulfed one of the Chinese capital's most architecturally celebrated modern buildings on Monday, the last day of festivities for the Lunar New Year, the official Xinhua News Agency reported Tuesday. The fire was not extinguished until early Tuesday morning. Xinhua, quoting a fire official, said a fireworks company had been hired to ignite several hundred large firecrackers in an open space outside the building, the Mandarin Oriental Hotel, which was under construction."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Chinese TV Network Apologizes for Fire"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FIRES AND FIREFIGHTERS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2009-02-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/02/11/world/asia/11beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China Central Television\u2019s employees defied the police by staging illegal pyrotechnics near the building that caught fire on Monday, leaving a firefighter dead.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Huang Yuanxi contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "caption": "Fireworks Spark Beijing Blaze",
+            "type": "Slideshow",
+            "credit": "A fireworks show on the final day of celebrations marking the Lunar New Year sparked a fire at the landmark China Central Television headquarters complex in Beijing.",
+            "url": "http://www.nytimes.com/slideshow/2009/02/10/world/asia/0210-BEIJING2_index.html",
+            "legacy": {
+              "MultimediaSummary1": "A fireworks show on the final day of celebrations marking the Lunar New Year sparked a fire at the landmark China Central Television headquarters complex in Beijing.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Fireworks Spark Beijing Blaze",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2009/02/10/world/asia/0210-BEIJING2_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/02/10/world/10beij.ms.75b.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/02/10/world/10beij.ms.75b.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 365,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/02/10/world/10beijing-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 365,
+              "xlarge": "images/2009/02/10/world/10beijing-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2009/02/10/world/10beijing-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2009/02/10/world/10beijing-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd26d478eb7c8105d826405",
+        "source": "The New York Times",
+        "word_count": 886,
+        "lead_paragraph": "China's national television network on Tuesday blamed an illegal fireworks display by its employees for igniting a blaze that destroyed a futuristic luxury hotel and theater here. In a statement posted on its Web site, the network, China Central Television, said the illegal pyrotechnics on Monday, the final night of the Lunar New Year celebrations, were staged too close to the unfinished Mandarin Oriental Hotel, which is part of the network's headquarters complex. The network apologized for ''the severe damage the fire caused to the country's property.''"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "At Reading In Beijing, Noted Writer Is Stabbed"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "WRITING AND WRITERS"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+          },
+          {
+            "name": "subject",
+            "value": "ASSAULTS"
+          },
+          {
+            "name": "subject",
+            "value": "BLOGS AND BLOGGING (INTERNET)"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2009-02-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/02/16/world/asia/16china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Xu Lai, a writer known for provocative, antiestablishment Web postings, was stabbed and wounded during a book reading on Saturday.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Jonathan Ansfield contributed reporting, and Huang Yuanxi contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b4b18eb7c8105d8a7045",
+        "source": "The New York Times",
+        "word_count": 459,
+        "lead_paragraph": "A prominent Chinese writer known for provocative, antiestablishment Web postings was stabbed and wounded during a book reading on Saturday. The writer, Xu Lai, a newspaper reporter, novelist and blogger whose satirical Internet postings are widely followed by students, journalists and the Chinese literati, may have been singled out for his writings, his friends and associates said."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "ARTS, BRIEFLY",
+          "main": "Museum In China Lends Art To Taiwan Counterpart"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "TAIPEI (TAIWAN)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NATIONAL PALACE MUSEUM"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2009-02-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/02/17/arts/design/17arts-MUSEUMINCHIN_BRF.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "The Palace Museum in Beijing has agreed to lend artworks to the National Palace Museum in Taipei for a special exhibition this year.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER; Compiled by BEN SISARIO"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd284678eb7c8105d8538a9",
+        "source": "The New York Times",
+        "word_count": 209,
+        "lead_paragraph": "The Palace Museum in Beijing has agreed to lend artworks to the National Palace Museum in Taipei for a special exhibition this year, temporarily reuniting a small part of China's immense imperial collection for the first time in 60 years, both museums said on Monday. A spokesman for the Palace Museum in Beijing said that no agreement had been reached on how many would travel. The Taiwan museum plans to borrow the works, mainly paintings, for a three-month exhibition starting in October of art from the reign of Emperor Yongzheng, who ruled from 1723 to 1735. In meetings over the weekend in Beijing the directors of the museums agreed to coordinate their catalogs and Web sites, according to the Taiwan museum, but the two sides did not address mainland China's legal claim to full ownership of the entire imperial collection, which has long been divided by strife. The Nationalists took nearly a quarter of it when they lost China's civil war to the Communists in 1949 and retreated to Taiwan. The Taipei museum refuses to lend any works to the mainland for fear that they will not be returned and has only rarely lent works from the imperial collection to other countries for fear of legal action."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Facing Counterfeiting Crackdown, Beijing Vendors Fight Back"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "VUITTON, LOUIS"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "PRADA"
+          },
+          {
+            "name": "organizations",
+            "value": "GUCCI GROUP NV"
+          },
+          {
+            "name": "organizations",
+            "value": "BURBERRY"
+          },
+          {
+            "name": "organizations",
+            "value": "DOLCE & GABBANA"
+          },
+          {
+            "name": "organizations",
+            "value": "CHANEL INC"
+          },
+          {
+            "name": "subject",
+            "value": "HANDBAGS AND PURSES"
+          },
+          {
+            "name": "subject",
+            "value": "COUNTERFEIT MERCHANDISE"
+          },
+          {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+          },
+          {
+            "name": "subject",
+            "value": "TRADEMARKS AND TRADE NAMES"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2009-03-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/03/02/world/asia/02piracy.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Tenacious vendors have staged protests against lawyers who are pursuing trademark cases, mocking them as bourgeois puppets of foreigners.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LaFRANIERE",
+            "role": "reported",
+            "firstname": "Sharon"
+          }],
+          "original": "By SHARON LaFRANIERE"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 331,
+          "width": 600,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2009/03/01/world/02piracy_600.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 331,
+            "xlarge": "images/2009/03/01/world/02piracy_600.jpg",
+            "xlargewidth": 600
+          }
+        }],
+        "_id": "4fd299058eb7c8105d876ac2",
+        "source": "The New York Times",
+        "word_count": 1059,
+        "lead_paragraph": "Any tourist who has stepped foot in this city's famous Silk Street Market can testify that it is home to some of the wiliest, most tenacious vendors who ever tried to palm off a fake handbag on a naïve foreigner. So when the market managers temporarily shut down 29 stalls over the past month for selling counterfeit goods, no one expected the merchants to acquiesce quietly to the loss of business."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "BEIJING JOURNAL",
+          "main": "Built Online, Shelter For Homeless Fills Up"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "HOMELESS PERSONS"
+          },
+          {
+            "name": "subject",
+            "value": "BLOGS AND BLOGGING (INTERNET)"
+          },
+          {
+            "name": "subject",
+            "value": "RECLAMATION OF LAND"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2009-03-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/03/04/world/asia/04beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "South of Tiananmen Square, mazelike neighborhoods are being bulldozed and grand shopping promenades erected, but homeless people keep resurfacing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ANSFIELD",
+            "role": "reported",
+            "firstname": "Jonathan"
+          }],
+          "original": "By JONATHAN ANSFIELD"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/03/04/world/04beijing_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/03/04/world/04beijing_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 434,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/03/04/world/04beijing_650.JPG",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 434,
+              "xlarge": "images/2009/03/04/world/04beijing_650.JPG",
+              "xlargewidth": 650
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2009/03/04/world/04beijing_337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2009/03/04/world/04beijing_337.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd284698eb7c8105d853a4b",
+        "source": "The New York Times",
+        "word_count": 1120,
+        "lead_paragraph": "South of Tiananmen Square, mazelike neighborhoods are being bulldozed and grand shopping promenades erected, but homeless people keep resurfacing. Hundreds roam the area, most of them migrants from the countryside, whose chances of escaping their predicament have dimmed with the faltering economy. Many of the migrants are elderly or disabled people who came here after their relatives left their villages in search of jobs along the coast. Others are petitioning for redress for a host of alleged wrongs, including the seizure of land for development."
+      }
+    ],
+    "meta": {
+      "time": 104,
+      "hits": 62,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

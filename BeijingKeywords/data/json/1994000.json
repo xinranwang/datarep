@@ -1,0 +1,589 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Bentsen Says China Isn't Doing Enough on Rights"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LIU ZHONGLI"
+          },
+          {
+            "name": "persons",
+            "value": "BENTSEN, LLOYD"
+          },
+          {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+          },
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "TREASURY DEPARTMENT"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL, PERSONAL"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "1994-01-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1994/01/20/world/bentsen-says-china-isn-t-doing-enough-on-rights.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Treasury Secretary Lloyd Bentsen said Wednesday after meetings with China's leaders that the Clinton Administration was still not satisfied with the measures Beijing was taking to improve its human rights practices and that it must do more if it ho",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "L.",
+            "role": "reported",
+            "lastname": "FRIEDMAN",
+            "firstname": "Thomas"
+          }],
+          "original": "By THOMAS L. FRIEDMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1bf1a8eb7c8105d6ecb50",
+        "source": "The New York Times",
+        "word_count": 889,
+        "lead_paragraph": "Treasury Secretary Lloyd Bentsen said Wednesday after meetings with China's leaders that the Clinton Administration was still not satisfied with the measures Beijing was taking to improve its human rights practices and that it must do more if it hopes to win renewed American trade benefits. But Treasury Department officials said today that they were negotiating with the Chinese over a new agreement for restrictions on the use of Chinese prison labor to make export products, and that it was likely to be announced while Mr. Bentsen was here."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Discontent Mounts in China, Shaking the Leaders"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1994-04-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1994/04/10/world/discontent-mounts-in-china-shaking-the-leaders.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  With China's economy still in overdrive, a new surge in inflation, labor unrest and corruption appears to be rattling the Communist Party leadership.   Chinese and Western officials say that concern in the Politburo about the stability of Communist",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1e2cf8eb7c8105d72b9b1",
+        "source": "The New York Times",
+        "word_count": 1158,
+        "lead_paragraph": "With China's economy still in overdrive, a new surge in inflation, labor unrest and corruption appears to be rattling the Communist Party leadership. Chinese and Western officials say that concern in the Politburo about the stability of Communist Party rule may explain the vigorous crackdown this spring on political dissent, including the recent arrests of Wei Jingsheng and Xu Wenli, veterans of the \"Democracy Wall\" movement of the 1970's. Both had been freed from prison only last year."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Essay; Anniversary Waltz"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "PRICES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "HISTORY"
+          },
+          {
+            "name": "subject",
+            "value": "MOST-FAVORED-NATION TREATMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          }
+        ],
+        "print_page": "21",
+        "pub_date": "1994-04-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1994/04/14/opinion/essay-anniversary-waltz.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "  Anniversaries of great occasions are news events that can be covered with care. Assignment editors, who rarely have the luxury of dealing with the expected, are rubbing their hands at 1994's summer of commemoration.   First: June 3, 1994, is the fi",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SAFIRE",
+            "role": "reported",
+            "firstname": "William"
+          }],
+          "original": "By WILLIAM SAFIRE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ebdf8eb7c8105d73caeb",
+        "source": "The New York Times",
+        "word_count": 659,
+        "lead_paragraph": "Anniversaries of great occasions are news events that can be covered with care. Assignment editors, who rarely have the luxury of dealing with the expected, are rubbing their hands at 1994's summer of commemoration. First: June 3, 1994, is the fifth anniversary of the bloody suppression of the peaceful demonstration in Beijing's Tiananmen Square."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Insurer in China"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "MARSH & MCLENNAN COMPANIES INC"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "1994-04-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1994/04/19/business/insurer-in-china.html",
+        "news_desk": "Financial Desk",
+        "snippet": "  The Marsh & McLennan Companies said today that it had opened a representative office in Beijing. The Beijing office will receive full administrative and operational support from the Hong Kong office, the New York-based insurance broker said.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1e2db8eb7c8105d72c2f7",
+        "source": "Bloomberg News",
+        "word_count": 37,
+        "lead_paragraph": "The Marsh & McLennan Companies said today that it had opened a representative office in Beijing. The Beijing office will receive full administrative and operational support from the Hong Kong office, the New York-based insurance broker said."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Arrested Alien: Political Hero Or a Smuggler?"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN GUO PING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "ILLEGAL ALIENS"
+          },
+          {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "46",
+        "pub_date": "1994-05-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1994/05/15/nyregion/arrested-alien-political-hero-or-a-smuggler.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "  To Federal officials combating the widespread smuggling of aliens from China, Chen Guo Ping is rare catch: a top \"snakehead,\" they say, an organizer of such illicit trafficking in human cargo. Those usually caught in connection with this China trad",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "New York and Region",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "P.",
+            "role": "reported",
+            "lastname": "FRIED",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH P. FRIED"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1be7f8eb7c8105d6ec15a",
+        "source": "The New York Times",
+        "word_count": 496,
+        "lead_paragraph": "To Federal officials combating the widespread smuggling of aliens from China, Chen Guo Ping is rare catch: a top \"snakehead,\" they say, an organizer of such illicit trafficking in human cargo. Those usually caught in connection with this China trade are low-level participants, the officials say, making Mr. Chen's recent arrest in Queens a significant step in the struggle to stem the smuggling. But where officials last week described Mr. Chen as a smuggler, able to live as a legal alien in the United States through a marriage of convenience to an American citizen, his lawyer painted a different picture. He said that Mr. Chen was innocent of the smuggling charges and that he had been granted legal-alien status in the United States because of his participation in the pro-democracy demonstrations that Chinese troops crushed in Tiananmen Square in 1989."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Wife Makes Plea for Jailed Chinese Official"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BAO TONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "20",
+        "pub_date": "1994-05-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1994/05/15/world/wife-makes-plea-for-jailed-chinese-official.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  In an unusual public appeal, the wife of the highest-ranking Communist Party official imprisoned after the Tiananmen Square uprising has asked for international help in winning his release on medical grounds.   The case of the former official, Bao ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1be7f8eb7c8105d6ec15f",
+        "source": "The New York Times",
+        "word_count": 263,
+        "lead_paragraph": "In an unusual public appeal, the wife of the highest-ranking Communist Party official imprisoned after the Tiananmen Square uprising has asked for international help in winning his release on medical grounds. The case of the former official, Bao Tong, who was expelled from the party for opposing the crackdown on pro-democracy students in 1989, has drawn the attention of the United States Senate and the Clinton Administration."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Symbol of Tiananmen Square Is Resurrected"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "SAN FRANCISCO (CALIF)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "38",
+        "pub_date": "1994-06-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1994/06/05/us/symbol-of-tiananmen-square-is-resurrected.html",
+        "news_desk": "National Desk",
+        "snippet": "  Five years after a tank crushed the 40-foot-high statue of the Goddess of Democracy in Tiananmen Square in Beijing, supporters of the human rights movement in China gathered here today to unveil a bronze statue modeled after the original.    The or",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "U.S.",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1dbf78eb7c8105d71cd62",
+        "source": "The New York Times",
+        "word_count": 419,
+        "lead_paragraph": "Five years after a tank crushed the 40-foot-high statue of the Goddess of Democracy in Tiananmen Square in Beijing, supporters of the human rights movement in China gathered here today to unveil a bronze statue modeled after the original. The original, made of plaster, was a symbol for the students who briefly stood up to the Chinese authorities in the late spring of 1989. The one uncovered today, just nine and a half feet tall, was conceived within weeks of the destruction of the original. But it took almost five years to win the necessary city approvals and to find a permanent home for it on public land, a small park on the edge of this city's Chinatown."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Traffic Makes New Delhi Air Most Polluted in South Asia"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "NEW DELHI (INDIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "INDIA"
+          },
+          {
+            "name": "glocations",
+            "value": "SEOUL (SOUTH KOREA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "MEXICO CITY (MEX)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD HEALTH ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "1994-06-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1994/06/11/world/traffic-makes-new-delhi-air-most-polluted-in-south-asia.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  A bluish haze hangs over the Indian capital these blistering days when temperatures hover around 114 degrees and vehicles crawl bumper to bumper in rush hour, emitting diesel fumes, lead, sulphur dioxide and carbon monoxide to make New Delhi's air ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HAZARIKA",
+            "role": "reported",
+            "firstname": "Sanjoy"
+          }],
+          "original": "By SANJOY HAZARIKA"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1e4b98eb7c8105d72f78a",
+        "source": "The New York Times",
+        "word_count": 398,
+        "lead_paragraph": "A bluish haze hangs over the Indian capital these blistering days when temperatures hover around 114 degrees and vehicles crawl bumper to bumper in rush hour, emitting diesel fumes, lead, sulphur dioxide and carbon monoxide to make New Delhi's air the most polluted in South Asia and among the worst in the world. Motorcyclists wear face masks to prevent being overcome by dust and pollutants. At some crossings, young men go from vehicle to vehicle selling masks."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Huge Water Project Would Supply Beijing By 860-Mile Aqueduct"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "DANJIANGKOU (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DROUGHT"
+          },
+          {
+            "name": "subject",
+            "value": "SHORTAGES"
+          },
+          {
+            "name": "subject",
+            "value": "WATER"
+          },
+          {
+            "name": "subject",
+            "value": "AQUEDUCTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "1994-07-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1994/07/19/world/huge-water-project-would-supply-beijing-by-860-mile-aqueduct.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  One of the largest public works projects ever conceived -- a plan to divert water from the huge reservoir here to Beijing 860 miles north -- has been proposed by China's Communist Party leadership to save the capital from perpetual drought in the n",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1e4b18eb7c8105d72f106",
+        "source": "The New York Times",
+        "word_count": 1653,
+        "lead_paragraph": "One of the largest public works projects ever conceived -- a plan to divert water from the huge reservoir here to Beijing 860 miles north -- has been proposed by China's Communist Party leadership to save the capital from perpetual drought in the next century. Rivaling even the construction of the 1,500-mile-long Great Wall, in the words of one Government engineer, a huge aqueduct starting here in central China and running north to Beijing and Tianjin seems the only solution to maintaining China's capital as a center for industry, commerce and government."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Journal; City's Healthy Flush Begins to Look Like Fever"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SOCIAL CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "GEOGRAPHIC PROFILES"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1994-09-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1994/09/06/world/beijing-journal-city-s-healthy-flush-begins-to-look-like-fever.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  \"Get out of the way, bread box!\"   \"How do you expect people to get through?\" yelled Wei Qinghai, 73, as he powered his pedal-driven cab through a busy intersection in central Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1f6e08eb7c8105d751932",
+        "source": "The New York Times",
+        "word_count": 952,
+        "lead_paragraph": "\"Get out of the way, bread box!\" \"How do you expect people to get through?\" yelled Wei Qinghai, 73, as he powered his pedal-driven cab through a busy intersection in central Beijing."
+      }
+    ],
+    "meta": {
+      "time": 67,
+      "hits": 16,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

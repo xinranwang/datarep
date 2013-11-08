@@ -1,0 +1,666 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Taiwan's opposition Nationalist Party publicly drops its demand that military be allowed to vote again after disputed presidential election, making it nearly certain that Pres Chen Shui-bian will be sworn in on May 20 for another four-year term; news of understanding between main political parties causes stock market to soar after nine days of political turmoil; Chen is expected to keep trying to increase Taiwan's informal independence from mainland; Beijing has voiced concern about Chen's possible plans for constitutional referendum on matter that might be held close to 2008 Olympic Games in Beijing (M)",
+        "headline": {"main": "Compromise Virtually Assures New Term for Taiwan's Leader"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN SHUI-BIAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "CONSTITUTIONAL AMENDMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "ELECTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "REFERENDUMS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2004-03-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/03/30/world/compromise-virtually-assures-new-term-for-taiwan-s-leader.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The opposition Nationalist Party on Monday publicly dropped its demand that the Taiwan military be allowed to vote again after a disputed presidential election a week ago, making it nearly certain that President Chen Shui-bian will be sworn in on May",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2390c8eb7c8105d7cc778",
+        "source": "The New York Times",
+        "word_count": 810,
+        "lead_paragraph": "The opposition Nationalist Party on Monday publicly dropped its demand that the Taiwan military be allowed to vote again after a disputed presidential election a week ago, making it nearly certain that President Chen Shui-bian will be sworn in on May 20 for another four-year term. The stock market soared as nine days of political turmoil appeared to have ended with the main political parties reaching an understanding on many, though not all, of the issues that have divided them since a shooting incident involving the president less than 19 hours before the election."
+      },
+      {
+        "abstract": "Chinese state security officers detain at least three family members of people gunned down during Tiananmen Square massacre, seeking to prevent protests connected with 15th anniversary of event; detentions come shortly after noted Chinese surgeon and longtime Communist Party member Jiang Yanyong writes to top leaders calling for official reassessment of massacre, which government has attributed to rebellion against government; army's suppression of student-led protests, which killed and wounded hundreds of people, remains political flash point for even current generation of leaders, who did not directly order crackdown (M)",
+        "headline": {"main": "China Detains 3 Relatives Of Victims At Tiananmen"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "JIANG YANYONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2004-03-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/03/30/world/china-detains-3-relatives-of-victims-at-tiananmen.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "At least three family members of people gunned down by the Chinese military during the crackdown on dissent in Beijing on June 4, 1989, have been detained, as the authorities seek to prevent protests connected with the 15th anniversary of the massacr",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd239ba8eb7c8105d7cd80d",
+        "source": "The New York Times",
+        "word_count": 462,
+        "lead_paragraph": "At least three family members of people gunned down by the Chinese military during the crackdown on dissent in Beijing on June 4, 1989, have been detained, as the authorities seek to prevent protests connected with the 15th anniversary of the massacre, relatives said Monday. State security officers took the three, all of them women, from their homes on Sunday. Relatives said none of the three have since returned home or made contact."
+      },
+      {
+        "abstract": "Zhang Xianling, Ding Zilin and Huang Jinping, who are members of protest group Tiananmen Mothers and were arrested last week, are released from Chinese custody after domestic and international calls for freedom; had given videotaped testimony about 1989 army crackdown in Beijing that was to be presented at United Nations conference; some hold arrests are part of increased security as fifteenth anniversary of event approaches (S)",
+        "headline": {"main": "World Briefing | Asia: China: Tiananmen Relatives Freed"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HUANG JINPING"
+          },
+          {
+            "name": "persons",
+            "value": "ZHANG XIANLING"
+          },
+          {
+            "name": "persons",
+            "value": "DING ZILIN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "TIANANMEN MOTHERS"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDINGS (VIDEO)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2004-04-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/04/03/world/world-briefing-asia-china-tiananmen-relatives-freed.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Three women, members of a protest group called Tiananmen Mothers, were released from custody after domestic and international appeals for their freedom, family members said. The women, who had relatives who were killed in the crackdown on democracy p",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kahn",
+            "role": "reported",
+            "lastname": "NYT",
+            "firstname": "Joseph"
+          }],
+          "original": "By Joseph Kahn (NYT)"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd29f618eb7c8105d882cdc",
+        "source": "The New York Times",
+        "word_count": 162,
+        "lead_paragraph": "Three women, members of a protest group called Tiananmen Mothers, were released from custody after domestic and international appeals for their freedom, family members said. The women, who had relatives who were killed in the crackdown on democracy protests in 1989, were taken from their homes on Sunday, possibly in connection with videotaped testimony they had made that rights advocates planned to present at a United Nations conference in Geneva. It is also possible the women were brought in for questioning as the police seek to prevent any protests connected with the 15th anniversary of the crackdown. As part of Tiananmen Mothers, the women -- Zhang Xianling, Ding Zilin and Huang Jinping -- have pressed Chinese leaders to reconsider the 1989 army crackdown and ''rehabilitate'' their dead relatives. Ms. Zhang and Ms. Ding both lost sons and Ms. Huang's husband was killed when army troops stormed Beijing on June 4, 1989, to crush a long-running but peaceful student-led demonstration. Joseph Kahn (NYT)"
+      },
+      {
+        "abstract": "Zhao Ziyang, Communist Party chief who became potent symbol of thwarted political reform in China, is said to be critically ill; his death could pose challenge to China's leadership if advocates of faster political change inside and outside Communist Party view his passing as opportunity to highlight demands for more open government and for reassessment of army's violent suppression of student-led protests in 1989 in Tiananmen Square; Zhao was removed as Communist Party leader for taking soft line on protests; photo (M)",
+        "headline": {"main": "Purged Chinese Reformer Gravely Ill, Haunting His Successors"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO ZIYANG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2004-04-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/04/06/world/purged-chinese-reformer-gravely-ill-haunting-his-successors.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Zhao Ziyang, a former Communist Party chief who became a potent symbol of thwarted political reform after he was purged during the crackdown on dissent in 1989, is critically ill and is being kept alive by a respirator at his home in Beijing, people ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd24c178eb7c8105d7eba61",
+        "source": "The New York Times",
+        "word_count": 808,
+        "lead_paragraph": "Zhao Ziyang, a former Communist Party chief who became a potent symbol of thwarted political reform after he was purged during the crackdown on dissent in 1989, is critically ill and is being kept alive by a respirator at his home in Beijing, people close to Mr. Zhao's family said Monday. Though Mr. Zhao has long been under house arrest and out of public view, his death could pose a challenge to China's leadership."
+      },
+      {
+        "abstract": "Number of beggars in Beijing and other Chinese cities has exploded in past six months; their presence, long blocked by image-conscious city officials, is another reminder of growing divide between rich and poor as China rapidly switches to market economy; is also unexpected result of major civil rights victory last year, curb on police arrest powers; raises question of what should be done about beggars; some urban residents cite need to remedy core problem of rural poverty; photo (M)",
+        "headline": {"main": "China Is Paying a Price of Modernization: More Beggars"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2004-04-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/04/07/world/china-is-paying-a-price-of-modernization-more-beggars.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "His fingernails are lined with dirt as Zhang Tianhuo, 76, crouches on the stairs at the subway stop and shakes his empty noodle bowl. On another stairwell, Wang Xiujun, 70, rattles his tin cup. An old man with bent teeth has staked out yet another la",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2391a8eb7c8105d7ccdf7",
+        "source": "The New York Times",
+        "word_count": 1011,
+        "lead_paragraph": "His fingernails are lined with dirt as Zhang Tianhuo, 76, crouches on the stairs at the subway stop and shakes his empty noodle bowl. On another stairwell, Wang Xiujun, 70, rattles his tin cup. An old man with bent teeth has staked out yet another landing, and a wizened farmer has secured a spot near the entrance. A short walk away, three ragged mothers watch without shame as their tiny children flock to patrons outside a coffee shop, pleading with dirty faces and shaking empty cups. ''I have no choice,'' one mother, Zhang Yali, explained about why she allowed her 4-year-old son to beg. ''The money we get lets us survive and eat.''"
+      },
+      {
+        "abstract": "Human Rights in China reports Zhang Ming, former leader of 1989 Tiananmen Square pro-democracy protests who is currently serving seven-year prison sentence, is in critical condition as result of continued hunger strike begun November 2003 (S)",
+        "headline": {"main": "World Briefing | Asia: China: Tiananmen Leader Ill In Hunger Strike"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHANG MING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "HUMAN RIGHTS IN CHINA"
+          },
+          {
+            "name": "subject",
+            "value": "HUNGER STRIKES"
+          },
+          {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "2004-04-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/04/15/world/world-briefing-asia-china-tiananmen-leader-ill-in-hunger-strike.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A former leader of the 1989 Beijing pro-democracy protests is in critical condition after an extended hunger strike in a Chinese prison, a human rights group said. Human Rights in China said the former leader, Zhang Ming, was sentenced in September t",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kahn",
+            "role": "reported",
+            "lastname": "NYT",
+            "firstname": "Joseph"
+          }],
+          "original": "By Joseph Kahn (NYT)"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd239b88eb7c8105d7cd6fa",
+        "source": "The New York Times",
+        "word_count": 87,
+        "lead_paragraph": "A former leader of the 1989 Beijing pro-democracy protests is in critical condition after an extended hunger strike in a Chinese prison, a human rights group said. Human Rights in China said the former leader, Zhang Ming, was sentenced in September to seven years in prison on economic charges related to his Shanghai business. He started a hunger strike in November to protest what he described as bogus charges and harsh prison conditions. He has been ''reduced to a skeletal condition,'' the group said. Joseph Kahn (NYT)"
+      },
+      {
+        "abstract": "North Korean leader Kim Jong Il and Pres Hu Jintao of China discuss international crisis over North Korea's nuclear program; their meeting in Beijing comes less than week after Vice Pres Dick Cheney's visit to Beijing, during which he made North Korean crisis central focus and told Hu that six-nation talks sponsored by China to deal with matter must begin to show 'real results' (M)",
+        "headline": {"main": "North Korean and Chinese Leaders Meet"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "KIM JONG IL"
+          },
+          {
+            "name": "persons",
+            "value": "CHENEY, DICK"
+          },
+          {
+            "name": "glocations",
+            "value": "NORTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ATOMIC WEAPONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "TERRORISM"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2004-04-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/04/20/world/north-korean-and-chinese-leaders-meet.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The North Korean leader, Kim Jong Il, and President Hu Jintao of China discussed the international crisis over North Korea's nuclear program over lunch here on Monday, South Korea's Yonhap news agency reported. It was the beginning of an unannounced ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2535e8eb7c8105d7f9f80",
+        "source": "The New York Times",
+        "word_count": 246,
+        "lead_paragraph": "The North Korean leader, Kim Jong Il, and President Hu Jintao of China discussed the international crisis over North Korea's nuclear program over lunch here on Monday, South Korea's Yonhap news agency reported. It was the beginning of an unannounced four-day visit by the reclusive North Korean leader. The meeting, in China's main government compound in central Beijing, came less than a week after Vice President Dick Cheney made the North Korean crisis a central focus of his visit to Beijing. Mr. Cheney told Mr. Hu that the United States remained committed to a series of six-nation talks sponsored by China but that the process must begin to show ''real results.''"
+      },
+      {
+        "abstract": "Chinese government says that nurse in Beijing has been hospitalized with suspected case of SARS and that five other people have been isolated with fevers; authorities in Hong Kong say second suspected SARS patient has been discovered in eastern China (M)",
+        "headline": {"main": "China Reports Suspected Case Of SARS In Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "NURSING AND NURSES"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2004-04-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/04/23/world/china-reports-suspected-case-of-sars-in-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Chinese government announced Thursday that a nurse in Beijing had been hospitalized with a suspected case of SARS and that five other people had been isolated with fevers. The authorities in Hong Kong also said a second suspected SARS patient had",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27b3c8eb7c8105d84076e",
+        "source": "The New York Times",
+        "word_count": 496,
+        "lead_paragraph": "The Chinese government announced Thursday that a nurse in Beijing had been hospitalized with a suspected case of SARS and that five other people had been isolated with fevers. The authorities in Hong Kong also said a second suspected SARS patient had been discovered in eastern China. The possible reappearance of severe acute respiratory syndrome in Beijing comes just over a year after the virus first swept through the city, causing widespread panic, closing schools and forcing top leaders to admit that the government had initially covered up the presence of the disease. The scandal led to the dismissal of the Beijing mayor and China's health minister."
+      },
+      {
+        "abstract": "China begins screening travelers at airports and train stations and closes its main SARS laboratory in Beijing after what appears to be safety breach at lab leads to four confirmed and suspected cases, including death, in new outbreak of deadly disease (M)",
+        "headline": {"main": "China Is Scrambling to Curb SARS Cases After a Death"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+          },
+          {
+            "name": "subject",
+            "value": "LABORATORIES AND SCIENTIFIC EQUIPMENT"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          },
+          {
+            "name": "subject",
+            "value": "AIRPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+          },
+          {
+            "name": "subject",
+            "value": "RAILROADS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2004-04-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/04/24/world/china-is-scrambling-to-curb-sars-cases-after-a-death.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Chinese government began screening travelers at airports and train stations on Friday and closed its main SARS laboratory after what appeared to be a safety breach at the lab led to four confirmed and suspected cases, including a death, in a new ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "YARDLEY",
+              "role": "reported",
+              "firstname": "Jim"
+            },
+            {
+              "organization": "",
+              "rank": 2,
+              "middlename": "K.",
+              "role": "reported",
+              "lastname": "ALTMAN",
+              "firstname": "Lawrence"
+            }
+          ],
+          "original": "By JIM YARDLEY and LAWRENCE K. ALTMAN; Jim Yardley reported from Beijing for this article and Lawrence K. Altman from New York"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27d528eb7c8105d844b66",
+        "source": "The New York Times",
+        "word_count": 987,
+        "lead_paragraph": "The Chinese government began screening travelers at airports and train stations on Friday and closed its main SARS laboratory after what appeared to be a safety breach at the lab led to four confirmed and suspected cases, including a death, in a new outbreak of the deadly disease. Officials are hurriedly trying to determine how widely the disease has spread. At least 260 people who came into close contact with the patients are being observed, and at least five others with fevers have been isolated."
+      },
+      {
+        "abstract": "Karin Evans travel essay on family trip to Beijing and Shanghai, China, so that her two young daughters, each born in China and adopted at young age, could connect with their place of birth; drawing (M)",
+        "headline": {"main": "Foreigners in the Land of Their Birth"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "ADOPTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CHINESE-AMERICANS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "19",
+        "pub_date": "2004-04-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/04/25/travel/foreigners-in-the-land-of-their-birth.html",
+        "news_desk": "Travel Desk",
+        "snippet": "MY daughters watched in fascination as old men in thickly quilted jackets wielded three-foot-long brushes that looked like giant Q-Tips. The men dipped the padded ends in water, and then swished beautiful calligraphy onto the dark slabs of sidewalk s",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "EVANS",
+            "role": "reported",
+            "firstname": "Karin"
+          }],
+          "original": "By KARIN EVANS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd239188eb7c8105d7ccdc7",
+        "source": "The New York Times",
+        "word_count": 1299,
+        "lead_paragraph": "MY daughters watched in fascination as old men in thickly quilted jackets wielded three-foot-long brushes that looked like giant Q-Tips. The men dipped the padded ends in water, and then swished beautiful calligraphy onto the dark slabs of sidewalk stone. The characters shone brightly for a few moments, then began to evaporate and fade away. We were in Beijing, at the Summer Palace. On the promenade along the lake, we found the old calligraphers. ''They're writing poems,'' said our Chinese friend and guide, as we stepped gingerly through the disappearing messages. ''See this character? It means mountain and this one means cloud.'' Our daughters, Kelly, 7, and Franny, 5, were rapt. The calligraphers smiled at them and went on writing. As one poem faded, another came to life. ''Could we do that when we get home, Mom?'' Franny wanted to know. ''Ni hao,'' said the old calligrapher looking up, ''Hello.''"
+      }
+    ],
+    "meta": {
+      "time": 10,
+      "hits": 55,
+      "offset": 10
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

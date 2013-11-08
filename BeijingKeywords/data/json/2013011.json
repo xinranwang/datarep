@@ -1,0 +1,894 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "A Visit to Beijing\u2019s First R.V. Park"},
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Travel and Vacations",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Recreational Vehicles",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-10-14T17:54:27Z",
+        "web_url": "http://www.nytimes.com/video/2013/10/14/world/asia/100000002497065/a-visit-to-beijings-first-rv-park.html",
+        "news_desk": "World / Asia Pacific",
+        "snippet": "European and American style campers, symbols of luxury and freedom in China, are gaining popularity among affluent vacationers eager to escape urban congestion.",
+        "type_of_material": "Video",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "multimedia",
+        "byline": [],
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/10/15/world/SINOSPHERE-FLOATER-copy/SINOSPHERE-FLOATER-copy-thumbWide-v2.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/10/15/world/SINOSPHERE-FLOATER-copy/SINOSPHERE-FLOATER-copy-thumbWide-v2.jpg"
+            }
+          },
+          {
+            "height": 338,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/10/15/world/SINOSPHERE-FLOATER-copy/SINOSPHERE-FLOATER-copy-articleLarge-v2.jpg",
+            "legacy": {
+              "xlargeheight": "338",
+              "xlarge": "images/2013/10/15/world/SINOSPHERE-FLOATER-copy/SINOSPHERE-FLOATER-copy-articleLarge-v2.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/10/15/world/SINOSPHERE-FLOATER-copy/SINOSPHERE-FLOATER-copy-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/10/15/world/SINOSPHERE-FLOATER-copy/SINOSPHERE-FLOATER-copy-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "525c682438f0d8198974239b",
+        "source": "The New York Times",
+        "word_count": "23",
+        "lead_paragraph": "European and American style campers, symbols of luxury and freedom in China, are gaining popularity among affluent vacationers eager to escape urban congestion."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "print_headline": "Spaniard Leads Tour of Beijing",
+          "main": "Spaniard Leads Tour of Beijing"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Intxausti, Benat",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Spain",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Cycling, Road",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2013-10-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/10/15/sports/cycling/spaniard-leads-tour-of-beijing.html",
+        "news_desk": "Sports",
+        "snippet": "Beñat Intxausti Elorriaga of Spain holds the overall lead by 10 seconds.",
+        "type_of_material": "Brief",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "organization": "THE ASSOCIATED PRESS",
+          "person": [],
+          "original": "By THE ASSOCIATED PRESS"
+        },
+        "subsection_name": "Cycling",
+        "multimedia": [],
+        "_id": "525cae9138f0d81989742430",
+        "source": "The New York Times",
+        "word_count": "22",
+        "lead_paragraph": "Beñat Intxausti Elorriaga of Spain holds the overall lead by 10 seconds."
+      },
+      {
+        "abstract": "Beijing court sentences Ji Zhongxing to six years in prison for detonating homemade bomb in Beijing's Capital International Airport in July; Ji had been trying to draw attention to his allegations that officials in city of Dongguan ignored his complaints that security officers there beat him so severely in 2005 that he was unable to walk.",
+        "headline": {
+          "print_headline": "China: 6-Year Term for Protester in Blast",
+          "main": "China: 6-Year Term for Protester in Blast"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Ji Zhongxing",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Sentences (Criminal)",
+            "is_major": "N"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Bombs and Explosives",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2013-10-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/10/15/world/asia/sentence-protester-blast.html",
+        "news_desk": "Foreign",
+        "snippet": "A court in Beijing sentenced a man to six years in prison after finding him guilty of detonating a homemade bomb in Beijing\u2019s Capital International Airport in July, state-run news media reported.",
+        "type_of_material": "Brief",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BUCKLEY",
+            "role": "reported",
+            "firstname": "Chris"
+          }],
+          "contributor": "",
+          "original": "By CHRIS BUCKLEY"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [],
+        "_id": "525cc25b38f0d8198974245d",
+        "source": "The New York Times",
+        "word_count": "174",
+        "lead_paragraph": "A court in Beijing sentenced a man to six years in prison after finding him guilty of detonating a homemade bomb in Beijing\u2019s Capital International Airport in July, state-run news media reported."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "The Frenzy and Swagger of China\u2019s Restaurant Scene"},
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Restaurants",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Hong Kong",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Shanghai (China)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-10-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2013/10/16/dining/20131016-CHINA.html",
+        "news_desk": "Dining & Wine",
+        "snippet": "A handful of standout restaurants from Shanghai, Beijing and Hong Kong.",
+        "type_of_material": "Slideshow",
+        "blog": [],
+        "section_name": "Dining & Wine",
+        "document_type": "multimedia",
+        "byline": [],
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/10/16/dining/20131016-CHINA-slide-SN8T/20131016-CHINA-slide-SN8T-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/10/16/dining/20131016-CHINA-slide-SN8T/20131016-CHINA-slide-SN8T-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 388,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/10/16/dining/20131016-CHINA-slide-CBG7/20131016-CHINA-slide-CBG7-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "388",
+              "xlarge": "images/2013/10/16/dining/20131016-CHINA-slide-CBG7/20131016-CHINA-slide-CBG7-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/10/16/dining/20131016-CHINA-slide-K6MP/20131016-CHINA-slide-K6MP-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/10/16/dining/20131016-CHINA-slide-K6MP/20131016-CHINA-slide-K6MP-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "525da45e38f0d819897426a1",
+        "source": "The New York Times",
+        "word_count": "11",
+        "lead_paragraph": "A handful of standout restaurants from Shanghai, Beijing and Hong Kong."
+      },
+      {
+        "abstract": "Frank Bruni article notes that China's flush of wealth and influx of business travelers have given rise to more varied, distinctive and imaginative restaurants; highlights several restaurants that capture the variety of China's new dining scene.",
+        "headline": {
+          "print_headline": "Chinese Acrobatics",
+          "kicker": "On the Road",
+          "main": "China\u2019s Dining Acrobatics"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Chefs",
+            "is_major": "N"
+          },
+          {
+            "rank": "8",
+            "name": "organizations",
+            "value": "Lost Heaven (Beijing, China, Restaurant)",
+            "is_major": "N"
+          },
+          {
+            "rank": "10",
+            "name": "organizations",
+            "value": "Yardbird (Hong Kong Restaurant)",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Restaurants",
+            "is_major": "Y"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Hong Kong",
+            "is_major": "N"
+          },
+          {
+            "rank": "7",
+            "name": "organizations",
+            "value": "Jing Yaa Tang (Beijing, China, Restaurant)",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Shanghai (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "6",
+            "name": "organizations",
+            "value": "Ultraviolet (Shanghai, China, Restaurant)",
+            "is_major": "N"
+          },
+          {
+            "rank": "9",
+            "name": "organizations",
+            "value": "Duddell's (Hong Kong Restaurant)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2013-10-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/10/16/dining/reviews/chinas-dining-acrobatics.html",
+        "news_desk": "Dining",
+        "snippet": "A flush of wealth and an influx of business travelers have given rise to distinctive, imaginative restaurants. A list of standouts captures the variety of China\u2019s new scene.",
+        "type_of_material": "Review",
+        "blog": [],
+        "section_name": "Dining & Wine",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRUNI",
+            "role": "reported",
+            "firstname": "Frank"
+          }],
+          "contributor": "",
+          "original": "By FRANK BRUNI"
+        },
+        "subsection_name": "Dining & Wine",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/10/16/dining/16CHINASUB_SPAN/16CHINASUB_SPAN-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/10/16/dining/16CHINASUB_SPAN/16CHINASUB_SPAN-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 500,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/10/16/dining/16CHINASUB_SPAN/16CHINASUB_SPAN-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "500",
+              "xlarge": "images/2013/10/16/dining/16CHINASUB_SPAN/16CHINASUB_SPAN-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/10/16/dining/16CHINASUB_SPAN/16CHINASUB_SPAN-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/10/16/dining/16CHINASUB_SPAN/16CHINASUB_SPAN-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "525daa4938f0d819897426bf",
+        "source": "The New York Times",
+        "word_count": "2095",
+        "lead_paragraph": "A flush of wealth and an influx of business travelers have given rise to distinctive, imaginative restaurants. A list of standouts captures the variety of China\u2019s new scene."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "print_headline": "Beyond Babel, a Virtual Future",
+          "main": "Beyond Babel, China\u2019s Virtual Future"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Art",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Computers and the Internet",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "",
+        "pub_date": "2013-10-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/10/17/arts/international/beyond-babel-chinas-virtual-future.html",
+        "news_desk": "Culture",
+        "snippet": "Chinese artists are using the Web as a grand canvas to create new landscapes, and even a language.",
+        "type_of_material": "Special Report",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Holden",
+            "role": "reported",
+            "lastname": "PLATT",
+            "firstname": "Kevin"
+          }],
+          "contributor": "",
+          "original": "By KEVIN HOLDEN PLATT"
+        },
+        "subsection_name": "International Arts",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/10/17/arts/international/17iht-rartchina17b/17iht-rartchina17b-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/10/17/arts/international/17iht-rartchina17b/17iht-rartchina17b-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 398,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/10/17/arts/international/17iht-rartchina17b/17iht-rartchina17b-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "398",
+              "xlarge": "images/2013/10/17/arts/international/17iht-rartchina17b/17iht-rartchina17b-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/10/17/arts/international/17iht-rartchina17a/17iht-rartchina17a-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/10/17/arts/international/17iht-rartchina17a/17iht-rartchina17a-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "525e9c3a38f0d819897434fc",
+        "source": "The New York Times",
+        "word_count": "1261",
+        "lead_paragraph": "Chinese artists are using the Web as a grand canvas to create new landscapes, and even a language."
+      },
+      {
+        "abstract": "A Beijing professor\u2019s suggestion that the Chinese capital test migrant workers on subjects like law and culture has been met with widespread criticism.",
+        "headline": {
+          "kicker": "Sinosphere",
+          "main": "Academic Suggests an Entrance Test for Beijing's Migrant Workers"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Tsinghua University"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Urban Areas"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-10-17T19:05:01Z",
+        "web_url": "http://sinosphere.blogs.nytimes.com/2013/10/17/academic-suggests-an-entrance-test-for-beijings-migrant-workers/",
+        "news_desk": null,
+        "snippet": "A Beijing professor\u2019s suggestion that the Chinese capital test migrant workers on subjects like law and culture has been met with widespread criticism.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "RAMZY",
+            "role": "reported",
+            "firstname": "Austin"
+          }],
+          "original": "By AUSTIN RAMZY"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/10/18/world/17SINO-MIGRANTS01/17SINO-MIGRANTS01-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/10/18/world/17SINO-MIGRANTS01/17SINO-MIGRANTS01-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 411,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/10/18/world/17SINO-MIGRANTS01/17SINO-MIGRANTS01-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "411",
+              "xlarge": "images/2013/10/18/world/17SINO-MIGRANTS01/17SINO-MIGRANTS01-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/10/18/world/17SINO-MIGRANTS01/17SINO-MIGRANTS01-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/10/18/world/17SINO-MIGRANTS01/17SINO-MIGRANTS01-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "52606dc638f0d8240f736d1f",
+        "source": "The New York Times",
+        "word_count": "330",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "The new measures consist of a system of four colored alerts that will kick in when either one or three days of heavy pollution are forecast.",
+        "headline": {
+          "print_headline": "Beijing City Officials Issue Rules to Counter the Effects of Persistent Air Pollution",
+          "kicker": "Sinosphere",
+          "main": "Amid Heavy Pollution, Beijing Issues Emergency Rules to Protect Citizens"
+        },
+        "keywords": [
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Sina Weibo"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "World Health Organization"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "Xinhua"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "International Agency for Research on Cancer"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Automobiles"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Asbestos"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Air Pollution"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-10-17T23:39:44Z",
+        "web_url": "http://sinosphere.blogs.nytimes.com/2013/10/17/amid-heavy-pollution-beijing-issues-emergency-rules-to-protect-citizens/",
+        "news_desk": null,
+        "snippet": "The new measures consist of a system of four colored alerts that will kick in when either one or three days of heavy pollution are forecast.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/10/19/world/18sino-beijingpollution2/18sino-beijingpollution2-thumbWide-v2.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/10/19/world/18sino-beijingpollution2/18sino-beijingpollution2-thumbWide-v2.jpg"
+            }
+          },
+          {
+            "height": 406,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/10/19/world/18sino-beijingpollution2/18sino-beijingpollution2-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "406",
+              "xlarge": "images/2013/10/19/world/18sino-beijingpollution2/18sino-beijingpollution2-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/10/19/world/18sino-beijingpollution2/18sino-beijingpollution2-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/10/19/world/18sino-beijingpollution2/18sino-beijingpollution2-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "5260ae7138f0d8240f736dd5",
+        "source": "The New York Times",
+        "word_count": "720",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Some participants in the 33rd Beijing Marathon have caused offense after urinating against the vermilion walls of the imperial palaces and gardens in the city.",
+        "headline": {
+          "kicker": "Sinosphere",
+          "main": "Beijing Marathoners Offend With \u2018Wetting the Red Walls\u2019"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Beijing News, The"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Running"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-10-21T00:53:49Z",
+        "web_url": "http://sinosphere.blogs.nytimes.com/2013/10/21/beijing-marathon-offends-with-wetting-the-red-walls/",
+        "news_desk": null,
+        "snippet": "Some participants in the 33rd Beijing Marathon have caused offense after urinating against the vermilion walls of the imperial palaces and gardens in the city.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/10/21/world/asia/21sino-urination2/21sino-urination2-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/10/21/world/asia/21sino-urination2/21sino-urination2-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 868,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/10/21/world/asia/21sino-urination/21sino-urination-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "868",
+              "xlarge": "images/2013/10/21/world/asia/21sino-urination/21sino-urination-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/10/22/world/21sino-marathon3/21sino-marathon3-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/10/22/world/21sino-marathon3/21sino-marathon3-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "5264b3db38f0d828eee7ea26",
+        "source": "The New York Times",
+        "word_count": "555",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Police in Beijing have formally arrested Wang Gongquan, prominent Chinese businessman who turned his energies and wealth to supporting human rights causes; arrest is seen as another step in the Communist Party's drive to deter dissent.",
+        "headline": {
+          "print_headline": "China: Wealthy Activist Is Formally Held",
+          "main": "China Arrests Prominent Businessman Who Backed Rights Causes"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Human Rights and Human Rights Violations",
+            "is_major": "Y"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Xu Zhiyong",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Wang Gongquan",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2013-10-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/10/22/world/asia/china-arrests-prominent-businessman-who-backed-rights-causes.html",
+        "news_desk": "Foreign",
+        "snippet": "The formal arrest of Wang Gongquan, who was detained last month, was another step in the Communist Party&#8217;s drive to deter dissent, supporters said.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BUCKLEY",
+            "role": "reported",
+            "firstname": "Chris"
+          }],
+          "contributor": "",
+          "original": "By CHRIS BUCKLEY"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [],
+        "_id": "5264dc7238f0d828eee7ea50",
+        "source": "The New York Times",
+        "word_count": "723",
+        "lead_paragraph": "The formal arrest of Wang Gongquan, who was detained last month, was another step in the Communist Party&#8217;s drive to deter dissent, supporters said."
+      }
+    ],
+    "meta": {
+      "time": 13,
+      "hits": 144,
+      "offset": 110
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

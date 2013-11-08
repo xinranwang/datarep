@@ -1,0 +1,691 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Shanghai and other Chinese cities are in midst of frenzied building boom that began in early 1990's; Shanghai already has 4,000 skyscrapers, almost double number in New York; there are designs to build 1,000 more by end of decade; this year, nation expects to lay down finishing blocks on 4.7 billion square feet or more of construction; big developers are acquiring huge swaths of prime land in largest cities to build huge residential campuses that dwarf anything being built today in West; prices are soaring; luxury apartments in Shangahi and Beijing sell for prices comparable to some high-end properties in New York; real estate fairs are mobbed and land speculation is rampant; rate at which China's real estate market is growing raises concern about huge property bubble; photos; charts (M)",
+        "headline": {"main": "China Builds Its Dreams, and Some Fear a Bubble"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HOUSING"
+          },
+          {
+            "name": "subject",
+            "value": "OFFICE BUILDINGS AND COMMERCIAL PROPERTIES"
+          },
+          {
+            "name": "subject",
+            "value": "BUILDING (CONSTRUCTION)"
+          },
+          {
+            "name": "subject",
+            "value": "REAL ESTATE"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2005-10-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/10/18/business/worldbusiness/18bubble.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "China's real estate market is hot, with Shanghai and other cities making up for the decades of lost time under Communism.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Front Page; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "2",
+            "col": "Interactive Feature",
+            "height": 475,
+            "width": 600,
+            "pay": "n",
+            "caption": "China's Real Estate Boom",
+            "type": "Other",
+            "credit": "China's real estate market is hot, with Shanghai and other cities making up for the lost time from decades under Communism.",
+            "url": "http://www.nytimes.com/packages/khtml/2005/10/17/business/20051018_SHANGHAI_FEATURE.html",
+            "legacy": {
+              "MultimediaSummary2": "China's real estate market is hot, with Shanghai and other cities making up for the lost time from decades under Communism.",
+              "MultimediaPopupWidth2": "600",
+              "MultimediaCol2": "Interactive Feature",
+              "MultimediaPay2": "n",
+              "MultimediaType2": "Other",
+              "MultimediaPopupHeight2": "475",
+              "MultimediaUrl2": "http://www.nytimes.com/packages/khtml/2005/10/17/business/20051018_SHANGHAI_FEATURE.html",
+              "MultimediaHeadline2": "China's Real Estate Boom"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2005/10/18/business/18bubb.1.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2005/10/18/business/18bubb.1.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 55,
+            "width": 55,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "legacy": {
+              "tinythumbwidth": 55,
+              "tinythumbheight": 55,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd24cb48eb7c8105d7ecd14",
+        "source": "The New York Times",
+        "word_count": 1545,
+        "lead_paragraph": "Move over, New York. This year alone, Shanghai will complete towers with more space for living and working than there is in all the office buildings in New York City. That is in a city that already has 4,000 skyscrapers, almost double the number in New York. And there are designs to build 1,000 more by the end of this decade."
+      },
+      {
+        "abstract": "Correction of Oct 20 article about Christie's plans to hold auctions in Beijing; 450 works are in first sale",
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CHRISTIE'S"
+          },
+          {
+            "name": "subject",
+            "value": "AUCTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2005-10-21T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9F02EFDD133FF932A15753C1A9639C8B63",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "An article in The Arts yesterday about Christie's plans to hold auctions in Beijing misstated the number of works in the first sale, scheduled for Nov. 3. It is 450, not 45.  ",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd264528eb7c8105d817609",
+        "source": "The New York Times",
+        "word_count": 32,
+        "lead_paragraph": "An article in The Arts yesterday about Christie's plans to hold auctions in Beijing misstated the number of works in the first sale, scheduled for Nov. 3. It is 450, not 45."
+      },
+      {
+        "abstract": "Yahoo comes under mounting criticism for bowing to Chinese government request that its Hong Kong division surrender information on Chinese journalist who used Yahoo e-mail address to share with foreigners message that his newspaper had received from Chinese authorities warning it not to overplay 15th anniversary of Tiananmen Square; Shi Tao, journalist, has been sentenced to 10 years in prison; Yahoo's action will be investigated by Congress and Commerce Department; Yahoo argues that it must abide by laws of countries in which it operates; drawing (M)",
+        "headline": {
+          "kicker": "LINK BY LINK",
+          "main": "To Go Global, Do You Ignore Censorship?"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SHI TAO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "COMMERCE DEPARTMENT"
+          },
+          {
+            "name": "organizations",
+            "value": "YAHOO INC"
+          },
+          {
+            "name": "organizations",
+            "value": "YAHOO! INCORPORATED"
+          },
+          {
+            "name": "subject",
+            "value": "ELECTRONIC MAIL"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2005-10-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/10/24/technology/24link.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Yahoo has suffered backlash after it was revealed that the company surrendered information to the Chinese government on a citizen who had sought anonymity in a Yahoo e-mail address.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "role": "reported",
+            "lastname": "Zeller",
+            "qualifier": "Jr",
+            "firstname": "Tom"
+          }],
+          "original": "By Tom Zeller Jr"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd286448eb7c8105d8574ef",
+        "source": "The New York Times",
+        "word_count": 1164,
+        "lead_paragraph": "IT'S bad enough when newspaper editorials, Western human rights groups and ordinary American customers condemn your company for bowing to the Chinese dictatorship and contributing to oppression. But when the outrage begins rising, at great personal risk, from dissident voices trapped inside that dictatorship, well, that has to hurt. Or not."
+      },
+      {
+        "abstract": "Constant collision between two Chinas--one urban and racing into 21st century, other rural and seemingly locked in 18th, can be seen on edges of Beijing, where farmland is fast being converted into suburbs; farmers herding flocks of sheep compete for space on dusty roads with trucks carrying construction materials for latest high-rise buildings; other farmers ride carts behind tractors or even mules as sleek cars with tinted windows glide by; photo (M)",
+        "headline": {
+          "kicker": "Beijing Journal",
+          "main": "Down on the Farm, by the Golf Course and Subdivisions"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "AGRICULTURE"
+          },
+          {
+            "name": "subject",
+            "value": "FARMERS"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2005-11-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/11/08/international/asia/08harvest.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The tumult of daily life in Beijing is reshaping what remains of the fall harvest.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 325,
+            "width": 250,
+            "caption": "Watching Corn as Society Changes",
+            "type": "Image",
+            "credit": "The fall harvest shapes daily life for much of China, but the tumult of urban life in Beijing is reshaping rural traditions that still remain there.",
+            "url": "imagepages/2005/11/08/international/08harvestCA01ready.html",
+            "legacy": {
+              "MultimediaSummary1": "The fall harvest shapes daily life for much of China, but the tumult of urban life in Beijing is reshaping rural traditions that still remain there.",
+              "MultimediaPopupWidth1": "250",
+              "MultimediaType1": "Image",
+              "MultimediaPopupHeight1": "325",
+              "MultimediaHeadline1": "Watching Corn as Society Changes",
+              "MultimediaUrl1": "imagepages/2005/11/08/international/08harvestCA01ready.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2005/11/08/international/07harvest.751.jpg",
+            "legacy": {
+              "thumbnail": "images/2005/11/08/international/07harvest.751.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          }
+        ],
+        "_id": "4fd264548eb7c8105d8178cb",
+        "source": "The New York Times",
+        "word_count": 1067,
+        "lead_paragraph": "For the past month or so, a hunched man with watery eyes and stained teeth named Xi Qiuyuan has raked piles of corn into a long yellow quilt to dry in the sun. Then he has watched it. Mr. Xi is a night watchman, and what he watches is the corn. His role would not have been uncommon in China a century or more ago. He sleeps outside on a pallet of packed mud and keeps warm with a crude brick oven. He uses a handmade rake to sweep the corn along the side of a narrow farm road."
+      },
+      {
+        "abstract": "Group of two dozen fund management firms and investment analysts issues joint statement urging businesses to adopt policies addressing freedom of expression; move is indication of growing tensions between human rights advocates and American Internet and technology companies doing business in countries with repressive regimes; move comes in wake of public controversy over decision by Yahoo's Beijing division to cooperate with Chinese authorities seeking to identify user of Yahoo e-mail address in China last year; Shi Tao, journalist using that address, was ultimately sentenced to 10 years in prison for forwarding to journalists abroad a message issued by Chinese authorities; message warned Chinese news agencies not to overplay 15th anniversary of killings of protesters in Tiananmen Square (M)",
+        "headline": {"main": "Critics Press Companies On Internet Rights Issues"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SHI TAO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "YAHOO INC"
+          },
+          {
+            "name": "subject",
+            "value": "ELECTRONIC MAIL"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTER SOFTWARE"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2005-11-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/11/08/technology/08data.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "A statement urging freedom of expression was an indication of tensions between human rights advocates and companies doing business in countries with repressive regimes.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "role": "reported",
+            "lastname": "ZELLER",
+            "qualifier": "Jr",
+            "firstname": "Tom"
+          }],
+          "original": "By TOM ZELLER Jr"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd264548eb7c8105d8178d3",
+        "source": "The New York Times",
+        "word_count": 664,
+        "lead_paragraph": "In an indication of growing tensions between human rights advocates and American Internet and technology companies doing business in countries with repressive regimes, a group of two dozen fund management firms and investment analysts issued a joint statement yesterday urging businesses to adopt policies addressing freedom of expression. The move comes in the wake of public controversy over the decision by Yahoo's Beijing division to cooperate with Chinese authorities seeking to identify the user of a Yahoo e-mail address in China last year."
+      },
+      {
+        "abstract": "Huang Jingao, Communist Party official who complained publicly of widespread corruption in China's ruling party, is himself sentenced to life in prison for graft; he is former Communist Party secretary of Lianjiang County in Fujian Province; his supporters say party moved to silence him (S)",
+        "headline": {"main": "Chinese Foe of Graft Is Jailed for Graft"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HUANG JINGAO"
+          },
+          {
+            "name": "glocations",
+            "value": "FUJIAN PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ETHICS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2005-11-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/11/11/international/asia/11china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A official who complained of corruption in the ruling party was himself sentenced to life in prison for graft.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd287348eb7c8105d8589e4",
+        "source": "The New York Times",
+        "word_count": 145,
+        "lead_paragraph": "A Communist Party official who complained publicly of widespread corruption in the ruling party was himself sentenced Thursday to life in prison for graft. Huang Jingao, formerly the Communist Party secretary of Lianjiang County in Fujian Province, became an instant anticorruption hero last August when he posted a long letter on the Web site of People's Daily in which he accused other officials of colluding with a real estate developer to enrich themselves and seize land from peasants with little or no compensation."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China to Give Memorial Rite To Hu Yaobang, Purged Reformer"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "COMMUNISM"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "LEADERS AND LEADERSHIP"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2005-11-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/11/15/international/asia/15china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Despite opposition, China will restore the reputation of a party leader whose death helped inspire pro-democracy protests.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd24e228eb7c8105d7ef622",
+        "source": "The New York Times",
+        "word_count": 717,
+        "lead_paragraph": "Despite strong internal opposition, the Chinese Communist Party later this week will officially restore the reputation of a liberal-leaning party leader whose death helped inspire pro-democracy protests, people informed about the plans said. The party has not publicly honored the late leader, Hu Yaobang, since his death in April 1989, which gave rise to student demonstrations in Tiananmen Square. Those protests, against corruption, inflation and political repression, persisted until the army violently suppressed them on June 4 of that year."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China Wages Classroom Struggle to Win Friends in Africa"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "THIRD WORLD AND DEVELOPING COUNTRIES"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2005-11-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/11/20/international/asia/20beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The classes are one element in a campaign by Beijing to win friends around the world and pry developing nations out of the United States' sphere of influence.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "W.",
+            "role": "reported",
+            "lastname": "FRENCH",
+            "firstname": "Howard"
+          }],
+          "original": "By HOWARD W. FRENCH"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd24e238eb7c8105d7ef738",
+        "source": "The New York Times",
+        "word_count": 706,
+        "lead_paragraph": "As the teacher, a career Chinese diplomat, spoke, his class of African diplomats scribbled furiously. At the United Nations, China opposed the United States invasion of Iraq and has defended the right of Iran and other developing countries to use civilian nuclear power, said the teacher, Yuan Shibin. China, he noted pointedly, swept aside American objections to making an African the secretary general."
+      },
+      {
+        "abstract": "Wilborn Hampton reviews Beijing People's Art Theater revival of Lao She play Teahouse; photo (M)",
+        "headline": {
+          "kicker": "THEATER REVIEW",
+          "main": "Steeped in 50 Years of China's Subjugation"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "TEAHOUSE (PLAY)"
+          },
+          {
+            "name": "persons",
+            "value": "LAO SHE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING PEOPLE'S ART THEATER"
+          },
+          {
+            "name": "subject",
+            "value": "REVIEWS"
+          },
+          {
+            "name": "subject",
+            "value": "CULTURE"
+          },
+          {
+            "name": "subject",
+            "value": "THEATER"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2005-12-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/12/01/theater/reviews/01teah.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "Lao She's play is being revived in a captivating and beautifully acted production by the Beijing People's Art Theater.",
+        "type_of_material": "Review",
+        "blog": [],
+        "section_name": "Arts; Theater",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HAMPTON",
+            "role": "reported",
+            "firstname": "Wilborn"
+          }],
+          "original": "By WILBORN HAMPTON"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2005/12/01/arts/Teahouse75.jpg",
+          "legacy": {
+            "thumbnail": "images/2005/12/01/arts/Teahouse75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2a9ff8eb7c8105d895810",
+        "source": "The New York Times",
+        "word_count": 508,
+        "lead_paragraph": "There is nothing in Western culture that quite corresponds with the traditional teahouse in China. The corner pub or Old West saloon come to mind, but as the captivating and beautifully acted production of Lao She's ''Teahouse'' by the Beijing People's Art Theater makes clear, there is no place that offers as broad a panorama of its society. First performed in 1958, ''Teahouse'' has been a favorite work of one of China's favorite writers, before and after the Cultural Revolution. The current revival, which is performed in Mandarin with English supertitles and sponsored in New York by the Yangtze Repertory Theater, is playing a limited run that ends tonight at Pace Downtown Theater, 3 Spruce Street in Lower Manhattan."
+      },
+      {
+        "abstract": "Zhao Yan, researcher for Beijing bureau of The New York Times who has been imprisoned in China for more than year, is named journalist of year by Reporters Without Borders, international press freedom advocacy group (S)",
+        "headline": {"main": "Press Group Hails Jailed Chinese Journalist"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO YAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "REPORTERS WITHOUT BORDERS"
+          },
+          {
+            "name": "organizations",
+            "value": "NEW YORK TIMES"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2005-12-08T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9B00E0DB1031F93BA35751C1A9639C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "Zhao Yan, a researcher for the Beijing bureau of The New York Times who has been imprisoned in China for more than a year, was named journalist of the year on Wednesday by the international press freedom advocacy group Reporters Without Borders.     ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2873b8eb7c8105d858ccd",
+        "source": "The New York Times",
+        "word_count": 193,
+        "lead_paragraph": "Zhao Yan, a researcher for the Beijing bureau of The New York Times who has been imprisoned in China for more than a year, was named journalist of the year on Wednesday by the international press freedom advocacy group Reporters Without Borders. Mr. Zhao, 43, was arrested in Shanghai on Sept. 17, 2004, and accused of leaking state secrets to The Times. He is being held in Beijing and has not yet had a court hearing."
+      }
+    ],
+    "meta": {
+      "time": 56,
+      "hits": 50,
+      "offset": 40
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

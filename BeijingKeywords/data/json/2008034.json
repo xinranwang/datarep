@@ -1,0 +1,946 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Evacuation of New Orleans and grandeur of Olympic Games could not have made for starker contrast for Americans watching events unfold on TV in late August; China is clearly not afraid to invest in future of its cities; array of architecture it created for Beijing Olympics was only part of mosaic of roads, bridges and other projects that have transformed medieval city into modern metropolis overnight; much of New Orleans remains wasteland three years after Hurricane Katrina devastated city; its patchwork levee system could not guarantee safety of its citizens as Hurricane Gustav raced toward Gulf Coast; evacuation of tens of thousands of residents was cheered as some sort of victory; photo (M)",
+        "headline": {
+          "kicker": "CRITIC'S NOTEBOOK",
+          "main": "Reflections: New Orleans And China"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BLAKELY, EDWARD J"
+          },
+          {
+            "name": "glocations",
+            "value": "NEW ORLEANS (LA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "RESTORATION AND REHABILITATION"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "KATRINA (STORM)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "AREA PLANNING AND RENEWAL"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "subject",
+            "value": "BRIDGES AND TUNNELS"
+          },
+          {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+          },
+          {
+            "name": "subject",
+            "value": "HURRICANE KATRINA"
+          },
+          {
+            "name": "subject",
+            "value": "LEVEES AND DAMS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "HURRICANES"
+          },
+          {
+            "name": "subject",
+            "value": "URBAN AREAS"
+          },
+          {
+            "name": "subject",
+            "value": "GUSTAV (STORM)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-09-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/09/14/weekinreview/14ouroussoff.html",
+        "news_desk": "Week in Review Desk",
+        "snippet": "America has missed an opportunity to reimagine an urban area at a time when China has proved that no project is impossible.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Week in Review",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "OUROUSSOFF",
+            "role": "reported",
+            "firstname": "Nicolai"
+          }],
+          "original": "By NICOLAI OUROUSSOFF"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/09/14/weekinreview/orou-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/09/14/weekinreview/orou-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/09/14/weekinreview/orou-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2008/09/14/weekinreview/orou-600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2852d8eb7c8105d85514e",
+        "source": "The New York Times",
+        "word_count": 1265,
+        "lead_paragraph": "For Americans watching events unfold on television late last month, the arduous evacuation of New Orleans and the grandeur of the Olympic Games couldn't have made for a starker contrast. However one feels about its other policies, the Chinese government is clearly not afraid to invest in the future of its cities. The array of architecture it created for the Beijing Olympics was only part of a mosaic of roads, bridges, tunnels, canals, subway lines and other projects that have transformed a medieval city of wood and brick into a modern metropolis overnight."
+      },
+      {
+        "abstract": "Chinese police have detained 19 people as part of investigation into how baby formula became contaminated with industrial chemical melamine; formula is implicated in death of at least one infant; has afflicted at least 432 others with kidney problems; government says Sanlu Group recalled some products in March after complaints but delayed reporting problems to government or public (M)",
+        "headline": {"main": "China Detains 19 as Toxic Formula Sickens Hundreds of Infants"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "FOOD AND DRUG ADMINISTRATION"
+          },
+          {
+            "name": "organizations",
+            "value": "SANLU GROUP CO"
+          },
+          {
+            "name": "subject",
+            "value": "BABY FOODS"
+          },
+          {
+            "name": "subject",
+            "value": "MELAMINE"
+          },
+          {
+            "name": "subject",
+            "value": "HAZARDOUS AND TOXIC SUBSTANCES"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+          },
+          {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+          },
+          {
+            "name": "subject",
+            "value": "RECALLS AND BANS OF PRODUCTS"
+          },
+          {
+            "name": "subject",
+            "value": "FOOD CONTAMINATION AND POISONING"
+          },
+          {
+            "name": "subject",
+            "value": "INFANT FORMULAS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2008-09-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/09/14/business/14china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The formula is implicated in the death of one infant, and at least 432 others have been afflicted with kidney problems.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd26ba28eb7c8105d823dd7",
+        "source": "The New York Times",
+        "word_count": 422,
+        "lead_paragraph": "China said Saturday that 19 people had been detained by the police as part of an investigation into how baby formula had become contaminated with an industrial chemical. The formula is implicated in the death of one infant, and at least 432 others have been afflicted with kidney problems. The government also said Saturday that the Sanlu Group, China's biggest producer of milk powder formula, had first received complaints about its powder in March and had recalled some products but delayed reporting the problems to the government or the public."
+      },
+      {
+        "abstract": "Correction to Aug 23 article about Chinese men's Olympic field hockey team concerns name of one of players",
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HOCKEY, FIELD"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-09-16T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9906EFDD133EF935A2575AC0A96E9C8B63",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "An article on Aug. 23 about the Chinese men's Olympic field hockey team misidentified the individual who is known as Wei Wei. It is the player named Meng Lizhi -- not his mother, Au Sutao.         ",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd26ba18eb7c8105d823cf9",
+        "source": "The New York Times",
+        "word_count": 35,
+        "lead_paragraph": "An article on Aug. 23 about the Chinese men's Olympic field hockey team misidentified the individual who is known as Wei Wei. It is the player named Meng Lizhi -- not his mother, Au Sutao."
+      },
+      {
+        "abstract": "Olympic bicycle racers Sarah Hammer, Jennie Reed, Bobby Lea and Mike Friedman are not satisfied with e-mailed apology from United States Olympic Committee concerning their treatment by USOC in Beijing; USOC insisted athletes apologize to Chinese hosts when they arrived in China wearing air pollution filtration masks; USOC had issued masks and advised bikers to wear them (M)",
+        "headline": {"main": "Cyclists Say Apology Is Too Little, Too Late"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SCHERR, JIM"
+          },
+          {
+            "name": "persons",
+            "value": "FRIEDMAN, MIKE"
+          },
+          {
+            "name": "persons",
+            "value": "HAMMER, SARAH"
+          },
+          {
+            "name": "persons",
+            "value": "LEA, BOBBY"
+          },
+          {
+            "name": "persons",
+            "value": "REED, JENNIE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED STATES OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "MASKS"
+          },
+          {
+            "name": "subject",
+            "value": "ELECTRONIC MAIL"
+          },
+          {
+            "name": "subject",
+            "value": "BICYCLES AND BICYCLING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2008-09-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/09/16/sports/olympics/16olympics.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The U.S. Olympic Committee sent an e-mail to four cyclists who arrived in Beijing last month wearing masks to protect against pollution citing \u201cconfusion or a misunderstanding.\u201d",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MACUR",
+            "role": "reported",
+            "firstname": "Juliet"
+          }],
+          "original": "By JULIET MACUR"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27ccb8eb7c8105d843a17",
+        "source": "The New York Times",
+        "word_count": 809,
+        "lead_paragraph": "The four United States cyclists who arrived in Beijing wearing masks to protect against pollution and germs, then were forced to publicly apologize for embarrassing their Olympic host, received an e-mailed apology Sunday from the United States Olympic Committee. In the letter obtained by The New York Times, Jim Scherr, chief executive of the U.S.O.C., acknowledged that the cyclists did not intend to offend their host or make a political statement by wearing the masks. He wrote that there was ''confusion or a misunderstanding'' between the cyclists and the U.S.O.C., and that the athletes were simply following the pre-Olympic training recommendations provided to them by U.S.O.C. staff members."
+      },
+      {
+        "abstract": "Relative of several protesters who went to Beijing to protest property losses involving local government says detainees have been held since Sept 10; says one of 10 detainees has 4-month-old child in tow and some have been beaten by police (M)",
+        "headline": {"main": "10 Petitioners Still Detained After Arrest In Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLICE BRUTALITY AND MISCONDUCT"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "LAND USE POLICIES"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "20",
+        "pub_date": "2008-09-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/09/18/world/asia/18protest.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The detainees, including a 79-year-old woman, and another with a four-month-old in tow, have been held in Beijing since Sept. 10.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2972f8eb7c8105d87398e",
+        "source": "The New York Times",
+        "word_count": 446,
+        "lead_paragraph": "Ten people who came to Beijing last week to protest property losses involving local governments, one with a 4-month-old in tow, are still being held by the police in or around their hometown, and some had been beaten by the police, a relative of several detainees said Wednesday. The detainees, including a 79-year-old woman, are from the industrial city of Liuzhou in Guangxi Autonomous Region. They have been held by the local police since Sept. 10, when they were arrested in Beijing before they could carry out any protests."
+      },
+      {
+        "abstract": "Anxious parents wait in line for hours at Children's Hospital in Beijing, fearing that they may have fed their infants tainted formula; Sanlu brand of baby formula, now at center of nationwide food safety scandal, has left three infants dead and sickened more than 6,000 babies; Health Min Chen Zhu says that more than 1,300 infants have been hospitalized and that 158 have suffered acute kidney failure after being fed formula contaminated with industrial additive melamine; with anger rising, China's cabinet pledges overhaul of nation's dairy industry; government officials try to reassure people by issuing statement that 'most' of China's baby formula is safe; photo (M)",
+        "headline": {"main": "Worried Parents in China Wait for Answers on Tainted Formula"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN ZHU"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "SANLU GROUP"
+          },
+          {
+            "name": "organizations",
+            "value": "SANLU GROUP CO"
+          },
+          {
+            "name": "organizations",
+            "value": "CHILDREN'S HOSPITAL"
+          },
+          {
+            "name": "subject",
+            "value": "BABY FOODS"
+          },
+          {
+            "name": "subject",
+            "value": "MELAMINE"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+          },
+          {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+          },
+          {
+            "name": "subject",
+            "value": "HOSPITALS"
+          },
+          {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+          },
+          {
+            "name": "subject",
+            "value": "FOOD CONTAMINATION AND POISONING"
+          },
+          {
+            "name": "subject",
+            "value": "DAIRY PRODUCTS"
+          },
+          {
+            "name": "subject",
+            "value": "INFANT FORMULAS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2008-09-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/09/18/world/asia/18china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China\u2019s health minister reported Wednesday that more than 1,300 infants had been hospitalized after being fed contaminated baby formula.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY; Huang Yuanxi and Zhang Jing contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/09/18/world/18china_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/09/18/world/18china_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 310,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/09/18/world/18china_600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 310,
+              "xlarge": "images/2008/09/18/world/18china_600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2972f8eb7c8105d873978",
+        "source": "The New York Times",
+        "word_count": 991,
+        "lead_paragraph": "Harried nurses at Children's Hospital on the east side of Beijing spent Wednesday behind a small desk, registering infants in a rapidly filling logbook. Anxious parents, fearing they might have unwittingly fed their infants tainted formula, waited for hours to determine if their babies had been harmed. One father, Zhang Gaofeng, 35, had waited more than a day at the hospital with his wife, Wang Hui, and their 22-month-old daughter, Yue. The couple had fed Yue the Sanlu brand of baby formula now at the center of a nationwide food safety scandal that has left three infants dead and sickened more than 6,000 babies. Mr. Zhang, a migrant worker, blamed corporate greed."
+      },
+      {
+        "abstract": "Travel agents, tour operators, restaurateurs and other entrepreneurs say Beijing Olympics have helped to boost tourism in China; photo (M)",
+        "headline": {
+          "kicker": "COMINGS AND GOINGS",
+          "main": "Games Bolster China's Great Leap in Tourism"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2008-09-21T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9E07EED8133DF932A1575AC0A96E9C8B63",
+        "news_desk": "Travel Desk",
+        "snippet": "THE Beijing Olympics, as the most-viewed event in American television history, turned out to be pretty good publicity for Chinese tourism.      ''Our customer base now wants to experience what they saw the Olympic athletes experience on television,''",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HOWARD",
+            "role": "reported",
+            "firstname": "Hilary"
+          }],
+          "original": "By HILARY HOWARD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd26b9c8eb7c8105d82388d",
+        "source": "The New York Times",
+        "word_count": 538,
+        "lead_paragraph": "THE Beijing Olympics, as the most-viewed event in American television history, turned out to be pretty good publicity for Chinese tourism. ''Our customer base now wants to experience what they saw the Olympic athletes experience on television,'' said Jerry Pi, president of Pacific Delight Tours. ''I've seen a jump of about 20 percent for 2008, in terms of deposits for 2009 tours, compared to 2007.''"
+      },
+      {
+        "abstract": "Fresh accounts and photographs from tourists in area raise questions about official Chinese account of assault in Kashgar that left 16 paramilitary officers dead just days before Olympic games opened; officials blame two Uighur separatists in attack with truck, machetes and homemade explosives; witnesses describe men in uniform attacking other uniformed men; map; photos (L)",
+        "headline": {"main": "Doubt Arises in Account Of an Attack in China"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "KASHGAR (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "UIGHURS (CHINESE ETHNIC GROUP)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "UIGHURS (ETHNIC GROUP)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "TERRORISM"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2008-09-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/09/29/world/asia/29kashgar.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Tourists\u2019 descriptions of an Aug. 4 incident in Kashgar that left 16 officers dead are at odds with officials\u2019 account.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 583,
+            "width": 680,
+            "caption": "Witness Describes Kashgar Attack",
+            "type": "AudioSS",
+            "credit": "Days before the Olympic Games began in Beijing, 16 paramilitary officers were killed in the city of Kashgar, where the ethnic Uighur population is larger than that of Han Chinese. A Western tourist describes what he saw.",
+            "url": "http://www.nytimes.com/interactive/2008/09/29/world/20080929_kashgar_audioss/index.html",
+            "legacy": {
+              "MultimediaSummary1": "Days before the Olympic Games began in Beijing, 16 paramilitary officers were killed in the city of Kashgar, where the ethnic Uighur population is larger than that of Han Chinese. A Western tourist describes what he saw.",
+              "MultimediaPopupWidth1": "680",
+              "MultimediaType1": "AudioSS",
+              "MultimediaPopupHeight1": "583",
+              "MultimediaHeadline1": "Witness Describes Kashgar Attack",
+              "MultimediaUrl1": "http://www.nytimes.com/interactive/2008/09/29/world/20080929_kashgar_audioss/index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/09/29/world/29kashgar.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/09/29/world/29kashgar.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/09/29/world/29kashgar.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2008/09/29/world/29kashgar.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd297308eb7c8105d8739fa",
+        "source": "The New York Times",
+        "word_count": 1551,
+        "lead_paragraph": "Just days before the Olympic Games began in August, a truck plowed into a large group of paramilitary officers jogging in western China, sending bodies flying, Chinese officials said at the time. They described the event as a terrorist attack carried out by two ethnic Uighur separatists aimed at disrupting the Olympics. After running over the officers, the men also attacked them with machetes and homemade explosives, officials said. At least 16 officers were killed, they said, in what appeared to be the deadliest assault in China since the 1990s."
+      },
+      {
+        "abstract": "After month long investigation, officials from International Gymnastics Federation announce that all six members of Chinese women's gymnastics team at 2008 Olympics were old enough to compete; similar investigation involving Dong Fangxiao and Yang Yun of 2000 Olympics will continue; International Olympic Committee spokeswoman Emmanuelle Moreau comments; photos (M)",
+        "headline": {"main": "Inquiry on Age Clears Some Gymnasts, Not All"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "YANG YUN"
+          },
+          {
+            "name": "persons",
+            "value": "MOREAU, EMMANUELLE"
+          },
+          {
+            "name": "persons",
+            "value": "DONG FANGXIAO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "GYMNASTICS"
+          },
+          {
+            "name": "subject",
+            "value": "AGE, CHRONOLOGICAL"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2000)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-10-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/10/02/sports/olympics/02gymnastics.html",
+        "news_desk": "Sports Desk",
+        "snippet": "All six members of the Chinese women\u2019s gymnastics team met the age requirements to compete at the Beijing Olympics, officials from the International Gymnastics Federations said Wednesday.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MACUR",
+            "role": "reported",
+            "firstname": "Juliet"
+          }],
+          "original": "By JULIET MACUR"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/10/02/sports/02gymnastics_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/10/02/sports/02gymnastics_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 450,
+            "width": 280,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/10/02/sports/02gymnastics_450.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 450,
+              "xlarge": "images/2008/10/02/sports/02gymnastics_450.jpg",
+              "xlargewidth": 280
+            }
+          }
+        ],
+        "_id": "4fd26ba58eb7c8105d824021",
+        "source": "The New York Times",
+        "word_count": 720,
+        "lead_paragraph": "All six members of the Chinese women's gymnastics team at the Beijing Games were old enough to compete, officials from the International Gymnastics Federation said Wednesday after a monthlong investigation into possible age falsification by the team. Still, the federation's inquiry into under-age gymnasts will continue: two members of China's squad from the 2000 Olympics -- Dong Fangxiao and Yang Yun -- are being scrutinized for possibly breaking age rules."
+      },
+      {
+        "abstract": "Heba Said Ahmed, who had polio as child, says that Egyptians think that handicapped person should just stay in bed; she won gold medal in power lifting during Paralympic Games in Beijing, breaking world record; Ahmed graduated from Zagazig University with degree in psychology; photo (M)",
+        "headline": {
+          "kicker": "THE SATURDAY PROFILE",
+          "main": "An Egyptian Champion Returns Home to Familiar Challenges"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "AHMED, HEBA SAID"
+          },
+          {
+            "name": "glocations",
+            "value": "EGYPT"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "ZAGAZIG (EGYPT)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "PARALYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SOCIAL CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDS AND ACHIEVEMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "POLIOMYELITIS"
+          },
+          {
+            "name": "subject",
+            "value": "MEDALS AND MEDALLIONS"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "WEIGHT LIFTING"
+          },
+          {
+            "name": "subject",
+            "value": "HANDICAPPED"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2008-10-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/10/04/world/middleeast/04egypt.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "In a class-based society where there\u2019s a collective belief that fighting back is futile, Heba Said Ahmed never refers to fate; she talks about choices.",
+        "type_of_material": "Biography",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SLACKMAN",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL SLACKMAN; Mona el-Naggar contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/10/03/world/02egypt_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/10/03/world/02egypt_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 310,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/10/03/world/04egypt_600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 310,
+              "xlarge": "images/2008/10/03/world/04egypt_600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/10/03/world/04egypt.1-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/10/03/world/04egypt.1-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd27e0c8eb7c8105d8464bc",
+        "source": "The New York Times",
+        "word_count": 1372,
+        "lead_paragraph": "HEBA SAID AHMED pulled her car up to the curb. ''No parking here,'' a police officer shouted. ''But it's a handicap car,'' she said softly, motioning to her wheelchair in the back seat. The officer insisted that she park down the block."
+      }
+    ],
+    "meta": {
+      "time": 12,
+      "hits": 367,
+      "offset": 340
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,20 +1,5 @@
-/*
-Steve: 3636
-Fri Sep 13 01:52:38 EDT 2013
-Fri Sep 13 12:29:04 EDT 2013
-GB: 3643
-Fri Sep 13 02:31:51 EDT 2013
-Fri Sep 13 12:37:12 EDT 2013
-John: 3779
-Fri Sep 13 01:53:29 EDT 2013
-Fri Sep 13 12:21:53 EDT 2013
-*/
-
-
 import java.util.*;
-//import java.util.Map;
 import java.text.*;
-//import java.text.SimpleDateFormat;
 
 PShape heart;
 PFont bigFont;
@@ -27,7 +12,7 @@ IntDict personDict = new IntDict();
 HashMap<String, ArrayList> hrMap;
 
 SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssZ");
-SimpleDateFormat sdfPrint = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss");
+SimpleDateFormat sdfPrint = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss Z");
 
 boolean showChart = false;
 
@@ -45,14 +30,14 @@ void setup() {
 	background(0);
 	stroke(255);
 	fill(255);
+        
+        sdfPrint.setTimeZone(TimeZone.getTimeZone("GMT+2:00"));
 
 	heart = loadShape("heart.svg");
 	heart.disableStyle();
 
 	bigFont = createFont("Futura Condensed.ttf", 48);
 	smallFont = createFont("Futura Condensed.ttf", 14);
-	
-	//textSize(48);
 
 	JSONObject myJSON = loadJSONObject(endPoint);
 
@@ -113,15 +98,12 @@ void setup() {
 		// println(((ArrayList<HRObject>)me.getValue()).get(((ArrayList<HRObject>)me.getValue()).size() - 1).dateTime);
 
 		for (HRObject o : (ArrayList<HRObject>)me.getValue()){
-			o.tpos = new PVector(map(o.dateTime.getTime(), earliestTime, latestTime, 0, width), 
+			o.tpos = new PVector(map((float)(o.dateTime.getTime() - earliestTime), 0, (float)(latestTime - earliestTime), 0, width),
 								 map(o.hr, 0, 3, i * height / hrMap.size(), (i - 1) * height / hrMap.size()));
 		}
 
 		i++;
 	}
-
-	println("earliestTime: "+earliestTime);
-	println("latestTime: "+latestTime);
 
 }
 
@@ -154,6 +136,7 @@ void draw() {
 
 	fill(255);
 	textFont(smallFont, 14);
+	textAlign(CENTER);
 	if(mouseX < 50) textAlign(LEFT);
 	else if(mouseX > width - 50) textAlign(RIGHT);
 	text(sdfPrint.format(new Date(pointedTime)), mouseX, height - 60);
@@ -171,12 +154,14 @@ void draw() {
 		// int id = 0;
 		textFont(bigFont, 48);
 		text(((String)me.getKey()).toUpperCase(), (i + 1) * width / 3 - width / 6, height / 3 + 30);
+		//text(((String)me.getKey()).toUpperCase(), 50, (i + 1) * height / 3 - height / 6);
 
 		Date closest = new Date();
 		long shortest = 2009090232000L;
 		for (HRObject o : (ArrayList<HRObject>)me.getValue()){
 			// o.update();
 			if(showChart) o.render();
+
 			if((long)abs(o.dateTime.getTime() - pointedTime) < shortest && (long)abs(o.dateTime.getTime() - pointedTime) < 100000) {
 				ids[i] = o.id;
 				heartRates[i] = o;

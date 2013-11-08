@@ -1,0 +1,874 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Journalist Charles McGrath details his experience at 2008 Olympics; photo (M)",
+        "headline": {"main": "A Rookie Survives a Glorious, if Maddening, Extravaganza"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-08-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/25/sports/olympics/25mcgrath.html",
+        "news_desk": "Sports Desk",
+        "snippet": "If you spent any time in front of the TV, you probably saw more of Beijing than I did. And you surely saw more of the Games.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCGRATH",
+            "role": "reported",
+            "firstname": "Charles"
+          }],
+          "original": "By CHARLES MCGRATH"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/25/sports/25mcgrath.751.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/25/sports/25mcgrath.751.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/25/sports/25mcgrath.xlarge1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2008/08/25/sports/25mcgrath.xlarge1.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd296438eb7c8105d872366",
+        "source": "The New York Times",
+        "word_count": 993,
+        "lead_paragraph": "I made it. I survived my first Olympics with only a moderate case of sleep deprivation and a few bruises incurred while jostling my fellow scribes for quotations in the mixed zone. If I'm ever lucky enough to attend the Olympics again, I'll be able to join the game-hardened veterans shaking their heads and saying, ''Not as good as Beijing.'' And we'll be right. It's hard to imagine how an Olympics, or any human endeavor of equivalent size, could be better run. The Chinese thought of everything. There were even little remote-controlled robot cars to fetch thrown javelins and return them to the athletes,"
+      },
+      {
+        "abstract": "Stuart Elliott Advertising column assesses America's television commercials at Beijing Olympics; list; photos (M)",
+        "headline": {
+          "kicker": "ADVERTISING",
+          "main": "America's Commercials at the Olympics"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2008-08-25T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9C02E0D81539F936A1575BC0A96E9C8B63",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "AFTER two weeks of watching Olympic commercials on ''the networks of NBC Universal,'' as the employees of General Electric so grandly put it, it is time -- at long last -- to present imaginary medals in a post-Games advertising review.     Most of th",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ELLIOTT",
+            "role": "reported",
+            "firstname": "Stuart"
+          }],
+          "original": "By STUART ELLIOTT"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd26ba08eb7c8105d823c77",
+        "source": "The New York Times",
+        "word_count": 1005,
+        "lead_paragraph": "AFTER two weeks of watching Olympic commercials on ''the networks of NBC Universal,'' as the employees of General Electric so grandly put it, it is time -- at long last -- to present imaginary medals in a post-Games advertising review. Most of the thousands of spots that ran on networks like CNBC, NBC, MSNBC and USA expressed sentiments familiar to viewers of so-called big events on television. Patriotism is good. Striving for athletic achievement is noble. The world would be a better place if we all drank the same beverages, drove the same cars, shopped at the same stores and bought things with the same credit cards."
+      },
+      {
+        "abstract": "Beijing mayor Guo Jinlong passes Olympic flag to International Olympic Comittee president Jacques Rogge, who passes it to London mayor Boris Johnson, symbolizing passing of Olympics from one city to another; Sebastian Coe, London committee chairman, says 2012 Olympics goal will be to drive participation in Olympics sports; photos (M)",
+        "headline": {"main": "Countdown to London Begins With Questions"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "JOHNSON, BORIS"
+          },
+          {
+            "name": "persons",
+            "value": "COE, SEBASTIAN"
+          },
+          {
+            "name": "persons",
+            "value": "ROGGE, JACQUES"
+          },
+          {
+            "name": "persons",
+            "value": "GUO JINLONG"
+          },
+          {
+            "name": "glocations",
+            "value": "LONDON (ENGLAND)"
+          },
+          {
+            "name": "glocations",
+            "value": "LONDON (ENG)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2012)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2008-08-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/25/sports/olympics/25london.html",
+        "news_desk": "Sports Desk",
+        "snippet": "For London, the trap is to avoid being accused of wasting money on a short-lived event, while not being seen as skimping on the Olympic Games.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BERLIN",
+            "role": "reported",
+            "firstname": "Peter"
+          }],
+          "original": "By PETER BERLIN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2972b8eb7c8105d873675",
+        "source": "The New York Times",
+        "word_count": 922,
+        "lead_paragraph": "If there were any doubts that the 2012 Olympics in London would be different from those in Beijing, they vanished as soon as the mayor of London appeared during the closing ceremony Sunday night. The mayor, Boris Johnson, appeared after Guo Jinlong, his Beijing counterpart, and Jacques Rogge, the president of the International Olympic Committee, had given speeches."
+      },
+      {
+        "abstract": "US defeats Brazil to win men's volleyball at 2008 Olympics; US coach Hugh McCutcheon, whose father-in-law Todd Bachman was stabbed to death in Beijing (China) by Tang Yongming, who later committed suicide, comments; Bachman's wife Barbara, who was also attacked by Tang, remains in hospital; Brazil wins silver and Russia wins bronze; photos (M)",
+        "headline": {"main": "Two Weeks After Stabbings, A Gold Medal Stirs Emotions"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BACHMAN, BARBARA"
+          },
+          {
+            "name": "persons",
+            "value": "TANG YONGMING"
+          },
+          {
+            "name": "persons",
+            "value": "BACHMAN, TODD"
+          },
+          {
+            "name": "persons",
+            "value": "MCCUTCHEON, HUGH"
+          },
+          {
+            "name": "glocations",
+            "value": "RUSSIA"
+          },
+          {
+            "name": "glocations",
+            "value": "BRAZIL"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+          },
+          {
+            "name": "subject",
+            "value": "COACHES AND MANAGERS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "VOLLEYBALL"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "SUICIDES AND SUICIDE ATTEMPTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/25/sports/olympics/25volleyball.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The four-set victory was an intensely emotional ending for the U.S. team, whose coach\u2019s in-laws were attacked a day after the opening ceremony.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MACUR",
+            "role": "reported",
+            "firstname": "Juliet"
+          }],
+          "original": "By JULIET MACUR"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/23/sports/olympics/24volleyball04_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/23/sports/olympics/24volleyball04_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 450,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/23/sports/olympics/24volleyball04_650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 450,
+              "xlarge": "images/2008/08/23/sports/olympics/24volleyball04_650.jpg",
+              "xlargewidth": 650
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/08/23/sports/olympics/24volleyball04_337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/08/23/sports/olympics/24volleyball04_337.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd2972b8eb7c8105d873673",
+        "source": "The New York Times",
+        "word_count": 1030,
+        "lead_paragraph": "While his players hugged and shouted and leapt into one another's arms Sunday after the United States men's volleyball team won its first Olympic gold medal in 20 years, Coach Hugh McCutcheon walked off the court, alone. He headed for a hallway beneath the Capital Indoor Stadium and buried his shaved head in his hands. And, finally, he wept."
+      },
+      {
+        "abstract": "Efforts by NBC Sports chairman Dick Ebersol in getting Olympic swimming star Michael Phelps to perform live in prime time was just one of moves and unexpected breaks, some going back almost 10 years, that set up spectacular success NBC achieved at Beijing Games; Games had record viewer totals of more than 200 million people, surge in ad sales that guaranteed profit of over $100 million and best word of mouth about any Olympics coverage in generation; as result, NBC turned Beijing Games, with all their potential liabilities, into triumph for network; photos (M)",
+        "headline": {"main": "On TV, Timing Is Everything at the Olympics"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "EBERSOL, DICK"
+          },
+          {
+            "name": "persons",
+            "value": "PHELPS, MICHAEL"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NATIONAL BROADCASTING CO"
+          },
+          {
+            "name": "organizations",
+            "value": "NBC UNIVERSAL"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "RATINGS AND RATING SYSTEMS"
+          },
+          {
+            "name": "subject",
+            "value": "FINANCES"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/25/sports/olympics/25nbc.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Getting U.S. stars like Michael Phelps to perform live in prime time was just one of the moves that set up the spectacular success NBC achieved in the Beijing Games.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CARTER",
+            "role": "reported",
+            "firstname": "Bill"
+          }],
+          "original": "By BILL CARTER"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/25/business/25nbc.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/25/business/25nbc.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 450,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/25/business/25nbc.enlarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 450,
+              "xlarge": "images/2008/08/25/business/25nbc.enlarge.jpg",
+              "xlargewidth": 650
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/08/25/business/25nbc.HP.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/08/25/business/25nbc.HP.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd297238eb7c8105d8730ab",
+        "source": "The New York Times",
+        "word_count": 1979,
+        "lead_paragraph": "In mid-2005, Dick Ebersol, the chairman of NBC Sports, had secured the support of the International Olympic Committee for the critical move of the finals of the key television sports of swimming and gymnastics to morning hours in China so they could be shown live in prime time in the United States. But he had one more person he needed to consult: Michael Phelps. ''Michael was the first outsider I talked to about it,'' Mr. Ebersol said in an interview from Beijing, where he wrapped up NBC's coverage of the Games Sunday. He said he wanted to make sure that competing in the morning would not harm the performance of the likely American star of the Games."
+      },
+      {
+        "abstract": "Athletes who have dual advantage of good looks and of playing in popular sport have easier path to stardom than average athlete in China; Olympic diver Guo Jingjing (China), who is known for her pretty face, is on many billboards across China and gymnast He Wenna is being called 'Beauty He'; photos (M)",
+        "headline": {"main": "All That Gold, All Those Sports Heroes"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HE WENNA"
+          },
+          {
+            "name": "persons",
+            "value": "GUO JINGJING"
+          },
+          {
+            "name": "persons",
+            "value": "LIU XIANG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "GYMNASTICS"
+          },
+          {
+            "name": "subject",
+            "value": "DIVING (SPORTS EVENT)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2008-08-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/25/sports/olympics/25chinese.html",
+        "news_desk": "Sports Desk",
+        "snippet": "With a haul of 51 gold medals, China has its choice of Olympic celebrities to help fill the void left by the world-class hurdler Liu Xiang, who dropped out of competition because of an injury.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG; Tang Xuemei, Jessie Jiang and Huang Yuanxi contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 280,
+          "width": 600,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2008/08/25/sports/25chinese.1.600.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 280,
+            "xlarge": "images/2008/08/25/sports/25chinese.1.600.jpg",
+            "xlargewidth": 600
+          }
+        }],
+        "_id": "4fd2b3c38eb7c8105d8a5a38",
+        "source": "The New York Times",
+        "word_count": 1362,
+        "lead_paragraph": "It is not every day that a nation worships a pixie who bounces off a springy mat more than a dozen feet into the air, flipping and floating and twisting like Batman above the skyscrapers of Gotham. But He Wenna, the gold medalist in women's trampoline, has emerged as one of the unlikely heroes of the Beijing Games."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Olympics Close With a Bang and a Double-Decker Bus"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/25/sports/olympics/25beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "With another dramatic fireworks display Sunday evening at the National Stadium, the Beijing Olympics came to a dazzling close, ending two weeks of spectacular athletic performances.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA; John Branch contributed reporting from Beijing"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 371,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/24/sports/olympics/600-closing-span.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 371,
+              "xlarge": "images/2008/08/24/sports/olympics/600-closing-span.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/08/24/sports/olympics/337-closing-span.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/08/24/sports/olympics/337-closing-span.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd296408eb7c8105d8720dd",
+        "source": "The New York Times",
+        "word_count": 755,
+        "lead_paragraph": "With another dramatic fireworks display Sunday evening at the National Stadium here, the Beijing Olympics came to a dazzling close, ending two weeks of spectacular athletic performances during an Olympic competition that was surprisingly free of protests or the disruptions that some, including Beijing, had anticipated. In addition to fireworks, there were acrobats clinging to a large ''memory tower'' at the center of the stadium, also known as the Bird's Nest, precision drummers, bicyclists and performers representing 56 ethnic groups singing, ''Please Stay, Guests From Afar.''"
+      },
+      {
+        "abstract": "China wins most gold medals, but US wins most medals overall; China continues to dominate in diving, weight lifting, badminton and table tennis; but they also won their first Olympic gold medals in other sports like archery, rowing, boxing, sailing and gymnastics; photo (M)",
+        "headline": {
+          "kicker": "INSIDE THE RINGS",
+          "main": "China Takes a Big Step Toward Turning the Medal Tables"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BOXING"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHERY"
+          },
+          {
+            "name": "subject",
+            "value": "GYMNASTICS"
+          },
+          {
+            "name": "subject",
+            "value": "BADMINTON"
+          },
+          {
+            "name": "subject",
+            "value": "DIVING (SPORTS EVENT)"
+          },
+          {
+            "name": "subject",
+            "value": "TENNIS, TABLE"
+          },
+          {
+            "name": "subject",
+            "value": "ROWING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "SAILBOATS AND SAILING"
+          },
+          {
+            "name": "subject",
+            "value": "WEIGHT LIFTING"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2008-08-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/25/sports/olympics/25clarey.html",
+        "news_desk": "Sports Desk",
+        "snippet": "China finished with 51 gold medals, the highest figure for any nation at an Olympics in 20 years, and it won them across a wider range of sports than any team in Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CLAREY",
+            "role": "reported",
+            "firstname": "Christopher"
+          }],
+          "original": "By CHRISTOPHER CLAREY"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2008/08/25/sports/25clarey.1.75.jpg",
+          "legacy": {
+            "thumbnail": "images/2008/08/25/sports/25clarey.1.75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2b3c38eb7c8105d8a5a36",
+        "source": "The New York Times",
+        "word_count": 874,
+        "lead_paragraph": "In a country full of numerologists, it was surely not lost on the Chinese that the last medal they won at their undeniably successful Olympics was also their 100th. It came late Sunday afternoon, shortly before the closing ceremony, from boxer Zhang Zhilei in the super heavyweight division, and the only thing that did not seem entirely appropriate as Zhang collected his prize was that he had just finished second."
+      },
+      {
+        "abstract": "Family members and Students for a Free Tibet say that eight American protesters detained by Chinese authorities and given 10-day sentences were released six days early; organization staged series of unauthorized demonstrations during Olympics (M)",
+        "headline": {"main": "China Deports 8 Americans Held in Protests"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "organizations",
+            "value": "STUDENTS FOR A FREE TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "DEPORTATION"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2008-08-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/25/sports/olympics/25detain.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Students for a Free Tibet said eight American men were placed on a Los Angeles-bound flight on Sunday evening, just as the closing ceremony was getting under way.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2852c8eb7c8105d8550ed",
+        "source": "The New York Times",
+        "word_count": 316,
+        "lead_paragraph": "Eight American protesters detained by the Chinese authorities last week and given 10-day sentences were released six days early, family members and protest organizers said Sunday. Students for a Free Tibet, the organization that staged a series of unauthorized demonstrations during the Olympics, said the eight men were placed on a Los Angeles-bound flight on Sunday evening, just as the closing ceremony was getting under way."
+      },
+      {
+        "abstract": "Use of Marcus Harvey's painting of murderer Myra Hindley in video at Beijing event meant to showcase London arts and culture draws outrage from London Mayor Boris Johnson and British Prime Minister Gordon Brown (S)",
+        "headline": {
+          "kicker": "ARTS, BRIEFLY",
+          "main": "Portrait Of Murderer Upsets British"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HINDLEY, MYRA"
+          },
+          {
+            "name": "persons",
+            "value": "JOHNSON, BORIS"
+          },
+          {
+            "name": "persons",
+            "value": "BROWN, GORDON"
+          },
+          {
+            "name": "persons",
+            "value": "HARVEY, MARCUS"
+          },
+          {
+            "name": "glocations",
+            "value": "GREAT BRITAIN"
+          },
+          {
+            "name": "glocations",
+            "value": "LONDON (ENG)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2008-08-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/26/arts/26arts-PORTRAITOFMU_BRF.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "The use of a murderer\u2019s portrait in a video at an event in Beijing has drawn outrage from the mayor of London and the British prime minister.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BLOOM",
+            "role": "reported",
+            "firstname": "Julie"
+          }],
+          "original": "Compiled by JULIE BLOOM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2852d8eb7c8105d8550fa",
+        "source": "The New York Times",
+        "word_count": 150,
+        "lead_paragraph": "The use of a murderer's portrait in a video at an event in Beijing has drawn outrage from the mayor of London and the British prime minister, BBC News reported. The video, meant to showcase London arts and culture, included Marcus Harvey's painting of Myra Hindley, who with her lover was convicted of the so-called moors murders in the 1960s. The video was produced by Visit London, a tourism organization not affiliated with the organizers of London 2012, which is promoting the next Summer Games. It was screened at a Beijing party where the guests included Prime Minister Gordon Brown and the mayor of London, Boris Johnson. A spokesman for Mr. Johnson said he was ''deeply disturbed'' that the painting had been shown. A Downing Street spokesman said, ''The use of this image is in extremely poor taste and it should not have been used to promote London.''"
+      }
+    ],
+    "meta": {
+      "time": 12,
+      "hits": 367,
+      "offset": 320
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

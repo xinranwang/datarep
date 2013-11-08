@@ -1,0 +1,1061 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "\"Showpiece project in China's Shaanxi Province exposes flaws in country's vast urbanization drive, including high electricity costs and lack of jobs in new towns to which people are being relocated;\" Chinese government is expected to unveil urbanization blueprint that will have 21 million people a year move from countryside into cities (Series: Leaving The Land).",
+        "headline": {
+          "print_headline": "Chinese Hit Pitfalls Pushing Millions Off Farm",
+          "kicker": "Leaving the Land",
+          "main": "Pitfalls Abound in China\u2019s Push From Farm to City"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Rural Areas",
+            "is_major": "N"
+          },
+          {
+            "rank": "8",
+            "name": "persons",
+            "value": "Mao Zedong",
+            "is_major": "N"
+          },
+          {
+            "rank": "10",
+            "name": "glocations",
+            "value": "Shifang (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "12",
+            "name": "subject",
+            "value": "Series",
+            "is_major": "Y"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Urban Areas",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Labor and Jobs",
+            "is_major": "N"
+          },
+          {
+            "rank": "7",
+            "name": "organizations",
+            "value": "Communist Party of China",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Agriculture and Farming",
+            "is_major": "N"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Cultural Revolution",
+            "is_major": "N"
+          },
+          {
+            "rank": "9",
+            "name": "glocations",
+            "value": "Shenzhen (China)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2013-07-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/07/14/world/asia/pitfalls-abound-in-chinas-push-from-farm-to-city.html",
+        "news_desk": "Foreign",
+        "snippet": "Even a showpiece project in Shaanxi Province shows flaws in China\u2019s urbanization drive, including high electricity costs and a lack of jobs in the new towns.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JOHNSON",
+            "role": "reported",
+            "firstname": "Ian"
+          }],
+          "contributor": "Mia Li contributed research from Beijing.",
+          "original": "By IAN JOHNSON"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/06/25/world/asia/20130626-CHINAURBAN-slide-UJIF/20130626-CHINAURBAN-slide-UJIF-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/06/25/world/asia/20130626-CHINAURBAN-slide-UJIF/20130626-CHINAURBAN-slide-UJIF-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 400,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/06/25/world/asia/20130626-CHINAURBAN-slide-UJIF/20130626-CHINAURBAN-slide-UJIF-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "400",
+              "xlarge": "images/2013/06/25/world/asia/20130626-CHINAURBAN-slide-UJIF/20130626-CHINAURBAN-slide-UJIF-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/07/13/world/chinaurban_families_forfeeds/chinaurban_families_forfeeds-thumbStandard.png",
+            "legacy": {
+              "thumbnail": "images/2013/07/13/world/chinaurban_families_forfeeds/chinaurban_families_forfeeds-thumbStandard.png",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51e1beb37e0d9c0839d2f9eb",
+        "source": "The New York Times",
+        "word_count": "2021",
+        "lead_paragraph": "Even a showpiece project in Shaanxi Province shows flaws in China\u2019s urbanization drive, including high electricity costs and a lack of jobs in the new towns."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Intersection: New Style in Old Beijing"},
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Fashion and Apparel",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-07-15T18:47:45Z",
+        "web_url": "http://www.nytimes.com/video/2013/07/15/fashion/100000002338274/intersection-new-style-in-old-beijing.html",
+        "news_desk": "Fashion & Style",
+        "snippet": "In Beijing\u2019s Gulou neighborhood, we met Li Xuan, who cites the local architecture as his main source of style inspiration.",
+        "type_of_material": "Video",
+        "blog": [],
+        "section_name": "Fashion & Style",
+        "document_type": "multimedia",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported",
+            "firstname": "Jonah"
+          }],
+          "original": "Jonah M. Kessel"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/07/16/fashion/video-intersection-beijing/video-intersection-beijing-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/07/16/fashion/video-intersection-beijing/video-intersection-beijing-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 338,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/07/16/fashion/video-intersection-beijing/video-intersection-beijing-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "338",
+              "xlarge": "images/2013/07/16/fashion/video-intersection-beijing/video-intersection-beijing-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/07/16/fashion/video-intersection-beijing/video-intersection-beijing-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/07/16/fashion/video-intersection-beijing/video-intersection-beijing-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51e47c217e0d9c0839d2fed4",
+        "source": "The New York Times",
+        "word_count": "20",
+        "lead_paragraph": "In Beijing\u2019s Gulou neighborhood, we met Li Xuan, who cites the local architecture as his main source of style inspiration."
+      },
+      {
+        "abstract": "Police in Beijing detain Xu Zhiyong, one of China\u2019s most prominent rights advocates; it is latest in series of arrests that critics say shows Communist Party\u2019s determination to silence campaigners who have challenged party to act on its vows to expose official corruption and respect rule of law.",
+        "headline": {
+          "print_headline": "A Leading Chinese Human Rights Advocate Is Detained in Beijing",
+          "main": "A Leading Chinese Human Rights Advocate Is Detained in Beijing"
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Human Rights and Human Rights Violations",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Xu Zhiyong",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2013-07-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/07/18/world/asia/china-detains-a-leading-human-rights-advocate.html",
+        "news_desk": "Foreign",
+        "snippet": "Xu Zhiyong, who was held Tuesday on unlawful-assembly charges, has challenged the Communist Party to act on its vows to expose corruption and respect the rule of law.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BUCKLEY",
+            "role": "reported",
+            "firstname": "Chris"
+          }],
+          "contributor": "Patrick Zuo contributed research from Beijing.",
+          "original": "By CHRIS BUCKLEY"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/07/18/world/beijing/beijing-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/07/18/world/beijing/beijing-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 814,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/07/18/world/beijing/beijing-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "814",
+              "xlarge": "images/2013/07/18/world/beijing/beijing-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/07/18/world/beijing/beijing-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/07/18/world/beijing/beijing-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51e6783b7e0d9c0839d303d8",
+        "source": "The New York Times",
+        "word_count": "910",
+        "lead_paragraph": "Xu Zhiyong, who was held Tuesday on unlawful-assembly charges, has challenged the Communist Party to act on its vows to expose corruption and respect the rule of law."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "print_headline": "Former Motorcycle Driver, Paralyzed in Beating, Sets Off Bomb at Beijing Airport",
+          "main": "Former Motorcycle Driver, Paralyzed in Beating, Sets Off Bomb at Beijing Airport"
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Bombs and Explosives",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Demonstrations, Protests, and Riots",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "",
+        "pub_date": "2013-07-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/07/21/world/asia/former-motorcycle-driver-paralyzed-in-beating-sets-off-bomb-at-beijing-airport.html",
+        "news_desk": "Foreign",
+        "snippet": "A man in a wheelchair, the only one hurt by the bomb, was said to have ignited it to protest government inaction after he was paralyzed in a beating by security officers.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "contributor": "Chen Jiehao contributed research.",
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/07/21/world/21beijing_inline/21beijing_inline-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/07/21/world/21beijing_inline/21beijing_inline-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 466,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/07/21/world/21beijing_inline/21beijing_inline-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "466",
+              "xlarge": "images/2013/07/21/world/21beijing_inline/21beijing_inline-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/07/21/world/21beijing_inline/21beijing_inline-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/07/21/world/21beijing_inline/21beijing_inline-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51ed615f38f0d8431a75aafd",
+        "source": "The New York Times",
+        "word_count": "661",
+        "lead_paragraph": "A man in a wheelchair, the only one hurt by the bomb, was said to have ignited it to protest government inaction after he was paralyzed in a beating by security officers."
+      },
+      {
+        "abstract": "The Chinese government has announced yet another anti-pornography campaign in the name of good morals \u2014 so that only its media outlets can sell smut.",
+        "headline": {
+          "kicker": "Latitude",
+          "main": "Beijing's Play for Porn"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Deng Xiaoping"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Shanghai (China)"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Hong Kong"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "South China Morning Post Limited"
+          },
+          {
+            "rank": "6",
+            "name": "organizations",
+            "value": "Xinhua"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "China Central Television"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Google Inc"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "People's Daily"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "Sina Weibo"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Ethics (Personal)"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Magazines"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Freedom of the Press"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Censorship"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Pornography"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-07-26T10:15:24Z",
+        "web_url": "http://latitude.blogs.nytimes.com/2013/07/26/beijings-play-for-porn/",
+        "news_desk": null,
+        "snippet": "The Chinese government has announced yet another anti-pornography campaign in the name of good morals \u2014 so that only its media outlets can sell smut.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SEBAG-MONTEFIORE",
+            "role": "reported",
+            "firstname": "Clarissa"
+          }],
+          "original": "By CLARISSA SEBAG-MONTEFIORE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "51f287e738f0d8431a75bb64",
+        "source": "The New York Times",
+        "word_count": "589",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Beijing Journal; Beijing's courtyard homes and hutongs, traditional Chinese alleyways that date to 13th century, have been disappearing since China opened its economy in 1980s; they are being replaced not only by large-scale commercial projects, but also by growing number of illegal, small-scale construction projects that sidestep local planning laws and alter atmosphere of neighborhoods.",
+        "headline": {
+          "print_headline": "13th-Century Alleyways And a Modern Plague Of Illegal Renovations",
+          "kicker": "Beijing Journal",
+          "main": "13th-Century Alleyways and a Modern Plague of Illegal Renovations"
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Building (Construction)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Historic Buildings and Sites",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2013-07-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/07/30/world/asia/beijing-journal-13th-century-alleyways-and-a-modern-plague-of-illegal-renovations.html",
+        "news_desk": "Foreign",
+        "snippet": "Beijing is losing many of its hutongs, the traditional Chinese alleyways that date to the 13th century, and gaining a bevy of illegal, outsize construction in their places.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Sue-lin"
+          }],
+          "contributor": "Edward Wong contributed reporting.",
+          "original": "By SUE-LIN WONG"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/07/30/world/BEIJING-2/BEIJING-2-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/07/30/world/BEIJING-2/BEIJING-2-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 400,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/07/30/world/BEIJING-2/BEIJING-2-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "400",
+              "xlarge": "images/2013/07/30/world/BEIJING-2/BEIJING-2-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/07/30/world/BEIJING/BEIJING-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/07/30/world/BEIJING/BEIJING-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51f7143a38f0d8431a75c43c",
+        "source": "The New York Times",
+        "word_count": "1080",
+        "lead_paragraph": "Beijing is losing many of its hutongs, the traditional Chinese alleyways that date to the 13th century, and gaining a bevy of illegal, outsize construction in their places."
+      },
+      {
+        "abstract": "Dispatch column by Edward Wong describes his and his wife's concerns about quality of air and food in China and whether these factors are detrimentally affecting their child.",
+        "headline": {
+          "print_headline": "Life In A Toxic Country",
+          "kicker": "Dispatch",
+          "main": "Life in a Toxic Country"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Parenting",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Food Contamination and Poisoning",
+            "is_major": "Y"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Air Pollution",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Infant Formulas",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2013-08-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/08/04/sunday-review/life-in-a-toxic-country.html",
+        "news_desk": "OpEd",
+        "snippet": "My wife and I worry about how China\u2019s bad air and food will affect our child.",
+        "type_of_material": "An Analysis; News Analysis",
+        "blog": [],
+        "section_name": "Sunday Review",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "contributor": "",
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/08/04/sunday-review/04COVER/04COVER-thumbWide-v3.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/08/04/sunday-review/04COVER/04COVER-thumbWide-v3.jpg"
+            }
+          },
+          {
+            "height": 403,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/08/04/sunday-review/04CHINA/04CHINA-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "403",
+              "xlarge": "images/2013/08/04/sunday-review/04CHINA/04CHINA-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/08/04/sunday-review/04COVER/04COVER-thumbStandard-v4.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/08/04/sunday-review/04COVER/04COVER-thumbStandard-v4.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51fd577f38f0d8740ac898c7",
+        "source": "The New York Times",
+        "word_count": "1643",
+        "lead_paragraph": "My wife and I worry about how China\u2019s bad air and food will affect our child."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "print_headline": "Artist's Take on Sex Abuse Turns Ugly",
+          "main": "Artist's Take on Sex Abuse Turns Ugly"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Sexual Harassment",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Shanghai (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Women and Girls",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Art",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-08-07T14:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/08/07/world/asia/07iht-letter07.html",
+        "news_desk": "Foreign",
+        "snippet": "Life imitated art too closely when the performance artist Yan Yinhong was attacked on stage while protesting sexual attacks against women.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/08/06/world/ihtletter_letter07_span/ihtletter_letter07_span-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/08/06/world/ihtletter_letter07_span/ihtletter_letter07_span-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 331,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/08/06/world/ihtletter_letter07_span/ihtletter_letter07_span-articleLarge-v2.jpg",
+            "legacy": {
+              "xlargeheight": "331",
+              "xlarge": "images/2013/08/06/world/ihtletter_letter07_span/ihtletter_letter07_span-articleLarge-v2.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/08/06/world/ihtletter_letter07_span/ihtletter_letter07_span-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/08/06/world/ihtletter_letter07_span/ihtletter_letter07_span-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "5200c75738f0d8740ac89ed4",
+        "source": "International Herald Tribune",
+        "word_count": "971",
+        "lead_paragraph": "Life imitated art too closely when the performance artist Yan Yinhong was attacked on stage while protesting sexual attacks against women."
+      },
+      {
+        "abstract": "Beijing Morning Post reports that 8000-square-foot addition built by Chinese health care magnate Zhang Biqing atop his Beijing penthouse apartment is illegal and must be removed; story, rife with details of intimidated and unhappy neighbors, embodies perception that rich and powerful can simply do as they please.",
+        "headline": {
+          "print_headline": "Rooftop Addition Draws Notice in Beijing",
+          "main": "Beijing Orders Demolition of Rooftop Art"
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Zhang Biqing",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2013-08-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/08/14/world/asia/mountainous-rooftop-addition-draws-notice-in-beijing.html",
+        "news_desk": "Foreign",
+        "snippet": "The $4 million, 8,000-square-foot extension of an apartment, featuring boulders and trellises, has been ordered removed unless its owner can prove it was built legally.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "contributor": "Mia Li contributed research.",
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/08/14/world/14beijing_span/14beijing_span-thumbWide-v2.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/08/14/world/14beijing_span/14beijing_span-thumbWide-v2.jpg"
+            }
+          },
+          {
+            "height": 346,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/08/14/world/14beijing_span/14beijing_span-articleLarge-v2.jpg",
+            "legacy": {
+              "xlargeheight": "346",
+              "xlarge": "images/2013/08/14/world/14beijing_span/14beijing_span-articleLarge-v2.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/08/14/world/14beijing_span/14beijing_span-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/08/14/world/14beijing_span/14beijing_span-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "520a92e038f0d8740ac8b505",
+        "source": "The New York Times",
+        "word_count": "612",
+        "lead_paragraph": "The $4 million, 8,000-square-foot extension of an apartment, featuring boulders and trellises, has been ordered removed unless its owner can prove it was built legally."
+      },
+      {
+        "abstract": "Memo From Beijing; tribute to Michael Jackson during performance by Cirque du Soleil in Beijing shows Tank Man photograph, image of lone man facing down tanks near Tiananmen Square; Communist Party suppresses any mention of 1989 violence and Cirque du Soleil quickly cut image from subsequent shows; photo's appearance underscores challenges that governments face in controlling history in the modern age.",
+        "headline": {
+          "print_headline": "Amid Tribute to King of Pop, An Echo of Tiananmen",
+          "kicker": "Memo From Beijing",
+          "main": "Amid Tribute to King of Pop, an Echo of Tiananmen Square"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Jackson, Michael",
+            "is_major": "Y"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Cirque du Soleil",
+            "is_major": "Y"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Music",
+            "is_major": "Y"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Tiananmen Square (Beijing)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Censorship",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2013-08-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/08/16/world/asia/amid-tribute-to-king-of-pop-an-echo-of-tiananmen-square.html",
+        "news_desk": "Foreign",
+        "snippet": "A Michael Jackson tribute show by Cirque du Soleil startled China\u2019s capital with a brief flash of a censored 1989 photo of a man facing down tanks near Tiananmen.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "contributor": "Marc Santora contributed reporting from New York, and Mia Li contributed research from Beijing.",
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/08/16/world/beijing/beijing-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/08/16/world/beijing/beijing-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 388,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/08/16/world/beijing/beijing-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "388",
+              "xlarge": "images/2013/08/16/world/beijing/beijing-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/08/16/world/beijing/beijing-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/08/16/world/beijing/beijing-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "520d6e6a38f0d8740ac8bd35",
+        "source": "The New York Times",
+        "word_count": "1278",
+        "lead_paragraph": "A Michael Jackson tribute show by Cirque du Soleil startled China\u2019s capital with a brief flash of a censored 1989 photo of a man facing down tanks near Tiananmen."
+      }
+    ],
+    "meta": {
+      "time": 11,
+      "hits": 144,
+      "offset": 90
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

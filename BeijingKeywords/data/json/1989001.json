@@ -1,0 +1,511 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "HUMAN RIGHTS IN CHINA: A JOURNEY OF CONSCIENCE"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LU LIN"
+          },
+          {
+            "name": "persons",
+            "value": "LIU QING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "TIME"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DIARIES"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "23",
+        "pub_date": "1989-04-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/04/16/magazine/human-rights-in-china-a-journey-of-conscience.html",
+        "news_desk": "Magazine Desk",
+        "snippet": "LEAD: ON A CRISP DAY IN BEIJING LAST DECEM-ber, the kind of day when a fine haze of yellow dust swirls above the cinder-colored buildings, I took a taxi to a row of free-market stands where I expected an old acquaintance, a man named Lu Lin, to be wa",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Magazine",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "role": "reported"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            },
+            {
+              "rank": 3,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By Richard Bernstein: Richard Bernstein, author of ''From the Center of the Earth: The Search for the Truth About China,'' is a cultural reporter for The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd180b88eb7c8105d67c3d8",
+        "source": "The New York Times",
+        "word_count": 4297,
+        "lead_paragraph": "LEAD: ON A CRISP DAY IN BEIJING LAST DECEM-ber, the kind of day when a fine haze of yellow dust swirls above the cinder-colored buildings, I took a taxi to a row of free-market stands where I expected an old acquaintance, a man named Lu Lin, to be waiting. The taxi, a sleek Toyota, sleeker than the taxis I knew when I lived in the Chinese capital a decade ago, dropped me off in front of a new hotel, near a row of rickety stalls of a sort that did not exist when I was a Beijing-based journalist."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Chinese Students March for Democracy"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU YAOBANG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1989-04-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/04/18/world/chinese-students-march-for-democracy.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Several thousand students marched through the capital in predawn hours today, chanting democratic slogans and singing revolutionary songs as they mourned the ousted Communist Party leader Hu Yaobang and called for a more democratic government.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a2038eb7c8105d6b7ced",
+        "source": "The New York Times",
+        "word_count": 652,
+        "lead_paragraph": "LEAD: Several thousand students marched through the capital in predawn hours today, chanting democratic slogans and singing revolutionary songs as they mourned the ousted Communist Party leader Hu Yaobang and called for a more democratic government."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Thousands Chant for Democracy Within Earshot of China's Leaders"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU YAOBANG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-04-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/04/19/world/thousands-chant-for-democracy-within-earshot-of-china-s-leaders.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: More than 10,000 people took over Beijing's central square on Tuesday night in a rally for democracy. Several thousand students then marched to the Communist Party headquarters, where those in the front of the crowd tried to force their way in ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd183228eb7c8105d680a86",
+        "source": "The New York Times",
+        "word_count": 765,
+        "lead_paragraph": "LEAD: More than 10,000 people took over Beijing's central square on Tuesday night in a rally for democracy. Several thousand students then marched to the Communist Party headquarters, where those in the front of the crowd tried to force their way in to see the nation's leaders."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Quotation of the Day"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "QUOTATION OF THE DAY"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "1989-04-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/04/19/nyregion/quotation-of-the-day-282789.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "LEAD: ''Long live freedom! Long live democracy! Down with the bureaucracy!''  - Demonstrators in Beijing's central square.  [ A1:5. ]",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd183228eb7c8105d680aa4",
+        "source": "The New York Times",
+        "word_count": 39,
+        "lead_paragraph": "LEAD: ''Long live freedom! Long live democracy! Down with the bureaucracy!'' - Demonstrators in Beijing's central square. [ A1:5. ]"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Thousands Again Protest in Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "1989-04-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/04/20/world/thousands-again-protest-in-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Defying a ban on political protests, tens of thousands of people poured into Beijing's central square Wednesday night, and then at least 10,000 of them marched for the second time on Communist Party headquarters, where police officers beat some",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a2df8eb7c8105d6b982a",
+        "source": "The New York Times",
+        "word_count": 797,
+        "lead_paragraph": "LEAD: Defying a ban on political protests, tens of thousands of people poured into Beijing's central square Wednesday night, and then at least 10,000 of them marched for the second time on Communist Party headquarters, where police officers beat some of them."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Chinese March in Beijing in Defiance of Ban"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-04-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/04/20/world/chinese-march-in-beijing-in-defiance-of-ban.html",
+        "news_desk": "Foreign Desk",
+        "snippet": null,
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": "Front Page",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18af18eb7c8105d68d27c",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "100,000 Defy a Ban on Protests In Beijing to Demand Democracy"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-04-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/04/22/world/100000-defy-a-ban-on-protests-in-beijing-to-demand-democracy.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: A crowd defying a ban on public protests swelled to more than 100,000 Friday night in Beijing's central square to press demands for more democracy. It was by far the biggest protest in China since the end of the Maoist era more than a dozen yea",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd183c08eb7c8105d681b39",
+        "source": "The New York Times",
+        "word_count": 988,
+        "lead_paragraph": "LEAD: A crowd defying a ban on public protests swelled to more than 100,000 Friday night in Beijing's central square to press demands for more democracy. It was by far the biggest protest in China since the end of the Maoist era more than a dozen years ago."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "VIOLENT PROTESTS REPORTED IN CHINA"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "XIAN (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ATTACKS ON POLICE"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-04-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/04/23/world/violent-protests-reported-in-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: A week of growing anti-Government protests turned violent for the first time on Saturday, spreading to the central Chinese city of Xian, where protesters attacked the provincial Government headquarters, injuring 130 officers and burning 20 hous",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd193018eb7c8105d69cd4a",
+        "source": "The New York Times",
+        "word_count": 1013,
+        "lead_paragraph": "LEAD: A week of growing anti-Government protests turned violent for the first time on Saturday, spreading to the central Chinese city of Xian, where protesters attacked the provincial Government headquarters, injuring 130 officers and burning 20 houses, the official New China News Agency reported this morning."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China Bans Pro-Student Newspaper"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD ECONOMIC HERALD"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "BOYCOTTS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1989-04-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/04/25/world/china-bans-pro-student-newspaper.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: In its firmest action so far to stem the growing student campaign for more democracy, the Communist Party today banned an issue of a popular newspaper that published comments openly supporting the demonstrators.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd193028eb7c8105d69cdaf",
+        "source": "The New York Times",
+        "word_count": 738,
+        "lead_paragraph": "LEAD: In its firmest action so far to stem the growing student campaign for more democracy, the Communist Party today banned an issue of a popular newspaper that published comments openly supporting the demonstrators."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Quotation of the Day"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "QUOTATION OF THE DAY"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "1989-04-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/04/28/nyregion/quotation-of-the-day-865889.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "LEAD: ''The leaders cover everything up. People don't know anything, and we are no longer the masters. That's why there is this uprising.''  - Lin Yulin, a 52-year-old workerin Beijing during a student demonstration.  [ A6:6. ]",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a2e08eb7c8105d6b98e3",
+        "source": "The New York Times",
+        "word_count": 73,
+        "lead_paragraph": "LEAD: ''The leaders cover everything up. People don't know anything, and we are no longer the masters. That's why there is this uprising.'' - Lin Yulin, a 52-year-old workerin Beijing during a student demonstration. [ A6:6. ]"
+      }
+    ],
+    "meta": {
+      "time": 766,
+      "hits": 187,
+      "offset": 10
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

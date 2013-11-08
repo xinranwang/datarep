@@ -1,0 +1,790 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "European Union puts off plans to lift its arms embargo on China this spring, yielding to pressure from Pres Bush and threats of retaliation from Congress; European nations said to be shaken by recent adoption of legislation by Chinese National People's Congress authorizing use of force to stop Taiwan from seceding; French Pres Jacques Chirac first proposed lifting embargo in late 2003, but Chinese action has undercut that move; embargo was imposed after China's crackdown on pro-democracy demonstrators in Tiananmen Square in 1989; it has curbed supply of weapons to China, becoming major irritant in China's relations with West; Secretary of State Condoleezza Rice, in Beijing, says 'sobering comments' made by Britishh Foreign Sec Jack Straw about Chinese action on Taiwan reinforce United States' continuing concern that lifting embargo now would alter balance of military forces in region and undercut American efforts to get China to improve its human rights record (M)",
+        "headline": {"main": "EUROPEANS SAID TO KEEP EMBARGO ON ARMS TO CHINA"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHIRAC, JACQUES"
+          },
+          {
+            "name": "persons",
+            "value": "STRAW, JACK"
+          },
+          {
+            "name": "persons",
+            "value": "RICE, CONDOLEEZZA"
+          },
+          {
+            "name": "glocations",
+            "value": "GREAT BRITAIN"
+          },
+          {
+            "name": "glocations",
+            "value": "EUROPE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "FRANCE"
+          },
+          {
+            "name": "glocations",
+            "value": "WASHINGTON (DC)"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "EUROPEAN UNION"
+          },
+          {
+            "name": "subject",
+            "value": "ARMS SALES ABROAD"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "EMBARGOES AND ECONOMIC SANCTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2005-03-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/03/22/politics/22diplo.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Yielding to pressure from President Bush, the European Union has put off plans to lift its arms embargo on China this spring.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "R.",
+            "role": "reported",
+            "lastname": "WEISMAN",
+            "firstname": "Steven"
+          }],
+          "original": "By STEVEN R. WEISMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a64a8eb7c8105d88e2e3",
+        "source": "The New York Times",
+        "word_count": 957,
+        "lead_paragraph": "Yielding to pressure from President Bush and threats of retaliation from Congress, the European Union has put off plans to lift its arms embargo on China this spring and may not press the issue until next year, American and European officials said Monday. The officials said that in addition to American pressure, European nations have been shaken by the recent adoption of legislation by the Chinese National People's Congress authorizing the use of force to stop Taiwan from seceding. The Chinese action, they said, jolted France and undercut its moves to end the embargo before June."
+      },
+      {
+        "abstract": "Analysts say reports that European Union might delay its plan to lift arms embargo imposed after China's 1989 crackdown on democracy protests sends sobering message to China's new leaders, underscoring sensitivity of its Taiwan policy and continued United States dominance; European diplomats cite China's newly adopted antisecession law and intense US opposition to easing curbs on arms sales; some Chinese analysts say privately that leadership under Hu Jintao might have mishandled law, which threatens military action if Taiwan pursues formal independence (M)",
+        "headline": {"main": "Europe's Shift On Embargo Places Taiwan At Center Stage"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "glocations",
+            "value": "EUROPE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "EUROPEAN UNION"
+          },
+          {
+            "name": "subject",
+            "value": "ARMS SALES ABROAD"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "EMBARGOES AND ECONOMIC SANCTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2005-03-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/03/23/international/asia/23embargo.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Reports that Europe may delay lifting an arms embargo on China have sent a sobering message to Beijing about its Taiwan policies.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd25aea8eb7c8105d807a62",
+        "source": "The New York Times",
+        "word_count": 780,
+        "lead_paragraph": "Reports of a shift in European plans to lift an arms embargo on China have sent a sobering message to China's new leadership, underscoring the sensitivity of its Taiwan policy and the continued dominance of the United States, Chinese analysts say. American and European officials said this week that the European Union might now delay its plan to lift the embargo, imposed after China's crackdown on democracy protests in 1989, until next year at the earliest, dealing a blow to one of China's major foreign policy goals."
+      },
+      {
+        "abstract": "Correction of Mar 21 article noting Secretary of State Condoleezza Rice's visit to church in Beijing; there are hundreds of state-approved Christian churches in China",
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "RICE, CONDOLEEZZA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF RELIGION"
+          },
+          {
+            "name": "subject",
+            "value": "CHRISTIANS AND CHRISTIANITY"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          },
+          {
+            "name": "subject",
+            "value": "CHURCH-STATE RELATIONS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2005-03-25T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9C02E4D6173FF936A15750C0A9639C8B63",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "An article on Monday about Secretary of State Condoleezza Rice's visit to the Gangwashi Protestant church in Beijing for Palm Sunday services misstated the estimate of state-approved Christian churches in China. There are hundreds, not a handful. (Be",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections; Washington; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a5e48eb7c8105d88dfe9",
+        "source": "The New York Times",
+        "word_count": 41,
+        "lead_paragraph": "An article on Monday about Secretary of State Condoleezza Rice's visit to the Gangwashi Protestant church in Beijing for Palm Sunday services misstated the estimate of state-approved Christian churches in China. There are hundreds, not a handful. (Beijing itself has eight.)"
+      },
+      {
+        "abstract": "Several thousand young Chinese march through Beijing's high-tech district calling for boycott of Japanese-made goods, rare legal protest that underscores sharp deterioration in relations between Asia's two most powerful countries; photo (M)",
+        "headline": {"main": "In Rare Legal Protest, Chinese Seek Boycott of Japan Goods"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "BOYCOTTS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "2005-04-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/04/09/international/asia/09beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Several thousand young Chinese marched through Beijing's high-tech district calling for a boycott of Japanese-made goods.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd284b38eb7c8105d853c56",
+        "source": "The New York Times",
+        "word_count": 630,
+        "lead_paragraph": "Several thousand young Chinese marched through Beijing's high-tech district on Saturday morning calling for a boycott of Japanese-made goods, a rare legal protest that underscored the sharp deterioration in relations between Asia's two most powerful countries. The mostly college-age Chinese, singing China's national anthem and shouting, ''Support the Chinese motherland, boycott Japanese goods,'' appeared to number in the thousands, but there were no official estimates on Saturday morning. The police formed a cordon around the marchers and lined every street along the parade route, but the protest had been authorized in advance and the atmosphere remained relaxed."
+      },
+      {
+        "abstract": "Mass demonstrations in Beijing against Japan turn unruly and protesters try to storm Japanese ambassador's residence before riot police break up confrontation; estimated 10,000 demonstrators join march calling for boycott of Japanese goods, making it one of largest protest events authorized by government in years, but gatherings at embassy and ambassador's residence seem to be unauthorized; Japan's vice foreign minister makes official protest against violence (M)",
+        "headline": {"main": "Riot Police Called In to Calm Anti-Japanese Protests in China"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN SERVICE"
+          },
+          {
+            "name": "subject",
+            "value": "BOYCOTTS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2005-04-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/04/10/international/10china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Mass demonstrations against Japan turned unruly late Saturday afternoon, with scattered vandalism and confrontations with the riot police intensifying.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd25dfc8eb7c8105d80cd7c",
+        "source": "The New York Times",
+        "word_count": 550,
+        "lead_paragraph": "Mass demonstrations here against Japan turned unruly late Saturday afternoon, with scattered vandalism and confrontations with the riot police intensifying what began as a fully legal and generally peaceful student-led protest. Several hundred protesters tried to storm the residence of the Japanese ambassador in Beijing, hurling bottles and rocks into the walled compound before riot police broke up the confrontation, witnesses said."
+      },
+      {
+        "abstract": "Anti-Japan demonstrators in Beijing, enraged about Japan's tendentious history textbooks and by territorial disputes in East China Sea, take part in rare legal protest as China taps deep strain of nationalism to help it promote leadership ambitions in Asia; student Sun Wei, one of many herded by police to vent anger before being bused back to campus, concedes protest was part real and part political show; photo; government moves at same time to control nascent protest movement to prevent grass-roots challenge to Communist Party; most serious crisis since diplomatic ties were restored in 1972 erupts over revised Japanese history textbooks that gloss over wartime abuses; China also says outright that Japan does not have moral qualification to become permanent member of UN Security Council, effectively thwarting that ambition; allowing unscripted patriotic sentiment risks stirring up political activity, which leaders fear above all, and discouraging essential foreign investments; new approach faces major test as government juggles visit by Japanese Min Nobutaka Machimura with possible second wave of rallies (M)",
+        "headline": {"main": "China Pushing And Scripting Japan Protests"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SUN WEI"
+          },
+          {
+            "name": "persons",
+            "value": "MACHIMURA, NOBUTAKA"
+          },
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "SECURITY COUNCIL"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "TEXTBOOKS"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "WORLD WAR II (1939-45)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2005-04-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/04/15/international/asia/15china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China's manipulation of popular indignation against Japan to stir up patriotic sentiment carries big risks, analysts say.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2005/04/15/international/15china2_75.jpg",
+          "legacy": {
+            "thumbnail": "images/2005/04/15/international/15china2_75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2460c8eb7c8105d7e1117",
+        "source": "The New York Times",
+        "word_count": 1228,
+        "lead_paragraph": "Enraged about Japan's tendentious textbooks and territorial disputes in the East China Sea, Sun Wei, a college junior, joined thousands of Chinese in a rare legal protest march on the streets of Beijing last weekend. Yet the police herded protesters into tight groups, let them take turns throwing rocks, then told them they had ''vented their anger'' long enough and bused them back to campus."
+      },
+      {
+        "abstract": "Over 10,000 demonstrators gather outside Japanese Consulate in Shanghai, attacking it with bottles and rocks as hundreds of police look on passively; Chinese officials express alarm that carefully monitored anti-Japan rally in Beijing had apparently set off flood of grass-roots organizing that could further upset relations with Japan and undermine China's own social stability (M)",
+        "headline": {"main": "Thousands Rally in Shanghai, Attacking Japanese Consulate"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SOCIAL CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN SERVICE"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2005-04-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/04/16/international/asia/16china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Chinese authorities warned that protests like those authorized by Beijing a week ago now threatened to get out of control.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "W.",
+              "role": "reported",
+              "lastname": "FRENCH",
+              "firstname": "Howard"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "KAHN",
+              "role": "reported",
+              "firstname": "Joseph"
+            }
+          ],
+          "original": "By HOWARD W. FRENCH and JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd283a98eb7c8105d8523c9",
+        "source": "The New York Times",
+        "word_count": 647,
+        "lead_paragraph": "More than 10,000 demonstrators gathered outside the Japanese Consulate in Shanghai on Saturday, attacking it with bottles and rocks as hundreds of police, many of them from special antiriot squads, looked on passively. The assault on this city's consulate was the culmination of a march that began in central Shanghai early in the morning, and drew thousands of participants along a 1o-mile route. The demonstrators chanted slogans like, ''Show China's strength,'' ''Japan out of Asia,'' and ''Down with little Japan.''"
+      },
+      {
+        "abstract": "Foreign Min Li Zhaoxing of China firmly rejects Japanese calls for China to apologize for wave of violent protests against Japan and to pay compensation for damage to diplomatic and commercial property during three weekends of anti-Japan protests in Beijing; Japanese Foreign Min Nobutaka Machimura, on one-day visit to Beijing, calls protests 'deeply deplorable'; relations between China and Japan are at lowest point in decade as two feud over access to oil and gas reserves in East China Sea; photo (M)",
+        "headline": {"main": "No Apology From China for Japan Protests"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LI ZHAOXING"
+          },
+          {
+            "name": "persons",
+            "value": "MACHIMURA, NOBUTAKA"
+          },
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2005-04-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/04/18/international/asia/18china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China's foreign minister said he saw no need to apologize, as a dispute over history and territory showed few signs of easing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2005/04/18/international/18china75.jpg",
+          "legacy": {
+            "thumbnail": "images/2005/04/18/international/18china75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd25e878eb7c8105d80d363",
+        "source": "The New York Times",
+        "word_count": 856,
+        "lead_paragraph": "China's top diplomat said Sunday that he saw no need to apologize for a wave of violent protests against Japan, as a seething dispute over history and territory between Asia's two leading powers showed few signs of easing. Raucous protests against Japan broke out in several Chinese cities, including Shenyang, in the northeast, and the thriving economic zone of Shenzhen in the south, though there seemed less damage to property than during a spree of vandalism in Shanghai on Saturday."
+      },
+      {
+        "abstract": "Thousands of police officers in Beijing and Shanghai stand guard to ensure that one of China's most sensitive political anniversaries does not erupt into new wave of angry protests against Japan; May 4 anniversary celebrates famous student uprising in 1919 against Western colonialism, specifically decision by World War I Allied powers to give Japan control of Germany's colonial territories in China; protesters hoped to use occasion to renew anti-Japanese protests that spread across China last month; photo (M)",
+        "headline": {"main": "Chinese Police Head Off Anti-Japan Protests"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "GERMANY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2005-05-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/05/05/international/asia/05china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Chinese government is determined to prevent any future protests and to defuse the rising nationalist anger against Japan.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "2",
+            "height": 325,
+            "width": 250,
+            "type": "Image",
+            "url": "imagepages/2005/05/05/international/05china2.ready.html",
+            "legacy": {
+              "MultimediaPopupWidth2": "250",
+              "MultimediaType2": "Image",
+              "MultimediaPopupHeight2": "325",
+              "MultimediaUrl2": "imagepages/2005/05/05/international/05china2.ready.html"
+            }
+          },
+          {
+            "rank": "1",
+            "height": 325,
+            "width": 250,
+            "type": "Image",
+            "url": "imagepages/2005/05/05/international/05china.ready.html",
+            "legacy": {
+              "MultimediaPopupWidth1": "250",
+              "MultimediaType1": "Image",
+              "MultimediaPopupHeight1": "325",
+              "MultimediaUrl1": "imagepages/2005/05/05/international/05china.ready.html"
+            }
+          }
+        ],
+        "_id": "4fd24abf8eb7c8105d7e8f9b",
+        "source": "The New York Times",
+        "word_count": 612,
+        "lead_paragraph": "Thousands of police officers in Beijing and Shanghai stood guard on Wednesday in a show of force to ensure that one of China's most sensitive political anniversaries did not erupt into a new wave of angry protests against Japan. The May 4 anniversary, a pivotal date in defining modern Chinese nationalism, celebrates a famous student uprising in 1919 against Western colonialism, specifically the decision by World War I Allied powers to give Japan control of Germany's colonial territories in China."
+      },
+      {
+        "abstract": "Beijing Capital Land is building 2,700-unit luxury apartment complex inspired by Manhattan's Upper East Side in northeastern Beijing; first 1,024 units have been completed and are largely sold out; executive director Tang Jun, visiting New York to meet with investors, comments; developers Alex and Andrew Silverman plan to convert Long Island City, Queens, industrial building with views of Manhattan skyline into 238 luxury apartments; photographer Cindy Sherman is selling SoHo loft where she lives and works and will move to two floors in newly built condo building, living on one floor and working on other; photo (M)",
+        "headline": {
+          "kicker": "BIG DEAL",
+          "main": "The Upper (Far) East Side"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SILVERMAN, ALEX"
+          },
+          {
+            "name": "persons",
+            "value": "SHERMAN, CINDY"
+          },
+          {
+            "name": "persons",
+            "value": "TANG JUN"
+          },
+          {
+            "name": "persons",
+            "value": "SILVERMAN, ANDREW"
+          },
+          {
+            "name": "glocations",
+            "value": "NEW YORK CITY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "MANHATTAN (NYC)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING CAPITAL LAND"
+          },
+          {
+            "name": "subject",
+            "value": "CONDOMINIUMS"
+          },
+          {
+            "name": "subject",
+            "value": "HOUSING"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "REAL ESTATE"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2005-05-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2005/05/08/realestate/08deal.html",
+        "news_desk": "Real Estate Desk",
+        "snippet": "The Upper East Side has something of a sister neighborhood in Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Real Estate",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "NEUMAN",
+            "role": "reported",
+            "firstname": "William"
+          }],
+          "original": "By WILLIAM NEUMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2005/05/06/realestate/08deal2.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2005/05/06/realestate/08deal2.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 55,
+            "width": 55,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "legacy": {
+              "tinythumbwidth": 55,
+              "tinythumbheight": 55,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd2a6588eb7c8105d88eaf9",
+        "source": "The New York Times",
+        "word_count": 1140,
+        "lead_paragraph": "DURING the Tiananmen Square protests 16 years ago, young Chinese demonstrators eager for democratic reforms raised a replica of the Statue of Liberty in the center of Beijing. These days, young Chinese professionals eager to take part in their country's capitalist transformation, are looking to a different American symbol: the Upper East Side of Manhattan."
+      }
+    ],
+    "meta": {
+      "time": 27,
+      "hits": 50,
+      "offset": 20
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}
