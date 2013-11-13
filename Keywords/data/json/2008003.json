@@ -1,0 +1,956 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Editorial, citing unrest in Tibet, says China has broken promise to improve its human rights record, made to earn right to host Olympic Games; holds State Dept decision to remove China from list of top 10 human right violators looks like political payoff to government whose help America desperately needs on other issues",
+        "headline": {
+          "kicker": "EDITORIAL",
+          "main": "China Terrorizes Tibet"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "organizations",
+            "value": "STATE DEPARTMENT"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "22",
+        "pub_date": "2008-03-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/18/opinion/18tue3.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "Whatever gain China may have gotten from being elevated above the likes of North Korea, Myanmar, Iran and Sudan was lost by the crackdown on Tibet.",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2953d8eb7c8105d870325",
+        "source": "The New York Times",
+        "word_count": 377,
+        "lead_paragraph": "It was impossible not to notice that the United States removed China from its list of top 10 human rights violators just as the biggest anti-China protests in 20 years erupted in Tibet. Even when handed that undeserved dispensation, the Beijing government cannot control its authoritarian nature. A week of protests in Tibet turned violent last Friday as Chinese security forces clashed with hundreds of Buddhist monks and other ethnic Tibetans. Information was hard to verify -- nearly all foreigners are barred from entering and Tibetans have no freedom -- but news reports said a market in the capital was burned; at least 16, and perhaps many more, people were killed; and paramilitary police and troops were deployed. Over the weekend, rioting spread to neighboring provinces, and demonstrations even reached Beijing."
+      },
+      {
+        "abstract": "Chinese leaders blame 'splittists' led by exiled Dalai Lama for spurring violent protests in Tibet and orchestrating public relations attack on Communist Party as they gear up to host Olympic Games, but Tibetans and their sympathizers hold uprising against Chinese rule reflects years of simmering resentment; since last big anti-Chinese riots in Tibet 20 years ago, Beijing has tried to smother Tibetan separatism by sparking economic development and inserting itself into metaphysics of Tibetan Buddhism, all of which have produced backlash when Communist Party leaders most need stability; protests have taken place within China, including Beijing, and outside Chinese diplomatic missions in other countries; unrest is blow to Pres Hu Jintao, who personally directed crackdown in 1989, and who considers Tibetan region part of his core political base within Community Party; it will fall to Hu to restore order without undermining Olympics; photos (M)",
+        "headline": {"main": "Simmering Resentments Led To Tibetan Backlash at China"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "glocations",
+            "value": "LHASA (TIBET)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "HIMALAYAS"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "BUDDHISM"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-03-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/18/world/asia/18china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The only surprising thing about unrest in Tibet may be that Beijing managed to keep things stable for so long.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 426,
+          "width": 650,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2008/03/18/world/18china-inline-650.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 426,
+            "xlarge": "images/2008/03/18/world/18china-inline-650.jpg",
+            "xlargewidth": 650
+          }
+        }],
+        "_id": "4fd2953e8eb7c8105d870349",
+        "source": "The New York Times",
+        "word_count": 1387,
+        "lead_paragraph": "Chinese leaders have blamed ''splittists'' led by the exiled Dalai Lama for spurring violent protests in Tibet and orchestrating a public relations sneak attack on the Communist Party, as they gear up to play host to the Olympics Games this summer. But to many Tibetans and their sympathizers, the weeklong uprising against Chinese rule in Lhasa reflects years of simmering resentment over Beijing's interference in Buddhist religious rites, its tightened political control and the destruction of the environment across the Himalayan territory the Tibetans consider sacred. If there is a surprise, it may be that Beijing has managed to keep things stable for so long."
+      },
+      {
+        "abstract": "Beijing Olympics organizing committee says China remains steadfast in its plan to take Olympic torch to Tibet and Mount Everest, despite violent protests in Tibet; Communist Party chief of Tibet Zhang Qingli calls Dalai Lama 'jackal in Buddhist monk's robes'; Chinese officials have said that 16 people were killed in unrest, while Tibetan government in exile says that death toll has risen to 103 (M)",
+        "headline": {"main": "China Says Olympic Torch Won't Veer From Tibet Route"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHANG QINGLI"
+          },
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "glocations",
+            "value": "LHASA (TIBET)"
+          },
+          {
+            "name": "glocations",
+            "value": "MOUNT EVEREST"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "BUDDHISM"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2008-03-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/20/world/asia/20china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Despite violent protests in Tibet, China remains steadfast in its plan to take the Olympic torch to Tibet and Mount Everest.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "MACUR",
+              "role": "reported",
+              "firstname": "Juliet"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "LAGUE",
+              "role": "reported",
+              "firstname": "David"
+            }
+          ],
+          "original": "By JULIET MACUR and DAVID LAGUE; Somini Sengupta and Hari Kumar contributed reporting from Dharamsala, India"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2953e8eb7c8105d870380",
+        "source": "The New York Times",
+        "word_count": 959,
+        "lead_paragraph": "Despite violent protests in Tibet, China remains steadfast in its plan to take the Olympic torch to Tibet and to Mount Everest, officials in the Beijing Olympics organizing committee said Wednesday. The torch will be lighted in Athens on Monday and, after a global tour of 135 cities, is to reach the top of Mount Everest sometime in May, when the weather makes a safe ascent possible. Afterward, that Olympic flame, one of two that will be in China at that time, will be taken through Lhasa, the Tibetan capital, the site of deadly riots last week and a continuing Chinese crackdown."
+      },
+      {
+        "abstract": "Ryan Lochte's swimming coach Gregg Troy of University of Florida offers tips to improve swimming technique; photo (S)",
+        "headline": {"main": "Coach's Corner"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "TROY, GREGG"
+          },
+          {
+            "name": "persons",
+            "value": "LOCHTE, RYAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNIVERSITY OF FLORIDA"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2008-03-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/20/fashion/20fitside.html",
+        "news_desk": "Style Desk",
+        "snippet": "Sprinkle a few of these drills into your usual swim routine \u0097 but don\u2019t do all of them on the same day. Use whatever kicking stroke you wish to improve.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Style",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "REYNOLDS",
+            "role": "reported",
+            "firstname": "Gretchen"
+          }],
+          "original": "By GRETCHEN REYNOLDS"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2008/03/19/fashion/20fitn75.5.jpg",
+          "legacy": {
+            "thumbnail": "images/2008/03/19/fashion/20fitn75.5.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd294c88eb7c8105d86fe3e",
+        "source": "The New York Times",
+        "word_count": 240,
+        "lead_paragraph": "Stronger kicking makes better, faster swimmers, said Gregg Troy, the head swim coach at the University of Florida and Ryan Lochte's personal coach. These drills, adapted from the workouts at Florida, should improve any swimmer's kick, Troy said."
+      },
+      {
+        "abstract": "Profile of and interview with Ryan Lochte, swimmer who won silver in 2004 Olympic Summer Games and is preparing for 2008 Summer Olympics in Beijing; photos (M)",
+        "headline": {
+          "kicker": "FASTER, HIGHER, STRONGER",
+          "main": "A Swimmer's Different Strokes for Success"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LOCHTE, RYAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "COACHES AND MANAGERS"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2004)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-03-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/20/fashion/20fitness.html",
+        "news_desk": "Style Desk",
+        "snippet": "Ryan Lochte\u2019s training and routines can be adopted by recreational swimmers or athletes.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Style",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "REYNOLDS",
+            "role": "reported",
+            "firstname": "Gretchen"
+          }],
+          "original": "By GRETCHEN REYNOLDS"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/03/19/fashion/20fitn75.1.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/03/19/fashion/20fitn75.1.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/03/19/fashion/20fitn600.1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2008/03/19/fashion/20fitn600.1.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 230,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/03/19/fashion/fitness.hp.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/03/19/fashion/fitness.hp.jpg",
+              "tinythumbheight": 230,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd2b3268eb7c8105d8a44b5",
+        "source": "The New York Times",
+        "word_count": 1112,
+        "lead_paragraph": "RYAN LOCHTE may be the best American male swimmer not named Michael. At the 2004 Olympic Summer Games in Athens, he won a silver medal in the 200-meter individual medley, losing only to that Michael (Phelps, of course). He also earned a gold medal as part of the 4-by-200-meter freestyle relay in Athens. And at the 2007 World Championships last March, Lochte shattered the world record in the 200-meter backstroke on his way to capturing a gold medal, serving notice for what may come at the Beijing Olympics this summer."
+      },
+      {
+        "abstract": "Unrest in Tibet reverberates in Taiwan and is expected to impact March 22 presidential election and sap support for nationalist Ma Ying-jeou, candidate backed by Beijing; suppression of Tibet protests and missteps by Nationalist Party have nearly erased what seemed like insuperable lead for Ma; concern that crackdown could herald tougher line on outlying regions that Beijing claims as sovereign territory has become highly contested campaign issue; even if Ma wins, he may have weaker mandate for goal of pursing closer economic ties and reduced diplomatic tensions with China; loss would be major setback for China's leaders, who have been cultivating nationalists in recent years to undermine Taiwan's pro-independence president Chen Shui-ban; stirring up of election on Taiwan is potentially heavy price for Tibetan unrest; Beijing also faces stronger international outcry over its human rights record and scatterred calls to boycott Summer Olympic Games; China acknowledges for first time that forces opened fire on Tibetan protestors in Sichuan Province; photos (M)",
+        "headline": {"main": "Chinese Crackdown in Tibet Echoes in Taiwan Before Vote"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN SHUI-BIAN"
+          },
+          {
+            "name": "persons",
+            "value": "MA YING-JEOU"
+          },
+          {
+            "name": "glocations",
+            "value": "SICHUAN PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "BOYCOTTS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "ELECTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-03-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/21/world/asia/21taiwan.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Suppression of protests in Tibet has hurt the Nationalist Party, which aims for closer relations with mainland China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/03/21/world/21taiwan-ledespan-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/03/21/world/21taiwan-ledespan-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 343,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/03/21/world/21taiwan-ledespan-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 343,
+              "xlarge": "images/2008/03/21/world/21taiwan-ledespan-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/03/21/world/21taiwan-ledespan-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/03/21/world/21taiwan-ledespan-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd2953e8eb7c8105d8703b5",
+        "source": "The New York Times",
+        "word_count": 1243,
+        "lead_paragraph": "Violent unrest in Tibet has created shock waves in another volatile region on China's periphery, shaking up the presidential election in Taiwan and sapping support for the candidate Beijing had hoped would win handily. The suppression of Tibet protests by Chinese security forces, as well as missteps by the Nationalist Party, which Beijing favors, have nearly erased what had seemed like an insuperable lead for Ma Ying-jeou, the Harvard-educated lawyer who has been the front-runner in the race."
+      },
+      {
+        "abstract": "China's violent crackdown on protesters in Tibet is having political reverberations in Washington, where White House is weighing how far to go in condemning Chinese government, even as it defends Pres Bush's decision to attend Summer Olympics in Beijing; House Speaker Nancy Pelosi visits Dalai Lama in Dharamsala, India; photo (M)",
+        "headline": {"main": "Bush Silent, but Others Speak Out on Tibet Crackdown"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "persons",
+            "value": "PELOSI, NANCY"
+          },
+          {
+            "name": "glocations",
+            "value": "DHARAMSALA (INDIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2008-03-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/22/world/asia/22prexy.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The intricacies of a \u201ccomplex relationship\u201d with China are on full display as the White House weighs how far to go in condemning the Chinese government.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "Gay",
+              "role": "reported",
+              "lastname": "STOLBERG",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "SENGUPTA",
+              "role": "reported",
+              "firstname": "Somini"
+            }
+          ],
+          "original": "By SHERYL GAY STOLBERG  and SOMINI SENGUPTA; Sheryl Gay Stolberg reported from Washington, and Somini Sengupta from Dharamsala, India"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/03/22/world/22prexy-span-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/03/22/world/22prexy-span-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 325,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/03/22/world/22prexy-span-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 325,
+              "xlarge": "images/2008/03/22/world/22prexy-span-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/03/22/world/22prexy-span-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/03/22/world/22prexy-span-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd265428eb7c8105d819380",
+        "source": "The New York Times",
+        "word_count": 1052,
+        "lead_paragraph": "China's violent crackdown on protesters in Tibet is having powerful political reverberations in Washington, where the White House is weighing how far to go in condemning the Chinese government, even as it defends President Bush's decision to attend the Summer Olympics in Beijing. Mr. Bush has long said the United States and China have ''a complex relationship,'' and that complexity was on full display this week. While his administration has called for an end to the violence, and his secretary of state, Condoleezza Rice, phoned her Chinese counterpart to urge restraint, Mr. Bush himself has remained silent."
+      },
+      {
+        "abstract": "Editorial urges West to keep pressing China to begin serious talks with Dalai Lama, Tibet's exiled spiritual leader; calls for United Nations Human Rights Council to investigate human rights abuses against Tibetans; criticizes International Olympic Committee and international community for tepid response to China's crackdown on Tibet; contends that boycotting Olympic Games does not work but says ideas, such as refusing to attend opening ceremony, are worth considering",
+        "headline": {
+          "kicker": "EDITORIAL",
+          "main": "Speak Out on Tibet"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "BOYCOTTS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "BUDDHISM"
+          }
+        ],
+        "print_page": "22",
+        "pub_date": "2008-03-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/24/opinion/24mon2.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "China\u2019s authoritarianism is backfiring, fueling the resentment that exploded in Lhasa and radicalizing Tibetans.",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd266a28eb7c8105d81b43f",
+        "source": "The New York Times",
+        "word_count": 426,
+        "lead_paragraph": "China has cracked down on Tibet and neighboring provinces. It sent more troops into restive regions and made scores of arrests in Lhasa. It acknowledged firing on demonstrators in Sichuan. Yet, the response of the international community -- and of the International Olympic Committee -- has been tepid. Beijing must be called to account, especially since it will host the 2008 Games. We are just learning details of what happened. China has blocked most news coverage despite a pledge to give freer access to journalists in the run-up to the Olympics. Tibetan exile groups say about 100 people died in violence that followed a week of peaceful protests. Beijing puts the toll at about 20. In any case, the violence is neither acceptable nor particularly surprising."
+      },
+      {
+        "abstract": "Small group of protestors angered by China's crackdown in Tibet upstages Olympic flame-lighting ceremony in Olympia, Greece, calling for boycott of Summer Games in Beijing; photo",
+        "headline": {"main": "Pro-Tibet Demonstrators Disrupt Olympic Ceremony"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "OLYMPIA (GREECE)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "GREECE"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "BOYCOTTS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2008-03-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/25/world/25greece.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Activists angered by China\u2019s crackdown in Tibet upstaged an Olympic flame-lighting ceremony in Greece on Monday.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [],
+          "organization": "THE NEW YORK TIMES",
+          "original": "By THE NEW YORK TIMES"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 358,
+          "width": 600,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2008/03/24/sports/othersports/24torch-600.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 358,
+            "xlarge": "images/2008/03/24/sports/othersports/24torch-600.jpg",
+            "xlargewidth": 600
+          }
+        }],
+        "_id": "4fd277de8eb7c8105d8397fb",
+        "source": "The New York Times",
+        "word_count": 137,
+        "lead_paragraph": "A small group of protesters angered by China's crackdown in Tibet upstaged the Olympic flame-lighting ceremony in Olympia, Greece, on Monday, calling for a boycott of the Summer Games in Beijing. The brief disruption occurred as Liu Qi, president of the Beijing Organizing Committee, was addressing thousands of spectators and dignitaries at the site of the ancient Olympic Games. It was broadcast live by Greek television, but China state television cut away to a prerecorded scene."
+      },
+      {
+        "abstract": "Chinese government accuses foreign reporters of biased reporting on riots in Tibet and prevents them from traveling to Tibet or neighboring provinces to report on unrest; begins propaganda campaign aimed at persuading public that Dalai Lama instigated violence on March 14 and that China is victim of separatist terrorist activity; appears to be blocking foreign Web sites and foreign television broadcasts that mention riots in Tibet; appears concerned that unrest could disrupt Olympic Games this summer in Beijing (M)",
+        "headline": {"main": "Pressed on Tibet, China Berates Foreign Media"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "organizations",
+            "value": "CABLE NEWS NETWORK"
+          },
+          {
+            "name": "organizations",
+            "value": "BBC WORLDWIDE LTD"
+          },
+          {
+            "name": "organizations",
+            "value": "NEW YORK TIMES"
+          },
+          {
+            "name": "subject",
+            "value": "NEWSPAPERS"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "PROPAGANDA"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2008-03-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/25/world/asia/25tibet.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Chinese officials have sharply criticized foreign reporters over their coverage of the riots in Tibet, accusing them of biased reporting and preventing them from traveling to Tibet.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd266a28eb7c8105d81b44f",
+        "source": "The New York Times",
+        "word_count": 910,
+        "lead_paragraph": "Chinese officials have sharply criticized foreign reporters here over their coverage of the riots in Tibet, accusing them of biased reporting and preventing them from traveling to Tibet or neighboring provinces to report on the unrest. The government has also begun a propaganda campaign aimed at persuading the public that the Dalai Lama, the exiled Tibetan leader, instigated the violence in Tibet on March 14 and that China was a victim of separatist terrorist activity."
+      }
+    ],
+    "meta": {
+      "time": 10,
+      "hits": 367,
+      "offset": 30
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

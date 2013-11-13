@@ -1,0 +1,53 @@
+{
+  "response": {
+    "docs": [{
+      "abstract": "Beijing, China, is experiencing five consecutive days of snowfall for first time since 1841 when weather began being documented; more snow is predicted (S)",
+      "headline": {"main": "World Briefing | Asia: China: The East Is White"},
+      "keywords": [
+        {
+          "name": "glocations",
+          "value": "CHINA"
+        },
+        {
+          "name": "glocations",
+          "value": "BEIJING (CHINA)"
+        },
+        {
+          "name": "subject",
+          "value": "RECORDS AND ACHIEVEMENTS"
+        },
+        {
+          "name": "subject",
+          "value": "WEATHER"
+        },
+        {
+          "name": "subject",
+          "value": "SNOW AND SNOWSTORMS"
+        }
+      ],
+      "print_page": "6",
+      "pub_date": "2002-12-24T00:00:00Z",
+      "web_url": "http://www.nytimes.com/2002/12/24/world/world-briefing-asia-china-the-east-is-white.html",
+      "news_desk": "Foreign Desk",
+      "snippet": "Beijing is experiencing its longest period of snow in at least 161 years, the state press and officials said, with snow falling for five consecutive days for the first time since weather records were first kept in 1841. More snow was expected today. ",
+      "type_of_material": "News",
+      "blog": [],
+      "section_name": "World",
+      "document_type": "article",
+      "byline": null,
+      "subsection_name": null,
+      "multimedia": [],
+      "_id": "4fd26c6d8eb7c8105d824e09",
+      "source": "Agence France-Presse",
+      "word_count": 43,
+      "lead_paragraph": "Beijing is experiencing its longest period of snow in at least 161 years, the state press and officials said, with snow falling for five consecutive days for the first time since weather records were first kept in 1841. More snow was expected today."
+    }],
+    "meta": {
+      "time": 26,
+      "hits": 51,
+      "offset": 50
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

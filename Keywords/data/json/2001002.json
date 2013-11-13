@@ -1,0 +1,645 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Growing number of scholars from Hong Kong are canceling trips to mainland, alarmed by secrecy surrounding Beijing's recent detention of several Chinese academics, including two who live in Hong Kong; academics suspect crackdown is motivated, in part, by publication in January of 'The Tiananmen Papers,' insider's account of deliberations of Chinese leaders that led to crackdown on democracy movement in Beijing in 1989; say Chinese hope to stop leakage of information (M)",
+        "headline": {"main": "In Hong Kong, Scholars Keep Safe Distance From Trouble"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2001-04-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/04/22/world/in-hong-kong-scholars-keep-safe-distance-from-trouble.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "It has been a tense spring for scholars who study China from this former colony on its doorstep.    Beijing's recent detention of several Chinese academics -- two of whom are residents of Hong Kong -- has led a growing number of scholars here to canc",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LANDLER",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK LANDLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd206cd8eb7c8105d7705ac",
+        "source": "The New York Times",
+        "word_count": 620,
+        "lead_paragraph": "It has been a tense spring for scholars who study China from this former colony on its doorstep. Beijing's recent detention of several Chinese academics -- two of whom are residents of Hong Kong -- has led a growing number of scholars here to cancel trips to mainland China. They say the secrecy surrounding the detentions has made them nervous that they could be swept up in the same net."
+      },
+      {
+        "abstract": "Members of banned Falun Gong spiritual group stage small scattered protests on Tiananmen Square in attempt to commemorate second anniversary of silent sit-in that movement held outside leadership compound in 1999; that demonstration, 10,000 strong, took government by surprise and catapulted obscure spiritual organization into international awareness, also leading few months later to government ban; in latest protest, at least 12 members are detained; photo (M)",
+        "headline": {"main": "Falun Gong Holds Protests On Anniversary of Big Sit-In"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "FALUN GONG"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2001-04-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/04/26/world/falun-gong-holds-protests-on-anniversary-of-big-sit-in.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Members of the banned Falun Gong spiritual group staged small scattered protests today on Tiananmen Square in an attempt to commemorate the second anniversary of a silent sit-in that the movement held outside the leadership compound in 1999.    That ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd205888eb7c8105d76dfa4",
+        "source": "The New York Times",
+        "word_count": 586,
+        "lead_paragraph": "Members of the banned Falun Gong spiritual group staged small scattered protests today on Tiananmen Square in an attempt to commemorate the second anniversary of a silent sit-in that the movement held outside the leadership compound in 1999. That brazen 10,000-strong demonstration to seek official recognition took the government by surprise. It catapulted the obscure spiritual organization into international awareness, also leading a few months later to the government ban."
+      },
+      {
+        "abstract": "Florence Fabricant article on her trip to China to sample food; reviews several Beijing restaurants; photos (M)1",
+        "headline": {
+          "kicker": "CHOICE TABLES",
+          "main": "In Beijing, Duck Is Just the Beginning"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "RESTAURANTS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2001-05-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/05/06/travel/choice-tables-in-beijing-duck-is-just-the-beginning.html",
+        "news_desk": "Travel Desk",
+        "snippet": "LAST fall, on my first trip to China -- not counting a visit to Hong Kong nearly 20 years ago -- I decided that for the sake of dinner, it was important to travel with a small group instead of organizing an independent tour for just me and my husband",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FABRICANT",
+            "role": "reported",
+            "firstname": "Florence"
+          }],
+          "original": "By FLORENCE FABRICANT"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd249f18eb7c8105d7e7db6",
+        "source": "The New York Times",
+        "word_count": 2813,
+        "lead_paragraph": "LAST fall, on my first trip to China -- not counting a visit to Hong Kong nearly 20 years ago -- I decided that for the sake of dinner, it was important to travel with a small group instead of organizing an independent tour for just me and my husband, Richard. With 8 to 10 people, you have a banquet table, the better to sample a wider range of dishes at every meal. We signed up for a 19-day trip -- call it China 101 -- which covered the highlights and emphasized varied but first-rate meals, sometimes off the beaten path. The tour leader, William Wu, is an art historian who runs San Francisco Cultural Delegation Tours and has been leading trips to China since the late 1970's. And most important, he is a lover of fine food and wine."
+      },
+      {
+        "abstract": "Boxing promoter Don King announces that John Ruiz and Evander Holyfield will fight rematch in Beijing, China, in August for World Boxing Assn heavyweight title; Hasam Rahman will defend his World Boxing Council and International Boxing Federation heavyweight title against Brian Nielsen on undercard; photo (M)",
+        "headline": {
+          "kicker": "BOXING",
+          "main": "The Heavyweight Class Is Taking a Field Trip to China"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HOLYFIELD, EVANDER"
+          },
+          {
+            "name": "persons",
+            "value": "RAHMAN, HASIM"
+          },
+          {
+            "name": "persons",
+            "value": "KING, DON"
+          },
+          {
+            "name": "persons",
+            "value": "NIELSEN, BRIAN"
+          },
+          {
+            "name": "persons",
+            "value": "RUIZ, JOHN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BOXING"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2001-05-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/05/15/sports/boxing-the-heavyweight-class-is-taking-a-field-trip-to-china.html",
+        "news_desk": "Sports Desk",
+        "snippet": "According to Don King, east is east and west is west, and the two will finally meet at ringside. King, the boxing promoter, said yesterday that John Ruiz and Evander Holyfield will fight a rematch in Beijing in August for the World Boxing Association",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd22ff38eb7c8105d7be3f9",
+        "source": "The New York Times",
+        "word_count": 725,
+        "lead_paragraph": "According to Don King, east is east and west is west, and the two will finally meet at ringside. King, the boxing promoter, said yesterday that John Ruiz and Evander Holyfield will fight a rematch in Beijing in August for the World Boxing Association heavyweight title, and that the winner of that bout will most likely fight Hasim Rahman to unify the division. Rahman, who agreed last week to let King promote him, will fight on the undercard on Aug. 5 against Brian Nielsen, a relatively unknown Danish boxer with whom he has sparred twice. Rahman won the World Boxing Council and International Boxing Federation heavyweight belts last month in a fifth-round upset against Lennox Lewis in South Africa."
+      },
+      {
+        "abstract": "Harvey Araton Sports of The Times column discusses boxing promoter Don King plans to stage heavyweight championship bouts in China involving Evander Holyfield, John Ruiz and Hasim Rahman (M)",
+        "headline": {"main": "Sports of The Times; In Charge From Zaire To Beijing"},
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "SPORTS OF THE TIMES (TIMES COLUMN)"
+          },
+          {
+            "name": "persons",
+            "value": "HOLYFIELD, EVANDER"
+          },
+          {
+            "name": "persons",
+            "value": "RAHMAN, HASIM"
+          },
+          {
+            "name": "persons",
+            "value": "KING, DON"
+          },
+          {
+            "name": "persons",
+            "value": "RUIZ, JOHN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BOXING"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2001-05-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/05/15/sports/sports-of-the-times-in-charge-from-zaire-to-beijing.html",
+        "news_desk": "Sports Desk",
+        "snippet": "HOW sporting of the Chinese government to overlook the human rights record of the world's foremost boxing promoter when it comes to professional fighters.    ''Don King is the star of boxing,'' said Jinshu Zhang, attorney for the Beijing-based Great ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ARATON",
+            "role": "reported",
+            "firstname": "Harvey"
+          }],
+          "original": "By HARVEY ARATON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2152b8eb7c8105d78e53a",
+        "source": "The New York Times",
+        "word_count": 766,
+        "lead_paragraph": "HOW sporting of the Chinese government to overlook the human rights record of the world's foremost boxing promoter when it comes to professional fighters. ''Don King is the star of boxing,'' said Jinshu Zhang, attorney for the Beijing-based Great Wall International Sports Media Company. ''That's part of the reasoning. We want him. The notoriety will bring more attention to the fight.''"
+      },
+      {
+        "abstract": "Beijing appears to remain front-runner while Paris and Toronto receive encouraging evaluations in report issued by International Olympic Committee that assessed cities trying to play host to 2008 Summer Games; photo (M)",
+        "headline": {
+          "kicker": "OLYMPICS",
+          "main": "An I.O.C. Report Gives Three Cities High Marks"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "TORONTO (ONTARIO)"
+          },
+          {
+            "name": "glocations",
+            "value": "PARIS (FRANCE)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2001-05-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/05/16/sports/olympics-an-ioc-report-gives-three-cities-high-marks.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Beijing appeared to remain the front-runner while Paris and Toronto received encouraging evaluations yesterday in a report issued by the International Olympic Committee that assessed the cities trying to play host to the 2008 Summer Games.    At the ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LONGMAN",
+            "role": "reported",
+            "firstname": "Jere"
+          }],
+          "original": "By JERE LONGMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd22e538eb7c8105d7bc023",
+        "source": "The New York Times",
+        "word_count": 796,
+        "lead_paragraph": "Beijing appeared to remain the front-runner while Paris and Toronto received encouraging evaluations yesterday in a report issued by the International Olympic Committee that assessed the cities trying to play host to the 2008 Summer Games. At the same time, concerns over financing and infrastructure essentially eliminated Istanbul and Osaka, Japan, from having any chance to play host to the Games."
+      },
+      {
+        "abstract": "Shayna Kravetz letter on May 16 article questions whether apparent public support in China for Beijing's bid for 2008 Summer Olympics is genuine",
+        "headline": {"main": "Beijing's Olympic Bid"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "KRAVETZ, SHAYNA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "2001-05-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/05/21/opinion/l-beijing-s-olympic-bid-388645.html",
+        "news_desk": "Editorial Desk",
+        "snippet": " To the Editor:    ''An I.O.C. Report Gives Three Cities High Marks'' (Sports pages, May 16) reports that Beijing's bid for the 2008 Summer Olympics is helped by the substantial popular support of the general population. What is surprising is not tha",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2258b8eb7c8105d7aca1d",
+        "source": "The New York Times",
+        "word_count": 117,
+        "lead_paragraph": "To the Editor: ''An I.O.C. Report Gives Three Cities High Marks'' (Sports pages, May 16) reports that Beijing's bid for the 2008 Summer Olympics is helped by the substantial popular support of the general population. What is surprising is not that 96 percent of Chinese polled by the International Olympic Committee supported the initiative, but that 4 percent had the backbone to tell a stranger that they disagreed with a government proposal. Given the continuing repression of free speech in China, this small group may well represent a substantial, albeit suppressed, voice of opposition. The proposal to award the Games to Beijing's tyrants is so offensive as to be beyond comment. SHAYNA KRAVETZ Toronto, May 16, 2001"
+      },
+      {
+        "abstract": "Op-Ed article by Fang Lizhi and Robert L Bernstein, co-chairmen of Human Rights in China, says Beijing should be considered as site of 2008 Olympic Games, but only if China commits to ending human rights abuses; notes that whenever China prepares for international attention, it conducts street sweeps by police to clear 'undesirables' from sight; says journalists report that such sweeps increased in February, when inspectors from International Olympic Committee visited Beijing; says those taken into custody are shipped to psychiatric hospitals or custody and repatriation camps, and they languish there; fears that crackdown on dissidents is likely to continue or get even worse if Olympics comes to China; says if IOC chooses China without addressing human rights violations, it will be condoning past and future abuses (M)",
+        "headline": {"main": "China's 'Undesirables'"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "HUMAN RIGHTS IN CHINA"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "29",
+        "pub_date": "2001-05-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/05/24/opinion/china-s-undesirables.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "As the International Olympic Committee considers whether to select Beijing as the site of the 2008 Olympic Games, it must retreat from its tired, rather disingenuous excuse that the Olympics are about sport, not politics.     If Beijing is chosen to ",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "Lizhi",
+              "role": "reported",
+              "firstname": "Fang"
+            },
+            {
+              "organization": "",
+              "rank": 2,
+              "middlename": "L.",
+              "role": "reported",
+              "lastname": "Bernstein",
+              "firstname": "Robert"
+            }
+          ],
+          "original": "By Fang Lizhi and Robert L. Bernstein"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd223958eb7c8105d7a97e1",
+        "source": "The New York Times",
+        "word_count": 445,
+        "lead_paragraph": "As the International Olympic Committee considers whether to select Beijing as the site of the 2008 Olympic Games, it must retreat from its tired, rather disingenuous excuse that the Olympics are about sport, not politics. If Beijing is chosen to play host to the Olympics, the decision will be a feather in the cap of the Chinese government. But this decision would also ensure a continued wave of human rights abuses against China's ''undesirables'' -- dissidents, the mentally ill, the homeless, street children and the unemployed."
+      },
+      {
+        "abstract": "Dr Gao Yaojie, retired gynecologist who has become one of China's foremost AIDS fighters, is denied permission to travel to United States to attend ceremony at which she is to be honored for her work and presented with award from Global Health Council, nonprofit organization based in US; Gao organized one-woman crusade to help poor farmers in Henan Province who became infected with HIV in 1990's through selling their blood at collection stations whose unsanitary practices fostered spread of diseases; HIV infections are sensitive topic, because health officials in Henan often ran collection stations and profited from them; local officials have prohibited local journalists from covering it and warned Gao not to speak out; HIV-infected farmers have begun to speak out; some of them have traveled to Beijing, hoping for treatment and publicity about their plight (M)",
+        "headline": {"main": "AIDS Crusader's International Award Wins Scowls in China"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "GAO YAOJIE"
+          },
+          {
+            "name": "glocations",
+            "value": "HENAN PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "GLOBAL HEALTH COUNCIL"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL RESTRICTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ACQUIRED IMMUNE DEFICIENCY SYNDROME"
+          },
+          {
+            "name": "subject",
+            "value": "BLOOD"
+          },
+          {
+            "name": "subject",
+            "value": "AWARDS, DECORATIONS AND HONORS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2001-05-31T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/05/31/world/aids-crusader-s-international-award-wins-scowls-in-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A prominent retired gynecologist who has become one of China's foremost AIDS fighters has been denied permission to attend an awards ceremony in the United States, where she is being honored for her work.    The physician, Dr. Gao Yaojie, 74, is the ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd223938eb7c8105d7a9629",
+        "source": "The New York Times",
+        "word_count": 544,
+        "lead_paragraph": "A prominent retired gynecologist who has become one of China's foremost AIDS fighters has been denied permission to attend an awards ceremony in the United States, where she is being honored for her work. The physician, Dr. Gao Yaojie, 74, is the third winner of the Jonathan Mann Award for Health and Human Rights from the Global Health Council, a nonprofit organization based in the United States. She was to have received the award on Thursday in Washington at a ceremony with Secretary General Kofi Annan of the United Nations as host. For two years, Dr. Gao has organized a one-woman crusade to help poor farmers in Henan Province who became infected with H.I.V. in the 1990's through selling their blood at collection stations whose unsanitary practices fostered the spread of diseases."
+      },
+      {
+        "abstract": "National Security Archive, private research firm, releases CIA and State Department documents on 12th anniversary of Tiananmen Square massacre in Beijing, China, showing US Amb James Lilley in June 1989 cabled Sec of State James A Baker 3rd suggesting that Pres Bush may have badly miscalculated policy toward Beijing; he cited decision to send American naval vessels on official visit to Shanghai in May, which he said created impression that Washington was 'cozying up' to Chinese military just as protests were erupting (M)",
+        "headline": {"main": "Revisiting Tiananmen: Envoy Saw U.S. Error in 'Cozying Up'"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+          },
+          {
+            "name": "persons",
+            "value": "BAKER, JAMES A III"
+          },
+          {
+            "name": "persons",
+            "value": "LILLEY, JAMES R"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "STATE DEPARTMENT"
+          },
+          {
+            "name": "organizations",
+            "value": "CENTRAL INTELLIGENCE AGENCY"
+          },
+          {
+            "name": "organizations",
+            "value": "NATIONAL SECURITY ARCHIVE"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2001-06-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/06/05/world/revisiting-tiananmen-envoy-saw-us-error-in-cozying-up.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Just one month after the Tiananmen Square massacre in June 1989, the American ambassador to China told the secretary of state that he believed that the administration of the first President Bush had badly miscalculated its policy toward Beijing, newl",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "RISEN",
+            "role": "reported",
+            "firstname": "James"
+          }],
+          "original": "By JAMES RISEN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20d538eb7c8105d77d4af",
+        "source": "The New York Times",
+        "word_count": 882,
+        "lead_paragraph": "Just one month after the Tiananmen Square massacre in June 1989, the American ambassador to China told the secretary of state that he believed that the administration of the first President Bush had badly miscalculated its policy toward Beijing, newly declassified government documents show. In a July 1989 cable to Secretary of State James A. Baker 3rd, the ambassador, James Lilley, said a decision to send American Navy ships on an official visit to Shanghai in May 1989 had left the impression that Washington was ''cozying up'' to the Chinese military just as protests were erupting in Beijing."
+      }
+    ],
+    "meta": {
+      "time": 56,
+      "hits": 75,
+      "offset": 20
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

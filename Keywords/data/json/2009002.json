@@ -1,0 +1,707 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "OLYMPICS",
+          "main": "After a Year, Games Sites Get a Taste of Sports Again"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "STADIUMS AND ARENAS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2009-08-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/08/08/sports/olympics/08iht-VENUE.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The Sun Beach Theme Park was probably not the legacy foremost in the minds of Olympic organizers when they spent billions of dollars building the venues for the 2008 Beijing Games.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MULVENNEY",
+            "role": "reported",
+            "firstname": "Nick"
+          }],
+          "original": "By NICK MULVENNEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b5c08eb7c8105d8a9745",
+        "source": "International Herald Tribune",
+        "word_count": 616,
+        "lead_paragraph": "BEIJING -- The Sun Beach Theme Park was probably not the legacy foremost in the minds of Olympic organizers when they spent billions of dollars building the venues for the 2008 Beijing Games. That didn't seem to bother 5-year-old Liu Lin this week, however, as she buried herself in sand at Chaoyang Park stadium, the site where Olympic medals were won in beach volleyball last August."
+      },
+      {
+        "abstract": "Ai Weiwei, Chinese artist and frequent critic of Communist Party, says he was hit by police officers and placed under detention when he sought to testify at trial of civil-rights advocate Tan Zuoren; Tan is believed to be on trial because of his role in pressing for official investigation into widespread school collapses during 2008 earthquake in Sichuan Province and for trying to organize event to commemorate 20th anniversary of Tiananmen Square massacre; photo (M)",
+        "headline": {"main": "Chinese Artist Says He Was Barred From Rights Advocate's Trial"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "AI WEIWEI"
+          },
+          {
+            "name": "persons",
+            "value": "TAN ZUOREN"
+          },
+          {
+            "name": "glocations",
+            "value": "SICHUAN PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLICE BRUTALITY AND MISCONDUCT"
+          },
+          {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2009-08-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/08/13/world/asia/13china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Ai Weiwei said he was hit by police officers and put under detention in his hotel room when he tried to testify at the trial of a civil rights advocate, Tan Zuoren.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG; Jonathan Ansfield contributed reporting, and Zhang Jing contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/08/13/world/13china.span.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/08/13/world/13china.span.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 361,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/08/13/world/13china.span.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 361,
+              "xlarge": "images/2009/08/13/world/13china.span.600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2009/08/13/world/13china_337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2009/08/13/world/13china_337.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd274ae8eb7c8105d833823",
+        "source": "The New York Times",
+        "word_count": 579,
+        "lead_paragraph": "A prominent Chinese artist and frequent critic of the Communist Party said he was hit by police officers and put under detention in his hotel room in western China on Wednesday when he tried to go testify at the trial of a civil rights advocate. The artist, Ai Weiwei, best known for helping to design the Bird's Nest Olympic Stadium in Beijing, said dozens of police officers barged into his hotel room early Wednesday and the rooms of others who had traveled to Chengdu, the capital of Sichuan Province, to testify on behalf of Tan Zuoren, the rights advocate."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "LETTER FROM CHINA",
+          "main": "In Beijing, a Brand-New Old Quarter"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HISTORIC BUILDINGS AND SITES"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2009-08-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/08/13/us/13iht-letter.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Even as a lot of Beijing\u2019s old neighborhoods have been demolished, there\u2019s been the realization that Old Beijing has value, if mostly for the tourism industry.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BERNSTEIN",
+            "role": "reported",
+            "firstname": "Richard"
+          }],
+          "original": "By RICHARD BERNSTEIN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a1ae8eb7c8105d886ac8",
+        "source": "International Herald Tribune",
+        "word_count": 1027,
+        "lead_paragraph": "BEIJING -- This is a city conspicuously unfriendly to pedestrians. Six-lane ring highways cut through old neighborhoods, making places that are rather close as the crow flies very far apart if you walk, since you've often got to navigate long cloverleaf intersections and widely spaced overpasses simply to cross the street. And that's one of the things, in a city far more oriented toward the car than shoe leather, that makes the recent opening of a big pedestrian-only network of streets in the historic heart of Beijing so noteworthy. It's in the area called Dashalar, which, during the Manchu-ruled Qing Dynasty, was the ethnic Chinese part of this city, the warren of streets and avenues that lay just outside the imposing city wall."
+      },
+      {
+        "abstract": "Photo of Tiananmen Square in Beijing amid preparations for China's National Day celebration",
+        "headline": {"main": "CHINA PREPARES ITS CAPITAL FOR A CELEBRATION"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2009-08-26T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9D0DE2D91538F935A1575BC0A96F9C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "Photo of Tiananmen Square in Beijing amid preparations for China's National Day celebration",
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd271218eb7c8105d82d65b",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "China denies visas to American filmmakers Jon Alpert and Matthew O'Neill, blocking them from presenting documentary about earthquake in Sichuan Province at Beijing Independent Film Festival; film documents anger of parents whose children died in school collapses during earthquake; Chinese government has gone to great lengths to silence any mention of collapsed schools and reported 5,335 children who died or remain missing; photo (M)",
+        "headline": {"main": "Filmmakers Barred From China Festival"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ALPERT, JON"
+          },
+          {
+            "name": "persons",
+            "value": "O'NEILL, MATTHEW"
+          },
+          {
+            "name": "glocations",
+            "value": "SICHUAN PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MOVIES"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL RESTRICTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "MISSING PERSONS"
+          },
+          {
+            "name": "subject",
+            "value": "DOCUMENTARY FILMS AND PROGRAMS"
+          },
+          {
+            "name": "subject",
+            "value": "BUILDING (CONSTRUCTION)"
+          },
+          {
+            "name": "subject",
+            "value": "DISASTERS AND EMERGENCIES"
+          },
+          {
+            "name": "subject",
+            "value": "FESTIVALS"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+          },
+          {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "BEIJING INDEPENDENT FILM FESITVAL"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2009-09-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/09/02/world/asia/02quake.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Jon Alpert and Matthew O\u2019Neill were denied visas days before the intended screening of their film, \u201cChina\u2019s Unnatural Disaster: The Tears of Sichuan Province.\u201d",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Movies; World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/09/01/world/02quake_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/09/01/world/02quake_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 331,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/09/01/world/02quake_600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 331,
+              "xlarge": "images/2009/09/01/world/02quake_600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 230,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2009/09/01/world/02quake_337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2009/09/01/world/02quake_337.jpg",
+              "tinythumbheight": 230,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd2743d8eb7c8105d83251d",
+        "source": "The New York Times",
+        "word_count": 556,
+        "lead_paragraph": "When the American filmmakers Jon Alpert and Matthew O'Neill traveled around Sichuan Province last year to document the anger of parents whose children had died in school collapses during the earthquake in May, they ran into a chilly reception from officials. Police officers harassed the two men and their co-workers, detained them and interrogated them for eight hours, they said."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Record Numbers of Chinese Wed on 09/09/09"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MARRIAGES"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2009-09-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/09/11/world/asia/11beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Thousands of Chinese couples decided that 9/9/09 would be an auspicious date for their nuptials.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "McDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK McDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/09/10/world/10beijing.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/09/10/world/10beijing.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 433,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/09/10/world/10beijing.650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 433,
+              "xlarge": "images/2009/09/10/world/10beijing.650.jpg",
+              "xlargewidth": 650
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2009/09/10/world/10beijing.337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2009/09/10/world/10beijing.337.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd274ab8eb7c8105d8335a1",
+        "source": "The New York Times",
+        "word_count": 211,
+        "lead_paragraph": "Cities across China have reported record numbers of marriages after tens of thousands of couples decided that 9/9/09 would be an auspicious date to wed. The number nine in Mandarin, jiu, sounds the same as the word for ''perpetual'' and ''forever.''"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Chinese Couples Take Advantage of an Auspicious Day to Marry"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SUPERSTITIONS"
+          },
+          {
+            "name": "subject",
+            "value": "NUMBERS"
+          },
+          {
+            "name": "subject",
+            "value": "MARRIAGES"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2009-09-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/09/11/world/asia/11iht-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Cities in China reported large numbers of marriages Wednesday as tens of thousands of couples decided 9/9/09 would be a lucky date for their nuptials.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "McDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK McDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd271248eb7c8105d82d91a",
+        "source": "International Herald Tribune",
+        "word_count": 253,
+        "lead_paragraph": "HONG KONG -- Cities across China reported record numbers of marriages Wednesday as tens of thousands of couples decided that 9/9/09 would be an auspicious date for their nuptials. The number nine in Mandarin, jiu, has the same pronunciation as the word for ''perpetual'' or ''forever.''"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Roaming Beijing's Alleys, Shouting Vendors Sow Echoes of the Past"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "VENDORS, STREET"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2009-09-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/09/13/world/asia/13beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Singing hawkers and recyclers are reminders of a bygone era, their garbled calls serving as the soundtrack of the Beijing summer.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Xiyun Yang contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 583,
+            "width": 680,
+            "caption": "As Beijing Modernizes, Street Hawkers Lose Customers",
+            "type": "AudioSS",
+            "credit": "The street hawkers of Beijing, who used to control the local trade market, are losing their customers to high rises and supermarkets.",
+            "url": "http://www.nytimes.com/interactive/2009/09/11/world/asia/20090911-hawkers/index.html",
+            "legacy": {
+              "MultimediaSummary1": "The street hawkers of Beijing, who used to control the local trade market, are losing their customers to high rises and supermarkets.",
+              "MultimediaPopupWidth1": "680",
+              "MultimediaType1": "AudioSS",
+              "MultimediaPopupHeight1": "583",
+              "MultimediaHeadline1": "As Beijing Modernizes, Street Hawkers Lose Customers",
+              "MultimediaUrl1": "http://www.nytimes.com/interactive/2009/09/11/world/asia/20090911-hawkers/index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/09/13/world/13beijing.751.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/09/13/world/13beijing.751.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 360,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/09/13/world/13beijing.xlarge1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 360,
+              "xlarge": "images/2009/09/13/world/13beijing.xlarge1.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2009/09/13/world/13beijing.3371.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2009/09/13/world/13beijing.3371.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd274ab8eb7c8105d8335af",
+        "source": "The New York Times",
+        "word_count": 1106,
+        "lead_paragraph": "Not long after daybreak, before the city begins its full-throated roar, the shouts and calls can be heard here up and down the old alleyways and deep within the walled courtyards that form the crowded heart of the Chinese capital. ''Goat meat, goat meat!''"
+      },
+      {
+        "abstract": "Beijing Journal column describes scene in old alleyways in center of Beijing, China, where singing hawkers, recyclers and other street vendors do thriving business in summer; photos (M)",
+        "headline": {
+          "kicker": "BEIJING JOURNAL",
+          "main": "In China's Alleys, Shouting Vendors Sow Echoes of the Past"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "VENDORS, STREET"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2009-09-14T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9407EFDF173FF937A2575AC0A96F9C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "Not long after daybreak, before the city begins its full-throated roar, the shouts and calls can be heard up and down the old alleyways and deep within the walled courtyards that form the crowded heart of the Chinese capital.      ''Goat meat, goat m",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Xiyun Yang contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2743e8eb7c8105d8325df",
+        "source": "The New York Times",
+        "word_count": 1062,
+        "lead_paragraph": "Not long after daybreak, before the city begins its full-throated roar, the shouts and calls can be heard up and down the old alleyways and deep within the walled courtyards that form the crowded heart of the Chinese capital. ''Goat meat, goat meat!''"
+      },
+      {
+        "abstract": "Correction; Sept 14 article about raucous street merchants of Beijing misspelled name of person referenced",
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "VENDORS, STREET"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2009-09-17T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9401E1D6163AF934A2575AC0A96F9C8B63",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "The Beijing Journal article on Monday, about the raucous street merchants of Beijing, misspelled the name of a Qing Dynasty emperor said to have favored the kind of singing caged grasshoppers hawked by one merchant during the summer. It is Qianlong, ",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b5bd8eb7c8105d8a94a1",
+        "source": "The New York Times",
+        "word_count": 43,
+        "lead_paragraph": "The Beijing Journal article on Monday, about the raucous street merchants of Beijing, misspelled the name of a Qing Dynasty emperor said to have favored the kind of singing caged grasshoppers hawked by one merchant during the summer. It is Qianlong, not Qianglong."
+      }
+    ],
+    "meta": {
+      "time": 24,
+      "hits": 62,
+      "offset": 20
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

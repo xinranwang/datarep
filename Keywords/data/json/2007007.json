@@ -1,0 +1,925 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Olympic documentarian Bud Greenspan will travel to Beijing for Olympic Games, despite recent six-month bout of pneumonia 9M)",
+        "headline": {"main": "Inspired Greenspan Ready for Next Event"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "GREENSPAN, BUD"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DOCUMENTARY FILMS AND PROGRAMS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2007-11-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/11/01/sports/othersports/01greenspan.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Bud Greenspan, despite battling Parkinson\u2019s disease, is looking toward the Beijing Summer Games next year to create another documentary that chronicles the inspiring side of the Olympics.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Movies; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SANDOMIR",
+            "role": "reported",
+            "firstname": "Richard"
+          }],
+          "original": "By RICHARD SANDOMIR"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b1c48eb7c8105d8a2523",
+        "source": "The New York Times",
+        "word_count": 734,
+        "lead_paragraph": "Bud Greenspan is looking toward the Beijing Summer Games next year to create another documentary that chronicles the inspiring side of the Olympics. He has been writing, producing and directing these films for so long that the moniker Olympic documentarian sticks to him like the glasses that are always perched on his bald dome. Greenspan, 81, recently recovered from a six-month bout of pneumonia."
+      },
+      {
+        "abstract": "US rhythmic gymnast Lisa Wang's shaky performance at world championships means she can not compete at 2008 Olympics; there will be no American in competition; photo (M)",
+        "headline": {"main": "Beijing Dreams Fade for Top Rhythmic Gymnast"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WANG, LISA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "GYMNASTICS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "RHYTHMIC GYMNASTICS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2007-11-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/11/13/sports/othersports/13olympics.html",
+        "news_desk": "Sports Desk",
+        "snippet": "When the rhythmic gymnast Lisa Wang took the gold at the Pan American Games in July, she thought she would be heading to China in 2008. But four months later, she has not qualified to compete in Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "TORGOVNICK",
+            "role": "reported",
+            "firstname": "Kate"
+          }],
+          "original": "By KATE TORGOVNICK"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/11/13/sports/13Olympic.1.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/11/13/sports/13Olympic.1.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 320,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/11/13/sports/13Olympic.1.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 320,
+              "xlarge": "images/2007/11/13/sports/13Olympic.1.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2618a8eb7c8105d81280a",
+        "source": "The New York Times",
+        "word_count": 953,
+        "lead_paragraph": "When the rhythmic gymnast Lisa Wang stood atop the podium at the Pan American Games in July, a gold medal draped around her neck, an exciting thought filled her head, she said: the 2008 Olympics. The victory in the all-around at the Games, in Rio de Janeiro, solidified her as the top rhythmic gymnast in North and South America. Wang, already the United States national champion two years running, felt confident that she would be heading to China, where her parents grew up."
+      },
+      {
+        "abstract": "Photo of worker eating his lunch near National Stadium in Beijing, which is being built as main site for 2008 Olympic Games",
+        "headline": {"main": "LUNCHTIME AT BEIJING'S 'BIRD'S NEST': PLEASE WAIT TO BE SEATED"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2007-11-13T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9804E5DE1131F930A25752C1A9619C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "Photo of worker eating his lunch near National Stadium in Beijing, which is being built as main site for 2008 Olympic Games",
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2618a8eb7c8105d8127fe",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Coming Olympic Games in Beijing promise to be important moment for Madison Avenue advertising industry, if not for furthering understanding among nations; billions of dollars that will be spent on Olympics-related advertising could smooth bumpy ride advertising industry is enduring; ardent embrace of Olympics by Chinese government also promises to raise profile of campaigns surrounding Games; Olympic torch relay, scheduled to begin in March, is planned as longest ever; sponsors are China's Lenovo Group along with Coca-Cola and Samsung; recent Global Entertainment and Media Outlook report from PricewaterhouseCoopers is forecasting that ad spending in China in six major media will increased to $22.5 billion in 2011, from $13 billion this year; photo (L)",
+        "headline": {
+          "kicker": "ADVERTISING",
+          "main": "For Olympics, China's Marketers Are Showing Their Pride"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "PRICEWATERHOUSECOOPERS"
+          },
+          {
+            "name": "organizations",
+            "value": "COCA-COLA CO"
+          },
+          {
+            "name": "organizations",
+            "value": "SAMSUNG CORP"
+          },
+          {
+            "name": "organizations",
+            "value": "LENOVO GROUP"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ECONOMY"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2007-11-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/11/14/business/media/14adco.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "With fears that the tumult in the American economy may lead marketers to cut budgets for next year, the Olympic campaigns could make the forecasts of growth in global ad spending in 2008 come true.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ELLIOTT",
+            "role": "reported",
+            "firstname": "Stuart"
+          }],
+          "original": "By STUART ELLIOTT"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/11/14/business/14adco.75.1.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/11/14/business/14adco.75.1.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 280,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/11/14/business/14adco.600.1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 280,
+              "xlarge": "images/2007/11/14/business/14adco.600.1.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2618b8eb7c8105d81282d",
+        "source": "The New York Times",
+        "word_count": 1062,
+        "lead_paragraph": "THERE are those who consider the Summer Olympics a quadrennial exercise in hyperbolic marketing, a five-ring circus of commercialism interrupted occasionally for televised glimpses of muscular youth doing something with batons or volleyballs. Still, the coming Games in Beijing, now less than nine months away, promise to be an important moment for Madison Avenue, if not for furthering understanding among nations. The billions of dollars that will be spent on Olympics-related advertising -- directly by sponsors, and indirectly by marketers seeking to bask in the reflected glow -- could smooth the bumpy ride the advertising industry is now enduring."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "sub": "Friday ;",
+          "print_headline": "36 Hours In Beijing",
+          "main": "36 Hours in Beijing"
+        },
+        "keywords": [
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Travel and Vacations",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "13",
+        "pub_date": "2007-12-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/12/09/travel/09hours.html",
+        "news_desk": "Travel",
+        "snippet": "Beijing can feel chaotic and sprawling, especially as it races to finish Olympic construction before the Games begin. But there\u2019s an ancient order to the place, a cosmology, and you can follow it.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HOOKER",
+            "role": "reported",
+            "firstname": "Jake"
+          }],
+          "original": "By JAKE HOOKER"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2007/12/09/travel/1209-tra-webHOURS-wide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2007/12/09/travel/1209-tra-webHOURS-wide.jpg"
+            }
+          },
+          {
+            "height": 320,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2007/12/09/travel/hours-600.jpg",
+            "legacy": {
+              "xlargeheight": "320",
+              "xlarge": "images/2007/12/09/travel/hours-600.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2007/12/09/travel/hour-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/12/09/travel/hour-75.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51a5219240e9ec65d2039dd9",
+        "source": "The New York Times",
+        "word_count": "1600",
+        "lead_paragraph": "Beijing can feel chaotic and sprawling, especially as it races to finish Olympic construction before the Games begin. But there\u2019s an ancient order to the place, a cosmology, and you can follow it."
+      },
+      {
+        "abstract": "Jake Hooker travel article on 36-hour visit to Beijing; photos; map (M)",
+        "headline": {"main": "36 Hours In Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "13",
+        "pub_date": "2007-12-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/12/09/travel/09hours.html",
+        "news_desk": "Travel Desk",
+        "snippet": "Beijing can feel chaotic and sprawling, especially as it races to finish Olympic construction before the Games begin. But there\u2019s an ancient order to the place, a cosmology, and you can follow it.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HOOKER",
+            "role": "reported",
+            "firstname": "Jake"
+          }],
+          "original": "By JAKE HOOKER"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "caption": "Weekend in Beijing",
+            "type": "Slideshow",
+            "credit": "Following the old and new ways of this sprawling Chinese city.",
+            "url": "http://www.nytimes.com/slideshow/2007/12/09/travel/20071209_HOURS_SLIDESHOW_index.html",
+            "legacy": {
+              "MultimediaSummary1": "Following the old and new ways of this sprawling Chinese city.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Weekend in Beijing",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2007/12/09/travel/20071209_HOURS_SLIDESHOW_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/12/09/travel/hour-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/12/09/travel/hour-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 320,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/12/09/travel/hours-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 320,
+              "xlarge": "images/2007/12/09/travel/hours-600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd263f78eb7c8105d816f0a",
+        "source": "The New York Times",
+        "word_count": 1587,
+        "lead_paragraph": "BEIJING can feel chaotic and sprawling, especially as it races to finish Olympic construction before the Games begin on Aug. 8. But there's an ancient order to the place, a cosmology, and you can follow it. The palaces and temples line up like stars on the city's south-north axis. The government chose to build the Olympic Stadium on the axis, too. All over town there are digital billboards with a countdown to the Games. Down to the second. But wait. Besides the cranes and compact cars and floating particulate matter, everything essential about the city -- its tall vermilion walls, its septuagenarians flying kites on bridges, its pigeons -- has been there all along. Friday"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Weekend in Beijing"},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "FAR EAST, SOUTH AND SOUTHEAST ASIA AND PACIFIC AREAS"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2007-12-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2007/12/09/travel/20071209_HOURS_SLIDESHOW_index.html",
+        "news_desk": null,
+        "snippet": "Following the old and new ways of this sprawling Chinese city.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a88241c22dfde670c1c5b",
+        "source": null,
+        "word_count": 17,
+        "lead_paragraph": "Following the old and new ways of this sprawling Chinese city."
+      },
+      {
+        "abstract": "Clyde Haberman NYC column on New York City Mayor Michael R Bloomberg visit to China; says Bloomberg may bring back ideas for city from China but probably unsuccessful ones as happened with Mayor Edward I Koch when he returned from China in 1980; photo (M)",
+        "headline": {
+          "kicker": "NYC",
+          "main": "Bloomberg Travels to the Old World In Search of New Ideas"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "KOCH, EDWARD I"
+          },
+          {
+            "name": "persons",
+            "value": "BLOOMBERG, MICHAEL R"
+          },
+          {
+            "name": "glocations",
+            "value": "NEW YORK CITY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MAYORS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2008"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "THIRD-PARTY MOVES (US)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2007-12-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/12/11/nyregion/11nyc.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "The mayor\u2019s Asian journey breathes fresh life into speculation that he might run for president in 2008 as an independent candidate.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Washington; New York and Region",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HABERMAN",
+            "role": "reported",
+            "firstname": "Clyde"
+          }],
+          "original": "By CLYDE HABERMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2007/12/10/nyregion/11nyc.75.jpg",
+          "legacy": {
+            "thumbnail": "images/2007/12/10/nyregion/11nyc.75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd261908eb7c8105d812c64",
+        "source": "The New York Times",
+        "word_count": 742,
+        "lead_paragraph": "The last time a New York City mayor went to Beijing, nearly 28 years ago, he came back aglow with an idea that proved to be a bust almost as fast as you could say Deng Xiaoping. With the present mayor now making the rounds in China, who knows what we can expect? Mayor Edward I. Koch visited Beijing in February 1980 and was bowled over by the sight of tens of thousands of people wheeling along in special bicycle lanes. How wonderful, Mr. Koch said. New York had to have some of those."
+      },
+      {
+        "abstract": "Memo Pad column; Air Transport Assn says about same number of people as last year, 47 million passengers, are expected to travel on domestic airlines during Christmas holiday period; Delta Air Lines' second annual short-film competition runs through Jan 15; Delta passengers can view five original short films on on-demand entertainment systems on most transcontinental flights and cast votes for favorite; OAG says world's airlines scheduled record 29.6 million flights this year, increase of 4.7 million over last year; low-cost carriers led trend, with 4.6 million scheduled flights, increase of 20 percent from last year; Malaysia Airlines is offering space-available upgrades to first class for those buying round-trip business-class tickets from Los Angeles to Malaysia, Taiwan, Singapore and other Asian destinations; Ritz-Carlton has opened its third hotel in China, Ritz-Carlton Beijing; Internal Revenue Service says that mileage deduction rates for business use of cars, vans, pickups or panel trucks will be 50.5 cents per mile, up from 48.5 cents per mile, beginning Jan 1; children 12 and under get $5 coupons for use at any restaurant at Dallas/Fort Worth International Airport on Thursday and Friday (M)",
+        "headline": {"main": "Memo Pad"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "LOS ANGELES (CALIF)"
+          },
+          {
+            "name": "glocations",
+            "value": "MALAYSIA"
+          },
+          {
+            "name": "glocations",
+            "value": "FAR EAST, SOUTH AND SOUTHEAST ASIA AND PACIFIC AREAS"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "SINGAPORE"
+          },
+          {
+            "name": "organizations",
+            "value": "RITZ-CARLTON HOTEL"
+          },
+          {
+            "name": "organizations",
+            "value": "AIR TRANSPORT ASSN"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNAL REVENUE SERVICE"
+          },
+          {
+            "name": "organizations",
+            "value": "DELTA AIR LINES"
+          },
+          {
+            "name": "organizations",
+            "value": "MALAYSIA AIRLINES"
+          },
+          {
+            "name": "organizations",
+            "value": "OAG PUBLISHING"
+          },
+          {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          },
+          {
+            "name": "subject",
+            "value": "TAXATION"
+          },
+          {
+            "name": "subject",
+            "value": "RESTAURANTS"
+          },
+          {
+            "name": "subject",
+            "value": "TAX CREDITS, DEDUCTIONS AND EXEMPTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UTILITY VEHICLES AND OTHER LIGHT TRUCKS"
+          },
+          {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+          },
+          {
+            "name": "subject",
+            "value": "COUPONS"
+          },
+          {
+            "name": "subject",
+            "value": "DALLAS-FORT WORTH INTERNATIONAL AIRPORT"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDS AND ACHIEVEMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "MOTION PICTURES"
+          },
+          {
+            "name": "subject",
+            "value": "CONTESTS AND PRIZES"
+          },
+          {
+            "name": "subject",
+            "value": "AIRPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "HOTELS AND MOTELS"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "VANS"
+          },
+          {
+            "name": "subject",
+            "value": "CHRISTMAS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2007-12-18T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9902E7DF1339F93BA25751C1A9619C8B63",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "CHRISTMAS HOLIDAY AIR TRAVEL About the same number of people as last year, 47 million passengers, are expected to travel on domestic airlines during this Christmas holiday period, the Air Transport Association says. The four busiest air travel days i",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Movies; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SHARKEY",
+            "role": "reported",
+            "firstname": "Joe"
+          }],
+          "original": "By JOE SHARKEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd281908eb7c8105d84e02d",
+        "source": "The New York Times",
+        "word_count": 400,
+        "lead_paragraph": "CHRISTMAS HOLIDAY AIR TRAVEL About the same number of people as last year, 47 million passengers, are expected to travel on domestic airlines during this Christmas holiday period, the Air Transport Association says. The four busiest air travel days in the period, which began last Thursday and continues through Jan 2, are expected to be, in decreasing order, Jan. 2, Dec. 21, Dec. 27, and Dec. 26. The least busy travel days are expected to be Christmas Day and Dec. 24, the airline trade group said. DELTA FILM FESTIVAL Delta Air Lines' second annual short-film competition runs through Jan. 15. Delta passengers can view five original short films on the on-demand entertainment systems on most transcontinental flights and cast votes for a favorite. The films and ballots are also available online at www.Delta.com/flyinmovies. Delta is a sponsor of the 2008 Sundance Film Festival."
+      },
+      {
+        "abstract": "Toy makers are investigating whether they need to treat their tainted products with stabilization chemicals or if they must seal toys in giant polyethylene bags; Mattel has decided to recycle some of its recalled toys after it fights pending litigation; several of Mattel's recalled toys can still be found on store shelves in Chicago; few toys have shown up on eBay and on Web sites that sell products in bulk; American companies face strict federal regulations for disposing recalled toys, but they are only responsible for toys that show up; companies like Jo-Ann Stores, Tween Brands and Toys 'R' US say they are holding returned toys in warehouses until they come up with disposal plan; photos (L)",
+        "headline": {"main": "The Recalls' Aftershocks"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHICAGO (ILL)"
+          },
+          {
+            "name": "organizations",
+            "value": "JO-ANN STORES INC"
+          },
+          {
+            "name": "organizations",
+            "value": "MATTEL INC"
+          },
+          {
+            "name": "organizations",
+            "value": "TOYS 'R' US INC"
+          },
+          {
+            "name": "organizations",
+            "value": "FISHER-PRICE INC"
+          },
+          {
+            "name": "organizations",
+            "value": "TWEEN BRANDS INC"
+          },
+          {
+            "name": "organizations",
+            "value": "EBAY"
+          },
+          {
+            "name": "organizations",
+            "value": "EBAY INC"
+          },
+          {
+            "name": "organizations",
+            "value": "CONSUMER PRODUCT SAFETY COMMISSION"
+          },
+          {
+            "name": "organizations",
+            "value": "ENVIRONMENTAL PROTECTION AGENCY"
+          },
+          {
+            "name": "subject",
+            "value": "HAZARDOUS AND TOXIC SUBSTANCES"
+          },
+          {
+            "name": "subject",
+            "value": "PAINTS AND PAINTING"
+          },
+          {
+            "name": "subject",
+            "value": "LEAD"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+          },
+          {
+            "name": "subject",
+            "value": "TOYS"
+          },
+          {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+          },
+          {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+          },
+          {
+            "name": "subject",
+            "value": "WASTE MATERIALS AND DISPOSAL"
+          },
+          {
+            "name": "subject",
+            "value": "RECALLS AND BANS OF PRODUCTS"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          },
+          {
+            "name": "subject",
+            "value": "RECYCLING OF WASTE MATERIALS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2007-12-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/12/22/business/22lead.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "What happened to all the lead-tainted products that have been recalled recently? Most, it turns out, may still be in consumers\u2019 hands.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "STORY",
+              "role": "reported",
+              "firstname": "Louise"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "BARBOZA",
+              "role": "reported",
+              "firstname": "David"
+            }
+          ],
+          "original": "By LOUISE STORY  and DAVID BARBOZA; Louise Story reported from New York and David Barboza from China. Katie Zezima contributed reporting from Boston; Karen Ann Cullotta from Chicago; and Christopher Maag from Columbus, Ohio"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/12/21/business/22lead-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/12/21/business/22lead-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/12/21/business/22lead-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2007/12/21/business/22lead-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 230,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2007/12/21/business/22lead-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2007/12/21/business/22lead-337.jpg",
+              "tinythumbheight": 230,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd263f88eb7c8105d817008",
+        "source": "The New York Times",
+        "word_count": 1552,
+        "lead_paragraph": "Wondering what happened to all the lead-tainted products that have been recalled recently? One company that recalled 350,000 lead-tainted journals and bookmarks plans to burn them in an incinerator. In the meantime, it is storing the hazardous parts in 55-gallon drums near its headquarters."
+      }
+    ],
+    "meta": {
+      "time": 36,
+      "hits": 82,
+      "offset": 70
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

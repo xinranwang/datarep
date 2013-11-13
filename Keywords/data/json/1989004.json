@@ -1,0 +1,670 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Sad but Defiant, Chinese Stand Up to Troops"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/20/world/sad-but-defiant-chinese-stand-up-to-troops.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: The 1,000 troops looked out in bewilderment from their immobilized convoy of 21 trucks in western Beijing today to find that their world had been turned upside down.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd195028eb7c8105d6a0bf5",
+        "source": "The New York Times",
+        "word_count": 813,
+        "lead_paragraph": "LEAD: The 1,000 troops looked out in bewilderment from their immobilized convoy of 21 trucks in western Beijing today to find that their world had been turned upside down."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "UPHEAVAL IN CHINA",
+          "main": "Facing the People, the Soldiers Fall Back"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MARTIAL LAW"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ARMIES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/21/world/upheaval-in-china-facing-the-people-the-soldiers-fall-back.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: When a small convoy of military trucks used to launch tear gas and to spray water on rioters rolled through eastern Beijing early this morning, the soldiers met their first unexpected challenge. An old woman street cleaner rushed up and lay dow",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd183bd8eb7c8105d681935",
+        "source": "The New York Times",
+        "word_count": 863,
+        "lead_paragraph": "LEAD: When a small convoy of military trucks used to launch tear gas and to spray water on rioters rolled through eastern Beijing early this morning, the soldiers met their first unexpected challenge. An old woman street cleaner rushed up and lay down on the road in front of the trucks."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "TO THE STREETS",
+          "main": "Armed Only With Optimism, China's People Rise Again"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/21/weekinreview/to-the-streets-armed-only-with-optimism-china-s-people-rise-again.html",
+        "news_desk": "Week in Review Desk",
+        "snippet": "LEAD: ONE of the greatest living Chinese writers, Bo Yang, a 69-year-old social critic now living in Taiwan, was deeply depressed when he visited Beijing late last year after a 40-year absence. ''I went to Beijing University and spoke to some student",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Week in Review",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18aef8eb7c8105d68d118",
+        "source": "The New York Times",
+        "word_count": 1125,
+        "lead_paragraph": "LEAD: ONE of the greatest living Chinese writers, Bo Yang, a 69-year-old social critic now living in Taiwan, was deeply depressed when he visited Beijing late last year after a 40-year absence. ''I went to Beijing University and spoke to some students,'' he recalled in an interview earlier this year, ''and they gathered round and asked me: 'How can we save China?"
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "UPHEAVAL IN CHINA",
+          "main": "BIGGEST BEIJING CROWDS SO FAR KEEP TROOPS FROM CITY CENTER; PARTY REPORTED IN BITTER FIGHT"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO ZIYANG"
+          },
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CANTON (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "XIAN (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ARMIES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/21/world/upheaval-china-biggest-beijing-crowds-so-far-keep-troops-city-center-party.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Huge throngs, possibly amounting to more than one million Chinese, took to the streets today to defy martial law and block troops from reaching the center of the capital, effectively delaying or preventing the planned crackdown on China's democ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd185838eb7c8105d684cea",
+        "source": "The New York Times",
+        "word_count": 2063,
+        "lead_paragraph": "LEAD: Huge throngs, possibly amounting to more than one million Chinese, took to the streets today to defy martial law and block troops from reaching the center of the capital, effectively delaying or preventing the planned crackdown on China's democracy movement."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "ABROAD AT HOME",
+          "main": "Thunder Out of China"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          }
+        ],
+        "print_page": "27",
+        "pub_date": "1989-05-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/21/opinion/abroad-at-home-thunder-out-of-china.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: History happening before our eyes: That was our awed feeling as we watched the scenes in Tienanmen Square, until the Chinese Government cut the international television links. Here was a giant society stirring against a regime that was suddenly",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Lewis",
+            "role": "reported",
+            "firstname": "Anthony"
+          }],
+          "original": "By Anthony Lewis"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd185838eb7c8105d684ced",
+        "source": "The New York Times",
+        "word_count": 809,
+        "lead_paragraph": "LEAD: History happening before our eyes: That was our awed feeling as we watched the scenes in Tienanmen Square, until the Chinese Government cut the international television links. Here was a giant society stirring against a regime that was suddenly, amazingly, vulnerable."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "UPHEAVAL IN CHINA",
+          "main": "Hong Kong Turns Out in Protest Against Its Once and Future Ruler"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "MACAO"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "18",
+        "pub_date": "1989-05-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/21/world/upheaval-china-hong-kong-turns-protest-against-its-once-future-ruler.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Braving gale-force winds and drenching rains from Typhoon Brenda, demonstrators turned out by the thousands today in Hong Kong and Macao in support of the Beijing student protests, and against the Chinese Government's hard line.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "BASLER",
+              "role": "reported",
+              "firstname": "Barbara"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By BARBARA BASLER, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a3fc8eb7c8105d6bb9cf",
+        "source": "The New York Times",
+        "word_count": 606,
+        "lead_paragraph": "LEAD: Braving gale-force winds and drenching rains from Typhoon Brenda, demonstrators turned out by the thousands today in Hong Kong and Macao in support of the Beijing student protests, and against the Chinese Government's hard line."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "UPHEAVAL IN CHINA",
+          "main": "In Beijing Protests, Changes By Deng Return to Vex Him"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "20",
+        "pub_date": "1989-05-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/21/world/upheaval-in-china-in-beijing-protests-changes-by-deng-return-to-vex-him.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: If as is widely presumed Deng Xiaoping made the key decision to call in the army to crack down on the demonstrators in Beijing - protesters who have demanded his retirement - he becomes a paradoxical, possibly even tragic figure.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BUTTERFIELD",
+            "role": "reported",
+            "firstname": "Fox"
+          }],
+          "original": "By FOX BUTTERFIELD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1831d8eb7c8105d680606",
+        "source": "The New York Times",
+        "word_count": 862,
+        "lead_paragraph": "LEAD: If as is widely presumed Deng Xiaoping made the key decision to call in the army to crack down on the demonstrators in Beijing - protesters who have demanded his retirement - he becomes a paradoxical, possibly even tragic figure."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "UPHEAVAL IN CHINA",
+          "main": "TASS GIVES DETAILS OF CHINA'S TURMOIL"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "GORBACHEV, MIKHAIL S"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "UNION OF SOVIET SOCIALIST REPUBLICS (USSR)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "GOVERNMENT NEWS POLICIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL, PERSONAL"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "18",
+        "pub_date": "1989-05-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/21/world/upheaval-in-china-tass-gives-details-of-china-s-turmoil.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Soviet television viewers tonight received their most accurate account so far of the political turmoil in the streets of Beijing, including a brief glimpse of troops using force against the demonstrators.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "X.",
+              "role": "reported",
+              "lastname": "CLINES",
+              "firstname": "Francis"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By FRANCIS X. CLINES, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1840c8eb7c8105d6822b1",
+        "source": "The New York Times",
+        "word_count": 385,
+        "lead_paragraph": "LEAD: Soviet television viewers tonight received their most accurate account so far of the political turmoil in the streets of Beijing, including a brief glimpse of troops using force against the demonstrators."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Quotation of the Day"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WANG DAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "QUOTATION OF THE DAY"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "1989-05-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/22/nyregion/quotation-of-the-day-205689.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "LEAD: ''Tiananmen Square has become a holy spot for Chinese democracy. If we stay here longer, we will contribute more to China's democratization, and increase our influence. If we withdraw, we will let down the citizens who have defended us. We will",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd183c38eb7c8105d681df2",
+        "source": "The New York Times",
+        "word_count": 110,
+        "lead_paragraph": "LEAD: ''Tiananmen Square has become a holy spot for Chinese democracy. If we stay here longer, we will contribute more to China's democratization, and increase our influence. If we withdraw, we will let down the citizens who have defended us. We will stay until our victory.'' - Wang Dan, a student leader in Beijing."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "UPHEAVAL IN CHINA",
+          "main": "Since Martial Law, Protest Crackles With Fury at Deng"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HUNGER STRIKES"
+          },
+          {
+            "name": "subject",
+            "value": "MARTIAL LAW"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/22/world/upheaval-in-china-since-martial-law-protest-crackles-with-fury-at-deng.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: As daylight wanes, a defiant exuberance seems to swell among the throngs clogging the intersections along roadways leading to Beijing's central square. But in the small homes of the capital, in the moments shared by friends away from the comfor",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a2918eb7c8105d6b9398",
+        "source": "The New York Times",
+        "word_count": 1081,
+        "lead_paragraph": "LEAD: As daylight wanes, a defiant exuberance seems to swell among the throngs clogging the intersections along roadways leading to Beijing's central square. But in the small homes of the capital, in the moments shared by friends away from the comfort of the masses, the darker side of what it means to live under martial law emerges."
+      }
+    ],
+    "meta": {
+      "time": 30,
+      "hits": 187,
+      "offset": 40
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

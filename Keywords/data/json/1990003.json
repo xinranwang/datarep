@@ -1,0 +1,509 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Metro Matters;   15 'Mega-Cities' Joining to Learn From Each Other"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "PERLMAN, JANICE E"
+          },
+          {
+            "name": "glocations",
+            "value": "NAIROBI (KENYA)"
+          },
+          {
+            "name": "glocations",
+            "value": "NEW YORK CITY"
+          },
+          {
+            "name": "glocations",
+            "value": "NEW DELHI (INDIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BOMBAY (INDIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "MOSCOW (USSR)"
+          },
+          {
+            "name": "glocations",
+            "value": "TOKYO (JAPAN)"
+          },
+          {
+            "name": "glocations",
+            "value": "SAO PAULO (BRAZIL)"
+          },
+          {
+            "name": "glocations",
+            "value": "MEXICO CITY (MEX)"
+          },
+          {
+            "name": "glocations",
+            "value": "LONDON (ENG)"
+          },
+          {
+            "name": "glocations",
+            "value": "LOS ANGELES (CALIF)"
+          },
+          {
+            "name": "glocations",
+            "value": "RIO DE JANEIRO (BRAZIL)"
+          },
+          {
+            "name": "glocations",
+            "value": "BANGKOK (THAILAND)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BUENOS AIRES (ARGENTINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "LAGOS (NIGERIA)"
+          },
+          {
+            "name": "organizations",
+            "value": "MEGA-CITIES PROJECT"
+          },
+          {
+            "name": "organizations",
+            "value": "NEW YORK UNIVERSITY"
+          },
+          {
+            "name": "subject",
+            "value": "URBAN AREAS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1990-06-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/06/25/nyregion/metro-matters-15-mega-cities-joining-to-learn-from-each-other.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "LEAD: If you can make it here, the song says, you can make it anywhere.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "New York and Region",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROBERTS",
+            "role": "reported",
+            "firstname": "Sam"
+          }],
+          "original": "By SAM ROBERTS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1b9a38eb7c8105d6e2c51",
+        "source": "The New York Times",
+        "word_count": 715,
+        "lead_paragraph": "LEAD: If you can make it here, the song says, you can make it anywhere."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China Seeks New Image as Asian Games Host"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+          },
+          {
+            "name": "subject",
+            "value": "ATHLETICS AND SPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "ASIAN GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "13",
+        "pub_date": "1990-08-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/08/16/world/china-seeks-new-image-as-asian-games-host.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: At a busy intersection here the other day, a young policeman wheeled around and scolded a knot of bicyclists for stopping in the middle of a crosswalk. When one of the bewildered cyclists pointed out that there was no crosswalk painted on the n",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "STERNGOLD",
+              "role": "reported",
+              "firstname": "James"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By JAMES STERNGOLD, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1975b8eb7c8105d6a59e8",
+        "source": "The New York Times",
+        "word_count": 726,
+        "lead_paragraph": "LEAD: At a busy intersection here the other day, a young policeman wheeled around and scolded a knot of bicyclists for stopping in the middle of a crosswalk. When one of the bewildered cyclists pointed out that there was no crosswalk painted on the newly repaved boulevard, the officer said: ''You know the rules!"
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "CONFRONTATION IN THE GULF",
+          "main": "Iraq Voted Out of Asian Games"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "IRAQ"
+          },
+          {
+            "name": "glocations",
+            "value": "MIDDLE EAST"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ASIAN GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "THIRD WORLD AND DEVELOPING COUNTRIES"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1990-09-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/09/21/world/confrontation-in-the-gulf-iraq-voted-out-of-asian-games.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Asian countries voted overwhelmingly tonight to exclude Iraqi athletic teams from the 11th Asian Games, a regional mini-Olympics scheduled to begin in Beijing on Saturday.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1c10f8eb7c8105d6f0128",
+        "source": "The New York Times",
+        "word_count": 348,
+        "lead_paragraph": "LEAD: Asian countries voted overwhelmingly tonight to exclude Iraqi athletic teams from the 11th Asian Games, a regional mini-Olympics scheduled to begin in Beijing on Saturday."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Games Offering China a Chance To Polish Image"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "YANG SHANGKUN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+          },
+          {
+            "name": "subject",
+            "value": "ASIAN GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1990-09-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/09/23/sports/games-offering-china-a-chance-to-polish-image.html",
+        "news_desk": "Sports Desk",
+        "snippet": "LEAD: With parachutists, panda balloons, 11,000 pigeons and 20,000 young Chinese dancers and martial arts experts, China opened the 11th Asian Games today as a mini-Olympics intended to win back international respect and domestic support lost during ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a5178eb7c8105d6bdb32",
+        "source": "The New York Times",
+        "word_count": 1537,
+        "lead_paragraph": "LEAD: With parachutists, panda balloons, 11,000 pigeons and 20,000 young Chinese dancers and martial arts experts, China opened the 11th Asian Games today as a mini-Olympics intended to win back international respect and domestic support lost during the military crackdown last year."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "ESSAY",
+          "main": "Shanghai Breezes"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "NYTRAVEL"
+          }
+        ],
+        "print_page": "19",
+        "pub_date": "1990-09-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/09/24/opinion/essay-shanghai-breezes.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: On a foggy morning about a dozen years ago, passengers on a flying jalopy were told that Beijing was socked in and the pilot had been diverted to Shanghai. We landed at a deserted airfield; no planes were expected at Shanghai that morning, and ",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Safire",
+            "role": "reported",
+            "firstname": "William"
+          }],
+          "original": "By William Safire"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd19b9d8eb7c8105d6ac9d2",
+        "source": "The New York Times",
+        "word_count": 806,
+        "lead_paragraph": "LEAD: On a foggy morning about a dozen years ago, passengers on a flying jalopy were told that Beijing was socked in and the pilot had been diverted to Shanghai. We landed at a deserted airfield; no planes were expected at Shanghai that morning, and nobody on the ground quite knew what to do with a planeload of transients."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "SPORTS NEWS BRIEFS",
+          "main": "China to Be Host Of Bowling Event"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BOWLING"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "1990-11-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/11/25/sports/sports-news-briefs-china-to-be-host-of-bowling-event.html",
+        "news_desk": "Sports Desk",
+        "snippet": "  China will get its first major tournament when the Bowling World Cup is held in Beijing Nov. 2-12 next year.   The 27th edition of the event will be at the 20-lane center in the Lido Hotel complex, the World Cup organizers, AMF Bowling Inc., announ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a51e8eb7c8105d6be0c1",
+        "source": "The New York Times",
+        "word_count": 77,
+        "lead_paragraph": "China will get its first major tournament when the Bowling World Cup is held in Beijing Nov. 2-12 next year. The 27th edition of the event will be at the 20-lane center in the Lido Hotel complex, the World Cup organizers, AMF Bowling Inc., announced Friday night. The Lido center is the largest of China's 20 bowling establishments. The World Cup has been held in 22 countries since its inception in Ireland in 1965."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Deng Reappears to Cast Vote in Beijing"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ELECTIONS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1990-12-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/12/27/world/deng-reappears-to-cast-vote-in-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Wobbly but beaming, China's senior leader, Deng Xiaoping, appeared on television tonight for the first time in five months, casting a vote in local elections conducted throughout the city.    More than five million people were expected to go to the",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WuDUNN",
+            "role": "reported",
+            "firstname": "Sheryl"
+          }],
+          "original": "By SHERYL WuDUNN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd19e9e8eb7c8105d6b1a87",
+        "source": "The New York Times",
+        "word_count": 722,
+        "lead_paragraph": "Wobbly but beaming, China's senior leader, Deng Xiaoping, appeared on television tonight for the first time in five months, casting a vote in local elections conducted throughout the city. More than five million people were expected to go to the polls today in Beijing to elect representatives to local councils, the only Government institution elected directly by the Chinese people."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "ON MY MIND",
+          "main": "Handle With Care"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "35",
+        "pub_date": "1990-12-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/12/28/opinion/on-my-mind-handle-with-care.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "  This is a news alert, and warning, for the American press and members of Congress.   The Chinese Communists plan to announce the release of many political prisoners who were rounded up after the springtime revolution of 1989. They have been kept wi",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By A. M. Rosenthal"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a7148eb7c8105d6c165a",
+        "source": "The New York Times",
+        "word_count": 735,
+        "lead_paragraph": "This is a news alert, and warning, for the American press and members of Congress. The Chinese Communists plan to announce the release of many political prisoners who were rounded up after the springtime revolution of 1989. They have been kept without charge or trial. About 2,000 may be freed. The announcement is scheduled for the first months of 1991."
+      }
+    ],
+    "meta": {
+      "time": 29,
+      "hits": 38,
+      "offset": 30
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

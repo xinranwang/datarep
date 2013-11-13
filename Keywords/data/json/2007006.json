@@ -1,0 +1,760 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Joshua Kurlantzick travel article on spas, both in major hotels and smaller boutiques, that have sprung up across China; photos (M)",
+        "headline": {
+          "kicker": "JOURNEYS | CHINA",
+          "main": "Let a Hundred Decadent Spas Bloom"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SPAS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2007-09-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/09/16/travel/16journeys.html",
+        "news_desk": "Travel Desk",
+        "snippet": "From Shanghai to Beijing, China tries to master the art of pampering.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KURLANTZICK",
+            "role": "reported",
+            "firstname": "Joshua"
+          }],
+          "original": "By JOSHUA KURLANTZICK"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/09/16/travel/16jour75.1.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/09/16/travel/16jour75.1.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/09/16/travel/16jour600.1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2007/09/16/travel/16jour600.1.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd262218eb7c8105d813bec",
+        "source": "The New York Times",
+        "word_count": 1206,
+        "lead_paragraph": "ALONG the Shanghai street, choking haze draped the buildings and gridlocked traffic like a damp blanket. Vendors screamed out prices for water and postcards, and pedestrians hacked into handkerchiefs and covered their faces with masks. Construction workers in torn, dirty jeans bored a hole into the sidewalk, geysering dirt everywhere. But inside Three on the Bund, overlooking this chaos from a restored 1916 structure that once housed the Mercantile Bank of India, China's urgency and insanity seemed far away. In the cavernous front room of the Evian Spa by Three, which rises several stories and lets in beams of light from its portholelike windows, the only noise was the tinkling of soft music. Spa attendants led guests past polished wood Chinese sculptures and into private rooms, where they could wallow in giant bathtubs and choose from an exhaustive menu of rubs and facials."
+      },
+      {
+        "abstract": "Rev Joseph Li Shan is appointed new Catholic bishop of Beijing, capital's most prominent parish, with no open disputes between Chinese government and Vatican; selection is result of delicate negotiations between both sides, who each claim authority to appoint bishops (M)",
+        "headline": {"main": "No Disputes Over Beijing's New Bishop"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LI SHAN, JOSEPH"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "ROMAN CATHOLIC CHURCH"
+          },
+          {
+            "name": "subject",
+            "value": "APPOINTMENTS AND EXECUTIVE CHANGES"
+          },
+          {
+            "name": "subject",
+            "value": "CHRISTIANS AND CHRISTIANITY"
+          },
+          {
+            "name": "subject",
+            "value": "CHURCH-STATE RELATIONS"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2007-09-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/09/21/world/asia/21china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Rev. Joseph Li Shan, the new Catholic bishop of Beijing, has risen steadily through the Chinese Catholic clergy, which was decimated by the Cultural Revolution.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "W.",
+              "role": "reported",
+              "lastname": "FRENCH",
+              "firstname": "Howard"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "FISHER",
+              "role": "reported",
+              "firstname": "Ian"
+            }
+          ],
+          "original": "By HOWARD W. FRENCH  and IAN FISHER; Howard W. French reported from Shanghai, and Ian Fisher from Rome"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd281878eb7c8105d84d70a",
+        "source": "The New York Times",
+        "word_count": 693,
+        "lead_paragraph": "The selection of the Rev. Joseph Li Shan, who is to be installed as the new Catholic bishop of Beijing on Friday, was no surprise to those who closely follow religious affairs in this country. Father Li, 42, has risen steadily through the Chinese Catholic clergy, which was decimated by the Cultural Revolution and has slowly rebuilt as the Chinese government has officially recognized some organized religions. He has been in the wings for some time."
+      },
+      {
+        "abstract": "Ian Buruma article says it is unlikely that boycotting of 2008 Olympic Games will lead Chinese authorities to have greater respect for human rights; says Beijing cares far less about what outside world thinks than it does about what Chinese say or do inside China and is quite capable of keeping that firmly under control; photo; graph of American public sentiment about Beijing Games (M)",
+        "headline": {
+          "kicker": "THE WAY WE LIVE NOW",
+          "main": "Political Games"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "SURVEILLANCE OF CITIZENS BY GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "BOYCOTTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "13",
+        "pub_date": "2007-09-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/09/23/magazine/23wwln-lede-t.html",
+        "news_desk": "Magazine",
+        "snippet": "Will human rights advocates bring home any medals from the Beijing Olympics?",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Magazine",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BURUMA",
+            "role": "reported",
+            "firstname": "Ian"
+          }],
+          "original": "By IAN BURUMA"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/09/18/magazine/23wwln75.1.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/09/18/magazine/23wwln75.1.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/09/18/magazine/23wwln600.1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2007/09/18/magazine/23wwln600.1.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2b1428eb7c8105d8a1ae9",
+        "source": "The New York Times",
+        "word_count": 947,
+        "lead_paragraph": "China has a poor record in human rights. This has been pointed out by dissidents, activists, journalists, lawyers, labor organizers and even some Western politicians, almost always without any effect. China is too powerful. Business interests prevail. Might next year's Olympic Games make a difference? Although President Bush has decided to attend the Games and give them his imprimatur, activists have scored a notable success. Mia Farrow managed to embarrass the Chinese government, as well as Steven Spielberg, a consultant for the opening ceremony, by suggesting that Chinese subsidies to the Sudanese government are contributing to the mass killings in Darfur. The phrase ''Genocide Olympics,'' used by Farrow in The Wall Street Journal, was particularly upsetting to the Chinese. Spielberg quickly told them that genocide was bad. And just as swiftly the Chinese government endorsed a United Nations decision to send peacekeepers to Darfur."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "ON THE ROAD",
+          "main": "The Rest of the World Discovers the Business Jet"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "EUROPE"
+          },
+          {
+            "name": "glocations",
+            "value": "LATIN AMERICA"
+          },
+          {
+            "name": "glocations",
+            "value": "MIDDLE EAST"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "HONEYWELL INTERNATIONAL INC"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2007-09-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/09/25/business/25road.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "International buyers will account for slightly over half the purchases in business jets over the next five years, according to Honeywell Aerospace.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SHARKEY",
+            "role": "reported",
+            "firstname": "Joe"
+          }],
+          "original": "By JOE SHARKEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2600b8eb7c8105d81069a",
+        "source": "The New York Times",
+        "word_count": 685,
+        "lead_paragraph": "A FEW years ago I was in Beijing, standing in Tiananmen Square gazing at the mausoleum of Mao Zedong. As long as you focused straight ahead, the view looked like the travelogues. But let your gaze wander, and you saw the neon signs blazing over nearby streets. One great big red one read ''KFC.'' My reaction was mixed. Part of me thought, ''So how do you like your cultural revolution now, Chairman Mao?'' But the other part thought, ''Oops, maybe this is not a good idea.''"
+      },
+      {
+        "abstract": "Delegates from six nations at talks on dismantling North Korea's nuclear program in Beijing break for two days to consult their governments on draft plan and timetable to disable North's nuclear facilities (S)",
+        "headline": {"main": "Plan to Disarm North Korea Is Evaluated as Talks Recess"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HILL, CHRISTOPHER R"
+          },
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "RUSSIA"
+          },
+          {
+            "name": "glocations",
+            "value": "SOUTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "NORTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ATOMIC WEAPONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2007-10-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/10/01/world/asia/01korea.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A draft agreement on dismantling North Korea\u2019s nuclear program is expected to be made public after a two-day recess in talks.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LAGUE",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID LAGUE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b1c08eb7c8105d8a212f",
+        "source": "The New York Times",
+        "word_count": 329,
+        "lead_paragraph": "Talks on dismantling North Korea's nuclear program broke Sunday for a two-day recess so delegates could consult their governments on a draft plan and timetable to disable the North's nuclear facilities. The draft agreed to after four days of six-nation talks here was expected to be made public after the recess, negotiators said without revealing further details."
+      },
+      {
+        "abstract": "Li Heping, prominent human rights lawyer in Beijing, says he was abducted, beaten and threatened by gang of men who demanded that he and his family leave city; human rights groups say Chinese lawyers, activists and dissidents are often subjected to harassment, beatings or threats of long jail terms for pressing claims that seem to challenge government and nation's legal system (M)",
+        "headline": {"main": "Beijing Rights Lawyer Recounts Beating and a Demand to Leave"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "HUMAN RIGHTS IN CHINA"
+          },
+          {
+            "name": "subject",
+            "value": "KIDNAPPING"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2007-10-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/10/03/world/asia/03china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A prominent human rights lawyer in Beijing says he was abducted, beaten and threatened last weekend by a gang of men who demanded that he and his family leave the city.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd281888eb7c8105d84d7d6",
+        "source": "The New York Times",
+        "word_count": 589,
+        "lead_paragraph": "A prominent human rights lawyer in Beijing says he was abducted, beaten and threatened over the weekend by a gang of men who demanded that he and his family leave the city. The lawyer, Li Heping, has gained renown here for his defense of environmental activists, imprisoned lawyers and church leaders, and has also considered representing a member of Falun Gong, the banned religious sect."
+      },
+      {
+        "abstract": "Correction; Oct 3 article about human rights lawyer in Beijing gave incorrect date of abduction in some editions",
+        "headline": {"main": "Corrections: For the Record"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "KIDNAPPING"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2007-10-08T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9502EFDB173EF93BA35753C1A9619C8B63",
+        "news_desk": null,
+        "snippet": "Because of an editing error, an article on Wednesday about a report by a prominent human rights lawyer in Beijing that he was abducted, beaten and threatened gave the incorrect date in some editions that the lawyer said his ordeal began. It was Satur",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd260768eb7c8105d810c7e",
+        "source": "The New York Times",
+        "word_count": 50,
+        "lead_paragraph": "Because of an editing error, an article on Wednesday about a report by a prominent human rights lawyer in Beijing that he was abducted, beaten and threatened gave the incorrect date in some editions that the lawyer said his ordeal began. It was Saturday, Sept. 29 -- not Sept. 30."
+      },
+      {
+        "abstract": "Shares of SOHO China, Beijing property developer, soar 15 percent on their first day of trading in Hong Kong in latest hot public stock offering; strong debut of SOHO, which values company at $6 billion, comes at time when stock prices in China are skyrocketing and some of country's biggest cities are being transformed by huge building boom; housing prices continue to rise, encouraging even more construction and frenzy of public stock offerings by big real estate companies; surge in number of initial public offerings has created new class of Chinese real estate tycoons, many of whom are already worth billions of dollars; SOHO China's initial public offering raises nearly $1.7 billion; founders Pan Shiyi and Zhang Xin, husband and wife team, are worth close to $4 billion on paper; SOHO is building not only residences but also office projects; global investment banks are among those cashing in on China's real estate boom; Goldman Sachs and HSBC took SOHO public; Merrill Lynch, UBS and Credit Suisse have played role in big real estate offerings; Morgan Stanley has done more than most, helping raise $6 billion over last three years by taking eight Chinese real estate companies public; photo (M)",
+        "headline": {"main": "Stock Sales Are Creating Chinese Tycoons"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHANG XIN"
+          },
+          {
+            "name": "persons",
+            "value": "PAN SHIYI"
+          },
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "HSBC GROUP"
+          },
+          {
+            "name": "organizations",
+            "value": "CREDIT SUISSE GROUP"
+          },
+          {
+            "name": "organizations",
+            "value": "MERRILL LYNCH & CO INC"
+          },
+          {
+            "name": "organizations",
+            "value": "GOLDMAN SACHS GROUP"
+          },
+          {
+            "name": "organizations",
+            "value": "MORGAN STANLEY"
+          },
+          {
+            "name": "organizations",
+            "value": "SOHO CHINA"
+          },
+          {
+            "name": "subject",
+            "value": "HOUSING"
+          },
+          {
+            "name": "subject",
+            "value": "MILLIONAIRES AND BILLIONAIRES"
+          },
+          {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+          },
+          {
+            "name": "subject",
+            "value": "AREA PLANNING AND RENEWAL"
+          },
+          {
+            "name": "subject",
+            "value": "BUILDING (CONSTRUCTION)"
+          },
+          {
+            "name": "subject",
+            "value": "REAL ESTATE"
+          },
+          {
+            "name": "subject",
+            "value": "STOCKS AND BONDS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2007-10-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/10/09/business/worldbusiness/09ipo.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Shares of SoHo China, a Beijing property developer, soared 15 percent on their first day of trading in Hong Kong, valuing the company at $6 billion.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/10/09/business/09ipo-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/10/09/business/09ipo-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 419,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/10/09/business/09ipo-650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 419,
+              "xlarge": "images/2007/10/09/business/09ipo-650.jpg",
+              "xlargewidth": 650
+            }
+          }
+        ],
+        "_id": "4fd260768eb7c8105d810c8a",
+        "source": "The New York Times",
+        "word_count": 881,
+        "lead_paragraph": "Shares of SOHO China, a Beijing property developer, soared 15 percent on their first day of trading Monday in Hong Kong in the latest hot public stock offering. The strong debut of SOHO, which values the company at $6 billion, comes at a time when stock prices in China are skyrocketing and some of the country's biggest cities are being transformed by a huge building boom."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "sub": "Paralympic Athletes",
+          "main": "Making the Team"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Veterans",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "United States Armament and Defense",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Paralympic Games",
+            "is_major": "N"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2007-10-14T13:34:31Z",
+        "web_url": "http://www.nytimes.com/video/2007/10/14/sports/1194817113968/making-the-team.html",
+        "news_desk": "Sports",
+        "snippet": "Disabled U.S. military veterans competed at the Parapan American games in Rio de Janeiro, vying for a spot on the 2008 Paralympics team.",
+        "type_of_material": "Video",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2007/10/14/sports/2135_a1_wg_paraly.190x126.fr.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2007/10/14/sports/2135_a1_wg_paraly.190x126.fr.jpg"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2007/10/14/sports/2135_a1_wg_paraly.75x75.fr.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/10/14/sports/2135_a1_wg_paraly.75x75.fr.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "523b71d038f0d8198973a570",
+        "source": "The New York Times",
+        "word_count": "23",
+        "lead_paragraph": "Disabled U.S. military veterans competed at the Parapan American games in Rio de Janeiro, vying for a spot on the 2008 Paralympics team."
+      },
+      {
+        "abstract": "China's experimental music scene is small but vibrant; several musicians and venues discussed; photos (M)",
+        "headline": {"main": "Growing Underground Is Making Noise in China"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MUSIC"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2007-10-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/10/27/arts/music/27expe.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "Down a short alley in the sprawling, tourist-mobbed 798 art district in Beijing is a tiny shop that serves as one of the centers of China\u2019s small but thriving experimental music scene.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SISARIO",
+            "role": "reported",
+            "firstname": "Ben"
+          }],
+          "original": "By BEN SISARIO"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/10/27/arts/beijing75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/10/27/arts/beijing75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 280,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/10/27/arts/beijingspan.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 280,
+              "xlarge": "images/2007/10/27/arts/beijingspan.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2607b8eb7c8105d810ff6",
+        "source": "The New York Times",
+        "word_count": 1170,
+        "lead_paragraph": "Down a short alley in the sprawling, tourist-mobbed 798 art district here -- a complex of 1950s-era military factories converted into galleries and studios -- is a tiny shop that serves as one of the centers of China's small but thriving experimental music scene. The store, Sugar Jar, is barely big enough to accommodate a half-dozen customers, and one wall displays all the essentials of the genre, from discs of abstract electronica and brutal noise-rock to anthologies with bold titles like ''China: The Sonic Avant-Garde.'' Playing samples from his stock, the proprietor, a lanky, soft-spoken man named Lao Yang, noted proudly that his store is one of the only spots in all of Beijing to buy much of this music."
+      }
+    ],
+    "meta": {
+      "time": 23,
+      "hits": 82,
+      "offset": 60
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

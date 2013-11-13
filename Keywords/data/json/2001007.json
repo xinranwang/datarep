@@ -1,0 +1,312 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Pirated copies of movie, Harry Potter and the Sorcerer's Stone, are already being sold in Beijing, China, just days after breaking opening-day records in London and New York; pirated copies are being marketed same week that Chian joined World Trade Organization vowing to respect copyrights and patents; widespread production of counterfeit goods in Beijing has been longstanding source of friction in China's trade negotiations with Western countries (M)",
+        "headline": {"main": "Counterfeiters Turn Magic Into Cash"},
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "HARRY POTTER AND THE SORCERER'S STONE (MOVIE)"
+          },
+          {
+            "name": "glocations",
+            "value": "NEW YORK CITY"
+          },
+          {
+            "name": "glocations",
+            "value": "LONDON (ENG)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD TRADE ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "COPYRIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDS AND ACHIEVEMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "MOTION PICTURES"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "FINANCES"
+          },
+          {
+            "name": "subject",
+            "value": "COUNTERFEIT MERCHANDISE"
+          },
+          {
+            "name": "subject",
+            "value": "INVENTIONS AND PATENTS"
+          }
+        ],
+        "print_page": "26",
+        "pub_date": "2001-11-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/11/25/world/counterfeiters-turn-magic-into-cash.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "In front of a gleaming shopping center here, not two miles from the Great Hall of the People and Tiananmen Square, a small man in a dark suit jacket, a messenger's bag slung over his chest, quietly peddles his wares.    ''VCD, DVD, VCD, DVD,'' he cha",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Movies; World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2676e8eb7c8105d81d23d",
+        "source": "The New York Times",
+        "word_count": 1056,
+        "lead_paragraph": "In front of a gleaming shopping center here, not two miles from the Great Hall of the People and Tiananmen Square, a small man in a dark suit jacket, a messenger's bag slung over his chest, quietly peddles his wares. ''VCD, DVD, VCD, DVD,'' he chants under his breath in the universal language of mass entertainment. Then, as a customer approaches, he pulls out a stack of brightly colored packages."
+      },
+      {
+        "abstract": "beijing journal: mao'",
+        "headline": {"main": "Beijing Journal; Mao's Buried Past: A Strange, Subterranean City"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "MAO ZEDONG"
+          },
+          {
+            "name": "glocations",
+            "value": "RUSSIA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ATOMIC WEAPONS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2001-11-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/11/26/world/beijing-journal-mao-s-buried-past-a-strange-subterranean-city.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Twenty-five feet below the streets of Beijing, Feng Guangbin rattled off the remarkable attributes of the maze of vaulted tunnels that stretched out in four directions from the dim intersection at which he stood.    ''Down that way we can even reach ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "S.",
+            "role": "reported",
+            "lastname": "SMITH",
+            "firstname": "Craig"
+          }],
+          "original": "By CRAIG S. SMITH"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd212018eb7c8105d7878bd",
+        "source": "The New York Times",
+        "word_count": 999,
+        "lead_paragraph": "Twenty-five feet below the streets of Beijing, Feng Guangbin rattled off the remarkable attributes of the maze of vaulted tunnels that stretched out in four directions from the dim intersection at which he stood. ''Down that way we can even reach Taipei,'' he told a slack-jawed cluster of tourists from Taiwan, who appeared to believe China's Communist Party capable of anything. Mr. Feng went on to explain in his practiced patter that the tunnel ran 20 miles to the Beijing airport, from where it was possible to travel to the Taiwanese capital by plane."
+      },
+      {
+        "abstract": "Correction of Nov 26 article on tunnels dug under Beijing in late 1960's out of fear of Soviet nuclear attack, regarding border incident in 1969",
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "RUSSIA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-RUSSIA"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2001-11-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/11/29/nyregion/c-corrections-425540.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "An article on Monday about hundreds of miles of tunnels dug under Beijing in the late 1960's out of fear of a Soviet nuclear attack referred incorrectly in some editions to troops who seized an Amur River island on the border between Russia and China",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd218e18eb7c8105d795fb3",
+        "source": "The New York Times",
+        "word_count": 58,
+        "lead_paragraph": "An article on Monday about hundreds of miles of tunnels dug under Beijing in the late 1960's out of fear of a Soviet nuclear attack referred incorrectly in some editions to troops who seized an Amur River island on the border between Russia and China in 1969. They were Soviets, but not under Stalin, who died in 1953."
+      },
+      {
+        "abstract": "China chapter of International Advertising Association will host 39th World Advertising Congress in Beijing in May, 2004 (S)",
+        "headline": {
+          "kicker": "THE MEDIA BUSINESS: ADVERTISING -- ADDENDA",
+          "main": "Advertising Group To Meet in China"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL ADVERTISING ASSN"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING"
+          },
+          {
+            "name": "subject",
+            "value": "WORLD ADVERTISING CONGRESS"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2001-11-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/11/29/business/the-media-business-advertising-addenda-advertising-group-to-meet-in-china.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "The International Advertising Association said yesterday that its China chapter would be host to the 39th World Advertising Congress in Beijing in May 2004.    This will be the first time China has played host to the meeting, which is held every two ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Fass",
+            "role": "reported",
+            "firstname": "Allison"
+          }],
+          "original": "By Allison Fass"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2526b8eb7c8105d7f7db4",
+        "source": "The New York Times",
+        "word_count": 85,
+        "lead_paragraph": "The International Advertising Association said yesterday that its China chapter would be host to the 39th World Advertising Congress in Beijing in May 2004. This will be the first time China has played host to the meeting, which is held every two years."
+      },
+      {
+        "abstract": "Chinese pro-democracy activist Wang Jinbo is sentenced to four years in prison for posting articles on overseas Internet sites that demanded reassessment of government's 1989 decision to send in troops to break up student demonstrations in Tiananmen Square (S)",
+        "headline": {"main": "World Briefing | Asia: China: Web Postings Bring 4-Year Sentence"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WANG JINBO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2001-12-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/12/15/world/world-briefing-asia-china-web-postings-bring-4-year-sentence.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A 29-year-old pro-democracy activist, Wang Jinbo, was sentenced to four years in prison for posting articles on overseas Internet sites that demanded a reassessment of the government's 1989 decision to send in troops to break up student demonstration",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Rosenthal",
+            "role": "reported",
+            "lastname": "NYT",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By Elisabeth Rosenthal (NYT)"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd26be48eb7c8105d8247fc",
+        "source": "The New York Times",
+        "word_count": 67,
+        "lead_paragraph": "A 29-year-old pro-democracy activist, Wang Jinbo, was sentenced to four years in prison for posting articles on overseas Internet sites that demanded a reassessment of the government's 1989 decision to send in troops to break up student demonstrations in Tiananmen Square. The Linyi Intermediate Court in Shandong Province found Mr. Wang, who had been associated with the now-illegal China Democracy Party, guilty of subversion. Elisabeth Rosenthal (NYT)"
+      }
+    ],
+    "meta": {
+      "time": 28,
+      "hits": 75,
+      "offset": 70
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

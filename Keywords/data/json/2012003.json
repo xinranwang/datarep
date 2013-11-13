@@ -1,0 +1,769 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Luxury cars serve as potent symbols of the widening rich-poor gap in China, and to many Chinese, the deadly late-night crash of a Ferrari in Beijing was not just another traffic accident. First, the police refused to identify the driver, who was killed. Then intrigue grew further when blog posts about the crash were inexplicably deleted overnight. Internet searches for \"Ferrari\" also have been blocked.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "A Ferrari Crash in Beijing Leads to More Political Intrigue"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "subject",
+            "value": "Politics and Government"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Muamba, Fabrice"
+          },
+          {
+            "rank": "10",
+            "name": "subject",
+            "value": "Luxury Goods"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Li Gang"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Bo Xilai"
+          },
+          {
+            "rank": "18",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "17",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "16",
+            "name": "organizations",
+            "value": "People's Daily"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Automobiles"
+          },
+          {
+            "rank": "15",
+            "name": "organizations",
+            "value": "Global Times"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Blogs and Blogging (Internet)"
+          },
+          {
+            "rank": "14",
+            "name": "organizations",
+            "value": "Communist Party of China"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          },
+          {
+            "rank": "13",
+            "name": "subject",
+            "value": "Traffic Accidents and Safety"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Deaths (Fatalities)"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "English Language"
+          },
+          {
+            "rank": "12",
+            "name": "subject",
+            "value": "Roads and Traffic"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-03-20T01:17:12Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/03/20/a-deadly-ferrari-crash-in-beijing-leads-to-more-political-intrigue/",
+        "news_desk": null,
+        "snippet": "Luxury cars serve as potent symbols of the widening rich-poor gap in China, and to many Chinese, the deadly late-night crash of a Ferrari in Beijing was not just another traffic accident. First, the police refused to identify the driver, who was kill",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a3dd8eb7c8105d8edb2c",
+        "source": "The New York Times",
+        "word_count": 794,
+        "lead_paragraph": "HONG KONG - The real March Madness, at least in Asia, has been the precipitous fall of Bo Xilai, one of China's most flamboyant (and now disgraced) Communist Party bosses. The story has read like a John le Carré rewrite of Raymond Chandler, with the forced singing of \"red anthems\" from the Maoist era, rumors of cloak-and-dagger corruption, the Eliot Ness of China staging a late-night attempt to defect to the United States, his subsequent detention by State Security agents (under what is creepily being called \"vacation-style treatment\") and an unprecedented public smackdown of Mr. Bo by Prime Minister Wen Jiabao."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "Letter from China",
+          "main": "The Twists and Turns of Chinese Political Reform"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WEN JIABAO"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHONGQING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CULTURAL REVOLUTION"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-03-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/03/22/world/asia/22iht-letter22.html",
+        "news_desk": "World / Asia Pacific",
+        "snippet": "The ouster of a Communist Party blue blood has China asking: How and when to begin political reform nearly four decades after Mao\u2019s death?",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd297d58eb7c8105d874a18",
+        "source": "International Herald Tribune",
+        "word_count": 1017,
+        "lead_paragraph": "The ouster of a Communist Party blue blood has China asking: How and when to begin political reform nearly four decades after Mao\u2019s death?"
+      },
+      {
+        "abstract": "JetBlue and Korean Air recently announced a partnership allowing fliers to book trips that combine legs on both airlines on a single ticket.",
+        "headline": {
+          "kicker": "In Transit",
+          "main": "JetBlue and Korean Air Combine, Electronically"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "JetBlue Airways Corporation"
+          },
+          {
+            "rank": "10",
+            "name": "unknown",
+            "value": "JetBlue Airways Corporation|JBLU|NASDAQ"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Airlines and Airplanes"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "Korean Air Lines"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "Bangkok (Thailand)"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "8",
+            "name": "glocations",
+            "value": "Hanoi (Vietnam)"
+          },
+          {
+            "rank": "9",
+            "name": "glocations",
+            "value": "Seoul (South Korea)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-03-24T09:00:56Z",
+        "web_url": "http://intransit.blogs.nytimes.com/2012/03/24/jetblue-and-korean-air-combine-electronically/",
+        "news_desk": null,
+        "snippet": "JetBlue and Korean Air recently announced a partnership allowing fliers to book trips that combine legs on both airlines on a single ticket.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "GLUSAC",
+            "role": "reported",
+            "firstname": "Elaine"
+          }],
+          "original": "By ELAINE GLUSAC"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a38a8eb7c8105d8ecefc",
+        "source": "The New York Times",
+        "word_count": 141,
+        "lead_paragraph": "JetBlue and Korean Air recently announced a partnership allowing fliers to book trips that combine legs on both airlines on a single ticket."
+      },
+      {
+        "abstract": "Jeremy Lin, the acclaimed New York Knicks point guard, will undergo knee surgery this week and miss the rest of the regular N.B.A. season. Meanwhile, a former point guard for the Knicks, the two-time All-Star Stephon Marbury, led the Beijing Ducks to the national title in China. He scored 41 points in the final, which was watched by an estimated 80 million people.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Knee Surgery for Lin, a Title for Marbury"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "organizations",
+            "value": "National Basketball Assn"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Morris, Randolph"
+          },
+          {
+            "rank": "10",
+            "name": "organizations",
+            "value": "Chinese Basketball Assn"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Marbury, Stephon"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Lin, Jeremy"
+          },
+          {
+            "rank": "16",
+            "name": "glocations",
+            "value": "Taiwan"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Basketball"
+          },
+          {
+            "rank": "15",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Chinese-Americans"
+          },
+          {
+            "rank": "14",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Knees"
+          },
+          {
+            "rank": "13",
+            "name": "organizations",
+            "value": "Sports Illustrated"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Playoff Games"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "Sports Injuries"
+          },
+          {
+            "rank": "12",
+            "name": "organizations",
+            "value": "New York Knicks"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-04-01T00:59:47Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/04/01/knee-surgery-for-lin-a-title-for-marbury/",
+        "news_desk": null,
+        "snippet": "Jeremy Lin, the acclaimed New York Knicks point guard, will undergo knee surgery this week and miss the rest of the regular N.B.A. season. Meanwhile, a former point guard for the Knicks, the two-time All-Star Stephon Marbury, led the Beijing Ducks to",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a4368eb7c8105d8eea1b",
+        "source": "The New York Times",
+        "word_count": 859,
+        "lead_paragraph": "HONG KONG - He's Linjured. There, we've said it."
+      },
+      {
+        "abstract": "New York Knicks once again find themselves thin at point guard with Jeremy Lin out for the remainder of the regular season; meanwhile, former Knicks point guard Stephon Marbury is enjoying success in China, leading the Beijing Ducks to their first league title.",
+        "headline": {
+          "seo": "Stephon Marbury Leads Beijing Ducks to Chinese Title",
+          "print_headline": "Meanwhile, Starring in China. ...",
+          "main": "Meanwhile, Starring in China ...."
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Lin, Jeremy",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Marbury, Stephon",
+            "is_major": "Y"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Chinese Basketball Assn",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "New York Knicks",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Basketball",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2012-04-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/04/02/sports/basketball/stephon-marbury-leads-beijing-ducks-to-chinese-title.html",
+        "news_desk": "Sports",
+        "snippet": "Stephon Marbury was putting up huge numbers for the champion Beijing Ducks as the Knicks confronted the loss of the playmaker Jeremy Lin.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BIERMAN",
+            "role": "reported",
+            "firstname": "Fred"
+          }],
+          "contributor": "",
+          "original": "By FRED BIERMAN"
+        },
+        "subsection_name": "Pro Basketball",
+        "multimedia": [],
+        "_id": "515da8f0cf28d0219d00213b",
+        "source": "The New York Times",
+        "word_count": "210",
+        "lead_paragraph": "Stephon Marbury was putting up huge numbers for the champion Beijing Ducks as the Knicks confronted the loss of the playmaker Jeremy Lin."
+      },
+      {
+        "abstract": "New York Knicks once again find themselves thin at point guard with Jeremy Lin out for the remainder of the regular season; meanwhile, former Knicks point guard Stephon Marbury is enjoying success in China, leading the Beijing Ducks to their first league title. (M)d",
+        "headline": {"main": "Meanwhile, Starring in China. ..."},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LIN, JEREMY"
+          },
+          {
+            "name": "persons",
+            "value": "MARBURY, STEPHON"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINESE BASKETBALL ASSN"
+          },
+          {
+            "name": "organizations",
+            "value": "NEW YORK KNICKS"
+          },
+          {
+            "name": "subject",
+            "value": "BASKETBALL"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2012-04-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/04/02/sports/basketball/stephon-marbury-leads-beijing-ducks-to-chinese-title.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Stephon Marbury was putting up huge numbers for the champion Beijing Ducks as the Knicks confronted the loss of the playmaker Jeremy Lin.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BIERMAN",
+            "role": "reported",
+            "firstname": "Fred"
+          }],
+          "original": "By FRED BIERMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd100698eb7c8105d5bafa0",
+        "source": "The New York Times",
+        "word_count": 210,
+        "lead_paragraph": "With point guard Jeremy Lin out for the remainder of the regular season (and maybe the playoffs) with a torn meniscus in his left knee, the Knicks once again find themselves thin at point guard. Baron Davis has been slowed by a strained hamstring, and Mike Bibby and Toney Douglas are not inspiring much confidence. Halfway around the globe, a former Knicks point guard, Stephon Marbury, is faring far better. Marbury scored 41 points in the fifth game of the Chinese Basketball Association finals Friday night to help lead the Beijing Ducks to their first league title. Marbury scored 53 points in Game 3 of the finals and 52 points in Game 2, each a victory."
+      },
+      {
+        "abstract": "Exactly a year after police in China locked him up for 81 days, the artist Ai Weiwei has set up a Web site showing feeds from four live webcams in his Beijing home, in reference to the 24-hour police surveillance he has been subjected to since his detention.",
+        "headline": {
+          "kicker": "ArtsBeat",
+          "main": "Ai Weiwei Takes His Surveillance Worldwide"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Surveillance of Citizens by Government"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Cameras"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Ai Weiwei"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "China"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-04-03T13:19:25Z",
+        "web_url": "http://artsbeat.blogs.nytimes.com/2012/04/03/ai-weiwei-takes-his-surveillance-worldwide/",
+        "news_desk": null,
+        "snippet": "Exactly a year after police in China locked him up for 81 days, the artist Ai Weiwei has set up a Web site showing feeds from four live webcams in his Beijing home, in reference to the 24-hour police surveillance he has been subjected to since his de",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "VOGEL",
+            "role": "reported",
+            "firstname": "Carol"
+          }],
+          "original": "By CAROL VOGEL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a4088eb7c8105d8ee314",
+        "source": "The New York Times",
+        "word_count": 213,
+        "lead_paragraph": "Exactly a year after the police in China locked him up for 81 days, the artist Ai Weiwei has installed four live webcams in his Beijing home."
+      },
+      {
+        "abstract": "Ai Weiwei, the rebellious Chinese artist, said on Wednesday that the authorities had shut down a Web site on which he was streaming video from four live surveillance cameras in his home.",
+        "headline": {
+          "kicker": "ArtsBeat",
+          "main": "Ai Weiwei's Self-Surveillance is Shut Down"
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Ai Weiwei"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-04-04T14:41:33Z",
+        "web_url": "http://artsbeat.blogs.nytimes.com/2012/04/04/ai-wieweis-self-surveillance-is-shut-down/",
+        "news_desk": null,
+        "snippet": "Ai Weiwei, the rebellious Chinese artist, said on Wednesday that the authorities had shut down a Web site on which he was streaming video from four live surveillance cameras in his home.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a4208eb7c8105d8ee6f2",
+        "source": "The New York Times",
+        "word_count": 179,
+        "lead_paragraph": "Ai Weiwei, the rebellious Chinese artist, said on Wednesday that the authorities had shut down a Web site on which he was streaming video from four live surveillance cameras in his home. Mr. Ai, one of the Chinese government's harshest critics, was detained without charge for 81 days last year; he started his camera-surveillance project earlier this week to commemorate the one-year anniversary of the start of his detention. Putting up the cameras was Mr. Ai's way of commenting on the fact that he has been under constant surveillance since he was released from detention. Mr. Ai is not allowed to leave Beijing, and plainclothes security officers are stationed on his street around the clock. A security camera is trained on the main entrance of his studio and home in the Caochangdi district of Beijing. On Wednesday, Mr. Ai said over Twitter that his web camera project had been operating for 46 hours before being shut down. \"Byebye to all the voyeurs,\" Mr. Ai wrote in English on Twitter four hours after the camera Web site, weiweicam.com, ended operations."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "LETTER FROM CHINA",
+          "main": "In China, Following in Footsteps of Reform"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BO XILAI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "VOTING AND VOTERS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "COMMUNISM (THEORY AND PHILOSOPHY)"
+          },
+          {
+            "name": "subject",
+            "value": "ACADEMIC FREEDOM"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-04-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/04/05/world/asia/05iht-letter05.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A prominent scholar's detailed map for an overhaul of the Chinese government echoes that of his predecessor from another era.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd101238eb7c8105d5bc475",
+        "source": "International Herald Tribune",
+        "word_count": 951,
+        "lead_paragraph": "BEIJING -- The ghost of China's past hovers over its present. As the country grapples with its biggest political challenge in decades over the purge of Bo Xilai, the polarizing former Communist Party chief of Chongqing, ahead of changes in the top leadership, hidden forces in the party, military and economy battle over China's future. Into this brittle mix, Yu Jianrong, one of the country's leading scholars, has dropped a detailed proposal for political reform."
+      },
+      {
+        "abstract": "Ai Weiwei, the Chinese artist and outspoken government critic, said in a text message Thursday that he and his colleagues had themselves \"disconnected\" a live Web camera operation from a Japanese server the previous day.",
+        "headline": {
+          "kicker": "ArtsBeat",
+          "main": "Ai Weiwei Says He Pulled the Plug on Webcams, on Police Orders"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Surveillance of Citizens by Government"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Ai Weiwei"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-04-05T10:35:54Z",
+        "web_url": "http://artsbeat.blogs.nytimes.com/2012/04/05/ai-weiwei-says-he-pulled-the-plug-on-webcams-on-police-orders/",
+        "news_desk": null,
+        "snippet": "Ai Weiwei, the Chinese artist and outspoken government critic, said in a text message Thursday that he and his colleagues had themselves \"disconnected\" a live Web camera operation from a Japanese server the previous day.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a3c98eb7c8105d8ed942",
+        "source": "The New York Times",
+        "word_count": 212,
+        "lead_paragraph": "Ai Weiwei, the Chinese artist and outspoken government critic, said Thursday that he and his colleagues had \"disconnected\" a live Web camera operation from a Japanese server the previous day. Mr. Ai said in a brief text message that he took the action after having been \"told by police to shut down.\" Mr. Ai was unable to be reached by telephone late Wednesday, when word of the shutdown of his new webcam operation began spreading, and he sent the text message on Thursday in response to a text message question left by this reporter."
+      }
+    ],
+    "meta": {
+      "time": 13,
+      "hits": 167,
+      "offset": 30
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

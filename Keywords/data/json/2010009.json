@@ -1,0 +1,678 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "WORLD BRIEFING | ASIA",
+          "main": "China: New Subway Line Planned for Beijing"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SUBWAYS"
+          },
+          {
+            "name": "subject",
+            "value": "TRANSIT SYSTEMS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-11-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/11/05/world/asia/05webbrfs-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Trains on the longest subway line in China will make a trial run before the end of the year.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b78b8eb7c8105d8ac4b2",
+        "source": "The New York Times",
+        "word_count": 138,
+        "lead_paragraph": "Trains on the longest subway line in China will make a trial run before the end of the year, traveling a 30-mile route between southwest and northwest Beijing, Xinhua, the state news agency, reported Thursday. The route connects an existing line with a new 14-mile extension. City officials say they hope the new line will help alleviate clogged roads. In recent months, Beijing residents have complained that traffic in and around the city has been worse than anytime in years. A recent traffic jam from outside Beijing toward Inner Mongolia lasted for 10 days and drew international attention. Xinhua reported that Beijing has four million cars on the roads, and the city is one of the most congested in the world. Beijing plans to open four other new lines by the end of 2010."
+      },
+      {
+        "abstract": "Chinese officials place prominent artist and activist Ai Weiwei under house arrest at his Beijing home; photo (M)",
+        "headline": {"main": "Chinese Police Confine Artist and Activist to His Beijing Home"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "AI WEIWEI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2010-11-06T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=980CE3DB1F31F935A35752C1A9669D8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "BEIJING -- A phalanx of Beijing police officers confined the prominent artist and activist Ai Weiwei to his north Beijing home on Friday, a move he suggested came at the behest of unnamed but powerful political figures in Shanghai who feared that he ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WINES",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL WINES"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b7998eb7c8105d8acd3b",
+        "source": "The New York Times",
+        "word_count": 992,
+        "lead_paragraph": "BEIJING -- A phalanx of Beijing police officers confined the prominent artist and activist Ai Weiwei to his north Beijing home on Friday, a move he suggested came at the behest of unnamed but powerful political figures in Shanghai who feared that he was about to embarrass them. If so, they were correct."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Gap, With Tepid Sales at Home, Looks to the Emerging Consumer in China"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "FAR EAST, SOUTH AND SOUTHEAST ASIA AND PACIFIC AREAS"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WAL-MART STORES INC"
+          },
+          {
+            "name": "organizations",
+            "value": "GAP INC"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ECONOMY"
+          },
+          {
+            "name": "subject",
+            "value": "SHOPPING AND RETAIL"
+          },
+          {
+            "name": "subject",
+            "value": "CONSUMER BEHAVIOR"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2010-11-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/11/11/business/global/11gap.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Gap Inc. plans to open a flagship store in Shanghai on Thursday, and three other large outlets in Beijing and Shanghai this month.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2010/11/11/business/11GAP-REFER/11GAP-REFER-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2010/11/11/business/11GAP-REFER/11GAP-REFER-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2858c8eb7c8105d855d05",
+        "source": "The New York Times",
+        "word_count": 944,
+        "lead_paragraph": "SHANGHAI -- With sales in the United States sluggish, one of America's best-known apparel brands -- Gap Inc. -- is joining the rush to enter China's fast-growing consumer market. The retailer plans to open a flagship store here on Thursday, followed this month by three other large outlets in Shanghai and Beijing, two of China's wealthiest cities. The company also expects to eventually add its other brands, like Old Navy and Banana Republic."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "DESIGN",
+          "main": "Putting the Chinese in 'Made in China'"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DESIGN"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-11-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/11/15/arts/15iht-design15.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "The graphic artist Liu Zhizhi is in the forefront of a new generation of designers who are trying to define a visual language for contemporary China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "RAWSTHORN",
+            "role": "reported",
+            "firstname": "Alice"
+          }],
+          "original": "By ALICE RAWSTHORN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2010/11/15/arts/design/15iht-design_inline/15iht-design_inline-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2010/11/15/arts/design/15iht-design_inline/15iht-design_inline-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2b78d8eb7c8105d8ac61b",
+        "source": "The New York Times",
+        "word_count": 958,
+        "lead_paragraph": "BEIJING -- If Hollywood location scouts were searching for a place to convey the style-crazed consumerism of the new Beijing, the shiny new Sanlitun Village North shopping center would be a strong contender. What would they hope to find there? Soon-to-open stores for French fashion houses like Balenciaga and Lanvin? Check. More new stores for Japanese brands like Comme des Garçons and Bathing Ape? Check. A boutique hotel designed by a foreign starchitect? Check. (This one, the Opposite House, is by the Japanese architect Kengo Kuma.) A contemporary art gallery? Check. A cafe selling stratospherically expensive (though very yummy) cupcakes? Check again."
+      },
+      {
+        "abstract": "Adding and widening roads to ease traffic congestion can end up exacerbating the problem, not to mention generating heat-trapping smog.",
+        "headline": {
+          "kicker": "Green",
+          "main": "New Roads = Traffic = Emissions?"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "High-Speed Rail Projects"
+          },
+          {
+            "rank": "10",
+            "name": "glocations",
+            "value": "Nairobi (Kenya)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Greenhouse Gas Emissions"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "American Recovery and Reinvestment Act (2009)"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Roads and Traffic"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Transit Systems"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "8",
+            "name": "glocations",
+            "value": "Guangzhou (China)"
+          },
+          {
+            "rank": "9",
+            "name": "glocations",
+            "value": "Kenya"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-11-19T10:48:15Z",
+        "web_url": "http://green.blogs.nytimes.com/2010/11/19/new-roads-traffic-emissions/",
+        "news_desk": null,
+        "snippet": "Adding and widening roads to ease traffic congestion can end up exacerbating the problem, not to mention generating heat-trapping smog.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Science",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd39d508eb7c8105d8de70c",
+        "source": "The New York Times",
+        "word_count": 509,
+        "lead_paragraph": "This week I was in Kenya and ended up spending a lot of time sitting in traffic. Even at night, a trip to the Nairobi airport that should have taken 30 minutes took three times that. In reporting trips to large cities of the developing world, I have noticed that one feature most now have in common is this jarring traffic and attendant smog, from Nairobi to New Delhi to Beijing."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "THE FEMALE FACTOR",
+          "main": "For China's Women, More Opportunities, More Pitfalls"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN AND GIRLS"
+          },
+          {
+            "name": "subject",
+            "value": "FEMINIST MOVEMENT"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-11-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/11/26/world/asia/26iht-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Practical concerns about coping in a highly competitive world are feeding into a powerful identity crisis among China\u2019s women.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2010/11/26/world/26iht-china_span/26iht-china-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2010/11/26/world/26iht-china_span/26iht-china-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2010/11/26/world/26iht-china_span/26iht-china-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2010/11/26/world/26iht-china_span/26iht-china-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd285568eb7c8105d855509",
+        "source": "International Herald Tribune",
+        "word_count": 1314,
+        "lead_paragraph": "BEIJING -- The question that dashed Angel Feng's job prospects always came last. Fluent in Chinese, English, French and Japanese, the 26-year-old graduate of a business school in France interviewed between January and April with half a dozen companies in Beijing, hoping for her first job in the private sector, where salaries are highest."
+      },
+      {
+        "abstract": "After coal-fired heating kicks in, the United States Embassy describes high levels of air pollution in Beijing.",
+        "headline": {
+          "kicker": "Green",
+          "main": "A 'Crazy Bad' Day in Beijing"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Environment"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Coal"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Air Pollution"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Heating"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "organizations",
+            "value": "Environmental Protection Agency"
+          },
+          {
+            "rank": "7",
+            "name": "organizations",
+            "value": "Twitter"
+          },
+          {
+            "rank": "8",
+            "name": "organizations",
+            "value": "World Health Organization"
+          },
+          {
+            "rank": "9",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-11-26T15:17:59Z",
+        "web_url": "http://green.blogs.nytimes.com/2010/11/26/a-crazy-bad-day-in-beijing/",
+        "news_desk": null,
+        "snippet": "After coal-fired heating kicks in, the United States Embassy describes high levels of air pollution in Beijing.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Science",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd39d248eb7c8105d8de0bb",
+        "source": "The New York Times",
+        "word_count": 496,
+        "lead_paragraph": "Last week I wrote about the global environmental impact of rising coal exports to China. Sea shipments of thermal coal, used for heating and electricity generation, are skyrocketing, undermining attempts to tamp down the growth of global greenhouse gas emissions."
+      },
+      {
+        "abstract": "Chinese authorities prevent Ai Weiwei and Mao Yushi from flying out of Beijing to cities in Asia in effort to keep Chinese intellectuals from attending Nobel Peace Prize ceremony in Norway (S)",
+        "headline": {
+          "kicker": "WORLD BRIEFING  | ASIA",
+          "main": "China: 2 Intellectuals Barred From Leaving the Country"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "AI WEIWEI"
+          },
+          {
+            "name": "persons",
+            "value": "MAO YUSHI"
+          },
+          {
+            "name": "persons",
+            "value": "LIU XIAOBO"
+          },
+          {
+            "name": "glocations",
+            "value": "FAR EAST, SOUTH AND SOUTHEAST ASIA AND PACIFIC AREAS"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "NOBEL PRIZES"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2010-12-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/12/04/world/asia/04briefs-Nobel.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Chinese authorities stopped the two presumable because they are trying to keep Chinese intellectuals from attending the Nobel Peace Prize ceremony in Norway next Friday.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b81b8eb7c8105d8ad9fa",
+        "source": "The New York Times",
+        "word_count": 165,
+        "lead_paragraph": "In two separate incidents on Thursday, Ai Weiwei, a prominent Chinese artist and frequent critic of the Chinese Communist Party, and Mao Yushi, an 80-year-old economist, were prevented from flying out of Beijing to cities in Asia, presumably because Chinese authorities are trying to keep Chinese intellectuals from attending the Nobel Peace Prize ceremony in Norway next Friday. The prize was awarded to a Chinese dissident, Liu Xiaobo, in early October. China is also preventing Mr. Liu's wife, Liu Xia, from leaving the country to collect the prize. On Thursday, Mr. Ai was catching a flight to Seoul, South Korea, and Mr. Mao was going to Singapore. Both were stopped in the Beijing airport and told by the authorities that they could not travel because they might ''endanger state security.'' Mr. Ai said in a Twitter message that he had not intended to go to the Nobel ceremony but that he was instead traveling on a matter related to his art."
+      },
+      {
+        "abstract": "Construction begins on museum in Beijing that has been centerpiece of contentious plan to raze and rebuild large section of ancient alleyways in heart of city (S)",
+        "headline": {
+          "kicker": "WORLD BRIEFING  | ASIA",
+          "main": "China: Resized Beijing Museum Breaks Ground"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HISTORIC BUILDINGS AND SITES"
+          },
+          {
+            "name": "subject",
+            "value": "AREA PLANNING AND RENEWAL"
+          },
+          {
+            "name": "subject",
+            "value": "MUSEUMS"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2010-12-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/12/07/world/asia/07briefs-China.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Construction began last Thursday on a museum that has been the centerpiece of a contentious plan to raze and rebuild a large section of ancient alleyways in the heart of Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd285958eb7c8105d85653d",
+        "source": "The New York Times",
+        "word_count": 145,
+        "lead_paragraph": "Construction began last Thursday on a museum that has been the centerpiece of a contentious plan to raze and rebuild a large section of ancient alleyways in the heart of Beijing, according to a report on Monday in China Daily, an English-language newspaper. But the scale of the original plan has been changed, and alleyways and courtyard homes will no longer be destroyed in the project, the report said. The museum, called the Beijing Time Museum, is being built on a site southeast of the Drum Tower, a 13th-century landmark. The original plan encompassed an area 20 times larger than the current project and ignited criticism from people concerned about the relentless destruction of historic areas in Beijing, China Daily reported. That plan was put on hiatus in September after the wave of criticism and a bureaucratic reshuffling of neighborhood governments."
+      },
+      {
+        "abstract": "Saturday Profile of Cui Yongping, founder of Shadow Play Art Museum in Beijing; museum exhibits 10,000 elaborately-outfitted shadow puppets from ancient dynasties, but 80 percent of visitors are foreign; Cui says ancient craft that once epitomized Chinese culture is no longer interesting to Chinese; plans to bring his puppets to America; photos (M)",
+        "headline": {
+          "kicker": "THE SATURDAY PROFILE",
+          "main": "Puppet Masters Try to Bring Art Out of the Shadows"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CUI YONGPING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "SHADOW PLAY ART MUSEUM"
+          },
+          {
+            "name": "subject",
+            "value": "PUPPETS"
+          },
+          {
+            "name": "subject",
+            "value": "IMMIGRATION AND EMIGRATION"
+          },
+          {
+            "name": "subject",
+            "value": "MUSEUMS"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2010-12-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/12/11/world/asia/11puppets.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Feeling spurned, the owners and curators of a Beijing shadow puppet museum want to take their collection to the United States.",
+        "type_of_material": "Biography",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WINES",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL WINES; Xiyun Yang contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2010/12/11/world/PUPPET1-PROFILE/PUPPET1-PROFILE-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2010/12/11/world/PUPPET1-PROFILE/PUPPET1-PROFILE-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd28a2f8eb7c8105d85c65e",
+        "source": "The New York Times",
+        "word_count": 1288,
+        "lead_paragraph": "BEIJING THE Cui Yongping Shadow Play Art Museum exhibits shadow puppets. Which is like saying the Louvre exhibits paintings."
+      }
+    ],
+    "meta": {
+      "time": 10,
+      "hits": 105,
+      "offset": 90
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

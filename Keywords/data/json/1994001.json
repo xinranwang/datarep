@@ -1,0 +1,295 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing to Impose Huge Fees To Limit Migrants in City"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1994-09-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1994/09/15/world/beijing-to-impose-huge-fees-to-limit-migrants-in-city.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Reacting to a flood of workers moving into the capital, Beijing's municipal authorities have announced that they would begin imposing fees of up to $11,600 for the privilege of living in Beijing.    \"People from outside Beijing must pay for the rig",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1dc5e8eb7c8105d71dcaf",
+        "source": "The New York Times",
+        "word_count": 403,
+        "lead_paragraph": "Reacting to a flood of workers moving into the capital, Beijing's municipal authorities have announced that they would begin imposing fees of up to $11,600 for the privilege of living in Beijing. \"People from outside Beijing must pay for the right to live permanently in this capital of China from Nov. 1,\" the official New China News Agency said on Monday."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "At Tiananmen, China Celebrates 45 Years of Communism"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1994-10-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1994/10/02/world/at-tiananmen-china-celebrates-45-years-of-communism.html",
+        "news_desk": "Foreign Desk",
+        "snippet": null,
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1b7158eb7c8105d6dd580",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China Gives Its Ailing Leader a Last Send-Off, Again"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1994-10-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1994/10/03/world/china-gives-its-ailing-leader-a-last-send-off-again.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  In a week of political choreography, China's Communist Party leadership has for the second time in five years given a grand send-off to Deng Xiaoping with fireworks, political tributes and thousands of dancers in Tiananmen Square.   The huge celebr",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1f6de8eb7c8105d75175b",
+        "source": "The New York Times",
+        "word_count": 543,
+        "lead_paragraph": "In a week of political choreography, China's Communist Party leadership has for the second time in five years given a grand send-off to Deng Xiaoping with fireworks, political tributes and thousands of dancers in Tiananmen Square. The huge celebration on Saturday, on the 45th anniversary of the founding of the People's Republic, is widely regarded among Chinese officials as the last Mr. Deng will see. He turned 90 in August and is suffering from advanced Parkinson's disease."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "BellSouth Plans China Joint Venture"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANJIN (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINA UNITED TELECOMMUNICATIONS CORP"
+          },
+          {
+            "name": "organizations",
+            "value": "BELLSOUTH CORP"
+          },
+          {
+            "name": "subject",
+            "value": "JOINT VENTURES AND CONSORTIUMS"
+          },
+          {
+            "name": "subject",
+            "value": "CELLULAR TELEPHONES"
+          },
+          {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "1994-10-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1994/10/12/business/bellsouth-plans-china-joint-venture.html",
+        "news_desk": "Financial Desk",
+        "snippet": "  The BellSouth Corporation said yesterday that it had agreed with a Chinese telecommunications company to set up cellular, wireless and long-distance telephone networks in two large cities in China.    Though few details were disclosed, the deal loo",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FAISON",
+            "role": "reported",
+            "firstname": "Seth"
+          }],
+          "original": "By SETH FAISON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1e6c08eb7c8105d7331ba",
+        "source": "The New York Times",
+        "word_count": 440,
+        "lead_paragraph": "The BellSouth Corporation said yesterday that it had agreed with a Chinese telecommunications company to set up cellular, wireless and long-distance telephone networks in two large cities in China. Though few details were disclosed, the deal looks likely to give BellSouth a firm footing in one of the world's mostly hotly competitive markets, starting with Beijing and the nearby industrial city of Tianjin."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Journal; It's Time, Again, to Talk of Cabbages, Not Kings"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CABBAGE"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1994-11-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1994/11/22/world/beijing-journal-it-s-time-again-to-talk-of-cabbages-not-kings.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  \"How much do you charge for delivery?\" a customer asked, leaning on the handlebars of his bicycle in front of a truck- sized heap of cabbage on the side of the street in western Beijing.   \"Charge for delivery?\" Wang Zhenping fired back in a mockin",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1b8368eb7c8105d6df936",
+        "source": "The New York Times",
+        "word_count": 853,
+        "lead_paragraph": "\"How much do you charge for delivery?\" a customer asked, leaning on the handlebars of his bicycle in front of a truck- sized heap of cabbage on the side of the street in western Beijing. \"Charge for delivery?\" Wang Zhenping fired back in a mocking tone that turned a few heads in the Horse Tail Gully vegetable market. \"Did you just crawl out of a cave or something? It's free!\""
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "COMPANY NEWS",
+          "main": "Changing the Golden Arches in Beijing"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "MCDONALD'S CORP"
+          },
+          {
+            "name": "subject",
+            "value": "RESTAURANTS"
+          },
+          {
+            "name": "subject",
+            "value": "OFFICE BUILDINGS"
+          },
+          {
+            "name": "subject",
+            "value": "FAST FOOD INDUSTRY"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1994-12-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1994/12/14/business/company-news-changing-the-golden-arches-in-beijing.html",
+        "news_desk": "Financial Desk",
+        "snippet": null,
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1cab18eb7c8105d6ff3be",
+        "source": "The New York Times",
+        "word_count": 2,
+        "lead_paragraph": null
+      }
+    ],
+    "meta": {
+      "time": 39,
+      "hits": 16,
+      "offset": 10
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

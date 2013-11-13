@@ -1,0 +1,540 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Ominous Embers From the Fire of 1989"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SURVEYS AND SERIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1990-04-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/04/15/world/ominous-embers-from-the-fire-of-1989.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: A silence has settled over China a year after a few fragile white flowers appeared at Tiananmen Square to ignite the student democracy movement, but it is an eerie calm and a potentially explosive one.",
+        "type_of_material": "Series",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd191f18eb7c8105d69a70d",
+        "source": "The New York Times",
+        "word_count": 2633,
+        "lead_paragraph": "LEAD: A silence has settled over China a year after a few fragile white flowers appeared at Tiananmen Square to ignite the student democracy movement, but it is an eerie calm and a potentially explosive one."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Is Quiet on Anniversary of Democracy Protests"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "1990-04-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/04/16/world/beijing-is-quiet-on-anniversary-of-democracy-protests.html",
+        "news_desk": "Foreign Desk",
+        "snippet": null,
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd192788eb7c8105d69bc21",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Rock Concerts in Memory Of Crackdown in Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "FEDERATION FOR DEMOCRACYIN CHINA"
+          },
+          {
+            "name": "organizations",
+            "value": "ACUTEL"
+          },
+          {
+            "name": "subject",
+            "value": "MUSIC"
+          },
+          {
+            "name": "subject",
+            "value": "CONCERTS AND RECITALS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "17",
+        "pub_date": "1990-04-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/04/18/arts/rock-concerts-in-memory-of-crackdown-in-beijing.html",
+        "news_desk": "Cultural Desk",
+        "snippet": "LEAD: Rock concerts are planned in Paris, New York and at least four other cities on June 3 to commemorate the anniversary of the crackdown on pro-democracy demonstrators in Beijing, organizers announced today.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [],
+          "organization": "AP",
+          "original": "AP"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1aef38eb7c8105d6ceac6",
+        "source": "The New York Times",
+        "word_count": 341,
+        "lead_paragraph": "LEAD: Rock concerts are planned in Paris, New York and at least four other cities on June 3 to commemorate the anniversary of the crackdown on pro-democracy demonstrators in Beijing, organizers announced today."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "FILM",
+          "main": "China's Shadow Falls Across Hong Kong's Films"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MOTION PICTURES"
+          }
+        ],
+        "print_page": "17",
+        "pub_date": "1990-05-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/05/13/movies/film-china-s-shadow-falls-across-hong-kong-s-films.html",
+        "news_desk": "Arts and Leisure Desk",
+        "snippet": "LEAD: A few months after public protests here over the violent repression of democracy in Tiananmen Square, it's business as usual in Hong Kong. After years in New York, a young Chinese remarked that his native city ''had become a gigantic shopping m",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Movies; Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "REYNAUD",
+            "role": "reported",
+            "firstname": "Berenice"
+          }],
+          "original": "By BERENICE REYNAUD; Berenice Reynaud is the New York correspondent for Cahiers du Cinema"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1b9f88eb7c8105d6e35be",
+        "source": "The New York Times",
+        "word_count": 2218,
+        "lead_paragraph": "LEAD: A few months after public protests here over the violent repression of democracy in Tiananmen Square, it's business as usual in Hong Kong. After years in New York, a young Chinese remarked that his native city ''had become a gigantic shopping mall.'' The so-called Hong Kong dream, a vision of the good life parallel to the American Dream, however, shouldn't be reduced to pure mercantilism."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "TV Weekend;   China's Leader Calls Massacre 'Nothing'"},
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "20/20 (TV PROGRAM)"
+          },
+          {
+            "name": "persons",
+            "value": "JIANG ZEMIN"
+          },
+          {
+            "name": "persons",
+            "value": "WALTERS, BARBARA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "AMERICAN BROADCASTING COS INC"
+          },
+          {
+            "name": "subject",
+            "value": "MURDERS AND ATTEMPTED MURDERS"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "30",
+        "pub_date": "1990-05-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/05/18/arts/tv-weekend-china-s-leader-calls-massacre-nothing.html",
+        "news_desk": "Weekend Desk",
+        "snippet": "LEAD: It takes a lot to stop Barbara Walters in her tracks. But when Jiang Zemin, China's party leader, declares in an interview to be shown on the ABC News program ''20/20'' tonight that the massacre of hundreds of Chinese in Beijing last June was '",
+        "type_of_material": "Review",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BUTTERFIELD",
+            "role": "reported",
+            "firstname": "Fox"
+          }],
+          "original": "By FOX BUTTERFIELD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1b99e8eb7c8105d6e27b5",
+        "source": "The New York Times",
+        "word_count": 865,
+        "lead_paragraph": "LEAD: It takes a lot to stop Barbara Walters in her tracks. But when Jiang Zemin, China's party leader, declares in an interview to be shown on the ABC News program ''20/20'' tonight that the massacre of hundreds of Chinese in Beijing last June was ''much ado about nothing,'' even she is taken aback."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "CHRONICLE"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "FANG LIZHI"
+          },
+          {
+            "name": "persons",
+            "value": "ORLOV, YURI F"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED STATES FOREIGN SERVICE"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "1990-05-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/05/21/style/chronicle-337890.html",
+        "news_desk": "Style Desk",
+        "snippet": "LEAD: The Soviet physicist YURI F. ORLOV disclosed a letter-writing campaign endorsed by hundreds of scientists to secure the release of FANG LIZHI, the Chinese astrophysicist who took refuge in the United States after last June's crackdown in Beijin",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Style",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Heller",
+            "role": "reported",
+            "lastname": "Anderson",
+            "firstname": "Susan"
+          }],
+          "original": "By Susan Heller Anderson"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1b9f38eb7c8105d6e318c",
+        "source": "The New York Times",
+        "word_count": 198,
+        "lead_paragraph": "LEAD: The Soviet physicist YURI F. ORLOV disclosed a letter-writing campaign endorsed by hundreds of scientists to secure the release of FANG LIZHI, the Chinese astrophysicist who took refuge in the United States after last June's crackdown in Beijing."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Chronicle"},
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "CHRONICLE (TIMES COLUMN)"
+          },
+          {
+            "name": "persons",
+            "value": "LI LU"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "LAWYERS COMMITTEE FOR HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "26",
+        "pub_date": "1990-05-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/05/28/nyregion/chronicle-067290.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "LEAD: Commemorating the first anniversary of the student demonstrations in Tiananmen Square, LI LU is scheduled to talk to some 500 lawyers Wednesday at a benefit in New York for the Lawyers Committee for Human Rights. Mr. Li, who escaped from Beijin",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "New York and Region",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Heller",
+            "role": "reported",
+            "lastname": "ANDERSON",
+            "firstname": "Susan"
+          }],
+          "original": "By SUSAN HELLER ANDERSON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd19f838eb7c8105d6b37bc",
+        "source": "The New York Times",
+        "word_count": 158,
+        "lead_paragraph": "LEAD: Commemorating the first anniversary of the student demonstrations in Tiananmen Square, LI LU is scheduled to talk to some 500 lawyers Wednesday at a benefit in New York for the Lawyers Committee for Human Rights. Mr. Li, who escaped from Beijing after hundreds of students were killed in the square, is on the Chinese"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Hundreds March in a Protest at Beijing University"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING UNIVERSITY"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "1990-06-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/06/04/world/hundreds-march-in-a-protest-at-beijing-university.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Defying a huge display of police force, hundreds of Beijing University students marched around the campus in the pre-dawn hours this morning to mourn the democracy protesters killed precisely one year earlier.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd192b08eb7c8105d69bcb0",
+        "source": "The New York Times",
+        "word_count": 651,
+        "lead_paragraph": "LEAD: Defying a huge display of police force, hundreds of Beijing University students marched around the campus in the pre-dawn hours this morning to mourn the democracy protesters killed precisely one year earlier."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "HONG KONG HONORS BEIJING'S VICTIMS"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "1990-06-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/06/04/world/hong-kong-honors-beijing-s-victims.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: More than 100,000 people, most of them dressed in the mourning colors of white and black, took part today in a march to honor pro-democracy demonstrators who were killed in the army crackdown in Beijing last June 4.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "BASLER",
+              "role": "reported",
+              "firstname": "Barbara"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By BARBARA BASLER, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1aef38eb7c8105d6ceb09",
+        "source": "The New York Times",
+        "word_count": 962,
+        "lead_paragraph": "LEAD: More than 100,000 people, most of them dressed in the mourning colors of white and black, took part today in a march to honor pro-democracy demonstrators who were killed in the army crackdown in Beijing last June 4."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Lone Protester Arrested in Tiananmen Square"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1990-06-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1990/06/04/world/lone-protester-arrested-in-tiananmen-square.html",
+        "news_desk": "Foreign Desk",
+        "snippet": null,
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": "Front Page",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1937a8eb7c8105d69d821",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      }
+    ],
+    "meta": {
+      "time": 33,
+      "hits": 38,
+      "offset": 20
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,764 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {
+          "sub": "An Asia Society Exhibition",
+          "main": "\u2018Coal + Ice\u2019 in Beijing"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Art",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Asia Society",
+            "is_major": "N"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Photography",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-09-28T17:11:15Z",
+        "web_url": "http://www.nytimes.com/video/2011/09/28/arts/design/100000001079324/coal-and-ice.html",
+        "news_desk": "Arts / Art & Design",
+        "snippet": "A behind-the-scenes video of the \"Coal + Ice\" exhibit presented by the Asia Society at Three Shadows Photography Art Center in Beijing. (Video courtesy of the Asia Society.)",
+        "type_of_material": "Video",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "multimedia",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "None",
+            "role": "reported",
+            "firstname": "None"
+          }],
+          "original": "None None"
+        },
+        "subsection_name": "Art & Design",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2011/09/28/arts/video-coalandice/video-coalandice-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2011/09/28/arts/video-coalandice/video-coalandice-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 338,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2011/09/28/arts/video-coalandice/video-coalandice-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "338",
+              "xlarge": "images/2011/09/28/arts/video-coalandice/video-coalandice-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2011/09/28/arts/video-coalandice/video-coalandice-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/09/28/arts/video-coalandice/video-coalandice-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "523456db38f0d81989737651",
+        "source": "The New York Times",
+        "word_count": "28",
+        "lead_paragraph": "A behind-the-scenes video of the \"Coal + Ice\" exhibit presented by the Asia Society at Three Shadows Photography Art Center in Beijing. (Video courtesy of the Asia Society.)"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Gallery Puts a Focus on Global Warming"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "ASIA SOCIETY"
+          },
+          {
+            "name": "subject",
+            "value": "PHOTOGRAPHY"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2011-09-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/09/29/arts/design/three-shadows-gallery-in-beijing-turns-focus-on-global-warming.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "A photography exhibition in Beijing presents stark images as evidence of climate change, including pictures of coal mining, considered one factor in global warming.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2011/09/29/arts/PHOTOS/PHOTOS-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/09/29/arts/PHOTOS/PHOTOS-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 378,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2011/09/29/arts/PHOTOS/PHOTOS-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 378,
+              "xlarge": "images/2011/09/29/arts/PHOTOS/PHOTOS-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2a2898eb7c8105d887c7a",
+        "source": "The New York Times",
+        "word_count": 1300,
+        "lead_paragraph": "BEIJING -- When George Mallory made a reconnaissance trip to the gargantuan glaciers at the foot of Mount Everest in Tibet before his ill-fated attempt to climb the mountain, he took photographs and noted the splendor: ''Here is a pure beauty of form, a kind of ultimate harmony,'' he wrote. Nearly 90 years later another mountaineer and photographer, David Breashears, traveled to the same remote Himalayan landscape and found something that might have made Mallory think again: more than 330 vertical feet of the Rongbuk Glacier had melted in the intervening decades, leaving stubs of ice where grand pinnacles had once been. The photographs that Mr. Breashears brought back as evidence of climate change are at the heart of a multimedia exhibition that opened here last weekend at a prestigious photography gallery in China, Three Shadows."
+      },
+      {
+        "abstract": "A multimedia exhibition that just opened in Beijing, organized by the New York-based Asia Society, is an ambitious attempt to depict both the causes and the impacts of climate change.",
+        "headline": {
+          "kicker": "Green",
+          "main": "Climate Equation: Coal + Ice = ?"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Coal"
+          },
+          {
+            "rank": "10",
+            "name": "organizations",
+            "value": "Asia Society"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Sella, Vittorio"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Breashears, David"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Glaciers"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Global Warming"
+          },
+          {
+            "rank": "14",
+            "name": "glocations",
+            "value": "Tibet"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Ice"
+          },
+          {
+            "rank": "13",
+            "name": "glocations",
+            "value": "Himalayas"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Mines and Mining"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "Museums"
+          },
+          {
+            "rank": "12",
+            "name": "glocations",
+            "value": "China"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-09-29T08:38:31Z",
+        "web_url": "http://green.blogs.nytimes.com/2011/09/29/climate-equation-coal-ice/",
+        "news_desk": null,
+        "snippet": "A multimedia exhibition that just opened in Beijing, organized by the New York-based Asia Society, is an ambitious attempt to depict both the causes and the impacts of climate change.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Science",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a12c8eb7c8105d8e7705",
+        "source": "The New York Times",
+        "word_count": 455,
+        "lead_paragraph": "We like to think of awe-inspiring landscapes as timeless. Certainly that was the way I regarded the Rongbuk Glacier when I first visited it in the fall of 2001. I was backpacking through Tibet for five weeks and had decided to stop overnight at the north base camp of Mount Everest, which was a short side trip from the road to Nepal. There, red-robed monks at a Tibetan monastery welcomed visitors."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "A Contentious Ride Into Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "HTC-HIGHROAD"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL CYCLING UNION"
+          },
+          {
+            "name": "subject",
+            "value": "BICYCLES AND BICYCLING"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2011-10-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/10/08/sports/cycling/tour-of-beijing-establishes-professional-cycling-in-china.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The five-stage Tour of Beijing, which ends Sunday, is the first major attempt by professional cycling to establish itself in China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "AUSTEN",
+            "role": "reported",
+            "firstname": "Ian"
+          }],
+          "original": "By IAN AUSTEN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2011/10/08/sports/cycling-1/cycling-1-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/10/08/sports/cycling-1/cycling-1-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 315,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2011/10/08/sports/cycling-1/cycling-1-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 315,
+              "xlarge": "images/2011/10/08/sports/cycling-1/cycling-1-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2acb98eb7c8105d89a001",
+        "source": "The New York Times",
+        "word_count": 452,
+        "lead_paragraph": "Not long ago, the roads in and around Beijing were clogged by bicycles. Last week, however, the cars, trucks and buses that are the city's new source of congestion were cleared away to make room for cyclists. But cyclists of an elite variety. The five-stage Tour of Beijing, which ends Sunday, is the first major attempt by professional cycling to establish itself in China. It is also the first attempt by the International Cycling Union to act as a race organizer as well as the sport's governing body. That dual role almost crippled the race before it started and made it the most contentious event on this year's calendar."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "I.H.T. OP-ED CONTRIBUTOR",
+          "main": "Fear of Dragons"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS, PROTESTS, AND RIOTS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-10-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/10/08/opinion/08iht-edyu08.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "China's commemorations of the 1911 revolution say less about 1911 than about Beijing's fears.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HUA",
+            "role": "reported",
+            "firstname": "Yu"
+          }],
+          "original": "By YU HUA"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd297c48eb7c8105d873d38",
+        "source": "International Herald Tribune",
+        "word_count": 863,
+        "lead_paragraph": "BEIJING -- Lord Ye, it is said, loved dragons so much that he had them carved on his wine vessels and personal accessories and even made them the theme of his interior decoration. One day a real dragon came down to check things out, pressing its nose up against Lord Ye's window while its tail swished about outside. Lord Ye, scared out of his wits, turned around and fled. I am reminded of the story as I observe the centennial of China's 1911 revolution, the series of uprisings that brought down the Qing dynasty and established a democratic republic. The government loves the hoopla, which culminates Monday, as long as it can invent it and control it. But when the real thing shows any sign of approaching, it panics."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "OPERA REVIEW",
+          "main": "Hong Kong, Not Beijing, Sees an Opera Laced With Revolutionary Zeal"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OPERA"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-10-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/10/19/arts/19iht-LOOMIS19.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "Canceled by Beijing, \"Dr. Sun Yat-sen,\" by the young Chinese-American composer Huang Ruo, is an absorbing, problematic work.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LOOMIS",
+            "role": "reported",
+            "firstname": "George"
+          }],
+          "original": "By GEORGE LOOMIS"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2011/10/19/arts/19iht-loomis19-inline2/19iht-loomis19-inline2-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2011/10/19/arts/19iht-loomis19-inline2/19iht-loomis19-inline2-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2ad778eb7c8105d89ac5a",
+        "source": "International Herald Tribune",
+        "word_count": 884,
+        "lead_paragraph": "HONG KONG -- This city was host last week to a world premiere of a major, Western-style opera: ''Dr. Sun Yat-sen,'' by the young Chinese-American composer Huang Ruo, was performed before an enthusiastic audience in the Grand Theater of the Hong Kong Cultural Center. But that world premiere occurred by default. The opera, which was written to commemorate the centennial of the 1911 revolution that ended the Qing dynasty, was to have been performed in Beijing on Sept. 30 at the National Center for the Performing Arts, known as the Egg, where it was expected to add luster to the center's fast-growing offerings of opera."
+      },
+      {
+        "abstract": "Struggle unfolding at Huaxing World Famous Garden, gated, suburban-style community on outskirts of Beijing, differs from most of the redevelopment battles that each year lead to forced evictions in that the residents are by and large middle class and privileged and the houses are relatively new; clash seems to suggest a new wrinkle in seemingly ubiquitous fights over land, many of which have inspired protests, riots and group petitioning.",
+        "headline": {
+          "seo": "Harassment and Evictions Bedevil Even China\u2019s Well-Off",
+          "print_headline": "Harassment and Evictions Bedevil Even China\u2019s Well-Off",
+          "main": "Harassment and Evictions Bedevil Even China\u2019s Well-Off"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Evictions",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Building (Construction)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2011-10-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/10/28/world/asia/harassment-and-house-evictions-bedevil-even-chinas-well-off.html",
+        "news_desk": "Foreign",
+        "snippet": "The struggle for Huaxiang World Famous Garden, a gated community near the capital, is not like most of the redevelopment battles that each year lead to forced evictions in China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "contributor": "Edy Yin contributed research.",
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2011/10/28/world/28beijing-1/28beijing-1-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2011/10/28/world/28beijing-1/28beijing-1-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 400,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2011/10/28/world/28beijing-1/28beijing-1-articleLarge-v2.jpg",
+            "legacy": {
+              "xlargeheight": "400",
+              "xlarge": "images/2011/10/28/world/28beijing-1/28beijing-1-articleLarge-v2.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2011/10/28/world/28beijing-1/28beijing-1-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/10/28/world/28beijing-1/28beijing-1-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51a6643b40e9ec65d203a1bd",
+        "source": "The New York Times",
+        "word_count": "1194",
+        "lead_paragraph": "The struggle for Huaxiang World Famous Garden, a gated community near the capital, is not like most of the redevelopment battles that each year lead to forced evictions in China."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Harassment and Evictions Bedevil Even China's Well-Off"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "REAL ESTATE AND HOUSING (RESIDENTIAL)"
+          },
+          {
+            "name": "subject",
+            "value": "EVICTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "BUILDING (CONSTRUCTION)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2011-10-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/10/28/world/asia/harassment-and-house-evictions-bedevil-even-chinas-well-off.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The struggle for Huaxiang World Famous Garden, a gated community near the capital, is not like most of the redevelopment battles that each year lead to forced evictions in China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Edy Yin contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2011/10/28/world/28beijing-1/28beijing-1-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/10/28/world/28beijing-1/28beijing-1-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 315,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2011/10/28/world/28beijing-1/28beijing-1-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 315,
+              "xlarge": "images/2011/10/28/world/28beijing-1/28beijing-1-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2acbd8eb7c8105d89a356",
+        "source": "The New York Times",
+        "word_count": 1194,
+        "lead_paragraph": "BEIJING -- It is a familiar tale of modern China with a sadly predictable denouement. A group of people wake up to find demolition notices affixed to their homes. After they reject the government's compensation as too meager, a dark campaign of harassment ensues. The bulldozers arrive in the dead of night. Score another win for the boundless authority of the state. But the struggle unfolding at Huaxiang World Famous Garden, a gated, suburban-style community on the exurban fringe of the capital, is not like a majority of redevelopment battles that each year lead to the forced eviction and dispossession of countless families."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "In China, Cricket Fighting Undergoes a Revival"},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "CRICKETS"
+          },
+          {
+            "name": "subject",
+            "value": "GAMBLING"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-11-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2011/11/05/world/asia/20111106-CRICKET.html",
+        "news_desk": null,
+        "snippet": "In the alleys of Beijing, crickets are facing off against one another in a uniquely Chinese bloodsport whose provenance extends back more than 1,000 years.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a8e681c22dfde670c518b",
+        "source": null,
+        "word_count": 29,
+        "lead_paragraph": "In the alleys of Beijing, crickets are facing off against one another in a uniquely Chinese bloodsport whose provenance extends back more than 1,000 years."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "In China, Cricket Fighting Undergoes a Revival"},
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Crickets",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Gambling",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-11-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2011/11/05/world/asia/20111106-CRICKET.html",
+        "news_desk": "World / Asia Pacific",
+        "snippet": "In the alleys of Beijing, crickets are facing off against one another in a uniquely Chinese bloodsport whose provenance extends back more than 1,000 years.",
+        "type_of_material": "Slideshow",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "multimedia",
+        "byline": [],
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "width": 190,
+            "subtype": "wide",
+            "type": "image",
+            "url": "images/2011/10/31/world/asia/20111101-CRICKET-slide-KVBE/20111101-CRICKET-slide-KVBE-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2011/10/31/world/asia/20111101-CRICKET-slide-KVBE/20111101-CRICKET-slide-KVBE-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2011/10/31/world/asia/20111101-CRICKET-slide-KVBE/20111101-CRICKET-slide-KVBE-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/10/31/world/asia/20111101-CRICKET-slide-KVBE/20111101-CRICKET-slide-KVBE-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "513e0310cf28d04ae000141d",
+        "source": "The New York Times",
+        "word_count": "25",
+        "lead_paragraph": "In the alleys of Beijing, crickets are facing off against one another in a uniquely Chinese bloodsport whose provenance extends back more than 1,000 years."
+      }
+    ],
+    "meta": {
+      "time": 22,
+      "hits": 102,
+      "offset": 70
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,845 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "George Vecsey Sports of The Times column discusses Beijing's readiness for 2008 Olympic Games; photo (M)",
+        "headline": {
+          "kicker": "SPORTS OF THE TIMES",
+          "main": "In Beijing, Games Offer A Vision Of the Future"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "SPORTS OF THE TIMES (TIMES COLUMN)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2007-08-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/14/sports/othersports/14vecsey.html",
+        "news_desk": "Sports Desk",
+        "snippet": "The Olympic Games are always sponsored by one city, but the Beijing Games will be a more cosmic harbinger of where the world is going in the next century or three.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "VECSEY",
+            "role": "reported",
+            "firstname": "George"
+          }],
+          "original": "By GEORGE VECSEY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/08/14/sports/14vecsey.1.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/08/14/sports/14vecsey.1.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 320,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/08/14/sports/14vecsey.1.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 320,
+              "xlarge": "images/2007/08/14/sports/14vecsey.1.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2b1bb8eb7c8105d8a1cf5",
+        "source": "The New York Times",
+        "word_count": 823,
+        "lead_paragraph": "''China Is Near.'' This Italian film came out in 1967, using China as a symbol of the mysterious, the powerful, the future looming over everybody. Lately, that title has been looping across the movie screen of my mind. The Olympic Games are always sponsored by one city, demonstrating Catalan pride or Australian culture to the world, but the Beijing Games will be a more cosmic harbinger of where the world is going in the next century or three."
+      },
+      {
+        "abstract": "Selena Roberts Sports of The Times column discusses 2008 Beijing Olympics, which are drawing attention to number of political and social causes involving China; photo (M)",
+        "headline": {
+          "kicker": "SPORTS OF THE TIMES",
+          "main": "Open Wallet, Insert Mouth"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "JAMES, LEBRON"
+          },
+          {
+            "name": "persons",
+            "value": "PHELPS, MICHAEL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SPORTS OF THE TIMES (TIMES COLUMN)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2007-08-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/15/sports/othersports/15roberts.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Who dares to arrive in Beijing without a political statement? For some athletes, it will be a personal choice. For others, it will be a business decision.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROBERTS",
+            "role": "reported",
+            "firstname": "Selena"
+          }],
+          "original": "By SELENA ROBERTS"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2007/08/15/sports/15roberts.1.75.jpg",
+          "legacy": {
+            "thumbnail": "images/2007/08/15/sports/15roberts.1.75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd293a08eb7c8105d86d880",
+        "source": "The New York Times",
+        "word_count": 837,
+        "lead_paragraph": "The sophisticated Olympic athletes who ache to unleash their inner activists in the run-up to Beijing 2008 may find themselves overwhelmed by menu choices: I'll take the ''Free Tibet.'' No, the human rights violations."
+      },
+      {
+        "abstract": "Editorial says Chinese government may be trying to cover up fast-spreading virus decimating its pig population; says world is too small to pretend that any one country has right to try to handle spreading infection in scientific near secrecy; says it is essential for China's reputation as reliable trading partner and responsible member of global community to share information about this matter",
+        "headline": {
+          "kicker": "EDITORIAL",
+          "main": "More Fears About China"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "PIGS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "ETHICS"
+          },
+          {
+            "name": "subject",
+            "value": "EPIDEMICS"
+          },
+          {
+            "name": "subject",
+            "value": "LIVESTOCK DISEASES"
+          },
+          {
+            "name": "subject",
+            "value": "FOOD CONTAMINATION AND POISONING"
+          }
+        ],
+        "print_page": "22",
+        "pub_date": "2007-08-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/17/opinion/17fri3.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "Beijing urgently needs to grasp that when it comes to public safety, secrecy is never the right policy and there is no benefit in trying to go it alone.",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b13e8eb7c8105d8a171c",
+        "source": "The New York Times",
+        "word_count": 352,
+        "lead_paragraph": "Will Beijing's leaders never learn? First, Mattel recalled millions of tainted, Chinese-made toys this week -- just the latest scare over Chinese goods that is raising doubts worldwide about doing business with China. Now there are reports that the Chinese government is withholding information on a fast-spreading virus decimating its pig population, much as it tried to cover up the SARS epidemic in 2003. So far, there are no signs that this virus is a threat to humans, although no one can be sure. What Beijing should have learned in 2003 -- and what it urgently needs to grasp now -- is that when it comes to public safety, secrecy is never the right policy, and there is no benefit at all in trying to go it alone."
+      },
+      {
+        "abstract": "More than million vehicles are ordered off roads of Beijing as part of test to gauge city's preparedness for 2008 Olympic Games; city officials have begun four days of driving restrictions to determine impact on air quality and traffic flow (S)",
+        "headline": {
+          "kicker": "WORLD BRIEFING | ASIA",
+          "main": "China: Cars Banned In Olympics Test"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+          },
+          {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2007-08-18T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9C03E5D91231F93BA2575BC0A9619C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "More than a million vehicles were ordered off the roads of Beijing as part of a test to gauge the city's preparedness for next summer's Olympic Games. With concern mounting that Beijing could be clogged with pollution and traffic during the Olympics,",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b13e8eb7c8105d8a1739",
+        "source": "The New York Times",
+        "word_count": 96,
+        "lead_paragraph": "More than a million vehicles were ordered off the roads of Beijing as part of a test to gauge the city's preparedness for next summer's Olympic Games. With concern mounting that Beijing could be clogged with pollution and traffic during the Olympics, city officials began four days of driving restrictions to determine the impact on air quality and traffic flow. Results will be released later, but traffic was noticeably lighter, reducing some commuting times by half, and air quality seemed better, but a thin gauze of pollution still hung in the air."
+      },
+      {
+        "abstract": "Julia Chaplin travel article on artists who have opened restaurants in Beijing, China; photo (M)",
+        "headline": {"main": "The Fusion on the Menu Is Art and Food"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "RESTAURANTS"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2007-08-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/19/travel/19beijingrestaurants.html",
+        "news_desk": "Travel Desk",
+        "snippet": "Artists-turned-restaurateurs are introducing cuisine from their ancestral provinces to a city where local Mandarin cooking has had a lock on upscale dining.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CHAPLIN",
+            "role": "reported",
+            "firstname": "Julia"
+          }],
+          "original": "By JULIA CHAPLIN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "pay": "n",
+            "caption": "Beijing Prepares to Be Host",
+            "type": "Slideshow",
+            "credit": "The city's hotels and dining scenes are getting ready for the moment when they will be beamed across the globe during the 2008 Summer Olympics.",
+            "url": "http://www.nytimes.com/slideshow/2007/08/19/travel/20070819_BEIJING_SLIDESHOW_index.html",
+            "legacy": {
+              "MultimediaSummary1": "The city's hotels and dining scenes are getting ready for the moment when they will be beamed across the globe during the 2008 Summer Olympics.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaPay1": "n",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Beijing Prepares to Be Host",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2007/08/19/travel/20070819_BEIJING_SLIDESHOW_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/08/19/travel/19rest75.1.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/08/19/travel/19rest75.1.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/08/19/travel/19beij.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2007/08/19/travel/19beij.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd27f008eb7c8105d8489b4",
+        "source": "The New York Times",
+        "word_count": 838,
+        "lead_paragraph": "IT was a familiar art-world ritual. Mint BMWs and Audis snaked down a dark alley off the Second Ring Road in Beijing and pulled up to a gray industrial bunker. Samuel Keller, the director of Art Basel Miami Beach, had just jetted in from Switzerland. The local hotshot painters Liu Ding and Liu Wei were huddled with the Svengali-esque curator Pi Li, and in one corner would-be collectors were chatting with one of China's most renowned contemporary artists, Ai Weiwei. Insiders could be forgiven for mistaking this as yet another gallery opening in art-crazed Beijing, with free-flowing Yen Jing beers, an international crowd and a minimalist interior of stark white walls and bare concrete floors. But then the kitchen doors swung open, and a banquet of Zhejiang province dishes like steam-dried yellow croaker and a wild-mushroom casserole in a fragrant broth poured forth."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Prepares to Be Host"},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "ATHLETICS AND SPORTS"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "FAR EAST, SOUTH AND SOUTHEAST ASIA AND PACIFIC AREAS"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "FAR EAST, SOUTH AND SOUTHEAST ASIA AND PACIFIC AREAS"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2007-08-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2007/08/19/travel/20070819_BEIJING_SLIDESHOW_index.html",
+        "news_desk": null,
+        "snippet": "The city's hotels and dining scenes are getting ready for the moment when they will be beamed across the globe during the 2008 Summer Olympics.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a889a1c22dfde670c20ba",
+        "source": null,
+        "word_count": 35,
+        "lead_paragraph": "The city's hotels and dining scenes are getting ready for the moment when they will be beamed across the globe during the 2008 Summer Olympics."
+      },
+      {
+        "abstract": "Austin Considine travel article offers advice on securing tickets and hotel rooms in Beijing during 2008 Summer Olympics; photo (M)",
+        "headline": {"main": "High-Stakes Olympic Events: Getting Tickets and a Room"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HOTELS AND MOTELS"
+          },
+          {
+            "name": "subject",
+            "value": "TICKET SCALPING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2007-08-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/19/travel/19tickets.html",
+        "news_desk": "Travel Desk",
+        "snippet": "The supply is finite, demand is great and time is getting short.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CONSIDINE",
+            "role": "reported",
+            "firstname": "Austin"
+          }],
+          "original": "By AUSTIN CONSIDINE"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "pay": "n",
+            "caption": "Beijing Prepares to Be Host",
+            "type": "Slideshow",
+            "credit": "The city's hotels and dining scenes are getting ready for the moment when they will be beamed across the globe during the 2008 Summer Olympics.",
+            "url": "http://www.nytimes.com/slideshow/2007/08/19/travel/20070819_BEIJING_SLIDESHOW_index.html",
+            "legacy": {
+              "MultimediaSummary1": "The city's hotels and dining scenes are getting ready for the moment when they will be beamed across the globe during the 2008 Summer Olympics.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaPay1": "n",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Beijing Prepares to Be Host",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2007/08/19/travel/20070819_BEIJING_SLIDESHOW_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/08/19/travel/19tick75.1.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/08/19/travel/19tick75.1.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/08/19/travel/19tick600.1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2007/08/19/travel/19tick600.1.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd260058eb7c8105d8101c7",
+        "source": "The New York Times",
+        "word_count": 1009,
+        "lead_paragraph": "ALTHOUGH the 2008 Summer Olympics, being held in Beijing from Aug. 8 until Aug. 24, are still a full year away, making plans to attend the Games has already come down to a roulettelike gamble of hurry-up-and-wait, with choices narrowing as time goes by. The most important task is securing tickets, which can be difficult. Only a certain number of tickets are allocated to each country, and direct ticket-buying in each is only available to local residents. Unfortunately, the cutoff date for entering the lottery to reserve the exact tickets you want was June 30. But, though there are few guarantees of actually scoring a seat, there are other options if you're willing to compromise on price or on which events you attend."
+      },
+      {
+        "abstract": "Aric Chen travel article on scene in Beijing as city continues construction projects and sprucing up as it prepares for 2008 Summer Olympics; photos (L)",
+        "headline": {"main": "The Road to Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HOTELS AND MOTELS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2007-08-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/19/travel/19beijinghotels.html",
+        "news_desk": "Travel Desk",
+        "snippet": "One year away from the start of the 2008 Summer Olympics, the Chinese capital is getting ready for its star turn on the world\u2019s stage.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CHEN",
+            "role": "reported",
+            "firstname": "Aric"
+          }],
+          "original": "By ARIC CHEN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "pay": "n",
+            "caption": "Beijing Prepares to Be Host",
+            "type": "Slideshow",
+            "credit": "The city's hotels and dining scenes are getting ready for the moment when they will be beamed across the globe during the 2008 Summer Olympics.",
+            "url": "http://www.nytimes.com/slideshow/2007/08/19/travel/20070819_BEIJING_SLIDESHOW_index.html",
+            "legacy": {
+              "MultimediaSummary1": "The city's hotels and dining scenes are getting ready for the moment when they will be beamed across the globe during the 2008 Summer Olympics.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaPay1": "n",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Beijing Prepares to Be Host",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2007/08/19/travel/20070819_BEIJING_SLIDESHOW_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/08/19/travel/19beijinghotel75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/08/19/travel/19beijinghotel75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/08/19/travel/19beijinghotel600.1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2007/08/19/travel/19beijinghotel600.1.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd293a18eb7c8105d86d917",
+        "source": "The New York Times",
+        "word_count": 1451,
+        "lead_paragraph": "LOOMING over the Chaoyang district of Beijing, the rising headquarters of China Central Television, or CCTV, will soon angle and cantilever like a colossal Constructivist doughnut, threatening to writhe free of the scaffolding that barely harnesses it. Designed by Rem Koolhaas and Ole Scheeren of the radical Dutch firm OMA, it will be a gravity-defying, 755-foot-tall monument to architectural derring-do -- an audacious beacon and backdrop from which the images of a newly ascendant China will be beamed across the globe, one year from now, during the 2008 Summer Olympics. But when Beijing finally gets its Olympic moment in the sun, some of the thrills will simply require a room key. Rising next to the CCTV building, and also designed by OMA, the dazzling Television Cultural Center, or TVCC, peaks and plummets like a mountain cloaked in corrugated zinc. And when its ribbon is cut next year, it will be home to one of the most spectacular hotels around: a 241-room Mandarin Oriental that looks like no other. With restaurants and a bar suspended above, its modular curtain of randomly staggered rooms will hypnotically shift in and out of a head-spinning, 21-story atrium, while a circular ballroom, ringed by water, will glimmer down below."
+      },
+      {
+        "abstract": "Kim Probst is first New Yorker named to 2008 Olympic team, and will represent US in synchronized swimming; photos (M)",
+        "headline": {"main": "In Unsteady Waters, a Solid Foundation"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "PROBST, KIM"
+          },
+          {
+            "name": "glocations",
+            "value": "NEW YORK STATE"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SYNCHRONIZED SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2007-08-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/21/sports/othersports/21swim.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Synchronized swimmer Kim Probst was the first New Yorker named to a 2008 Olympic team and the second to qualify officially for Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BERG",
+            "role": "reported",
+            "firstname": "Aimee"
+          }],
+          "original": "By AIMEE BERG"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/08/21/sports/21swim.1.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/08/21/sports/21swim.1.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 320,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/08/21/sports/21swim.1.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 320,
+              "xlarge": "images/2007/08/21/sports/21swim.1.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd27f018eb7c8105d8489fe",
+        "source": "The New York Times",
+        "word_count": 1080,
+        "lead_paragraph": "Unlike a gymnast, who launches into a series of flips and twists by pushing against a solid surface, a synchronized swimmer is forbidden to touch the floor, so stability and propulsion for a lift or a throw must come from a teammate who is known as the base. The base is often supported by six other teammates suspended underwater, whipping their legs like egg-beaters and holding their breath, sometimes in the final seconds of an exhausting four-minute routine. ''But if someone gets kicked or loses her grip or swims the wrong way, the base can't get rattled,'' said Tammy McGregor, coach of the United States synchronized swimming team. ''She has to make split-second decisions to make it happen. She's the one person you can't do the lift without.''"
+      },
+      {
+        "abstract": "Ross Terrill Op-Ed article holds that Beijing is trying to use 2008 Olympic Games as tool to secure authoritarian rule; says regime is trying to banish fractured English and encourage citizens to snitch on people who speak faulty English; argues that Games preparation has spurred repression; says 'troublemakers' and others who might harm picture of socialist harmony will also be banished; contends that Games will likely be well run and successful but says brilliant Games cannot predict future of Chinese Communist rule; drawing (M)",
+        "headline": {
+          "kicker": "OP-ED CONTRIBUTOR",
+          "main": "In Beijing, Orwell Goes to the Olympics"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "LANGUAGE AND LANGUAGES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "ENGLISH LANGUAGE"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "19",
+        "pub_date": "2007-08-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2007/08/22/opinion/22terril.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "The penalty for \u201cChinglish\u201d is usually humiliation. Still, Chinese citizens are asked to snitch, Mao-era style, on those who shame China with their shaky English.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "TERRILL",
+            "role": "reported",
+            "firstname": "Ross"
+          }],
+          "original": "By ROSS TERRILL"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2007/08/22/opinion/22opart.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2007/08/22/opinion/22opart.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 800,
+            "width": 83,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2007/08/22/opinion/22opart.large.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 800,
+              "xlarge": "images/2007/08/22/opinion/22opart.large.jpg",
+              "xlargewidth": 83
+            }
+          }
+        ],
+        "_id": "4fd293a18eb7c8105d86d95c",
+        "source": "The New York Times",
+        "word_count": 1092,
+        "lead_paragraph": "Beijing IN China, language has long been a test of political orthodoxy. In Mao Zedong's era, to confuse evil ''bourgeois'' with virtuous ''proletarian'' was to face a prison cell. Write the Chinese character for a leader's name at a wrong angle and you were a class enemy. Now, as Beijing begins the final year of its preparations for the 2008 Olympic Games, a mistake with an English word is taboo."
+      }
+    ],
+    "meta": {
+      "time": 22,
+      "hits": 82,
+      "offset": 40
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

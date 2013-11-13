@@ -1,0 +1,12 @@
+{
+  "response": {
+    "docs": [],
+    "meta": {
+      "time": 10,
+      "hits": 38,
+      "offset": 40
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

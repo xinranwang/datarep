@@ -1,0 +1,725 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Stocks in China rally, helped by the country's newly announced decision to open its markets to more foreign investment and expectations it might take steps to bolster flagging economic growth. (M)",
+        "headline": {"main": "Indexes Up as China Acts To Lure Foreign Investors"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN INVESTMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "STOCKS AND BONDS"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2012-04-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/04/06/business/global/china-stocks-rise-on-push-to-increase-investment.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "The Shanghai composite index gained 1.7 percent on Thursday and the Shenzhen index rose 3.1 percent.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WASSENER",
+            "role": "reported",
+            "firstname": "Bettina"
+          }],
+          "original": "By BETTINA WASSENER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd100e68eb7c8105d5bbc2c",
+        "source": "The New York Times",
+        "word_count": 658,
+        "lead_paragraph": "HONG KONG -- Stocks in China rallied on Thursday, helped by the country's newly announced decision to open its markets to more foreign investment and expectations that Beijing might soon take additional steps to bolster flagging economic growth. The mainland Chinese market has lagged behind much of the world this year amid worries about the health of the Chinese economy, where growth has slowed sharply in recent months."
+      },
+      {
+        "abstract": "News analysis on China's Communist Party holds that the ouster of Bo Xilai, former party chief in Chongqing, points to possibly the most serious division in the party elite since the leadership upheavals during the 1989 Tiananmen Square protests. Photo (M)",
+        "headline": {
+          "kicker": "NEWS ANALYSIS",
+          "main": "A Populist's Downfall Exposes Ideological Divisions in China's Ruling Party"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BO XILAI"
+          },
+          {
+            "name": "persons",
+            "value": "WEN JIABAO"
+          },
+          {
+            "name": "persons",
+            "value": "WANG LIJUN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "COMMUNIST PARTY OF CHINA"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS, PROTESTS, AND RIOTS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2012-04-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/04/07/world/asia/bo-xilais-ouster-exposes-chinese-fault-lines.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The ouster of Bo Xilai, the party chief in Chongqing, points to possibly the most serious division in the party elite since the leadership upheavals during the 1989 Tiananmen Square protests.",
+        "type_of_material": "An Analysis; News Analysis",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WINES",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL WINES; Sharon LaFraniere and Jonathan Ansfield contributed reporting. Li Bibo contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2012/04/07/world/bo/bo-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2012/04/07/world/bo/bo-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2012/04/07/world/bo/bo-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2012/04/07/world/bo/bo-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd101048eb7c8105d5bc23c",
+        "source": "The New York Times",
+        "word_count": 1125,
+        "lead_paragraph": "BEIJING -- Some Chinese leaders clearly hope that this year will mark another milestone in China's rise under authoritarian rule: the first time that a whole new slate of leaders is chosen largely by consensus among the political elite, not handpicked by a powerful strongman. That selection will in all likelihood still take place when the 18th Communist Party Congress meets this fall. But with the dismissal and investigation last month of Bo Xilai, the party secretary of metropolitan Chongqing, the notions of stability and consensus in China's secretive political system have taken a big and possibly lasting hit."
+      },
+      {
+        "abstract": "Ni Yulan, Chinese rights advocate who was crippled by abuse in prison, is sentenced along with her husband to a new prison term of two years and eight months on charges of creating a disturbance. (M)",
+        "headline": {"main": "China More Jail for Rights Advocate"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "NI YULAN"
+          },
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINESE HUMAN RIGHTS DEFENDERS"
+          },
+          {
+            "name": "organizations",
+            "value": "EUROPEAN UNION"
+          },
+          {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "HUMAN RIGHTS AND HUMAN RIGHTS VIOLATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2012-04-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/04/11/world/asia/advocate-for-rights-given-prison-term-in-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A Beijing court on Tuesday sentenced Ni Yulan, a housing rights advocate, and her husband on charges of creating a disturbance, an advocacy group said.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "DREW",
+            "role": "reported",
+            "firstname": "Kevin"
+          }],
+          "original": "By KEVIN DREW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1006c8eb7c8105d5bb19e",
+        "source": "The New York Times",
+        "word_count": 457,
+        "lead_paragraph": "HONG KONG -- Ni Yulan, a rights advocate who was crippled by abuse in prison and was later left homeless on the streets of Beijing, was sentenced by a Chinese court on Tuesday to a new prison term of two years and eight months, an advocacy group said. The court, in the Xicheng district of Beijing, sentenced Ms. Ni and her husband, Dong Jiqin, on charges of creating a disturbance, and Ms. Ni alone on an additional fraud charge, according to Chinese Human Rights Defenders, a group based in Hong Kong. Mr. Dong's sentence is for two years."
+      },
+      {
+        "abstract": "Ai Weiwei, China's most famous rebel artist, files lawsuit against Beijing tax authorities for violating his rights in bringing a tax case against him; tax officials claim Ai's company Beijing Fake Cultural Development Ltd owes $2.4 million in back taxes and penalties. (M)2",
+        "headline": {
+          "kicker": "WORLD BRIEFING | ASIA",
+          "main": "China: An Artist Fights Back"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "AI WEIWEI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING FAKE CULTURAL DEVELOPMENT LTD"
+          },
+          {
+            "name": "subject",
+            "value": "INCOME TAX"
+          },
+          {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2012-04-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/04/14/world/asia/china-artist-ai-weiwei-fights-back.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Ai Weiwei said Friday that he had filed a lawsuit with two courts against the Beijing tax authorities for violating his rights in bringing a tax case against him.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1006d8eb7c8105d5bb230",
+        "source": "The New York Times",
+        "word_count": 136,
+        "lead_paragraph": "Ai Weiwei, China's most famous rebel artist, said Friday that he had filed a lawsuit with two courts against the Beijing tax authorities for violating his rights in bringing a tax case against him. Tax officials have said Mr. Ai's company, Beijing Fake Cultural Development Ltd., owes the equivalent of $2.4 million in back taxes and penalties. Mr. Ai says he does not owe that amount and has insisted that his wife, Lu Qing, is formally in charge of the company. Tax officials recently rejected an appeal filed by Mr. Ai. He said Friday that he was filing his lawsuit based on the fact that the tax authorities had not followed proper procedures in bringing their case against him. Mr. Ai said both courts promised to deliver an answer in one week."
+      },
+      {
+        "abstract": "The dissident artist Ai Weiwei has thrown down another bold challenge to the Chinese authorities with a new essay that assails Beijing over its suppression of dissent and censorship of the Internet. He writes, \"The government computer has one button: delete.\"",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Ai Weiwei on the Pen and the Gun"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Blogs and Blogging (Internet)"
+          },
+          {
+            "rank": "10",
+            "name": "organizations",
+            "value": "Economist, The"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Brin, Sergey"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Ai Weiwei"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Freedom of the Press"
+          },
+          {
+            "rank": "14",
+            "name": "glocations",
+            "value": "Saudi Arabia"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Human Rights and Human Rights Violations"
+          },
+          {
+            "rank": "13",
+            "name": "glocations",
+            "value": "Iran"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Politics and Government"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "Surveillance of Citizens by Government"
+          },
+          {
+            "rank": "12",
+            "name": "glocations",
+            "value": "China"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-04-15T23:25:19Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/04/15/ai-weiwei-on-the-pen-and-the-gun/",
+        "news_desk": null,
+        "snippet": "The dissident artist Ai Weiwei has thrown down another bold challenge to the Chinese authorities with a new essay that assails Beijing over its suppression of dissent and censorship of the Internet. He writes, \"The government computer has one button:",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a3dd8eb7c8105d8edb32",
+        "source": "The New York Times",
+        "word_count": 807,
+        "lead_paragraph": "HONG KONG - When we last looked in on Ai Weiwei, the rebellious Chinese artist was suing the Beijing tax authorities over their charges against him. The Public Security folks had pulled the plug on Weiweicam, his project that was streaming live video feeds from inside his house to the Internet. He has continued to break the rules of his release from prison, blaming his lack of self-discipline, telling The Economist, \"C'mon, I can't even lose weight!\""
+      },
+      {
+        "abstract": "The compact four-door sedan is the latest indication of the automaker's plan to revamp the bottom of its product line.",
+        "headline": {
+          "kicker": "Wheels",
+          "main": "Beijing Auto Show Preview: Mercedes Concept Style Coupe"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "Mercedes-Benz"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Small Cars (Compact, Subcompact and Microcars)"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Automobiles"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-04-19T02:00:18Z",
+        "web_url": "http://wheels.blogs.nytimes.com/2012/04/19/beijing-auto-show-preview-mercedes-concept-style-coupe/",
+        "news_desk": null,
+        "snippet": "The compact four-door sedan is the latest indication of the automaker's plan to revamp the bottom of its product line.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Autos",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SCHULTZ",
+            "role": "reported",
+            "firstname": "Jonathan"
+          }],
+          "original": "By JONATHAN SCHULTZ"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a41f8eb7c8105d8ee5eb",
+        "source": "The New York Times",
+        "word_count": 332,
+        "lead_paragraph": "Two years ago at the Beijing auto show, Mercedes-Benz stretched the form language, as well as the spelling, of the shooting brake body style with a design study it called the Concept Shooting Break. Now the German automaker is poised to rekindle the semantics wars with the Concept Style Coupe, a compact four-door vehicle scheduled to make its official debut in Beijing on April 23."
+      },
+      {
+        "abstract": "John Clang used paper doll cut-outs of Beijing residents and then photographed them in places like Herald Square, echoing the immigrant experience in New York.",
+        "headline": {
+          "kicker": "The 6th Floor",
+          "main": "Beijingers in New York"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Photography"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Asian-Americans"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "New York City"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-04-19T11:07:55Z",
+        "web_url": "http://6thfloor.blogs.nytimes.com/2012/04/19/beijingers-in-new-york/",
+        "news_desk": null,
+        "snippet": "John Clang used paper doll cut-outs of Beijing residents and then photographed them in places like Herald Square, echoing the immigrant experience in New York.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Magazine",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MILTER",
+            "role": "reported",
+            "firstname": "Joanna"
+          }],
+          "original": "By JOANNA MILTER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a4088eb7c8105d8ee337",
+        "source": "The New York Times",
+        "word_count": 268,
+        "lead_paragraph": "The photographer John Clang both loves and loathes Photoshop. \"It allows you to do all kinds of things that weren't possible before,\" he says, \"but sometimes photographers rely on it too much.\" Clang, whose work appears in the magazine's special health issue this weekend, frequently turns to Adobe's ubiquitous postproduction program to make high-concept photographs, but he gets a special thrill when he figures out a way to create conceptual images using old-fashioned, in-camera tricks."
+      },
+      {
+        "abstract": "India's successful test of a long-range ballistic missile capable of carrying a nuclear warhead is the latest escalation of an arms race in Asia, where the assertiveness and rising military power of China has rattled the region and prompted a forceful response from the Obama administration; by launching the Agni 5, a ballistic missile capable of reaching Beijing and Shanghai, India joins a small club of nations with long-range nuclear capability. Map, Chart, Photo (M)",
+        "headline": {"main": "Signs Of Buildup In Missile Firing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "INDIA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "NUCLEAR WEAPONS"
+          },
+          {
+            "name": "subject",
+            "value": "MISSILES AND MISSILE DEFENSE SYSTEMS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2012-04-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/04/20/world/asia/india-says-it-successfully-tests-nuclear-capable-missile.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "With the launching of the missile, called the Agni 5, India joins a small group of countries with long-range nuclear missile capability, including China, Britain, France, Russia, Israel and the United States.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "TIMMONS",
+              "role": "reported",
+              "firstname": "Heather"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "YARDLEY",
+              "role": "reported",
+              "firstname": "Jim"
+            }
+          ],
+          "original": "By HEATHER TIMMONS and JIM YARDLEY; Heather Timmons reported from New Delhi, and Jim Yardley from Dhaka, Bangladesh. Reporting was contributed by Hari Kumar, Sruthi Gottipati and Nikhila Gill from New Delhi, Kevin Drew from Hong Kong, and William J. Broad from New York"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2012/04/20/world/18india-image/18india-image-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2012/04/20/world/18india-image/18india-image-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd101258eb7c8105d5bc60d",
+        "source": "The New York Times",
+        "word_count": 1293,
+        "lead_paragraph": "NEW DELHI -- India's successful test on Thursday of a long-range ballistic missile capable of carrying a nuclear warhead is the latest escalation of an arms race in Asia, where the assertiveness and rising military power of China has rattled the region and prompted a forceful response from the Obama administration. By launching the Agni 5, a ballistic missile capable of reaching Beijing and Shanghai, India joined a small club of nations with long-range nuclear capability, including China, Britain, France, Russia, Israel and the United States. The missile was launched Thursday morning from a small island off India's eastern coast, a day after the test had been scratched because of weather."
+      },
+      {
+        "abstract": "The Urus, if produced, would follow the LM002, the Italian automaker's first S.U.V., but would emphasize down-the-road speed over off-road prowess.",
+        "headline": {
+          "kicker": "Wheels",
+          "main": "Beijing Auto Show Preview: Lamborghini Urus Concept Hints at Hyper-S.U.V."
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "Automobili Lamborghini SpA"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Sports Utility Vehicles and Light Trucks"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Automobiles"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "Volkswagen AG"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "7",
+            "name": "unknown",
+            "value": "Volkswagen AG|VLKAY|Other OTC"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-04-20T19:39:04Z",
+        "web_url": "http://wheels.blogs.nytimes.com/2012/04/20/beijing-auto-show-preview-lamborghini-urus-concept-hints-at-hyper-s-u-v/",
+        "news_desk": null,
+        "snippet": "The Urus, if produced, would follow the LM002, the Italian automaker's first S.U.V., but would emphasize down-the-road speed over off-road prowess.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Autos",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KURCZEWSKI",
+            "role": "reported",
+            "firstname": "Nick"
+          }],
+          "original": "By NICK KURCZEWSKI"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a3e98eb7c8105d8edd30",
+        "source": "The New York Times",
+        "word_count": 466,
+        "lead_paragraph": "8:05 a.m. | Updated"
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "CURRENTS",
+          "main": "How Mao Became a Hipster Icon"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "MAO ZEDONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CULTURAL REVOLUTION"
+          },
+          {
+            "name": "subject",
+            "value": "CONSUMER BEHAVIOR"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-04-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/04/21/world/asia/21iht-currents21.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "He\u2019s popular among punk-rock girls and hipster boys who run vintage boutiques. Why is Chairman Mao, who oversaw such a dark period of Chinese history, so fashionable among Beijing\u2019s youth?",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "GIRIDHARADAS",
+            "role": "reported",
+            "firstname": "Anand"
+          }],
+          "original": "By ANAND GIRIDHARADAS"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2012/04/21/global-home/21iht-currents-image/21iht-currents-image-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2012/04/21/global-home/21iht-currents-image/21iht-currents-image-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd100eb8eb7c8105d5bbf61",
+        "source": "International Herald Tribune",
+        "word_count": 1024,
+        "lead_paragraph": "BEIJING -- The D.J. with the bob haircut and sparkling leggings considers the question. Smoke from her waifish cigarette curls skyward. It's shortly after 2 p.m., and she has only recently awoken. She is explaining why, in addition to disco music and vintage clothes, she counts herself a fan of the long-departed Chairman Mao. ''Some people say Mao was a punk,'' Sun Peipei finally offers. She intends this as a compliment. She's a punk, too."
+      }
+    ],
+    "meta": {
+      "time": 11,
+      "hits": 167,
+      "offset": 40
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

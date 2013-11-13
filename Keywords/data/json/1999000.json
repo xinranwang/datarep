@@ -1,0 +1,648 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Outpouring of support for Beijing's pigeon population follows unsolved poisoning of 118 birds in public plaza; photo (Beijing Journal) (M)",
+        "headline": {"main": "Beijing Journal; China's Pigeons Perch on Pedestal, Not Just Statues"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "PIGEONS"
+          },
+          {
+            "name": "subject",
+            "value": "POISONING AND POISONS"
+          },
+          {
+            "name": "subject",
+            "value": "BIRDS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1999-01-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/01/09/world/beijing-journal-china-s-pigeons-perch-on-pedestal-not-just-statues.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "In New York it might have seemed like a mysterious blessing, but here it was regarded as a most malignant curse.     Recently 118 pigeons that made their home in a public plaza outside a gleaming glass shopping mall suddenly became listless and died.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd223d38eb7c8105d7a9b93",
+        "source": "The New York Times",
+        "word_count": 1122,
+        "lead_paragraph": "In New York it might have seemed like a mysterious blessing, but here it was regarded as a most malignant curse. Recently 118 pigeons that made their home in a public plaza outside a gleaming glass shopping mall suddenly became listless and died."
+      },
+      {
+        "abstract": "Mayor of Shanghai, China, says state-owned investment companies in his city are solvent, in contrast with those in southern province of Guangdong; Mayor Xu Kuangdi hopes to ease international concern about health of China's financial institutions; stock and bond markets in Asia feed on rumors that China might devalue its currency after recent devaluation of Brazil's currency; John Pinkel, financial analyst, says it is unlikely that Beijing would consider potentially disruptive move such as devaluation amid concern about coming 10th anniversary of Tiananmen Square crackdown (M)",
+        "headline": {
+          "kicker": "INTERNATIONAL BUSINESS",
+          "main": "Mayor Says Shanghai Investment Companies Are Healthy"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "XU KUANGDI"
+          },
+          {
+            "name": "persons",
+            "value": "PINKEL, JOHN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "GUANGDONG PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "CURRENCY"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "BANKRUPTCIES"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "1999-01-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/01/26/business/international-business-mayor-says-shanghai-investment-companies-are-healthy.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "In an effort to ease international concern about the health of China's financial institutions, the Mayor of Shanghai said today that state-owned investment companies in the nation's largest city were solvent, in contrast with those in the southern pr",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FAISON",
+            "role": "reported",
+            "firstname": "Seth"
+          }],
+          "original": "By SETH FAISON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20d888eb7c8105d77e177",
+        "source": "The New York Times",
+        "word_count": 656,
+        "lead_paragraph": "In an effort to ease international concern about the health of China's financial institutions, the Mayor of Shanghai said today that state-owned investment companies in the nation's largest city were solvent, in contrast with those in the southern province of Guangdong. Mayor Xu Kuangdi acknowledged that the recent closing of the Guangdong International Trust and Investment Company, or Gitic, had caused widespread concern among China's provincial leaders, many of whom have started attending finance classes in Beijing."
+      },
+      {
+        "abstract": "Henry R Luce Foundation gives Solomon R Guggenheim Museum $750,000 as two-year grant for first comprehensive survey of American art to be presented in China; exhibition, America 300, is scheduled to open in Beijing next year and travel to Shanghai; Museum for African Art will mount show of African art in time for Black History Month in February and portraits of African and African-American women in time for Women's History Month in March; Ted Hughes wins Whitbread Book of the Year award posthumously for his collection of poems, Birthday Letters; Theater Hall of Fame will induct its class of 1999; honorees are Alexander H Cohen, Charles Durning, Richard Kiley, Tom Jones, Harvey Schmidt, Robin Wagner and, posthumously, Ellis Rabb; photo (M)",
+        "headline": {"main": "FOOTLIGHTS"},
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "BIRTHDAY LETTERS (BOOK)"
+          },
+          {
+            "name": "persons",
+            "value": "DURNING, CHARLES"
+          },
+          {
+            "name": "persons",
+            "value": "COHEN, ALEXANDER H"
+          },
+          {
+            "name": "persons",
+            "value": "WAGNER, ROBIN"
+          },
+          {
+            "name": "persons",
+            "value": "SCHMIDT, HARVEY"
+          },
+          {
+            "name": "persons",
+            "value": "KILEY, RICHARD"
+          },
+          {
+            "name": "persons",
+            "value": "JONES, TOM"
+          },
+          {
+            "name": "persons",
+            "value": "RABB, ELLIS"
+          },
+          {
+            "name": "persons",
+            "value": "HUGHES, TED"
+          },
+          {
+            "name": "glocations",
+            "value": "AFRICA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "MUSEUM FOR AFRICAN ART"
+          },
+          {
+            "name": "organizations",
+            "value": "GUGGENHEIM MUSEUM"
+          },
+          {
+            "name": "organizations",
+            "value": "LUCE, HENRY R, FOUNDATION"
+          },
+          {
+            "name": "subject",
+            "value": "WHITBREAD BOOK OF THE YEAR (AWARD)"
+          },
+          {
+            "name": "subject",
+            "value": "POETRY AND POETS"
+          },
+          {
+            "name": "subject",
+            "value": "BLACKS"
+          },
+          {
+            "name": "subject",
+            "value": "BOOKS AND LITERATURE"
+          },
+          {
+            "name": "subject",
+            "value": "HALLS OF FAME"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "PHOTOGRAPHY"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          },
+          {
+            "name": "subject",
+            "value": "THEATER HALL OF FAME"
+          },
+          {
+            "name": "subject",
+            "value": "AWARDS, DECORATIONS AND HONORS"
+          },
+          {
+            "name": "subject",
+            "value": "THEATER"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1999-01-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/01/28/theater/footlights.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": " NEWS    Helping Hand  From the Henry R. Luce Foundation to the Solomon R. Guggenheim Museum: $750,000. The money is a two-year grant for the first comprehensive survey of American art to be presented in China. The exhibition, ''America 300,'' is ten",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts; Theater; Books",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Van",
+            "role": "reported",
+            "lastname": "GELDER",
+            "firstname": "Lawrence"
+          }],
+          "original": "By LAWRENCE VAN GELDER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20d868eb7c8105d77e002",
+        "source": "The New York Times",
+        "word_count": 443,
+        "lead_paragraph": "NEWS Helping Hand From the Henry R. Luce Foundation to the Solomon R. Guggenheim Museum: $750,000. The money is a two-year grant for the first comprehensive survey of American art to be presented in China. The exhibition, ''America 300,'' is tentatively scheduled to open in Beijing next year and travel to Shanghai. The show will comprise art from the Colonial period to the present and cover all the major art movements, including the Hudson River School, American Impressionism and Abstract Expressionism. Among the 150 artists to be represented are Frederic Church, Albert Bierstadt, Thomas Eakins, Winslow Homer, Georgia O'Keeffe, Edward Hopper, Robert Rauschenberg, Frank Stella, Ellsworth Kelly, Carl Andre and Andy Warhol. The grant will support the exhibition and its catalogue."
+      },
+      {
+        "abstract": "Lotteries are being held in Beijing and other cities across China as part of Lunar New Year festivities, drawing hundreds of thousands of hopeful participants; Government, which has discovered a politically painless way to supplement its revenues even as it supposedly maintains general ban on gambling, estimates that lotteries scheduled between Oct 1998 and June 1999 will sell tickets equivalent to $1.20 for every Chinese, or close to $1.5 billion; photos (M)",
+        "headline": {"main": "Beijing Journal; The Chinese Chase a Ticket to Bliss (That's a Car)"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "GAMBLING"
+          },
+          {
+            "name": "subject",
+            "value": "FINANCES"
+          },
+          {
+            "name": "subject",
+            "value": "LOTTERIES"
+          },
+          {
+            "name": "subject",
+            "value": "LUNAR NEW YEAR"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1999-02-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/02/18/world/beijing-journal-the-chinese-chase-a-ticket-to-bliss-that-s-a-car.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Cameras crowding in, his thin body nearly overwhelmed by the giant red bow someone had draped across his chest, the old man wore a grin as wide as his ears.    Hu Muqin, 63, was the third winner the other morning of a gleaming new $15,000 Citroen -- ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1f4038eb7c8105d74cb38",
+        "source": "The New York Times",
+        "word_count": 875,
+        "lead_paragraph": "Cameras crowding in, his thin body nearly overwhelmed by the giant red bow someone had draped across his chest, the old man wore a grin as wide as his ears. Hu Muqin, 63, was the third winner the other morning of a gleaming new $15,000 Citroen -- the top prize in the public lotteries that Beijing and many other Chinese cities are holding all this week to raise money for victims of last year's floods."
+      },
+      {
+        "abstract": "Photo of migrant workers being arrested by Beijing police as record number of unemployed workers in countryside seek jobs in cities but lack work permits to do so",
+        "headline": {"main": "China Arrests Migrant Workers"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "LABOR"
+          },
+          {
+            "name": "subject",
+            "value": "MIGRANT LABOR"
+          },
+          {
+            "name": "subject",
+            "value": "UNEMPLOYMENT"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "1999-03-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/03/05/world/china-arrests-migrant-workers.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Photo of migrant workers being arrested by Beijing police as record number of unemployed workers in countryside seek jobs in cities but lack work permits to do so",
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1e87e8eb7c8105d736ec3",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Lucent Inc and Motorola Inc sign pacts valued at some $20 million to expand mobile phone networks in China based on CDMA standard; Lucent will supply base station equipment, software and management services to existing network in Guangdong; Motorola will sell equipment to build 35 more base stations for its network in Beijing (S)",
+        "headline": {"main": "China Mobile Phone Deals"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "GUANGDONG PROVINCE (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "LUCENT TECHNOLOGIES INC"
+          },
+          {
+            "name": "organizations",
+            "value": "MOTOROLA INC"
+          },
+          {
+            "name": "subject",
+            "value": "CELLULAR TELEPHONES"
+          },
+          {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1999-04-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/04/03/business/china-mobile-phone-deals.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Lucent Inc. and Motorola Inc. signed contracts today valued at approximately $20 million to expand mobile telephone networks in China based on the C.D.M.A. standard. Lucent will supply base station equipment, software and management services to an ex",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20b7a8eb7c8105d779bcf",
+        "source": "Bloomberg News",
+        "word_count": 74,
+        "lead_paragraph": "Lucent Inc. and Motorola Inc. signed contracts today valued at approximately $20 million to expand mobile telephone networks in China based on the C.D.M.A. standard. Lucent will supply base station equipment, software and management services to an existing network in the southern province of Guangdong. Motorola will sell equipment to build an additional 35 base stations for its network in Beijing, the New China news agency reported. C.D.M.A. stands for code division multiple access."
+      },
+      {
+        "abstract": "Lowe & Parnters Worldwide to open office in Beijing; Publicis SA acquires 60 percent interest in two Asian agencies (S)",
+        "headline": {
+          "kicker": "THE MEDIA BUSINESS: ADVERTISING -- ADDENDA",
+          "main": "Miscellany"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "PUBLICIS SA"
+          },
+          {
+            "name": "organizations",
+            "value": "LOWE & PARTNERS WORLDWIDE"
+          },
+          {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "1999-04-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/04/05/business/the-media-business-advertising-addenda-miscellany.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": " * Lowe & Partners Worldwide, London, part of the Lowe Group unit of the Interpublic Group of Companies, and Lowe & Partners/Live, Hong Kong, are opening an office in Beijing under the latter name.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Napoli",
+            "role": "reported",
+            "firstname": "Lisa"
+          }],
+          "original": "By Lisa Napoli"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20b798eb7c8105d779ad9",
+        "source": "The New York Times",
+        "word_count": 112,
+        "lead_paragraph": "* Lowe & Partners Worldwide, London, part of the Lowe Group unit of the Interpublic Group of Companies, and Lowe & Partners/Live, Hong Kong, are opening an office in Beijing under the latter name."
+      },
+      {
+        "abstract": "Beijing city planners ban hatchbacks on central Changan Avenue during daylight hours, as Tiananmen Square undergoes sprucing-up for China's 50th anniversary of Communist rule; need to reduce traffic on normally congested avenue by 20 percent to help beautification projects that line street; map; photo (M)",
+        "headline": {"main": "Beijing Journal; Why China Picks on the Hatchbacks"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1999-04-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/04/17/world/beijing-journal-why-china-picks-on-the-hatchbacks.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "All morning long, a steady stream of grumpy, forlorn-looking drivers dutifully steered their cars out of the flowing traffic on Changan Avenue, made a sweeping right turn and landed in the far-as-you-can-see gridlock of the Second Ring Road.    Young",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20a088eb7c8105d776c99",
+        "source": "The New York Times",
+        "word_count": 998,
+        "lead_paragraph": "All morning long, a steady stream of grumpy, forlorn-looking drivers dutifully steered their cars out of the flowing traffic on Changan Avenue, made a sweeping right turn and landed in the far-as-you-can-see gridlock of the Second Ring Road. Young and old, prosperous and poor, the motorists had one thing in common: the bad luck to be riding in a hatchback car."
+      },
+      {
+        "abstract": "Chinese Government's 'beautification' program in Beijing includes demolition of street markets in city, where scores of vendors, mostly all of them migrants, sell their wares; program is ostensibly in preparation for celebration of 50th anniversary of founding of People's Republic on Oct 1, but it is also part of master plan to cut number of rural migrantsliving and working in city; one of implicit motives in expelling migrants is to open up more low-end jobs for permanent residents; photo (M)",
+        "headline": {"main": "As Beijing Pretties Up, Migrants Face Expulsion"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "VENDORS, STREET"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "1999-04-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/04/18/world/as-beijing-pretties-up-migrants-face-expulsion.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "''How can they get rid of us?'' said a disbelieving Yang Zhuju, sitting with her shoe-repair equipment in the ruins of the Dragon Temple street market. ''What we do benefits the everyday life of Beijing residents.''    Ms. Yang, 36, moved here a deca",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20b798eb7c8105d779af7",
+        "source": "The New York Times",
+        "word_count": 991,
+        "lead_paragraph": "''How can they get rid of us?'' said a disbelieving Yang Zhuju, sitting with her shoe-repair equipment in the ruins of the Dragon Temple street market. ''What we do benefits the everyday life of Beijing residents.'' Ms. Yang, 36, moved here a decade ago from a village in southern China. Along with scores of other vendors, virtually all of them migrants, she sat along this street in western Beijing next to a pile of concrete rubble the other day -- all that remained of the stall she had built for her shoe-repair business, which she had been forced to tear down."
+      },
+      {
+        "abstract": "Human rights advocates fail to secure condemnation of United Nations Human Rights Commission of China's rights record; this is eighth time China has succeeded in avoiding full-blown scrutiny on human rights in resolutions brought before commission since military suppression of pro-democracy demonstrations at Tiananmen Square in 1989; despite latest defeat, United States narrowed margin of China's victory this year to five votes; two years ago, China won by 10 votes; resolution condemning rights record in Cuba is adopted, in 22-to-21 vote; Iraq's rights record is condemened, 35 to 0, and resolution criticizing Iran's rights record passes, 23 to 16, with 14 abstentions (M)",
+        "headline": {"main": "China Escapes Censure in Vote by U.N. Human Rights Agency"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "IRAQ"
+          },
+          {
+            "name": "glocations",
+            "value": "IRAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CUBA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS HUMAN RIGHTS COMMISSION"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "1999-04-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/04/24/world/china-escapes-censure-in-vote-by-un-human-rights-agency.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Human rights advocates failed to secure international condemnation of China's rights record today, but they eked out, by one vote, a censure of Cuba by the United Nations' top rights organization.    China was able to evade criticism at the United Na",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "OLSON",
+            "role": "reported",
+            "firstname": "Elizabeth"
+          }],
+          "original": "By ELIZABETH OLSON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1e91a8eb7c8105d7373ed",
+        "source": "The New York Times",
+        "word_count": 524,
+        "lead_paragraph": "Human rights advocates failed to secure international condemnation of China's rights record today, but they eked out, by one vote, a censure of Cuba by the United Nations' top rights organization. China was able to evade criticism at the United Nations Human Rights Commission when member nations backed its ''no action'' motion, which blocked any debate on complaints against it. This was the eighth time since such resolutions were first brought after the military suppression of pro-democracy demonstrators at Tiananmen Square in 1989 that China succeeded in avoiding full-blown scrutiny on human rights."
+      }
+    ],
+    "meta": {
+      "time": 96,
+      "hits": 55,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

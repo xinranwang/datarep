@@ -1,0 +1,745 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Small group of artists who held protest in Beijing against forced evictions will be compensated for giving up claims to property; protested in late February after being attacked by group of 100 men, who artists claim were sent by real estate developer who wanted land (S)",
+        "headline": {"main": "World Briefing | ASIA; China: Group of Artists to Be Compensated for Land"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "AI WEIWEI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "EVICTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS, PROTESTS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          },
+          {
+            "name": "subject",
+            "value": "HOUSING AND REAL ESTATE"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2010-03-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/03/16/world/asia/16beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A small group who held a daring protest in Beijing last month is getting compensation for giving up claims to property, a representative of the artists said Monday.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27be48eb7c8105d841b63",
+        "source": "The New York Times",
+        "word_count": 493,
+        "lead_paragraph": "BEIJING -- A small group of artists who held a daring protest in the heart of Beijing against forced evictions last month will be compensated for giving up claims to property, a representative of the artists said Monday. The group, from an art district known as Zheng Yang, negotiated the compensation after a single meeting with local officials, said Zhang Jun, the representative. That group, along with artists from a district called 008, protested along a wide ceremonial avenue, Chang'an Jie, that runs between Tiananmen Square and the Forbidden City in late February after about 100 men wearing white masks and armed with iron rods swarmed through the two districts and beat several artists."
+      },
+      {
+        "abstract": "Garrett Weber-Gale, a gold medalist in swimming, wrote on his blog, \"In my experience, eating in the dining hall at the Beijing Olympics, I've seen firsthand that many athletes do in fact eat McDonald's,\"",
+        "headline": {
+          "kicker": "Media Decoder",
+          "main": "Olympian Weighs In on 'Eat Like Olympians'"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "organizations",
+            "value": "YouTube.com"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Olympic Games (2008)"
+          },
+          {
+            "rank": "10",
+            "name": "organizations",
+            "value": "United States Olympic Committee"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Obesity"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Weber-Gale, Garrett"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Olympic Games (2010)"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Swimming"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "13",
+            "name": "glocations",
+            "value": "Vancouver (British Columbia)"
+          },
+          {
+            "rank": "8",
+            "name": "organizations",
+            "value": "McDonald's Corp"
+          },
+          {
+            "rank": "9",
+            "name": "organizations",
+            "value": "NBC Universal"
+          },
+          {
+            "rank": "12",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-03-17T16:51:49Z",
+        "web_url": "http://mediadecoder.blogs.nytimes.com/2010/03/17/olympian-weighs-in-on-eat-like-olympians/",
+        "news_desk": null,
+        "snippet": "Garrett Weber-Gale, a gold medalist in swimming, wrote on his blog, \"In my experience, eating in the dining hall at the Beijing Olympics, I've seen firsthand that many athletes do in fact eat McDonald's,\"",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ELLIOTT",
+            "role": "reported",
+            "firstname": "Stuart"
+          }],
+          "original": "By STUART ELLIOTT"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd399aa8eb7c8105d8d5dc4",
+        "source": "The New York Times",
+        "word_count": 404,
+        "lead_paragraph": "One of the biggest sponsors of the coverage of the Vancouver Olympics on NBC Universal last month was McDonald's, which ran a couple of commercials for Chicken McNuggets dozens of times. The spots invited viewers to \"eat like Olympians\" and promised that \"you don't have to be an Olympic athlete to eat like one.\""
+      },
+      {
+        "abstract": "More and more American high-tech companies and their engineers are being drawn to China as it develops high-tech economy that increasingly competes directly with United States; some American companies are even making deals with Chinese companies to license Chinese technology; Chinese market is surging for electricity, cars, and much more, and companies are concluding that their researchers need to be close to factories and consumers alike; Applied Materials, one of Silicon Valley's most prominent firms and world's biggest supplier of equipment used to make semiconductors, solar panels and flat-panel displays, has built its newest and largest research labs in Xian, and estimates that China will be producing two-thirds of world's solar panels by end of 2010; China has become world's largest auto market; General Motors has large and growing auto research center in Shanghai; country is also biggest market for desktop computers and has most Internet users, prompting Intel to open research labs in Beijing for semiconductors and server networks; not just drawn by China's markets, US companies are also attracted to China's huge reservoirs of cheap, highly skilled engineers--and subsidies offered by many Chinese cities and regions, particularly for green energy companies; photo (M)",
+        "headline": {"main": "As China Surges, It Draws High-Tech Researchers From America"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "SILICON VALLEY (CALIF)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "XIAN (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "GENERAL MOTORS CORP"
+          },
+          {
+            "name": "organizations",
+            "value": "INTEL CORP"
+          },
+          {
+            "name": "organizations",
+            "value": "APPLIED MATERIALS INC"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTER CHIPS"
+          },
+          {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+          },
+          {
+            "name": "subject",
+            "value": "LABORATORIES AND SCIENTIFIC EQUIPMENT"
+          },
+          {
+            "name": "subject",
+            "value": "LABOR"
+          },
+          {
+            "name": "subject",
+            "value": "ALTERNATIVE AND RENEWABLE ENERGY"
+          },
+          {
+            "name": "subject",
+            "value": "FACTORIES AND INDUSTRIAL PLANTS"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "SOLAR ENERGY"
+          },
+          {
+            "name": "subject",
+            "value": "RESEARCH"
+          },
+          {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+          },
+          {
+            "name": "subject",
+            "value": "LABOR AND JOBS"
+          },
+          {
+            "name": "subject",
+            "value": "ENGINEERING AND ENGINEERS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2010-03-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/03/18/business/global/18research.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "American companies with factories in China are now building high-tech research labs there as well.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Front Page; Business; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b67c8eb7c8105d8aa4e8",
+        "source": "The New York Times",
+        "word_count": 1122,
+        "lead_paragraph": "XIAN, China -- For years, many of China's best and brightest left for the United States, where high-tech industry was more cutting-edge. But Mark R. Pinto is moving in the opposite direction. Mr. Pinto is the first chief technology officer of a major American tech company to move to China. The company, Applied Materials, is one of Silicon Valley's most prominent firms. It supplied equipment used to perfect the first computer chips. Today, it is the world's biggest supplier of the equipment used to make semiconductors, solar panels and flat-panel displays."
+      },
+      {
+        "abstract": "Nine months after they scrapped a $19.5 billion tie-up, the Anglo-Australian mining giant Rio Tinto and Chinalco of China reached a deal Friday to jointly develop an iron ore project in the West African country of Guinea.",
+        "headline": {
+          "kicker": "DealBook",
+          "main": "Chinalco and Rio Tinto Team Up for Guinea Ore"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Rio Tinto PLC"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Aluminum Corp. of China"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Guinea"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "unknown",
+            "value": "Rio Tinto PLC|RTP|NYSE"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-03-19T03:15:57Z",
+        "web_url": "http://dealbook.nytimes.com/2010/03/19/chinalco-and-rio-tinto-team-up-for-guinea-ore/",
+        "news_desk": null,
+        "snippet": "Nine months after they scrapped a $19.5 billion tie-up, the Anglo-Australian mining giant Rio Tinto and Chinalco of China reached a deal Friday to jointly develop an iron ore project in the West African country of Guinea.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Business Day",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By DEALBOOK"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd39a5b8eb7c8105d8d7808",
+        "source": "The New York Times",
+        "word_count": 346,
+        "lead_paragraph": "If you can't buy them, join them."
+      },
+      {
+        "abstract": "Aric Chen reviews Aman at Summer Palace resort in Beijing; photo (M)",
+        "headline": {
+          "kicker": "CHECK IN, CHECK OUT",
+          "main": "Beijing: Aman at Summer Palace"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "AMAN AT SUMMER PALACE"
+          },
+          {
+            "name": "subject",
+            "value": "REVIEWS"
+          },
+          {
+            "name": "subject",
+            "value": "HOTELS AND MOTELS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2010-03-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/03/21/travel/21checkin-1.html",
+        "news_desk": "Travel Desk",
+        "snippet": "For a getaway within Beijing, there\u2019s no better place to claim your own mandate of heaven.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CHEN",
+            "role": "reported",
+            "firstname": "Aric"
+          }],
+          "original": "By ARIC CHEN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 434,
+          "width": 650,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2010/03/21/travel/21checkin2/21checkin2-popup.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 434,
+            "xlarge": "images/2010/03/21/travel/21checkin2/21checkin2-popup.jpg",
+            "xlargewidth": 650
+          }
+        }],
+        "_id": "4fd27d988eb7c8105d8456a3",
+        "source": "The New York Times",
+        "word_count": 574,
+        "lead_paragraph": "THE BASICS It's not every day you get to stay somewhere with an imperial garden as your backyard. But Amanresorts, the ultra-luxe chain based in Singapore, has a knack for snagging extraordinary sites: a private island in the Philippines, the edge of a national park in Rajasthan. So when it opened its first resort in China in 2008, it aimed high: the Qing dynasty Summer Palace on the northwest outskirts of Beijing. (The company's second Chinese property, called Amanfayun, recently opened in Hangzhou.) Arranged around elegant courtyards, ponds and arcades, the Aman at Summer Palace, as it's called, is a sprawling compound of historic and historic-looking buildings, with 18 guestrooms, 33 suites and amenities fit for an emperor. Or, in the case of its original guesthouses, the empress dowager."
+      },
+      {
+        "abstract": "Chinese medical student Feng Xiwen comments on visit to frozen Kunming Lake at Summer Palace in Beijing; photo (M)",
+        "headline": {"main": "ASIA-PACIFIC ISSUE: WHY WE TRAVEL"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "XIYUN YANG"
+          },
+          {
+            "name": "persons",
+            "value": "FENG XIWEN"
+          },
+          {
+            "name": "glocations",
+            "value": "KUNMING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2010-03-21T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9F06EEDB1E3AF932A15750C0A9669D8B63",
+        "news_desk": "Travel Desk",
+        "snippet": "    LYING ON KUNMING LAKE  AT THE SUMMER PALACE IN BEIJING, FEB. 18, 2010 Feng Xiwen, 22, a fourth-year medical student from Chengdu, Sichuan. ''This is my last winter break before I graduate, so I came to Beijing with a few friends. I really love tr",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b67a8eb7c8105d8aa3d9",
+        "source": "The New York Times",
+        "word_count": 234,
+        "lead_paragraph": "LYING ON KUNMING LAKE AT THE SUMMER PALACE IN BEIJING, FEB. 18, 2010 Feng Xiwen, 22, a fourth-year medical student from Chengdu, Sichuan. ''This is my last winter break before I graduate, so I came to Beijing with a few friends. I really love traveling, and always do it during my school vacations. Sometimes I skip school to do it but don't tell my parents. I've been to Qinghai, Guangxi, but never to Beijing, because I thought it was too boring, with nothing to see. I came because I recently saw a movie called 'Summer Palace,' and there was the most beautiful scene, really short, set at the lake in the Summer Palace. So I decided I really wanted to come row a boat in this lake. I didn't know it was going to be frozen over! I came with a friend, who got lazy and went to find coffee. I trudged down to the lake by myself, got mud all over my shoes, and just lay down. The ice really stabbed into my back. On the train ride back to Chengdu, I decided I don't want to be a doctor anymore. It is a very difficult profession, and I didn't think it through clearly when I decided to go to medical school. I want to work in the film industry. You get to work everywhere in the world.'' As told to Xiyun Yang"
+      },
+      {
+        "abstract": "As it looks to increase its presence in China, UBS could set up a renminbi-focused private equity fund and is holding discussions with Beijing's municipal government on the matter, The Financial Times reported.",
+        "headline": {
+          "kicker": "DealBook",
+          "main": "UBS May Set Up New Renminbi Fund"
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Carlyle Group"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-03-22T05:05:16Z",
+        "web_url": "http://dealbook.nytimes.com/2010/03/22/ubs-may-set-up-new-renmibi-fund/",
+        "news_desk": null,
+        "snippet": "As it looks to increase its presence in China, UBS could set up a renminbi-focused private equity fund and is holding discussions with Beijing's municipal government on the matter, The Financial Times reported.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Business Day",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By DEALBOOK"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd399ab8eb7c8105d8d5ed9",
+        "source": "The New York Times",
+        "word_count": 73,
+        "lead_paragraph": "As it looks to increase its presence in China, UBS could set up a renminbi-focused private equity fund and is holding discussions with Beijing's municipal government on the matter, The Financial Times reported."
+      },
+      {
+        "abstract": "BG Group said it had agreed to supply China National Offshore Oil Corp., or Cnooc, 3.6 million tons of Australian liquefied natural gas annually for the next 20 years, in a deal one analyst estimated to be worth up to $70 billion, while selling the state-run company a small stake in BG's coal bed gas assets.",
+        "headline": {
+          "kicker": "DealBook",
+          "main": "BG Group and Cnooc Sign $70 Billion Gas Deal"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "unknown",
+            "value": "BG Group Plc|BRG|NYSE"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "BG Group Plc"
+          },
+          {
+            "rank": "10",
+            "name": "unknown",
+            "value": "Arrow Energy Limited|AOF|CDNX"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Arrow Energy Limited"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Aluminum Corp. of China"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "China National Offshore Oil"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "organizations",
+            "value": "PetroChina Company Ltd"
+          },
+          {
+            "rank": "7",
+            "name": "organizations",
+            "value": "Rio Tinto PLC"
+          },
+          {
+            "rank": "13",
+            "name": "unknown",
+            "value": "Rio Tinto PLC|RTP|NYSE"
+          },
+          {
+            "rank": "8",
+            "name": "glocations",
+            "value": "Australia"
+          },
+          {
+            "rank": "9",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "12",
+            "name": "unknown",
+            "value": "PetroChina Company Ltd|PTR|NYSE"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-03-24T06:23:49Z",
+        "web_url": "http://dealbook.nytimes.com/2010/03/24/bg-group-and-cnooc-sign-70-billion-gas-deal/",
+        "news_desk": null,
+        "snippet": "BG Group said it had agreed to supply China National Offshore Oil Corp., or Cnooc, 3.6 million tons of Australian liquefied natural gas annually for the next 20 years, in a deal one analyst estimated to be worth up to $70 billion, while selling the s",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Business Day",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "V.",
+            "role": "reported",
+            "lastname": "NICHOLSON",
+            "firstname": "Chris"
+          }],
+          "original": "By CHRIS V. NICHOLSON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd399ab8eb7c8105d8d5edf",
+        "source": "The New York Times",
+        "word_count": 435,
+        "lead_paragraph": "BG Group said Wednesday that it agreed to supply China National Offshore Oil Corp., or Cnooc, 3.6 million tons of liquefied natural gas annually for the next 20 years, in a deal one analyst estimated to be worth up to $70 billion, while selling the state-run company a small stake in BG's Australian coal bed gas assets."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "I.H.T. OP-ED CONTRIBUTOR",
+          "main": "The Dark Side of China Aid"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-03-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/03/25/opinion/25iht-edwalker.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "Beijing uses its aid to developing countries to exert its influence and warp incentives for accountable governance.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WALKER",
+              "role": "reported",
+              "firstname": "Christopher"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "COOK",
+              "role": "reported",
+              "firstname": "Sarah"
+            }
+          ],
+          "original": "By CHRISTOPHER WALKER and SARAH COOK"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27be28eb7c8105d84194d",
+        "source": "International Herald Tribune",
+        "word_count": 765,
+        "lead_paragraph": "A growing number of developing countries receive billions of dollars a year in assistance, loans, and investments from China. Already in 2010, Beijing has committed $25 billion to Asean nations. In March, Zambia's president returned from a trip to China with a $1 billion loan in hand. As Beijing's levels of foreign assistance swell and its relationship deepens with countries across Africa, Asia and Latin America, a key question emerges: What impact will investments by an opaque and repressive superpower have on governance standards in the developing world?"
+      },
+      {
+        "abstract": "Announcement by Chinese authorities that Pres Hu Jintao will visit Washington is seen as possible beginning to easing friction regarding China's renminibi and American dollar; United States has long believed that China's handling of its currency, with its fixed rate of 6.827, is proof that China manipulates its currency at expense of American exports and jobs; visit may signal new era of cooperation and changes in China's possibly undervalued currency system; photo (M)",
+        "headline": {"main": "Visit Seen As Signal From China On Currency"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "OBAMA, BARACK"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "LABOR"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ECONOMY"
+          },
+          {
+            "name": "subject",
+            "value": "CURRENCY"
+          },
+          {
+            "name": "subject",
+            "value": "YUAN (CURRENCY)"
+          },
+          {
+            "name": "subject",
+            "value": "UNEMPLOYMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2010-04-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/04/02/business/global/02yuan.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Word of President Hu Jintao\u2019s visit to Washington comes amid a debate over how far China\u2019s currency should rise.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BAJAJ",
+            "role": "reported",
+            "firstname": "Vikas"
+          }],
+          "original": "By VIKAS BAJAJ; Keith Bradsher contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a69a8eb7c8105d88f348",
+        "source": "The New York Times",
+        "word_count": 1290,
+        "lead_paragraph": "It is the number that lurks behind much of modern economic life, a figure that helps shape the fortunes of nations and the price of nearly everything. The number hovers around 6.827. It is the nearly fixed rate of exchange between China's currency, the renminbi, and the United States dollar. And members of Congress say it is proof that Beijing manipulates its currency to keep its exports cheap -- at the expense of American exports and jobs."
+      }
+    ],
+    "meta": {
+      "time": 21,
+      "hits": 105,
+      "offset": 20
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

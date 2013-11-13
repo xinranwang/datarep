@@ -1,0 +1,756 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "William C Rhoden Sports of The Times column discusses USA Basketball team, led by Duke University coach Mike Krzyzewski; photo (M)",
+        "headline": {
+          "kicker": "Sports of The Times",
+          "main": "Krzyzewski Is Putting His Reputation on the Line"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "JAMES, LEBRON"
+          },
+          {
+            "name": "persons",
+            "value": "KRZYZEWSKI, MIKE"
+          },
+          {
+            "name": "persons",
+            "value": "WADE, DWYANE"
+          },
+          {
+            "name": "persons",
+            "value": "ANTHONY, CARMELO"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "DUKE UNIVERSITY"
+          },
+          {
+            "name": "organizations",
+            "value": "USA BASKETBALL"
+          },
+          {
+            "name": "subject",
+            "value": "SPORTS OF THE TIMES (TIMES COLUMN)"
+          },
+          {
+            "name": "subject",
+            "value": "LACROSSE"
+          },
+          {
+            "name": "subject",
+            "value": "COACHES AND MANAGERS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "BASKETBALL"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2006-07-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/07/25/sports/basketball/25rhoden.html",
+        "news_desk": "Sports Desk",
+        "snippet": "In trying to restore the U.S. national team\u0092s winning ways, Mike Krzyzewski is putting his reputation on the line in a way he never has before.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "C.",
+            "role": "reported",
+            "lastname": "RHODEN",
+            "firstname": "William"
+          }],
+          "original": "By WILLIAM C. RHODEN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2006/07/25/sports/25rhoden_75x75.jpg",
+          "legacy": {
+            "thumbnail": "images/2006/07/25/sports/25rhoden_75x75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd251818eb7c8105d7f631b",
+        "source": "The New York Times",
+        "word_count": 882,
+        "lead_paragraph": "MIKE KRZYZEWSKI climbed into the USA Basketball team bus Sunday afternoon after another practice. Krzyzewski, the coach of the men's national team, liked what he had seen. ''The first five days have been really good,'' he said during a telephone interview. Tryouts for the team that will compete next month in the world basketball championship in Japan began last week in Las Vegas with a combination of megastars -- Dwyane Wade, LeBron James and Carmelo Anthony -- and salt-of-the-earth stars like Bruce Bowen."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Official Union Set Up in China At Wal-Mart"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WAL-MART STORES INC"
+          },
+          {
+            "name": "subject",
+            "value": "LABOR"
+          },
+          {
+            "name": "subject",
+            "value": "RETAIL STORES AND TRADE"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2006-07-31T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/07/31/business/worldbusiness/31walmart.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Workers at Wal-Mart Stores have formed their first trade union, in China, but the union is known for siding with management rather than workers.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LAGUE",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID LAGUE; Don Greenlees and Michael Barbaro contributed reporting for this article"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd255998eb7c8105d7fe7cc",
+        "source": "International Herald Tribune",
+        "word_count": 553,
+        "lead_paragraph": "Workers at Wal-Mart Stores have formed their first trade union in China, after demands from the government that the company allow organized labor in its stores, according to reports in the official news media over the weekend. Wal-Mart, the world's largest retailer, has long sought to bar unions from its stores, particularly in the United States. But the government-controlled All-China Federation of Trade Unions has campaigned to set up branches in China, where Wal-Mart employs 30,000 people at 60 outlets."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "Frugal Traveler",
+          "main": "On a Peoples Train From Urumqi to Beijing"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2006-08-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/08/02/travel/02frugaltraveler.html",
+        "news_desk": "Travel Desk",
+        "snippet": "The Frugal Traveler takes a 48-hour train to Beijing in the hopes of getting a people\u0092s-eye view of the People\u0092s Republic.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "GROSS",
+            "role": "reported",
+            "firstname": "Matt"
+          }],
+          "original": "By MATT GROSS"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2006/08/02/travel/02frugal.75.jpg",
+          "legacy": {
+            "thumbnail": "images/2006/08/02/travel/02frugal.75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd255998eb7c8105d7fe80b",
+        "source": "The New York Times",
+        "word_count": 1407,
+        "lead_paragraph": "It was a slow day in the railway ticket office in downtown Urumqi, and as I walked up to the counter, where there was no line, I was feeling lucky. Then the ticket clerk pronounced the two syllables that every traveler in China dreads: Mei you. The literal translation is dont have, but the phrase can imply anything from That simply does not exist to Im afraid of foreigners; maybe one of my braver colleagues will step forward to help you. In my case, the ticket clerk meant it literally: Tickets for tomorrows T70 train to Beijing from Urumqi, the capital of Chinas far western Xinjiang province, were sold out. No seats, no sleepers nothing was available for four days. My only option for tomorrow, she explained (with the help of my taxi driver, whose elementary English complemented my elementary Chinese), was to buy a hard seat on the 52-hour ride ... to Shanghai."
+      },
+      {
+        "abstract": "Chinese officials are stepping up crackdown on defense lawyers in latest sign that Communist Party is determined to stamp out legal challenges to its authority; Beijing police have detained Gao Zhisheng, one of country's most outspoken lawyers, and court officials in Shandong Province on Aug 18 held closed criminal trial of Chen Guangcheng, advocate of peasants' rights (M)",
+        "headline": {"main": "Chinese Crackdown on Rights Lawyers Signals Effort to Deter Increasing Legal Challenges"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "CHEN GUANGCHENG"
+          },
+          {
+            "name": "persons",
+            "value": "GAO ZHISHENG"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANDONG PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "FALUN GONG"
+          },
+          {
+            "name": "subject",
+            "value": "COURTS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "SUITS AND LITIGATION"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "LEGAL PROFESSION"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2006-08-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/08/19/world/asia/19china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The crackdown is the latest sign that Communist Party leaders are determined to stamp out legal challenges to their authority.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2af388eb7c8105d89e339",
+        "source": "The New York Times",
+        "word_count": 822,
+        "lead_paragraph": "Chinese officials are stepping up a crackdown on defense lawyers in the latest sign that Communist Party leaders are determined to stamp out legal challenges to their authority. The Beijing police have detained Gao Zhisheng, one of the country's most outspoken lawyers and dissidents, on suspicion of criminal activity, state media said Friday."
+      },
+      {
+        "abstract": "Memo Pad column; MaxJet reportedly will announce addition of twice-weekly third route--between Las Vegas and Stansted Airport in London; more than 75 percent of 1,750 people queried say only business travelers now benefit from frequent-flier programs; AAA predicts about 35.2 million Americans will take trip of more than 50 miles this Labor Day weekend; many Northwest Airlines employees are angry over tip sheet listing 101 ways to save money that airline handed out to employees being laid off; Hampton Hotels is providing new location-specific default home pages for guests logging online at its properties; latest J D Power & Associates guest satisfaction survey ranks Omni Hotels highest among 13 national upscale hotel chains; China Southern Airlines starts service between Shanghai and Beijing (M)",
+        "headline": {
+          "kicker": "ITINERARIES",
+          "main": "MEMO PAD"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "LONDON (ENG)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "LAS VEGAS"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINA SOUTHERN"
+          },
+          {
+            "name": "organizations",
+            "value": "OMNI HOTELS"
+          },
+          {
+            "name": "organizations",
+            "value": "AAA"
+          },
+          {
+            "name": "organizations",
+            "value": "MAXJET AIRWAYS"
+          },
+          {
+            "name": "organizations",
+            "value": "HAMPTON INNS"
+          },
+          {
+            "name": "organizations",
+            "value": "POWER, J D, & ASSOCIATES"
+          },
+          {
+            "name": "organizations",
+            "value": "NORTHWEST AIRLINES"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          },
+          {
+            "name": "subject",
+            "value": "LABOR"
+          },
+          {
+            "name": "subject",
+            "value": "HOTELS AND MOTELS"
+          },
+          {
+            "name": "subject",
+            "value": "RATINGS AND RATING SYSTEMS"
+          },
+          {
+            "name": "subject",
+            "value": "LABOR DAY"
+          },
+          {
+            "name": "subject",
+            "value": "LAYOFFS AND JOB REDUCTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2006-08-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/08/29/business/29memo.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "MAXJET EXPANDS AGAIN MaxJet, one of two start-up airlines operating low-fare trans-Atlantic all-business-class flights, is expected to announce today that it is adding a third route \u0097 between Las Vegas and Stansted Airport in London. The nonstop fli",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SHARKEY",
+            "role": "reported",
+            "firstname": "Joe"
+          }],
+          "original": "By JOE SHARKEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd271b18eb7c8105d82e4f1",
+        "source": "The New York Times",
+        "word_count": 545,
+        "lead_paragraph": "MAXJET EXPANDS AGAIN -- MaxJet, one of two start-up airlines operating low-fare trans-Atlantic all-business-class flights, is expected to announce today that it is adding a third route -- between Las Vegas and Stansted Airport in London. The nonstop flights, with round-trip fares at $1,999, will operate twice weekly. Tickets go on sale Friday. MaxJet flies Boeing 767 aircraft configured with 102 seats. Late last year, it began service between Kennedy International Airport in New York and London, and then began a second route between Washington-Dulles and London. Also late last year, another low-fare start-up, Eos Airlines, began flying all-business-class service between Kennedy and Stansted using Boeing 757's equipped with 48 fully reclining seats. A third start-up, called Silverjet, plans to begin similar service between Newark Liberty International Airport and Luton Airport, serving London, next year. WHITHER MILEAGE PROGRAMS? -- Twenty-five years after airlines introduced frequent-flier mileage award programs, many travelers say benefits and rewards have decreased, as award tickets became harder to claim, especially at the lowest levels. More than three-quarters of the approximately 1,750 people questioned said the only travelers who benefited significantly from frequent-flier programs now are business travelers, who are able to accumulate large numbers of miles and use them for upgrades and other elite-status benefits. A fifth of those questioned said they had redeemed miles for trips within the last year. The research was commissioned by Etihad Airways, based in the United Arab Emirates, which plans to start a loyalty program on Wednesday and focus on providing a wider range of choices for customers, like preferred seat selections for lower-tier members. LABOR DAY TRAVEL -- About 35.2 million Americans will take a trip of more than 50 miles this Labor Day weekend, a 1.2 percent increase over last year despite higher gasoline prices, according to AAA. About 84 percent will travel by car, also slightly more than last year. And about 11 percent will fly, down slightly, the automobile club said. Other costs are also up this Labor Day weekend compared with 2005, AAA said. Rooms at midprice hotels are up 5 percent, and car rental rates have shot up more than 14 percent. ADVICE FROM NORTHWEST -- Though a planned work disruption by flight attendants was postponed last week, many Northwest Airlines employees are angry about a tip sheet listing 101 ways to save money that the airline has handed out to employees being laid off. The list, as reported last week by National Public Radio and archived on its Web site NPR.org, includes the following tips: ''Rent out a room or garage.'' ''Shop in thrift stores'' ''Bicycle to work'' and ''Don't be shy about pulling something you like out of the trash.'' ET CETERA -- Hampton Hotels, the first hotel brand to guarantee free high-speed Internet service, in 2004, is providing new location-specific default home pages for guests logging online at its 1,350 properties. The sites provide news, local weather, local maps and information on things like restaurants. Hampton is a midprice brand owned by the Hilton Hotels Corporation Omni Hotels ranked highest among 13 national upscale hotel chains, according to the J. D. Power & Associates 2006 guest satisfaction study China Southern Airlines, China's biggest carrier, has started its first service between Shanghai and Beijing. JOE SHARKEY"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "In China, Children of the Rich Learn Class, Minus the Struggle"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SOCIAL CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "PERSONAL FINANCES"
+          },
+          {
+            "name": "subject",
+            "value": "GOLF"
+          },
+          {
+            "name": "subject",
+            "value": "FAMILIES AND FAMILY LIFE"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2006-09-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/09/22/world/asia/22elites.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "In China, affluent parents are planning ways to cement their children\u2019s place in a fast-emerging elite.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "W.",
+            "role": "reported",
+            "lastname": "FRENCH",
+            "firstname": "Howard"
+          }],
+          "original": "By HOWARD W. FRENCH"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2006/09/21/world/22elite75.1.jpg",
+            "legacy": {
+              "thumbnail": "images/2006/09/21/world/22elite75.1.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 260,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2006/09/21/world/22elite337.1.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2006/09/21/world/22elite337.1.jpg",
+              "tinythumbheight": 260,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd271b58eb7c8105d82e8b9",
+        "source": "The New York Times",
+        "word_count": 1316,
+        "lead_paragraph": "Every weekday this summer, Rose Lei drove her daughter, Angelina, 5, to a golf complex at the edge of central Shanghai for a two-hour, $200 individual lesson with a teaching pro from Scotland. But now that the school year has started, little Angelina will have to cut back on the golf, limiting herself to weekend sessions at a local driving range. In addition to her demanding school schedule, she will be attending private classes at FasTracKids, an after-school academy for children as young as 4 that bills itself as a junior M.B.A. program."
+      },
+      {
+        "abstract": "Hong Kong's most popular and influential democracy advocate Anson Chan says she will not run for chief executive in this winter's elections; decision clears way for re-election of China's favorite Donald Tsang; Chinese government has put considerable pressure on election-committee members to support another term for Tsang, who has run territory since 2005 (M)",
+        "headline": {"main": "Top Democrat In Hong Kong Will Not Run"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHAN, ANSON"
+          },
+          {
+            "name": "persons",
+            "value": "TSANG, DONALD"
+          },
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ELECTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "2006-09-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/09/24/world/asia/24hong.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Anson Chan, a popular democracy advocate, said she would not run for chief executive, clearing the way for the re-election of Beijing\u2019s choice for the position.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd253ff8eb7c8105d7fa965",
+        "source": "The New York Times",
+        "word_count": 339,
+        "lead_paragraph": "The most popular and influential democracy advocate here, Anson Chan, announced Saturday that she would not run for chief executive this winter, clearing the way for the re-election of Beijing's favorite for the job and underlining the limits to popular representation nine years after Britain returned Hong Kong to China. Mrs. Chan, who had been Hong Kong's chief secretary and second-highest official before and after the return to Chinese rule, criticized the restrictive rules that Beijing has chosen for the selection of chief executives in this semiautonomous territory. ''The present rules of the game really discourage eligible people from running,'' she said."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Shanghai Party Boss Held for Corruption in Crackdown by President Against Opponents"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "LEADERS AND LEADERSHIP"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2006-09-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/09/25/world/asia/25china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The move is part of a government crackdown on graft by China\u2019s president that has focused on prominent political opponents.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd253028eb7c8105d7f8a51",
+        "source": "The New York Times",
+        "word_count": 820,
+        "lead_paragraph": "Chinese security officers have detained the powerful party boss of Shanghai for corruption, as President Hu Jintao expands a crackdown on graft that has focused on prominent political opponents. Chen Liangyu, the Communist Party's top official in the wealthy East Coast enclave and a member of the ruling Politburo, was formally detained on Sunday afternoon, Chinese state media confirmed Monday afternoon."
+      },
+      {
+        "abstract": "Chinese authorities vow to press forward with corruption crackdown that has already ensnared Shanghai Communist party chief Chen Liangyu and other ranking officials in major cities; most were considered linked to Jiang Zemin, Pres Hu Jintao's predecessor; political jockeying often precedes party congress, set for Oct; Chen's swift removal could open floodgates for information on power-brokering and deal-making in Shanghai, country's most prosperous market-oriented enclave (M)",
+        "headline": {"main": "Chinese Officials Vow to Press Political Shake-Up, Saying Corruption Is Focus"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "JIANG ZEMIN"
+          },
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHEN LIANGYU"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ETHICS"
+          },
+          {
+            "name": "subject",
+            "value": "BRIBERY"
+          },
+          {
+            "name": "subject",
+            "value": "LEADERS AND LEADERSHIP"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2006-09-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/09/27/world/asia/27china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The investigation is widely seen as an effort by President Hu Jintao to consolidate his own power, rather than a campaign against corruption.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd278ec8eb7c8105d83b3db",
+        "source": "The New York Times",
+        "word_count": 841,
+        "lead_paragraph": "The Chinese authorities vowed Tuesday to press forward with a corruption crackdown that has already ensnared one of the country's most powerful officials, raising the possibility that President Hu Jintao may continue to remove people he considers disloyal. On Sunday, security forces detained Chen Liangyu, the Shanghai Communist Party chief and a Politburo member, in what had already become the biggest political shake-up in at least a decade."
+      },
+      {
+        "abstract": "Foraging column on shopping at Beijing Eyeglass City and Mingjingyuan, eyeglass malls in Beijing, China; photo (M)",
+        "headline": {
+          "kicker": "FORAGING",
+          "main": "BEIJING: EYEGLASSES"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "MINGJINGYUAN"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING EYEGLASS CITY"
+          },
+          {
+            "name": "subject",
+            "value": "EYEGLASSES"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "APPAREL"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2006-10-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/10/01/travel/01foraging.html",
+        "news_desk": "Travel Desk",
+        "snippet": "Even if you have 20-20 vision, it takes a moment to focus when you first enter Beijing Eyeglass City.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HOOKER",
+            "role": "reported",
+            "firstname": "Jake"
+          }],
+          "original": "By JAKE HOOKER"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2006/10/01/travel/01forage_75.jpg",
+          "legacy": {
+            "thumbnail": "images/2006/10/01/travel/01forage_75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd257c08eb7c8105d8021e5",
+        "source": "The New York Times",
+        "word_count": 398,
+        "lead_paragraph": "Even if you have 20-20 vision, it takes a moment to focus when you first enter Beijing Eyeglass City. The endless display cases (below), the mirrors, the Chinese characters and the pretty sales girls -- it all adds up to a slightly kaleidoscopic effect. Things settle down a bit when a motherly optician in her white smock approaches. ''Looking for a match?'' she asks. Here, within a four-story mall of nearly identical small shops in downtown Beijing, you can have prescription lenses tested and fitted in 45 minutes. The selection of glasses is so varied and so cheap -- seven pairs for, say, $100 -- you can adopt several different personas. Some shops even offer buggy ''swimming glasses.'' Contact lenses are on the fourth floor."
+      }
+    ],
+    "meta": {
+      "time": 42,
+      "hits": 58,
+      "offset": 20
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

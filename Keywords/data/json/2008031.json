@@ -1,0 +1,860 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Author Allen Barra Op-Ed article contends that while American critics are scoring points on subject of Chinese civil-rights abuses and questionable athletic practices during 2008 Olympic Games, they continue to forget that there is one big wrong that needs to be righted on home front; maintains that it is most famous gesture of protest in Olympic history: supposed black-power salute of Tommie Smith and John Carlos on medal stand of 200 meters at 1968 Games (M)",
+        "headline": {
+          "kicker": "OP-ED CONTRIBUTOR",
+          "main": "Fists Raised, but Not in Anger"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CARLOS, JOHN"
+          },
+          {
+            "name": "persons",
+            "value": "SMITH, TOMMIE"
+          },
+          {
+            "name": "glocations",
+            "value": "MEXICO CITY (MEXICO)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED STATES OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "STEROIDS"
+          },
+          {
+            "name": "subject",
+            "value": "BLACKS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "TRACK AND FIELD"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AWARDS, DECORATIONS AND HONORS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "DRUG ABUSE AND TRAFFIC"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (1968)"
+          }
+        ],
+        "print_page": "19",
+        "pub_date": "2008-08-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/23/opinion/23barra.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "Officials should right a wrong that grows larger with each passing Olympics and reconcile with Tommie Smith and John Carlos, the athletes who made the supposed black-power salute in the 1968 Olympics.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARRA",
+            "role": "reported",
+            "firstname": "Allen"
+          }],
+          "original": "By ALLEN BARRA"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd266148eb7c8105d81aa92",
+        "source": "The New York Times",
+        "word_count": 938,
+        "lead_paragraph": "''IT was a story that should have made headlines for one day,'' Robert Paul, who was the United States Olympic Committee's publicist at the 1968 Summer Games in Mexico City, told me recently. ''If they had handled the whole affair right, with some reason, tolerance and common sense, it would have been something we could now look back on with pride. Instead, it's the Olympics' biggest ongoing shame.''"
+      },
+      {
+        "abstract": "Aug 21 article about Usain Bolt's record-setting run in 200 meters at Beijing Olympics included erroneous distinction for former world-class runner, Renaldo Nehemiah",
+        "headline": {"main": "Corrections: For the Record"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "NEHEMIAH, RENALDO"
+          },
+          {
+            "name": "persons",
+            "value": "BOLT, USAIN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDS AND ACHIEVEMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          },
+          {
+            "name": "subject",
+            "value": "TRACK AND FIELD"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-08-23T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9E0DEFDD1739F930A1575BC0A96E9C8B63",
+        "news_desk": "4A",
+        "snippet": "An article on Thursday about Usain Bolt's record-setting run in the 200 meters at the Beijing Olympics included an erroneous distinction for Renaldo Nehemiah, a former world-class runner who said he was amazed by Bolt's performance. Although Nehemiah",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd269a68eb7c8105d820daf",
+        "source": "The New York Times",
+        "word_count": 100,
+        "lead_paragraph": "An article on Thursday about Usain Bolt's record-setting run in the 200 meters at the Beijing Olympics included an erroneous distinction for Renaldo Nehemiah, a former world-class runner who said he was amazed by Bolt's performance. Although Nehemiah held a world record in the hurdles, he never won an Olympic gold medal or even competed in the Olympics. (He missed the 1980 Moscow Games because of the United States boycott.) Because of an editing error, the article also misstated the distance at which Nehemiah held the hurdles record. It was 110 meters -- not 100, which is the women's distance."
+      },
+      {
+        "abstract": "Letters from Amy Adler, Adam Zenko and Murray Hausknecht respond to Nicholas D Kristof's recent columns about rise of China; letters from Tsinghua University Prof Daniel A Bell, Kenneth L Zimmerman and Simone Santini respond to Aug 21 article about China's clampdown on protests during Beijing Olympics; drawing",
+        "headline": {
+          "kicker": "LETTERS",
+          "main": "Have the Olympics Changed China?"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ADLER, AMY"
+          },
+          {
+            "name": "persons",
+            "value": "ZENKO, ADAM"
+          },
+          {
+            "name": "persons",
+            "value": "HAUSKNECHT, MURRAY"
+          },
+          {
+            "name": "persons",
+            "value": "SANTINI, SIMONE"
+          },
+          {
+            "name": "persons",
+            "value": "BELL, DANIEL"
+          },
+          {
+            "name": "persons",
+            "value": "ZIMMERMAN, KENNETH L"
+          },
+          {
+            "name": "persons",
+            "value": "KRISTOF, NICHOLAS D"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "18",
+        "pub_date": "2008-08-23T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9A04E1DA1731F930A1575BC0A96E9C8B63",
+        "news_desk": "Editorial Desk",
+        "snippet": "To the Editor:     How interesting that Nicholas D. Kristof writes about the rise of China (''China's Rise Goes Beyond Gold Medals,'' column, Aug. 21). Well, if the United States is falling behind, we have only ourselves to blame.  ",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd266128eb7c8105d81a99b",
+        "source": "The New York Times",
+        "word_count": 743,
+        "lead_paragraph": "To the Editor: How interesting that Nicholas D. Kristof writes about the rise of China (''China's Rise Goes Beyond Gold Medals,'' column, Aug. 21). Well, if the United States is falling behind, we have only ourselves to blame."
+      },
+      {
+        "abstract": "Fujian Fuzhou Senior Association in New York City's Chinatown section becomes focus for Chinese-Americans who want to watch Olympics in Beijing; photo (M)",
+        "headline": {"main": "In Chinatown, Modest Club Is Epicenter of Fans' Excitement About the Games"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "NEW YORK CITY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINATOWN (NYC)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "FUNJIAN FUZHOU SENIOR ASSN"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "CHINESE-AMERICANS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "31",
+        "pub_date": "2008-08-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/24/sports/olympics/24chinatown.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "Transplants from Fujian, in southeastern China, have been raptly following the Summer Olympics in a New York City club for seniors.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "New York and Region",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ELIGON",
+            "role": "reported",
+            "firstname": "John"
+          }],
+          "original": "By JOHN ELIGON; Jeffrey Singer contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 350,
+          "width": 600,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2008/08/24/nyregion/24chinatown.span.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 350,
+            "xlarge": "images/2008/08/24/nyregion/24chinatown.span.jpg",
+            "xlargewidth": 600
+          }
+        }],
+        "_id": "4fd2b3c38eb7c8105d8a5a14",
+        "source": "The New York Times",
+        "word_count": 787,
+        "lead_paragraph": "It was 2 p.m. on Friday, and a hush had fallen over the crowd. A short, bald man turned the big-screen television to a station bearing a simple message in thick, white block letters: Coverage of the Olympics would resume shortly. Within minutes, a rapt audience of men from Fujian Province in China looked on giddily as a group of women on bikes viciously dashed around a bumpy dirt track during the preliminary heats of the B.M.X. competition, making its debut in the Summer Olympics. That the sport was apparently foreign to these men did not seem to matter."
+      },
+      {
+        "abstract": "George Vecsey Sports of The Times column says China will undoubtedly cast Olympic Games as major success; says it achieved its goal of having world gain awareness and acceptance of China and its status within global community; says Games will become instant nostalgia as host nation deals with detritus: photos (M)",
+        "headline": {
+          "kicker": "SPORTS OF THE TIMES",
+          "main": "In Party's Afterglow, Instant Nostalgia Reigns"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "SPORTS OF THE TIMES (TIMES COLUMN)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "RETAIL STORES AND TRADE"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2008-08-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/24/sports/olympics/24vecsey.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Public gnashing of teeth is not going to be noticeable Monday morning, when Beijing tries to get back to normal.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "VECSEY",
+            "role": "reported",
+            "firstname": "George"
+          }],
+          "original": "By GEORGE VECSEY"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 436,
+          "width": 650,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2008/08/24/sports/24vecsey-inline1-650.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 436,
+            "xlarge": "images/2008/08/24/sports/24vecsey-inline1-650.jpg",
+            "xlargewidth": 650
+          }
+        }],
+        "_id": "4fd2b3c38eb7c8105d8a5a13",
+        "source": "The New York Times",
+        "word_count": 965,
+        "lead_paragraph": "The hangover and the bills arrive the morning after the closing ceremony of the Olympics. Happens every four years. Traffic reverts to its normal ghastly congestion, and the locals look at each other to ask, ''Who is going to clean up this mess?''"
+      },
+      {
+        "abstract": "He Wenqian, Beijing, China, tattoo artist shares recent experiences inking people with images of Olympic Games; tattoos are noted as fairly recent trend in China and are still not government recognized or regulated as in many other countries; photos (M)",
+        "headline": {"main": "To Remember Beijing, Indelibly"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HE WENQIAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "RELIGION AND CHURCHES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+          },
+          {
+            "name": "subject",
+            "value": "TATTOOS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/24/sports/olympics/24tattoo.html",
+        "news_desk": "Style Desk",
+        "snippet": "Slowly, tattooing is overcoming an ancient stigma in Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Style",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LEVIN",
+            "role": "reported",
+            "firstname": "Dan"
+          }],
+          "original": "By DAN LEVIN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "caption": "Tattoos, Once Taboo, Gain Street Credibility in China",
+            "type": "Slideshow",
+            "credit": "In Beijing, athletes, Olympics support staff and tourists are packing into tattoo parlors for a permanent commemoration of their time in China.",
+            "url": "http://www.nytimes.com/slideshow/2008/08/22/sports/olympics/0824-TATTOO_index.html",
+            "legacy": {
+              "MultimediaSummary1": "In Beijing, athletes, Olympics support staff and tourists are packing into tattoo parlors for a permanent commemoration of their time in China.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Tattoos, Once Taboo, Gain Street Credibility in China",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2008/08/22/sports/olympics/0824-TATTOO_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/24/sports/24tatoo.751.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/24/sports/24tatoo.751.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/24/sports/24tatoo.xlarge2.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2008/08/24/sports/24tatoo.xlarge2.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/08/24/sports/24tatoo.3371.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/08/24/sports/24tatoo.3371.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd26ba18eb7c8105d823cd9",
+        "source": "The New York Times",
+        "word_count": 1053,
+        "lead_paragraph": "TAKING a deep drag of his cigarette, Li Jielong looked down at the red Olympic ring taking shape on his left shoulder and winced. ''It hurts,'' he said, over the loud buzz of the tattoo needle, ''but not as much as I thought it would.''"
+      },
+      {
+        "abstract": "Jere Longman column holds 2008 Olympics will be remembered for friendly embrace of people and stunning efficiency of organization, but also for strict control, leaving Games devoid of passion, playfulness and festive spirit; says swimmer Michael Phelps symbolizes proficiency, but is ultimately rehearsed and dull; scores IOC head Jacques Rogge for trying to stamp out sense of impromptu exuberance, evidenced by his scolding of Jamaican runner Usain Bolt's spontaneous celebration upon winning race; photos (M)",
+        "headline": {
+          "kicker": "INSIDE THE RINGS",
+          "main": "Friendly and Efficient? Yeah. But Spontaneous? Uh-Uh."
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ROGGE, JACQUES"
+          },
+          {
+            "name": "persons",
+            "value": "PHELPS, MICHAEL"
+          },
+          {
+            "name": "persons",
+            "value": "BOLT, USAIN"
+          },
+          {
+            "name": "glocations",
+            "value": "JAMAICA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "TRACK AND FIELD"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2008-08-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/24/sports/olympics/24longman.html",
+        "news_desk": "Sports Desk",
+        "snippet": "These Olympics will be remembered for the friendly people and the stunning efficiency of the organizers, but also for strict control that left the Games feeling devoid of playfulness.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LONGMAN",
+            "role": "reported",
+            "firstname": "Jeré"
+          }],
+          "original": "By JERÉ LONGMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2008/08/24/sports/24longman01_75.jpg",
+          "legacy": {
+            "thumbnail": "images/2008/08/24/sports/24longman01_75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd269a78eb7c8105d820f2d",
+        "source": "The New York Times",
+        "word_count": 925,
+        "lead_paragraph": "The Beijing Games end Sunday with the greatest fears avoided and the greatest hopes unrealized. These Olympics will be remembered not only for the friendly embrace of the people and the stunning efficiency of the organizers, but also for the strict control that left the Games feeling devoid of playfulness, passion and festive spirit. The luminous Bird's Nest track stadium and Water Cube pool lent an air of ethereal isolation. Even in summer, it felt as if the Games were held in an Olympic snow globe, as Tim Layden of Sports Illustrated so aptly put it."
+      },
+      {
+        "abstract": "Internet served as unprecedented supplement to television in coverage of Beijing Summer Olympics; NBC's Web site NBCOlympics.com served up more than 1.2 billion pages and 72 million video streams through Aug 23, drawing average of 4.3 million unique visitors daily through Aug 18; Yahoo's Olympics section drew average of 4.7 million unique visitors daily; photo (M)",
+        "headline": {"main": "Web Audience for Games Soars for NBC and Yahoo"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NBCOLYMPICS.COM"
+          },
+          {
+            "name": "organizations",
+            "value": "NBC UNIVERSAL"
+          },
+          {
+            "name": "organizations",
+            "value": "YAHOO INC"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDINGS AND DOWNLOADS (VIDEO)"
+          },
+          {
+            "name": "subject",
+            "value": "RATINGS AND RATING SYSTEMS"
+          },
+          {
+            "name": "subject",
+            "value": "ONLINE ADVERTISING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/25/sports/olympics/25online.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "The extent to which the Internet served as a supplement to television was unprecedented, and there were two clear winners: NBC\u2019s Web site and Yahoo\u2019s Olympics section.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "STELTER",
+            "role": "reported",
+            "firstname": "Brian"
+          }],
+          "original": "By BRIAN STELTER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27cc78eb7c8105d8435d4",
+        "source": "The New York Times",
+        "word_count": 1047,
+        "lead_paragraph": "Steve Ferguson woke up early on Friday -- 3 a.m. to be exact -- to watch his stepdaughter Margaux Isaksen, a 16-year-old Olympian, complete a grueling 11-hour performance in the modern pentathlon. Mr. Ferguson did not watch Margaux compete in person. From his home in Fayetteville, Ark., he watched a live stream of her sport on NBCOlympics.com, where 2,200 live hours of the Summer Olympics were shown for Internet users."
+      },
+      {
+        "abstract": "News analysis contends Olympic Games are seen as unparalleled success by most Chinese, but now new, post-Olympic era begins; says question now is whether deepening self-confidence arising from Olympic experience will lead China to further its engagement with world and pursue deeper political reform, or whether Games' success and muted Western response to repression will convince leaders that their current model is working; photos (M)",
+        "headline": {
+          "kicker": "NEWS ANALYSIS",
+          "main": "After Glow of Games, What Next for China?"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "CIVIL RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/25/sports/olympics/25china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Will the Olympics\u2019 success lead China to domestic reforms or convince leaders that their current model is working?",
+        "type_of_material": "An Analysis; News Analysis",
+        "blog": [],
+        "section_name": "World; Front Page; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 371,
+          "width": 600,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2008/08/24/sports/olympics/600-closing-span.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 371,
+            "xlarge": "images/2008/08/24/sports/olympics/600-closing-span.jpg",
+            "xlargewidth": 600
+          }
+        }],
+        "_id": "4fd296408eb7c8105d8720d9",
+        "source": "The New York Times",
+        "word_count": 1347,
+        "lead_paragraph": "The elaborate closing ceremony that ended the Olympic Games on Sunday also ended nearly a decade in which the ruling Communist Party had made the Games an organizing principle in national life. Almost nothing has superseded the Olympics as a political priority in China. For Chinese leaders, all that effort paid off. The Games were seen as an unparalleled success by most Chinese -- a record medal count inspired nationwide excitement, and Beijing impressed foreign visitors with its hospitality and efficiency. And while the government's uncompromising suppression of dissent drew criticism, China also demonstrated to a global audience that it is a rising economic and political power."
+      },
+      {
+        "abstract": "Project for Excellence in Journalism survey finds that about 26 percent of news coverage was devoted to Russia-Georgia conflict during week of August 11 to 17--more than 2008 presidential campaign, Olympics and John Edwards's admission that he had affair (S)",
+        "headline": {
+          "kicker": "MEDIA TALK",
+          "main": "Caucasus War Draws Interest"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "EDWARDS, JOHN"
+          },
+          {
+            "name": "persons",
+            "value": "HUNTER, RIELLE"
+          },
+          {
+            "name": "glocations",
+            "value": "RUSSIA"
+          },
+          {
+            "name": "glocations",
+            "value": "GEORGIA (GEORGIAN REPUBLIC)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "PEW RESEARCH CENTER"
+          },
+          {
+            "name": "organizations",
+            "value": "PROJECT FOR EXCELLENCE IN JOURNALISM"
+          },
+          {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2008"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-08-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/25/business/media/25coverage.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "How did the Russia-Georgia conflict draw big coverage in a busy news week? The media placed it in a cold war context in terms Americans could grasp.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JOSHI",
+            "role": "reported",
+            "firstname": "Pradnya"
+          }],
+          "original": "By PRADNYA JOSHI"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd296438eb7c8105d872372",
+        "source": "The New York Times",
+        "word_count": 280,
+        "lead_paragraph": "For the last nine months, the election campaign has consistently dominated the news, week in and week out. But as the summer doldrums of August took hold, the mainstream news media actually shifted their focus to the war between Russia and Georgia. About 26 percent of news coverage was devoted to the Russia-Georgia conflict during the week of Aug. 11 to 17, according to the Project for Excellence in Journalism, a research group in Washington that surveys the news media. The war received more coverage than the 2008 campaign and two other big events that week, the Olympics and John Edwards's admission that he had an affair, the report said."
+      }
+    ],
+    "meta": {
+      "time": 13,
+      "hits": 367,
+      "offset": 310
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

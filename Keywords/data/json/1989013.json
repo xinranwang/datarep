@@ -1,0 +1,503 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "TURMOIL IN CHINA",
+          "main": "Student Tells the Tiananmen Story: And Then, 'Machine Guns Erupted'"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ARMIES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "1989-06-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/12/world/turmoil-in-china-student-tells-the-tiananmen-story-and-then-machine-guns-erupted.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: When the Chinese Army began its crackdown in Beijing early on June 4, student demonstrators in Tiananmen Square were the focal point. A Hong Kong newspaper, Wen Wei Po, later published what it described as a firsthand account of the assault, gi",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a28a8eb7c8105d6b8d85",
+        "source": "The New York Times",
+        "word_count": 1825,
+        "lead_paragraph": "LEAD: When the Chinese Army began its crackdown in Beijing early on June 4, student demonstrators in Tiananmen Square were the focal point. A Hong Kong newspaper, Wen Wei Po, later published what it described as a firsthand account of the assault, given by a 20-year-old student at Qinghua University, whose identity the paper withheld."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "TURMOIL IN CHINA",
+          "main": "China Seeks Arrest of Its Top Dissident"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BAO TONG"
+          },
+          {
+            "name": "persons",
+            "value": "ZHAO ZIYANG"
+          },
+          {
+            "name": "persons",
+            "value": "FANG LIZHI"
+          },
+          {
+            "name": "persons",
+            "value": "REN WANDING"
+          },
+          {
+            "name": "persons",
+            "value": "LI SHUXIAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-06-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/12/world/turmoil-in-china-china-seeks-arrest-of-its-top-dissident.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: The Government issued a warrant today for the arrest of Fang Lizhi, China's best-known dissident, as official press organizations stepped up criticism of the United States.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Education; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a28a8eb7c8105d6b8d88",
+        "source": "The New York Times",
+        "word_count": 1705,
+        "lead_paragraph": "LEAD: The Government issued a warrant today for the arrest of Fang Lizhi, China's best-known dissident, as official press organizations stepped up criticism of the United States."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Turmoil in China; Tiananmen Crackdown: Student's Account Questioned on Major Points"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1989-06-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/13/world/turmoil-china-tiananmen-crackdown-student-s-account-questioned-major-points.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Yesterday The New York Times published what purported to be an account by a witness of troops attacking students on Tiananmen Square in Beijing before dawn on June 4. The article was published by the Hong Kong newspaper Wen Wei Po, which said i",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd184138eb7c8105d6828c1",
+        "source": "The New York Times",
+        "word_count": 979,
+        "lead_paragraph": "LEAD: Yesterday The New York Times published what purported to be an account by a witness of troops attacking students on Tiananmen Square in Beijing before dawn on June 4. The article was published by the Hong Kong newspaper Wen Wei Po, which said it was the account of an unidentified 20-year-old Chinese student, and was republished in The San Francisco Examiner."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Turmoil in China; Far From Beijing's Spotlight, A City Bears Scars of Clashes"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHENGDU (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-06-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/15/world/turmoil-in-china-far-from-beijing-s-spotlight-a-city-bears-scars-of-clashes.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Filling nearly a full square block of this city in the Chinese hinterlands is the burned-out rubble of collapsed roofs and melted shutters, of shattered glass and the mangled remains of bicycles and carts. All of it is testimony to the fact tha",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BERNSTEIN",
+            "role": "reported",
+            "firstname": "Richard"
+          }],
+          "original": "By RICHARD BERNSTEIN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a63f8eb7c8105d6c00b0",
+        "source": "The New York Times",
+        "word_count": 1632,
+        "lead_paragraph": "LEAD: Filling nearly a full square block of this city in the Chinese hinterlands is the burned-out rubble of collapsed roofs and melted shutters, of shattered glass and the mangled remains of bicycles and carts. All of it is testimony to the fact that the violence that gripped Beijing a week and a half ago was echoed in at least one major provincial city."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "CRACKDOWN IN CHINA",
+          "main": "In the Surface Calm of Beijing, What's 'Normal' Isn't Quite"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MARTIAL LAW"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-06-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/17/world/crackdown-in-china-in-the-surface-calm-of-beijing-what-s-normal-isn-t-quite.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Twelve days after soldiers machine-gunned civilians on the streets, the Government seems to have willed the capital back to normal life, with buses and bicycles rolling down streets and markets filled with the latest harvest of watermelons.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a63c8eb7c8105d6bff03",
+        "source": "The New York Times",
+        "word_count": 1127,
+        "lead_paragraph": "LEAD: Twelve days after soldiers machine-gunned civilians on the streets, the Government seems to have willed the capital back to normal life, with buses and bicycles rolling down streets and markets filled with the latest harvest of watermelons."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "What Will the People of China Do Next?"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          }
+        ],
+        "print_page": "26",
+        "pub_date": "1989-06-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/18/opinion/l-what-will-the-people-of-china-do-next-770689.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: To the Editor:",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a2898eb7c8105d6b8c6d",
+        "source": "The New York Times",
+        "word_count": 343,
+        "lead_paragraph": "LEAD: To the Editor:"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "What Will the People of China Do Next?; A Country in Evolution"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          }
+        ],
+        "print_page": "26",
+        "pub_date": "1989-06-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/18/opinion/l-what-will-the-people-of-china-do-next-a-country-in-evolution-774389.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: To the Editor:",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a6398eb7c8105d6bfcb0",
+        "source": "The New York Times",
+        "word_count": 282,
+        "lead_paragraph": "LEAD: To the Editor:"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "What Will the People of China Do Next?; The Disenchanted"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          }
+        ],
+        "print_page": "26",
+        "pub_date": "1989-06-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/18/opinion/l-what-will-the-people-of-china-do-next-the-disenchanted-773489.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: To the Editor:",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd183bd8eb7c8105d6818d0",
+        "source": "The New York Times",
+        "word_count": 209,
+        "lead_paragraph": "LEAD: To the Editor:"
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "CRACKDOWN IN CHINA",
+          "main": "China Sentences 8 More to Death; Sharply Attacks U.S. 'Interference'"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+          },
+          {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-06-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/18/world/crackdown-china-china-sentences-8-more-death-sharply-attacks-us-interference.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: In another sign of the Government's determination to deal harshly with leaders of pro-democracy demonstrations, the authorities today sentenced eight young people to death for their role in a violent protest in the capital.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd183bd8eb7c8105d6818c0",
+        "source": "The New York Times",
+        "word_count": 956,
+        "lead_paragraph": "LEAD: In another sign of the Government's determination to deal harshly with leaders of pro-democracy demonstrations, the authorities today sentenced eight young people to death for their role in a violent protest in the capital."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "What Will the People of China Do Next?; Citizens Without Guns"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FIREARMS"
+          }
+        ],
+        "print_page": "26",
+        "pub_date": "1989-06-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/18/opinion/l-what-will-the-people-of-china-do-next-citizens-without-guns-776089.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: To the Editor:",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd194fc8eb7c8105d6a0833",
+        "source": "The New York Times",
+        "word_count": 137,
+        "lead_paragraph": "LEAD: To the Editor:"
+      }
+    ],
+    "meta": {
+      "time": 24,
+      "hits": 187,
+      "offset": 130
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

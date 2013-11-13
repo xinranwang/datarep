@@ -1,0 +1,590 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Private delegation of US experts arrives in Beijing, China, after five-day visit to North Korea in which they interviewed top officials and visited nuclear plant at Yongbyon (M)",
+        "headline": {"main": "Group of Private U.S. Experts Visits North Korea Nuclear Plant"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "NORTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "YONGBYON (NORTH KOREA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ATOMIC WEAPONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "FACTORIES AND INDUSTRIAL PLANTS"
+          },
+          {
+            "name": "subject",
+            "value": "TERRORISM"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2004-01-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/01/10/world/group-of-private-us-experts-visits-north-korea-nuclear-plant.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A private delegation of American experts arrived here Saturday morning after a five-day visit to North Korea in which they said they had interviewed a range of top officials and visited the nuclear plant at Yongbyon.     ''We did go to Yongbyon,'' Jo",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd24bb88eb7c8105d7eac51",
+        "source": "The New York Times",
+        "word_count": 257,
+        "lead_paragraph": "A private delegation of American experts arrived here Saturday morning after a five-day visit to North Korea in which they said they had interviewed a range of top officials and visited the nuclear plant at Yongbyon. ''We did go to Yongbyon,'' John W. Lewis, a Stamford University professor who led the delegation, said at an impromptu news conference at the Beijing airport. ''We are a private delegation. We were not there to negotiate. We were not there to be inspectors.''"
+      },
+      {
+        "abstract": "Photo of residents of Beijing at temple with bas relief sculptures of lunar calendar animals on Chinese New Year's Day",
+        "headline": {"main": "Monkey Business in Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "LUNAR NEW YEAR"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2004-01-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/01/23/world/monkey-business-in-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Photo of residents of Beijing at temple with bas relief sculptures of lunar calendar animals on Chinese New Year's Day",
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2346b8eb7c8105d7c5637",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Houhai Lake in Beijing draws hundreds of swimmers throughout city's bitter winter; swimmers say they come for the challenge or cite reputed health benefits of swimming in cold weather; photo (Beijing Journal) (M)",
+        "headline": {"main": "Beijing Journal; At the Swimming Hole in Winter, a Workout for the Soul"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HOUHAI LAKE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "WEATHER"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2004-01-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/01/30/world/beijing-journal-at-the-swimming-hole-in-winter-a-workout-for-the-soul.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Cold? Zhang Shixiang pulls off his wool cap, peels off his thick sweater and stands smiling in a peach-colored bathing suit. The afternoon sun is leaking out of the sky, and skaters cut across the frozen lid of the finger lake named Houhai. The tempe",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd23a198eb7c8105d7ce3e8",
+        "source": "The New York Times",
+        "word_count": 813,
+        "lead_paragraph": "Cold? Zhang Shixiang pulls off his wool cap, peels off his thick sweater and stands smiling in a peach-colored bathing suit. The afternoon sun is leaking out of the sky, and skaters cut across the frozen lid of the finger lake named Houhai. The temperature is a degree or two above freezing. It's a perfect day for a swim."
+      },
+      {
+        "abstract": "Dutch Foreign Ministry supports French effort to lift European Union ban on selling arms to China; ban was imposed after 1989 killing of pro-democracy demonstrators in Tiananmen Square (Beijing, China) (S)",
+        "headline": {"main": "World Briefing | Europe: The Netherlands: Support For Arms To China"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "EUROPE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "FRANCE"
+          },
+          {
+            "name": "glocations",
+            "value": "NETHERLANDS"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "EUROPEAN UNION"
+          },
+          {
+            "name": "subject",
+            "value": "ARMS SALES ABROAD"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2004-01-31T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/01/31/world/world-briefing-europe-the-netherlands-support-for-arms-to-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Foreign Ministry said it supported French calls to lift a European Union ban on weapons sales to China imposed after the 1989 killing of pro-democracy demonstrators in Tiananmen Square in Beijing. France hopes the ban will be lifted by April 1.  ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "S.",
+            "role": "reported",
+            "lastname": "Smith",
+            "firstname": "Craig"
+          }],
+          "original": "By Craig S. Smith (NYT)"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd29d088eb7c8105d87f159",
+        "source": "The New York Times",
+        "word_count": 46,
+        "lead_paragraph": "The Foreign Ministry said it supported French calls to lift a European Union ban on weapons sales to China imposed after the 1989 killing of pro-democracy demonstrators in Tiananmen Square in Beijing. France hopes the ban will be lifted by April 1. Craig S. Smith (NYT)"
+      },
+      {
+        "abstract": "Mike Spataro letter on winter swimming in Beijing (Jan 30 article); says members of Coney Island Polar Bear Club swim every Sunday from November through May",
+        "headline": {"main": "The Swimmer in Winter"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SPATARO, MIKE"
+          },
+          {
+            "name": "glocations",
+            "value": "NEW YORK CITY"
+          },
+          {
+            "name": "glocations",
+            "value": "CONEY ISLAND (NYC)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CONEY ISLAND POLAR BEAR CLUB"
+          },
+          {
+            "name": "subject",
+            "value": "WEATHER"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          }
+        ],
+        "print_page": "30",
+        "pub_date": "2004-02-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/02/05/opinion/l-the-swimmer-in-winter-247430.html",
+        "news_desk": "Editorial Desk",
+        "snippet": " To the Editor:    I enjoyed your Jan. 30 Beijing Journal about winter swimming in China. As a longtime member of the Coney Island Polar Bear Club, however, I must say that the comment ''and not just a once-a-year polar bear plunge for the cameras'' ",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd24f138eb7c8105d7f1571",
+        "source": "The New York Times",
+        "word_count": 154,
+        "lead_paragraph": "To the Editor: I enjoyed your Jan. 30 Beijing Journal about winter swimming in China. As a longtime member of the Coney Island Polar Bear Club, however, I must say that the comment ''and not just a once-a-year polar bear plunge for the cameras'' may leave the wrong impression with your readers."
+      },
+      {
+        "abstract": "Talks on ending North Korea's nuclear program conclude in Beijing; diplomats say US, North Korea and four other nations are due to issue statement pledging to work for nuclear-free Korean peninsula; say they left almost all major disputes about North's nuclear program unresolved; say US, North Korea, China, Russia, South Korea and Japan have agreed to meet again by June (M)",
+        "headline": {"main": "Diplomats See Modest Progress In North Korea Nuclear Talks"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "RUSSIA"
+          },
+          {
+            "name": "glocations",
+            "value": "SOUTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "NORTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ATOMIC WEAPONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2004-02-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/02/28/world/diplomats-see-modest-progress-in-north-korea-nuclear-talks.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The United States, North Korea and four other nations were due to issue a statement Saturday pledging to work for a nuclear-free Korean peninsula, but they left almost all major disputes about the North's nuclear program unresolved, officials and new",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27afd8eb7c8105d83fc36",
+        "source": "The New York Times",
+        "word_count": 743,
+        "lead_paragraph": "The United States, North Korea and four other nations were due to issue a statement Saturday pledging to work for a nuclear-free Korean peninsula, but they left almost all major disputes about the North's nuclear program unresolved, officials and news reports said. In a joint statement that China, the host of the six-nation talks, was scrambling to finalize Saturday afternoon, the participants also agreed to meet again by June and to establish working groups that would tackle some of the most contentious issues about nuclear disarmament before then, according to Bush administration officials."
+      },
+      {
+        "abstract": "Dr Jiang Yangong, retired military physician who became folk hero when he helped expose China's initial cover-up of SARS outbreak last year, is now urging Communist Party to admit it was gravely wrong in violently cracking down on Tiananmen Square pro-democracy protests in 1989; holds most Chinese feel use of military force was wrong, but are afraid to speak out; he confirms writing letter to party, phone interview; letter calls students attacked patriots protesting official corru",
+        "headline": {"main": "Chinese SARS Hero Urges Party To Admit Error for '89 Massacre"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "JIANG YANYONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ETHICS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2004-03-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/03/08/world/chinese-sars-hero-urges-party-to-admit-error-for-89-massacre.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The retired military physician who last year helped expose China's initial cover-up of the SARS outbreak is now calling on the Communist Party to confront one of its darkest periods and acknowledge that it was gravely wrong in violently cracking down",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd24c188eb7c8105d7ebb0f",
+        "source": "The New York Times",
+        "word_count": 492,
+        "lead_paragraph": "The retired military physician who last year helped expose China's initial cover-up of the SARS outbreak is now calling on the Communist Party to confront one of its darkest periods and acknowledge that it was gravely wrong in violently cracking down on the Tiananmen Square pro-democracy protests in 1989. ''My proposal is that the June 4 student movement of 1989 should be reappraised as a patriotic movement,'' Dr. Jiang Yanyong wrote in a letter dated Feb. 24. He later added: ''Errors committed by our party should be resolved by the party. The sooner this is done, the better.''"
+      },
+      {
+        "abstract": "Chinese, especially peasants, are increasingly petitioning national officials in Beijing to resolve local complaints, even though process is largely considered futile; high government officials, in marked shift, are admitting that many complaints have merit; human rights advocates say Beijing authorities, fearing embarrassing protests, have been blocking petitioners from reaching delegates in city for annual National People's Congress meeting; complaints involve issues like corruption, police abuse and illegally seized land; photos (M)",
+        "headline": {"main": "Chinese Appeal to Beijing to Resolve Local Complaints"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ETHICS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2004-03-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/03/08/world/chinese-appeal-to-beijing-to-resolve-local-complaints.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Dong Da says he has been beaten, arrested and harangued since he began complaining seven years ago that officials had stolen from him and other farmers. He has eluded the local authorities and taken his complaints to higher officials in Beijing, thou",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd24f188eb7c8105d7f1a82",
+        "source": "The New York Times",
+        "word_count": 1030,
+        "lead_paragraph": "Dong Da says he has been beaten, arrested and harangued since he began complaining seven years ago that officials had stolen from him and other farmers. He has eluded the local authorities and taken his complaints to higher officials in Beijing, though each trip brings more risks at home. Only last month, Mr. Dong said he and other farmers arrived at a Beijing train station, where he planned to meet a lawyer but instead found the police from his home province, Hebei, in northern China, waiting to detain them. Even though police officers now watch his home, Mr. Dong said by telephone last week, he is still trying to return to Beijing."
+      },
+      {
+        "abstract": "China's booming economy has established country as world's fastest-growing car market, and one of most dangerous places to drive; flood of new cars and novice drivers has led to fivefold increase in road deaths in two decades; photos (Beijing Journal) (M)",
+        "headline": {"main": "Beijing Journal; Chinese Take Recklessly to Cars (Just Count the Wrecks)"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+          },
+          {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2004-03-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/03/12/world/beijing-journal-chinese-take-recklessly-to-cars-just-count-the-wrecks.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "For the aspiring motorists taking the driving exam at a government building not long ago, one true/false question probably seemed a touch unusual: If you come upon an auto accident and find a motorist lying unconscious on the road, should you shake t",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd253568eb7c8105d7f994b",
+        "source": "The New York Times",
+        "word_count": 950,
+        "lead_paragraph": "For the aspiring motorists taking the driving exam at a government building not long ago, one true/false question probably seemed a touch unusual: If you come upon an auto accident and find a motorist lying unconscious on the road, should you shake that person violently to wake him up? The next question expanded on the theme: If you come upon an accident and find a motorist lying unconscious on the road, and if that person's internal organs are also lying on the road, should you pick up the organs and put them back inside the person?"
+      },
+      {
+        "abstract": "Excerpts from Feb 24 letter by Jiang Yanyong, respected surgeon and Communist Party member, to China's senior leaders, urging them to revise official interpretation of June 4, 1989 crackdown on dissent that caused hundreds and perhaps thousands of deaths and injuries around Beijing; government in past has called Tiananmen Square incident 'counterrevolutionary revolt' and 'political disturbance of 1989'; photo (M)",
+        "headline": {"main": "Word for Word / Tiananmen Surgeon; A Challenge to China's Leaders From a Witness to Brutality"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "JIANG YANYONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2004-03-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2004/03/14/weekinreview/word-for-word-tiananmen-surgeon-challenge-china-s-leaders-witness-brutality.html",
+        "news_desk": "Week in Review Desk",
+        "snippet": "IN one sense the June 4, 1989, crackdown on dissent that caused hundreds and perhaps thousands of deaths and injuries around Beijing is a distant memory. China's economy has since grown at a double-digit annual pace. Most top leaders directly respons",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Week in Review",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2535b8eb7c8105d7f9cd3",
+        "source": "The New York Times",
+        "word_count": 1475,
+        "lead_paragraph": "IN one sense the June 4, 1989, crackdown on dissent that caused hundreds and perhaps thousands of deaths and injuries around Beijing is a distant memory. China's economy has since grown at a double-digit annual pace. Most top leaders directly responsible for ordering the bloodshed have retired or died. But as the 15th anniversary approaches, it is clear that neither time nor official propaganda has erased the events from China's political consciousness. A new generation of leaders may face pressure to revise the official interpretation of the event in coming years, potentially upsetting a delicate balance of power at the top of the Communist Party."
+      }
+    ],
+    "meta": {
+      "time": 27,
+      "hits": 55,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

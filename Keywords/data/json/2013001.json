@@ -1,0 +1,904 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Rick Hendrick, the Nascar team owner, bought the first production 2014 Corvette Stingray for $1.1 million and the classic \u2018Vette owned by the chairman of General Motors for $270,000.",
+        "headline": {
+          "kicker": "Wheels",
+          "main": "Wheelies: The Charity Corvette Edition"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Hendrick, Rick"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "General Motors"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "National Football League"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Barrett-Jackson"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Helmets"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Automobiles"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Philanthropy"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Auctions"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-01-22T13:42:32Z",
+        "web_url": "http://wheels.blogs.nytimes.com/2013/01/22/wheelies-the-charity-corvette-edition/",
+        "news_desk": null,
+        "snippet": "Rick Hendrick, the Nascar team owner, bought the first production 2014 Corvette Stingray for $1.1 million and the classic \u2018Vette owned by the chairman of General Motors for $270,000.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Autos",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [],
+          "organization": "THE NEW YORK TIMES",
+          "original": "By THE NEW YORK TIMES"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "50fede6600315214fbb86735",
+        "source": "The New York Times",
+        "word_count": 311,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "China's animal lovers are increasingly staging \"rescues\" of cats and dogs headed for the dinner table. In one rescue, following the crash of a truck in Changsha, over 800 cats were saved but 200 died. according to Chinese media reports.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Cat Rescues in China Raise Host of New Questions"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Mullany, Gerry"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "New Zealand"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Guangzhou (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Cruelty to Animals"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Cats"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Traffic Accidents and Safety"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Roads and Traffic"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Birds"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-01-24T01:01:24Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/01/24/cat-rescues-in-china-raise-host-of-new-questions/",
+        "news_desk": null,
+        "snippet": "China's animal lovers are increasingly staging \"rescues\" of cats and dogs headed for the dinner table. In one rescue, following the crash of a truck in Changsha, over 800 cats were saved but 200 died. according to Chinese media reports.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5100ec7a00315214fbb86b78",
+        "source": "The New York Times",
+        "word_count": 637,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "seo": "China\u2019s Xi Jinping Faces Problem of Rural Poverty",
+          "main": "Leader\u2019s Visit Lifts a Village, Yet Lays Bare China\u2019s Woes"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Agriculture and Farming"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Labor and Jobs"
+          },
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Xi Jinping"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Rural Areas"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Income Inequality"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Poverty"
+          },
+          {
+            "rank": "6",
+            "name": "organizations",
+            "value": "Communist Party of China"
+          },
+          {
+            "rank": "9",
+            "name": "glocations",
+            "value": "China"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2013-01-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/01/27/world/asia/chinas-xi-jinping-faces-problem-of-rural-poverty.html",
+        "news_desk": "Foreign",
+        "snippet": "Xi Jinping\u2019s visit to a particularly poverty-stricken village in north China brought it attention and help, but also threw into relief the vast scale of the challenge.",
+        "type_of_material": "",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "contributor": "Patrick Zuo contributed research.",
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 401,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2013/01/27/world/sub-jp-china/sub-jp-china-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "401",
+              "xlarge": "images/2013/01/27/world/sub-jp-china/sub-jp-china-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2013/01/27/world/CHINA/CHINA-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/01/27/world/CHINA/CHINA-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "5104e30b00315214fbb87658",
+        "source": "The New York Times",
+        "word_count": 1392,
+        "lead_paragraph": "Xi Jinping\u2019s visit to a particularly poverty-stricken village in north China brought it attention and help, but also threw into relief the vast scale of the challenge."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Taste for Shark Fin Fades Slightly in China"},
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Food"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Tableware"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Environment"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Sharks"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Soups"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Restaurants"
+          }
+        ],
+        "print_page": "",
+        "pub_date": "2013-01-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/01/29/world/asia/taste-for-shark-fin-fades-slightly-in-china.html",
+        "news_desk": "Foreign",
+        "snippet": "The high-profile campaign against shark fin soup has persuaded only a small number of Beijing hotels and restaurants to drop it from their menus.",
+        "type_of_material": "",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "QIN",
+            "role": "reported",
+            "firstname": "Amy"
+          }],
+          "contributor": "",
+          "original": "By AMY QIN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "51078ac300315214fbb87aef",
+        "source": "International Herald Tribune",
+        "word_count": 1064,
+        "lead_paragraph": "The high-profile campaign against shark fin soup has persuaded only a small number of Beijing hotels and restaurants to drop it from their menus."
+      },
+      {
+        "abstract": "Some believe that China's environmental crisis, if left unchecked, may ultimately threaten the Communist Party's rule.",
+        "headline": {
+          "kicker": "DealBook",
+          "main": "Smog, Fraud and Diplomacy"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Xi Jinping"
+          },
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Yamaguchi, Natsuo"
+          },
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Abe, Shinzo"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Pan Shiyi"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Pei, Minxin"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "Sina Weibo"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Communist Party of China"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Deloitte Touche Tohmatsu Ltd"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "Ernst & Young"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Caterpillar Inc"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Mergers, Acquisitions and Divestitures"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Air Pollution"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Accounting and Accountants"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-01-29T14:05:52Z",
+        "web_url": "http://dealbook.nytimes.com/2013/01/29/smog-fraud-and-diplomacy/",
+        "news_desk": null,
+        "snippet": "Some believe that China's environmental crisis, if left unchecked, may ultimately threaten the Communist Party's rule.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Business Day",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BISHOP",
+            "role": "reported",
+            "firstname": "Bill"
+          }],
+          "original": "By BILL BISHOP"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "51081fad00315214fbb87da6",
+        "source": "The New York Times",
+        "word_count": 800,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "As Beijing and large parts of the country suffer persistent, heavy smog, a former environment chief blamed chaotic economic growth, rooted in a \"rule of men,\" not law, for the mess.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Gallows Humor, and Smog, Engulf China"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Hu Jintao"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Hong Kong"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Energy Information Administration"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "National People's Congress (China)"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "South China Morning Post Limited"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "China Daily"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Environment"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Economic Conditions and Trends"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Water Pollution"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Hazardous and Toxic Substances"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Air Pollution"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-01-29T23:41:52Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/01/29/gallows-humor-and-smog-engulf-china/",
+        "news_desk": null,
+        "snippet": "As Beijing and large parts of the country suffer persistent, heavy smog, a former environment chief blamed chaotic economic growth, rooted in a \"rule of men,\" not law, for the mess.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5108a6aa00315214fbb87f38",
+        "source": "The New York Times",
+        "word_count": 740,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Chinese government puts in place emergency measures to try to combat thick smog that has encased Beijing, hailed by Communist Party as its showcase capital, in brown and gray soot.",
+        "headline": {
+          "seo": "Beijing Takes Emergency Steps to Fight Smog",
+          "print_headline": "Beijing Takes Steps To Fight Pollution As Problem Worsens",
+          "main": "Beijing Takes Steps to Fight Pollution as Problem Worsens"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Factories and Manufacturing",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Air Pollution",
+            "is_major": "Y"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Communist Party of China",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Environment",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2013-01-31T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/01/31/world/asia/beijing-takes-emergency-steps-to-fight-smog.html",
+        "news_desk": "Foreign",
+        "snippet": "The measures include shutting down more than 100 factories and ordering one-third of government vehicles off the streets, official news reports said.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "contributor": "Shi Da contributed research.",
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/01/31/world/CHINA-1/CHINA-1-thumbWide-v2.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/01/31/world/CHINA-1/CHINA-1-thumbWide-v2.jpg"
+            }
+          },
+          {
+            "height": 395,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/01/31/world/CHINA-2/CHINA-2-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "395",
+              "xlarge": "images/2013/01/31/world/CHINA-2/CHINA-2-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/01/31/world/CHINA-2/CHINA-2-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/01/31/world/CHINA-2/CHINA-2-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "510a31a900315214fbb881d8",
+        "source": "The New York Times",
+        "word_count": "954",
+        "lead_paragraph": "The measures include shutting down more than 100 factories and ordering one-third of government vehicles off the streets, official news reports said."
+      },
+      {
+        "abstract": "As the Chinese government introduces emergency measures to curb pollution, the Indian government is silent.",
+        "headline": {
+          "kicker": "India Ink",
+          "main": "You Think the Air in Beijing Is Bad? Try New Delhi"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "New Delhi (India)"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Environmental Protection Agency"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Hazardous and Toxic Substances"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Air Pollution"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-01-31T03:05:36Z",
+        "web_url": "http://india.blogs.nytimes.com/2013/01/31/you-think-the-air-in-beijing-is-bad-try-new-delhi/",
+        "news_desk": null,
+        "snippet": "As the Chinese government introduces emergency measures to curb pollution, the Indian government is silent.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "TIMMONS",
+            "role": "reported",
+            "firstname": "Heather"
+          }],
+          "original": "By HEATHER TIMMONS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "510a2b0e00315214fbb8814a",
+        "source": "The New York Times",
+        "word_count": 331,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "seo": "Metropolitan Museum Collaborates With Chinese Museum",
+          "main": "International Nature"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "Metropolitan Museum of Art"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "National Museum of China"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          }
+        ],
+        "print_page": "23",
+        "pub_date": "2013-02-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/02/01/arts/design/metropolitan-museum-collaborates-with-chinese-museum.html",
+        "news_desk": "Weekend",
+        "snippet": "The large National Museum in Beijing is opening the exhibition \u201cEarth, Sea, and Sky: Nature in Western Art,\u201d with a range of works from the Metropolitan Museum in New York.",
+        "type_of_material": "",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "QIN",
+            "role": "reported",
+            "firstname": "Amy"
+          }],
+          "contributor": "Edward Wong contributed reporting.",
+          "original": "By AMY QIN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 761,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2013/02/01/arts/01JPMET1/JPMET1-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "761",
+              "xlarge": "images/2013/02/01/arts/01JPMET1/JPMET1-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2013/02/01/arts/01MET/01MET-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/02/01/arts/01MET/01MET-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "510af0e500315214fbb8866e",
+        "source": "",
+        "word_count": 855,
+        "lead_paragraph": "The large National Museum in Beijing is opening the exhibition \u201cEarth, Sea, and Sky: Nature in Western Art,\u201d with a range of works from the Metropolitan Museum in New York."
+      },
+      {
+        "abstract": "Cheryl Lu-Lien Tan reviews Grace Beijing hotel in Beijing, China.",
+        "headline": {
+          "seo": "A Boutique Retreat in Beijing\u2019s 798 Art District",
+          "print_headline": "A Chic, Modern Retreat in the Art District",
+          "kicker": "Check In",
+          "main": "A Boutique Retreat in Beijing\u2019s 798 Art District"
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Hotels and Travel Lodgings",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Travel and Vacations",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2013-02-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/02/03/travel/a-boutique-retreat-in-beijings-798-art-district.html",
+        "news_desk": "Travel",
+        "snippet": "Situated in an area stuffed with galleries and cafes, the Grace hotel is a chic, modern option for visitors to China\u2019s capital.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Lu-lien",
+            "role": "reported",
+            "lastname": "TAN",
+            "firstname": "Cheryl"
+          }],
+          "contributor": "",
+          "original": "By CHERYL LU-LIEN TAN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/01/27/travel/03CHECKIN2_SPAN/03CHECKIN2_SPAN-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/01/27/travel/03CHECKIN2_SPAN/03CHECKIN2_SPAN-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 450,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/01/27/travel/03CHECKIN1/27CHECKIN1-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "450",
+              "xlarge": "images/2013/01/27/travel/03CHECKIN1/27CHECKIN1-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/01/27/travel/03CHECKIN1/03CHECKIN1-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/01/27/travel/03CHECKIN1/03CHECKIN1-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "510a428100315214fbb88311",
+        "source": "The New York Times",
+        "word_count": "507",
+        "lead_paragraph": "Situated in an area stuffed with galleries and cafes, the Grace hotel is a chic, modern option for visitors to China\u2019s capital."
+      }
+    ],
+    "meta": {
+      "time": 18,
+      "hits": 144,
+      "offset": 10
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

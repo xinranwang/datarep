@@ -1,0 +1,807 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "China says that it will begin publishing more detailed air quality data on Beijing, following a public outcry over official government readings that critics say underestimated the severity of the air pollution problem in the smog-filled capital. (M)/",
+        "headline": {"main": "China to Release More Data On Air Pollution in Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2012-01-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/01/07/world/asia/china-to-release-more-data-on-air-pollution-in-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Residents were angry about the severity of fine-particle pollution in the capital and the government\u2019s lack of transparency.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd297d18eb7c8105d8746ac",
+        "source": "The New York Times",
+        "word_count": 397,
+        "lead_paragraph": "SHANGHAI -- China said on Friday that it would begin to publish more detailed air quality data on Beijing later this month, following a public outcry over official government readings that critics said underestimated the severity of the air pollution problem in the smog-filled capital. Beijing plans to publish hourly air quality reports based on an international standard known as PM 2.5, which measures tiny particles that are 2.5 microns or less in diameter, according to an announcement on the Web site of the Beijing municipal government. Those are the particles that are considered the most serious health hazard."
+      },
+      {
+        "abstract": "The move came after Apple's Beijing store failed to open as promised and a frustrated crowd reacted by pelting it with eggs.",
+        "headline": {
+          "kicker": "Bits",
+          "main": "Apple Suspends iPhone 4S Sales in Mainland China Stores"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Apple Incorporated"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "iPhone"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "unknown",
+            "value": "Apple Incorporated|AAPL|NASDAQ"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-01-13T06:54:34Z",
+        "web_url": "http://bits.blogs.nytimes.com/2012/01/13/apple-suspends-iphone-4s-sales-in-mainland-china-stores/",
+        "news_desk": null,
+        "snippet": "The move came after Apple's Beijing store failed to open as promised and a frustrated crowd reacted by pelting it with eggs.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Technology",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [],
+          "organization": "THE NEW YORK TIMES",
+          "original": "By THE NEW YORK TIMES"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a2e28eb7c8105d8eb5ba",
+        "source": "The New York Times",
+        "word_count": 67,
+        "lead_paragraph": "The introduction of the Apple iPhone 4S in Beijing turned ugly Friday morning when the company's flagship store failed to open as promised and a frustrated crowd reacted by pelting its gleaming glass walls with eggs, reports Sharon LaFraniere, a New York Times reporter in Beijing. The company will suspend iPhone 4S sales in its mainland China stores to protect its employees and customers. Read more »"
+      },
+      {
+        "abstract": "Also, some hard-edged tweets attacking Ron Paul from Rick Perry's son, and Michelle Obama joins Twitter.",
+        "headline": {
+          "kicker": "Media Decoder",
+          "main": "The Breakfast Meeting: Colbert for President? and iPhone Riots in China"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "organizations",
+            "value": "Comedy Central"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Paul, Ron"
+          },
+          {
+            "rank": "10",
+            "name": "organizations",
+            "value": "Apple Incorporated"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Obama, Michelle"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Colbert, Stephen"
+          },
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Perry, Rick"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "persons",
+            "value": "Stewart, Jon"
+          },
+          {
+            "rank": "14",
+            "name": "unknown",
+            "value": "Apple Incorporated|AAPL|NASDAQ"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "iPhone"
+          },
+          {
+            "rank": "13",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Political Action Committees"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "Presidential Election of 2012"
+          },
+          {
+            "rank": "12",
+            "name": "organizations",
+            "value": "Twitter"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-01-13T08:53:59Z",
+        "web_url": "http://mediadecoder.blogs.nytimes.com/2012/01/13/the-breakfast-meeting-colbert-for-president-and-iphone-riots-in-china/",
+        "news_desk": null,
+        "snippet": "Also, some hard-edged tweets attacking Ron Paul from Rick Perry's son, and Michelle Obama joins Twitter.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "COHEN",
+            "role": "reported",
+            "firstname": "Noam"
+          }],
+          "original": "By NOAM COHEN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a2348eb7c8105d8e9cce",
+        "source": "The New York Times",
+        "word_count": 311,
+        "lead_paragraph": "The political performance art known as the Stephen Colbert campaign for president came a step closer to reality last night on \"The Colbert Report\" on Comedy Central, as Mr. Colbert transferred control of his \"super PAC\" -- Americans for a Better Tomorrow, Tomorrow - to his friend and late-night lead-in Jon Stewart, Brian Stelter reported. Mr. Colbert's lawyer explained: \"You cannot be a candidate and run a super PAC. That would be coordinating with yourself.\" Having a good friend run it, however, would be a different story, he said."
+      },
+      {
+        "abstract": "Apple temporarily suspends sales of all iPhones at its five mainland China stores out of concern for the safety of customers and employees, after the Beijing store fails to open as promised to introduce the iPhone 4S and a frustrated crowd pelts it with eggs. (M)1",
+        "headline": {"main": "All iPhone Sales Suspended At Apple Stores in China"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "APPLE INCORPORATED"
+          },
+          {
+            "name": "subject",
+            "value": "IPHONE"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS, PROTESTS, AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "MIGRANT AND FOREIGN WORKERS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2012-01-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/01/14/technology/apple-suspends-iphone-4s-sales-in-mainland-china-stores.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "The move came after Apple\u2019s Beijing store failed to open as promised and a frustrated crowd reacted by pelting it with eggs.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LaFRANIERE",
+            "role": "reported",
+            "firstname": "Sharon"
+          }],
+          "original": "By SHARON LaFRANIERE"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "legacy": {
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2012/01/14/world/14iphone-image4/14iphone-image4-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2012/01/14/world/14iphone-image4/14iphone-image4-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2a4238eb7c8105d88a34f",
+        "source": "The New York Times",
+        "word_count": 388,
+        "lead_paragraph": "BEIJING -- The introduction of the AppleiPhone 4S in Beijing turned ugly Friday morning when Apple failed to open its flagship store and a frustrated crowd reacted by pelting the store's gleaming glass walls with eggs. Apple said in a statement that it had temporarily suspended sales of all iPhones at its five mainland China stores out of concern for the safety of customers and employees. The phones will still be offered online, through Apple's official partner, Unicom, and at authorized resellers. The statement did not say when Apple stores would resume selling the iPhone 4S."
+      },
+      {
+        "abstract": "Grievances remain in Chinese village of Wukan, where furious residents evicted the authorities over a land dispute and suspicious death of one protest leader, despite fact that the local Communist Party has selected protest leader Lin Zuluan to be village's new party secretary; villagers say officials sold far more land than they promise to return.",
+        "headline": {
+          "seo": "In Wukan, China, Protest Leader Is Made Party Boss",
+          "print_headline": "Protester Is Made a Boss By the Party He Defied",
+          "main": "Protester Is Made a Boss by the Party He Defied"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Eminent Domain",
+            "is_major": "Y"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Politics and Government",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Communist Party of China",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Wukan (China)",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2012-01-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/01/17/world/asia/protest-leader-becomes-party-boss-in-chinese-village-that-rebelled.html",
+        "news_desk": "Foreign",
+        "snippet": "Despite the new political appointment in the local Communist Party, some villagers in Wukan say their grievances have yet to be addressed.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WINES",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "contributor": "",
+          "original": "By MICHAEL WINES"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 330,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2012/01/17/world/SUB-BEIJING-1/SUB-BEIJING-1-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "330",
+              "xlarge": "images/2012/01/17/world/SUB-BEIJING-1/SUB-BEIJING-1-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2012/01/17/world/SUB-BEIJING-1/SUB-BEIJING-1-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2012/01/17/world/SUB-BEIJING-1/SUB-BEIJING-1-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51c1cdc77e0d9c0839d299fc",
+        "source": "The New York Times",
+        "word_count": "830",
+        "lead_paragraph": "Despite the new political appointment in the local Communist Party, some villagers in Wukan say their grievances have yet to be addressed."
+      },
+      {
+        "abstract": "Discovery of artemisinin, a malaria wonder drug that is being talked about as a candidate for the Nobel Prize in Medicine, has a long and much-debated history; most sources agree that it originated during China's effort to assist the Northern Vietnamese during the Vietnam war. Photos (M)",
+        "headline": {"main": "For Intrigue, Malaria Drug Gets the Prize"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "MAO ZEDONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "VIETNAM WAR"
+          },
+          {
+            "name": "subject",
+            "value": "SCIENCE AND TECHNOLOGY"
+          },
+          {
+            "name": "subject",
+            "value": "MALARIA"
+          },
+          {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+          },
+          {
+            "name": "subject",
+            "value": "RESEARCH"
+          },
+          {
+            "name": "subject",
+            "value": "NOBEL PRIZES"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2012-01-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/01/17/health/for-intrigue-malaria-drug-artemisinin-gets-the-prize.html",
+        "news_desk": "Science Desk",
+        "snippet": "A researcher\u2019s award becomes part of the complicated history of a medicine inspired by Mao Zedong.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Science; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "G.",
+            "role": "reported",
+            "lastname": "McNEIL",
+            "qualifier": "Jr",
+            "firstname": "Donald"
+          }],
+          "original": "By DONALD G. McNEIL Jr"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2012/01/17/science/17JPMALA1_SPAN/17JPMALA1_SPAN-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2012/01/17/science/17JPMALA1_SPAN/17JPMALA1_SPAN-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2012/01/17/science/17JPMALA1_SPAN/17JPMALA1-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2012/01/17/science/17JPMALA1_SPAN/17JPMALA1-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2ad848eb7c8105d89b828",
+        "source": "The New York Times",
+        "word_count": 1564,
+        "lead_paragraph": "The Chinese drug artemisinin has been hailed as one of the greatest advances in fighting malaria, the scourge of the tropics, since the discovery of quinine centuries ago. Artemisinin's discovery is being talked about as a candidate for a Nobel Prize in Medicine. Millions of American taxpayer dollars are spent on it for Africa every year."
+      },
+      {
+        "abstract": "Grievances remain in Chinese village of Wukan, where furious residents evicted the authorities over a land dispute and suspicious death of one protest leader, despite fact that the local Communist Party has selected protest leader Lin Zuluan to be village's new party secretary; villagers say officials sold far more land than they promise to return. Photos (M)",
+        "headline": {"main": "Protester Is Made a Boss By the Party He Defied"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "WUKAN (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "COMMUNIST PARTY OF CHINA"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "EMINENT DOMAIN"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2012-01-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/01/17/world/asia/protest-leader-becomes-party-boss-in-chinese-village-that-rebelled.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Despite the new political appointment in the local Communist Party, some villagers in Wukan say their grievances have yet to be addressed.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WINES",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL WINES"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2012/01/17/world/SUB-BEIJING-1/SUB-BEIJING-1-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2012/01/17/world/SUB-BEIJING-1/SUB-BEIJING-1-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2012/01/17/world/SUB-BEIJING-1/SUB-BEIJING-1-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2012/01/17/world/SUB-BEIJING-1/SUB-BEIJING-1-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2a7be8eb7c8105d890904",
+        "source": "The New York Times",
+        "word_count": 830,
+        "lead_paragraph": "BEIJING -- In an unlikely coda to the citizen takeover last month of Wukan, a village in southern China whose furious residents evicted the authorities over a land dispute, the local Communist Party has selected the protest leader to be the village's new party secretary. Addressing the grievances that led the villagers to seize power in the first place -- the land dispute and the suspicious death of one protest leader -- appears to be another matter altogether."
+      },
+      {
+        "abstract": "HONG KONG --- President Obama repeatedly attacked Chinese trade practices in his State of the Union speech Tuesday night in Washington. But with the exception of Myanmar, where Mr. Obama said \"a new beginning'' was taking shape, most of the rest of Asia got no mention at all. No Japan, no India and neither Korea.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Obama Gives China the Business"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "organizations",
+            "value": "Commerce Department"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Romney, Mitt"
+          },
+          {
+            "rank": "10",
+            "name": "organizations",
+            "value": "Asia-Pacific Economic Cooperation"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Brown, Sherrod"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Customs (Tariff)"
+          },
+          {
+            "rank": "15",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Economic Conditions and Trends"
+          },
+          {
+            "rank": "14",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "International Trade and World Market"
+          },
+          {
+            "rank": "13",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "State of the Union Message (US)"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "United States Economy"
+          },
+          {
+            "rank": "12",
+            "name": "organizations",
+            "value": "World Trade Organization"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-01-25T01:21:33Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/01/25/obama-gives-china-the-business/",
+        "news_desk": null,
+        "snippet": "HONG KONG --- President Obama repeatedly attacked Chinese trade practices in his State of the Union speech Tuesday night in Washington. But with the exception of Myanmar, where Mr. Obama said \"a new beginning'' was taking shape, most of the rest of A",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a2528eb7c8105d8ea26d",
+        "source": "The New York Times",
+        "word_count": 603,
+        "lead_paragraph": "HONG KONG --- President Obama repeatedly attacked Chinese trade practices in his State of the Union speech Tuesday night in Washington. But with the exception of Myanmar, where Mr. Obama said \"a new beginning'' was taking shape, most of the rest of Asia got no mention at all. No Japan, no India and neither Korea."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "LETTER FROM CHINA",
+          "main": "China's Hidden Wealth Feeds an Income Gap"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "LUXURY GOODS"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "INCOME INEQUALITY"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-01-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/01/26/world/asia/26iht-letter26.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "An astonishing picture is building of extravagant, high-end Chinese spending that offers a glaring contrast to the hardscrabble, high-saving image of most Chinese. Where is all the money coming from?",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2ba9b8eb7c8105d8b0bf1",
+        "source": "International Herald Tribune",
+        "word_count": 954,
+        "lead_paragraph": "BEIJING -- The Chinese economy is a little like the Milky Way: we keep discovering it's larger than we thought, the difference may run in the trillions, and much is hidden from view. As year-end reports on 2011 emerge from companies and organizations around the world, an astonishing picture is building of extravagant, high-end Chinese spending that offers a glaring contrast to the hardscrabble, high-saving image of most Chinese."
+      },
+      {
+        "abstract": "The popular Chinese blogger may have shocked many followers with his latest pronouncements on the future of democracy, but he's right not to let idealism trump practical politics.",
+        "headline": {
+          "kicker": "Latitude",
+          "main": "Han Han's U-Turn?"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Communism (Theory and Philosophy)"
+          },
+          {
+            "rank": "10",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Blogs and Blogging (Internet)"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Han Han"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Democracy (Theory and Philosophy)"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Freedom of the Press"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Politics and Government"
+          },
+          {
+            "rank": "9",
+            "name": "organizations",
+            "value": "Communist Party of China"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-01-26T10:54:35Z",
+        "web_url": "http://latitude.blogs.nytimes.com/2012/01/26/blogger-han-han-controversy-on-democracy-in-china/",
+        "news_desk": null,
+        "snippet": "The popular Chinese blogger may have shocked many followers with his latest pronouncements on the future of democracy, but he's right not to let idealism trump practical politics.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ABRAHAMSEN",
+            "role": "reported",
+            "firstname": "Eric"
+          }],
+          "original": "By ERIC ABRAHAMSEN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a2618eb7c8105d8ea4a1",
+        "source": "The New York Times",
+        "word_count": 740,
+        "lead_paragraph": "BEIJING - Three weeks after Han Han, China's most prominent blogger, published three controversial blog posts in which he casts a sullen eye on Revolution, Democracy and Freedom, the online debate has slid into absurdity."
+      }
+    ],
+    "meta": {
+      "time": 20,
+      "hits": 167,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,600 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Article takes point of view that Olympic Games should be held in Beijing in 2008; says businesses are eager to go there and games can serve as symbolic invitation to world that China is open for business and ready for diverse political and cultural thought; photo (M)",
+        "headline": {"main": "BackTalk; The Yea and Nay of Beijing's Olympic Bid"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN INVESTMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2001-07-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/08/sports/backtalk-the-yea-and-nay-of-beijing-s-olympic-bid.html",
+        "news_desk": "Sports Desk",
+        "snippet": "It's time the Olympics went to China.    If Ping-Pong diplomacy was the foundation of sport and politics between President Nixon's America and a closed China 30 years ago, then the Olympic Games represent the newer, more contemporary approach to Chin",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BURTON",
+            "role": "reported",
+            "firstname": "Rick"
+          }],
+          "original": "By RICK BURTON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd227658eb7c8105d7b03c6",
+        "source": "The New York Times",
+        "word_count": 842,
+        "lead_paragraph": "It's time the Olympics went to China. If Ping-Pong diplomacy was the foundation of sport and politics between President Nixon's America and a closed China 30 years ago, then the Olympic Games represent the newer, more contemporary approach to China's global acceptance."
+      },
+      {
+        "abstract": "Bush administration, uncertain about effective opposition to China's bid for 2008 Olympics, will remain silent on issue; administration now believes that winning games could cause China to hesitate about using force against Taiwan in coming years and might also improve behavior on human rights (M)",
+        "headline": {"main": "U.S. Won't Block China's Bid for Olympics"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2001-07-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/11/world/us-won-t-block-china-s-bid-for-olympics.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Bush administration, uncertain that it could effectively oppose China's bid for the 2008 Olympics, has decided to remain silent on the issue. But in doing so, it has come to believe that there could be advantages for the United States if Beijing ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "PERLEZ",
+            "role": "reported",
+            "firstname": "Jane"
+          }],
+          "original": "By JANE PERLEZ"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd230828eb7c8105d7bed60",
+        "source": "The New York Times",
+        "word_count": 849,
+        "lead_paragraph": "The Bush administration, uncertain that it could effectively oppose China's bid for the 2008 Olympics, has decided to remain silent on the issue. But in doing so, it has come to believe that there could be advantages for the United States if Beijing prevails, officials said today. A victory for Beijing in the vote, to be held by the International Olympic Committee on Friday in Moscow, could cause the Chinese government to hesitate to use military force against Taiwan in the coming years, and could encourage an improvement in its human rights behavior, a senior administration official said."
+      },
+      {
+        "abstract": "Leaders of Beijing bid for 2008 Summer Games are in anxious position of front-runners in days before International Olympic Committee, meeting in Moscow, votes; delegates recall other front runners who failed to win games; photos (M)",
+        "headline": {
+          "kicker": "OLYMPICS",
+          "main": "Beijing Must Wait, Worry, and Not Mess Up"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2001-07-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/11/sports/olympics-beijing-must-wait-worry-and-not-mess-up.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Having arrived here as strong favorites to secure the 2008 Summer Games, leaders of the Beijing bid must now survive a peculiar 72-hour Olympic malady -- the agony of the front-runner.    Recent Olympic history is fraught with candidate cities who se",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LONGMAN",
+            "role": "reported",
+            "firstname": "Jere"
+          }],
+          "original": "By JERE LONGMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2275d8eb7c8105d7afdee",
+        "source": "The New York Times",
+        "word_count": 1210,
+        "lead_paragraph": "Having arrived here as strong favorites to secure the 2008 Summer Games, leaders of the Beijing bid must now survive a peculiar 72-hour Olympic malady -- the agony of the front-runner. Recent Olympic history is fraught with candidate cities who seemingly held a hefty advantage, only to fritter it away in the final days before members of the International Olympic Committee held their vote. Beijing was favored over Sydney for the 2000 Summer Games, but lost by two votes, just as Athens's expected victory for the 1996 Olympics evaporated into a triumph for Atlanta."
+      },
+      {
+        "abstract": "Editorial says International Olympic Committee seems likely to approve China's application to be host nation for 2008 Summer Games, as United States remains neutral on China's bid and rest of world is unwilling to make human rights decisive issue; says if Beijing prevails, US and IOC should do what it can to turn 2008 Summer Games into force for constructive change in China",
+        "headline": {"main": "The Beijing Olympic Bid"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "22",
+        "pub_date": "2001-07-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/12/opinion/the-beijing-olympic-bid.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "As the International Olympic Committee gathers in Moscow this week to select a host nation for the 2008 Summer Games, there is no mystery about the human rights record of China, the heavily favored contender. It is abysmal. As a matter of principle, ",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20ac78eb7c8105d777f36",
+        "source": "The New York Times",
+        "word_count": 743,
+        "lead_paragraph": "As the International Olympic Committee gathers in Moscow this week to select a host nation for the 2008 Summer Games, there is no mystery about the human rights record of China, the heavily favored contender. It is abysmal. As a matter of principle, China's human rights abuses and suppression of dissent should disqualify it from holding the Olympics. But with the United States remaining neutral on China's bid, and the rest of the world unwilling to make human rights a decisive issue, the I.O.C. seems likely to approve the Chinese application. Having turned down China once before, in 1993 when it applied to be host to the 2000 Games, which were awarded to Sydney instead, many I.O.C. members are reluctant to disappoint the Chinese again. Since the modern Olympic movement began in 1896, China has never played host to the event."
+      },
+      {
+        "abstract": "Article discusses how decision by International Olympic Committee concerning China hosting 2008 Summer Olympic Games will effect China and its people; notes there will be dissatisfaction whether or not Beijing gets Olympics; photo (L)",
+        "headline": {
+          "kicker": "OLYMPICS",
+          "main": "Mixed Messages"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2001-07-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/12/sports/olympics-mixed-messages.html",
+        "news_desk": "Sports Desk",
+        "snippet": "President Jiang Zemin of China is scheduled to make a state visit here on Sunday, but Olympic decisions made before he arrives will determine whether his visit will occur in splendid triumph or in bitter defeat.    Two days before he arrives, on Frid",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LONGMAN",
+            "role": "reported",
+            "firstname": "Jere"
+          }],
+          "original": "By JERE LONGMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20f978eb7c8105d782544",
+        "source": "The New York Times",
+        "word_count": 1502,
+        "lead_paragraph": "President Jiang Zemin of China is scheduled to make a state visit here on Sunday, but Olympic decisions made before he arrives will determine whether his visit will occur in splendid triumph or in bitter defeat. Two days before he arrives, on Friday, the International Olympic Committee will determine whether Beijing's bid for the 2008 Summer Games is more deserving than the candidacies of Paris and Toronto."
+      },
+      {
+        "abstract": "H Arkin Kora letter, commenting on July 11 article, disputes assertion that granting China permission to host 2008 Summer Olympic Games will motivate it to improve its human rights record",
+        "headline": {"main": "Don't Reward Dictators"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "KORA, H ARKIN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "22",
+        "pub_date": "2001-07-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/12/opinion/l-don-t-reward-dictators-203548.html",
+        "news_desk": "Editorial Desk",
+        "snippet": " To the Editor:    Re ''Beijing Must Wait, Worry, and Not Mess Up'' (Sports pages, July 11): Despite its awful human rights record, China is a strong candidate to play host to the 2008 Summer Olympic Games. It has been argued that the Olympics will m",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd259408eb7c8105d8058d1",
+        "source": "The New York Times",
+        "word_count": 215,
+        "lead_paragraph": "To the Editor: Re ''Beijing Must Wait, Worry, and Not Mess Up'' (Sports pages, July 11): Despite its awful human rights record, China is a strong candidate to play host to the 2008 Summer Olympic Games. It has been argued that the Olympics will motivate China to improve its human rights record. I disagree."
+      },
+      {
+        "abstract": "China begins tentative preparations for national celebration as it awaits International Olympic Committee's decision on whether Beijing will host 2008 Summer Games; photo (M)",
+        "headline": {
+          "kicker": "OLYMPICS",
+          "main": "Beijing Is Preparing to Celebrate"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2001-07-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/13/sports/olympics-beijing-is-preparing-to-celebrate.html",
+        "news_desk": "Sports Desk",
+        "snippet": "China began tentative preparations for a national celebration today as it waited for the International Olympic Committee's decision Friday on whether Beijing will play host to the 2008 Summer Games.    The national television station will begin broad",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "S.",
+            "role": "reported",
+            "lastname": "SMITH",
+            "firstname": "Craig"
+          }],
+          "original": "By CRAIG S. SMITH"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd230818eb7c8105d7bece1",
+        "source": "The New York Times",
+        "word_count": 904,
+        "lead_paragraph": "China began tentative preparations for a national celebration today as it waited for the International Olympic Committee's decision Friday on whether Beijing will play host to the 2008 Summer Games. The national television station will begin broadcasting a countdown to the decision at noon Friday, and will have a live feed from Moscow, where the I.O.C. will be voting. And Beijing's local television station will broadcast a patriotic song-and-dance program from the city's Millennium Monument for the two hours leading up to the decision, which is expected at around 10 p.m. local time."
+      },
+      {
+        "abstract": "Beijing officials meet with members of news media prior to International Olympic Committee vote on host city for 2008 Summer Olympics; Chinese journalists, in obviously rehearsed portion of news conference, ask questions pertaining to human rights and pollution so officials could give planned replies (M)",
+        "headline": {
+          "kicker": "OLYMPICS: NOTEBOOK",
+          "main": "Chinese Officials Avoid Tough Questions"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2001-07-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/13/sports/olympics-notebook-chinese-officials-avoid-tough-questions.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Beijing officials took no chances on being blindsided by potentially embarrassing questions today as they met with the 1,500 members of the news media gathered for Friday's vote for the host city of the 2008 Summer Olympics.    In an obviously rehear",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LONGMAN",
+            "role": "reported",
+            "firstname": "Jere"
+          }],
+          "original": "By JERE LONGMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd216248eb7c8105d790051",
+        "source": "The New York Times",
+        "word_count": 1090,
+        "lead_paragraph": "Beijing officials took no chances on being blindsided by potentially embarrassing questions today as they met with the 1,500 members of the news media gathered for Friday's vote for the host city of the 2008 Summer Olympics. In an obviously rehearsed portion of the news conference, Chinese journalists from state-controlled print and broadcast outlets were chosen to ask questions about human rights, pollution and sclerotic traffic so that officials could give their carefully planned answers."
+      },
+      {
+        "abstract": "Selection of Beijing to host 2008 Olympic Games stirs pride among Chinese-Americans in New York and across country; reaction is mixed among Chinese dissidents and groups in US that oppose human rights abuses in China; photo (M)",
+        "headline": {
+          "kicker": "OLYMPICS: LOCAL RESPONSE",
+          "main": "Chinese-American Pride Swells After Decision"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "CHINESE-AMERICANS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2001-07-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/14/sports/olympics-local-response-chinese-american-pride-swells-after-decision.html",
+        "news_desk": "Sports Desk",
+        "snippet": "To Grace Ho, a practitioner of Chinese medicine, the awarding of the 2008 Summer Olympic Games to Beijing yesterday was like giving China a strong whiff of curative herbs.    ''In the next seven years, China will have to build a lot of their projects",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2593c8eb7c8105d8055ce",
+        "source": "The New York Times",
+        "word_count": 798,
+        "lead_paragraph": "To Grace Ho, a practitioner of Chinese medicine, the awarding of the 2008 Summer Olympic Games to Beijing yesterday was like giving China a strong whiff of curative herbs. ''In the next seven years, China will have to build a lot of their projects for the Games,'' she said as she sat in her cramped shop in Chinatown in Lower Manhattan, the pungent odor of ginseng in the air. ''As an herbalist, you have to build up spots of your body. In our traditional culture, a healthy body benefits from such spots.''"
+      },
+      {
+        "abstract": "Chinese officials expect to spend $20 billion to modernize Beijing in time for 2008 Olympic Games, building dozens of sports facilities, upgrading its public transportation and communications networks and cleaning up its blighted environment; games are seen more as political than economic coup, since host cities in past have been left saddled with billions of dollars in debt or, if they turned profit, reaped little in way of long-term economic benefits (M)",
+        "headline": {
+          "kicker": "OLYMPICS: THE COST",
+          "main": "Environmental and Transportation Improvements Could Send Price Soaring"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "TRANSIT SYSTEMS"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          },
+          {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2001-07-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2001/07/14/sports/olympics-cost-environmental-transportation-improvements-could-send-price-soaring.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Now that Beijing has won its long-coveted Olympics, it must confront the costs of staging the Games. The real numbers may never be fully disclosed, but the vote today by the International Olympic Committee is likely to be remembered more as a politic",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LANDLER",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK LANDLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd25c068eb7c8105d8098ef",
+        "source": "The New York Times",
+        "word_count": 794,
+        "lead_paragraph": "Now that Beijing has won its long-coveted Olympics, it must confront the costs of staging the Games. The real numbers may never be fully disclosed, but the vote today by the International Olympic Committee is likely to be remembered more as a political victory than as an economic windfall. Chinese officials estimate that they will spend $20 billion to modernize Beijing by 2008. In one of the most ambitious municipal makeovers in history, Beijing will build dozens of sports facilities, upgrade its public transportation and communications networks, and clean up its blighted environment."
+      }
+    ],
+    "meta": {
+      "time": 34,
+      "hits": 75,
+      "offset": 40
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

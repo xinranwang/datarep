@@ -1,0 +1,609 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Deadly Blaze Tears Through Beijing Clothing Factory"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FACTORIES AND MANUFACTURING"
+          },
+          {
+            "name": "subject",
+            "value": "FIRES AND FIREFIGHTERS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-04-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/04/26/world/asia/26chinafire.html",
+        "news_desk": "National Desk",
+        "snippet": "The fire killed more than a dozen people before more than 200 firefighters extinguished the blaze early Monday, a state news service reported.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "U.S.",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WINES",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL WINES"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd291378eb7c8105d869864",
+        "source": "The New York Times",
+        "word_count": 203,
+        "lead_paragraph": "BEIJING -- A fire at a clothing factory in southern Beijing killed at least 17 persons and injured 24 more before more than 200 firefighters extinguished the blaze early Monday, a state news service reported. The owner of the factory was among those injured, the Xinhua news agency reported. A short circuit was reported to be the cause."
+      },
+      {
+        "abstract": "In a coup for the Big Board, LinkedIn said on Wednesday that it would be listing its shares on the New York Stock Exchange under the ticker symbol LNKD.",
+        "headline": {
+          "kicker": "DealBook",
+          "main": "Shunning Nasdaq, LinkedIn Prepares a Big Board I.P.O."
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "organizations",
+            "value": "NYSE Euronext"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Nasdaq Composite Index"
+          },
+          {
+            "rank": "10",
+            "name": "organizations",
+            "value": "New York Stock Exchange"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Mergers, Acquisitions and Divestitures"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Initial Public Offerings"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Social Networking (Internet)"
+          },
+          {
+            "rank": "15",
+            "name": "unknown",
+            "value": "NYSE Euronext|NYX|NYSE"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "organizations",
+            "value": "IntercontinentalExchange Inc"
+          },
+          {
+            "rank": "14",
+            "name": "unknown",
+            "value": "NASDAQ OMX Group Inc|NDAQ|NASDAQ"
+          },
+          {
+            "rank": "7",
+            "name": "organizations",
+            "value": "LinkedIn"
+          },
+          {
+            "rank": "13",
+            "name": "unknown",
+            "value": "IntercontinentalExchange Inc|ICE|NYSE"
+          },
+          {
+            "rank": "8",
+            "name": "organizations",
+            "value": "NASDAQ OMX Group Inc"
+          },
+          {
+            "rank": "9",
+            "name": "organizations",
+            "value": "Nasdaq Stock Market"
+          },
+          {
+            "rank": "12",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-05-04T12:03:09Z",
+        "web_url": "http://dealbook.nytimes.com/2011/05/04/shunning-nasdaq-linkedin-prepares-for-an-i-p-o-on-the-big-board/",
+        "news_desk": null,
+        "snippet": "In a coup for the Big Board, LinkedIn said on Wednesday that it would be listing its shares on the New York Stock Exchange under the ticker symbol LNKD.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Business Day",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By EVELYN M. RUSLI"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd39fae8eb7c8105d8e4073",
+        "source": "The New York Times",
+        "word_count": 283,
+        "lead_paragraph": "In a coup for the New York Stock Exchange, the business-oriented social networking site LinkedIn said in a filing on Wednesday that it would list its new shares on the Big Board."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "LETTER FROM CHINA",
+          "main": "Mao's Legacy Still Divides China"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "MAO ZEDONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-05-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/05/06/world/asia/06iht-letter06.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Some see Mao as a deeply flawed figure who had his achievements. Others see a Machiavellian killer. Yet others see a symbol of days when people were more equal.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a1518eb7c8105d88517c",
+        "source": "International Herald Tribune",
+        "word_count": 1015,
+        "lead_paragraph": "BEIJING -- ''At the center of the center of China lies a corpse that nobody dares remove.'' So runs the memorable opening line of ''Behind the Forbidden Door,'' a book published in 1985 by the Italian journalist Tiziano Terzani."
+      },
+      {
+        "abstract": "The theft forces a shutdown of part of the ancient palace.",
+        "headline": {
+          "kicker": "ArtsBeat",
+          "main": "Rare Works Stolen From Exhibition at Forbidden City in Beijing"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Robberies and Thefts"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Collectors and Collections"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Hong Kong"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-05-11T11:24:02Z",
+        "web_url": "http://artsbeat.blogs.nytimes.com/2011/05/11/rare-works-stolen-from-exhibition-at-forbidden-city-in-beijing/",
+        "news_desk": null,
+        "snippet": "The theft forces a shutdown of part of the ancient palace.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a0058eb7c8105d8e4ce6",
+        "source": "The New York Times",
+        "word_count": 156,
+        "lead_paragraph": "BEIJING -- Rare handicrafts from a private museum in Hong Kong that were on display at the Forbidden City in Beijing were stolen on Sunday, forcing a shutdown of one part of the ancient palace, according to an article on Wednesday in the English-language edition of Global Times, a government-run newspaper in Beijing."
+      },
+      {
+        "abstract": "Chinese officials say a thief hid in the Palace Museum in Beijing's Forbidden City after closing time and stole nine 20-century gold purses encrusted with jewels from a temporary exhibition (M)",
+        "headline": {"main": "Purse Snatcher Embarrasses Chinese Museum"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "PALACE MUSEUM"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          },
+          {
+            "name": "subject",
+            "value": "ROBBERIES AND THEFTS"
+          },
+          {
+            "name": "subject",
+            "value": "MUSEUMS"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "2011-05-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/05/12/world/asia/12china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A thief stole nine 20th-century gold purses encrusted with jewels from a temporary exhibition in Beijing\u2019s Forbidden City on Sunday.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b8c58eb7c8105d8aea78",
+        "source": "The New York Times",
+        "word_count": 322,
+        "lead_paragraph": "HONG KONG -- A thief hid in the Palace Museum in Beijing's Forbidden City after closing time on Sunday night and stole nine 20th-century gold purses encrusted with jewels from a temporary exhibition, embarrassed Chinese officials said Wednesday. The small Western-style gold purses had been lent by the Li Yiang Museum in Hong Kong, which in turn had been lent the purses by a Hong Kong art collector."
+      },
+      {
+        "abstract": "Several rare works are stolen from exhibit at Forbidden City in Beijing, forcing shutdown in one part of ancient palace (S)",
+        "headline": {
+          "kicker": "ARTS, BRIEFLY",
+          "main": "Rare Works Stolen At the Forbidden City"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ITZKOFF, DAVE"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          },
+          {
+            "name": "subject",
+            "value": "ROBBERIES AND THEFTS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2011-05-12T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9B06E3DE1238F931A25756C0A9679D8B63",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "BEIJING -- Rare handicrafts from a private museum in Hong Kong that were on display at the Forbidden City in Beijing were stolen on Sunday, forcing a shutdown of one part of the ancient palace, according to an article on Wednesday in the English-lang",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd291418eb7c8105d869fb8",
+        "source": "The New York Times",
+        "word_count": 175,
+        "lead_paragraph": "BEIJING -- Rare handicrafts from a private museum in Hong Kong that were on display at the Forbidden City in Beijing were stolen on Sunday, forcing a shutdown of one part of the ancient palace, according to an article on Wednesday in the English-language edition of Global Times, a government-run newspaper in Beijing. The missing items date to the early 20th century and include jewelry boxes. They belong to Feng Yaohui, a Hong Kong collector, and were part of the Liangyicang private museum. The last attempted burglary at the Forbidden City took place in 1987, Global Times reported, citing a Web site administered by the Ministry of Public Security. At least 1,600 antitheft alarms, 3,700 smoke detectors and 3,700 cameras monitor the Forbidden City after it closes to the public at 5 p.m., Global Times reported, citing an article in Legal Mirror on May 1. The exhibition was scheduled to run from April 29 to June 27."
+      },
+      {
+        "abstract": "Rumors surface of luxury private club to be built in the Forbidden City compound in Beijing (S)",
+        "headline": {
+          "kicker": "WORLD BRIEFING | ASIA",
+          "main": "China: Rumors of a Private Club in the Forbidden City"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "RUI CHENGGANG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ORGANIZATIONS, SOCIETIES AND CLUBS"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2011-05-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/05/17/world/asia/17briefs-forbidden.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Forbidden City\u2019s management group handed out registration forms last month for a luxury private club to be located in the compound\u2019s Jianfu Pavilion.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b8c68eb7c8105d8aeada",
+        "source": "The New York Times",
+        "word_count": 106,
+        "lead_paragraph": "The Forbidden City's management group handed out registration forms last month for a luxury private club to be located in the compound's Jianfu Pavilion, which was restored with money from a fund in Hong Kong, according to a report in The Beijing News on Sunday and in the English-language edition of Global Times on Monday. Rumors about the club surfaced last week, when Rui Chenggang, an anchor for China Central Television, said on his microblog that the entry fee was one million renminbi, or about $154,000. Officials sent a statement to Global Times saying there were no plans to open any club."
+      },
+      {
+        "abstract": "Beijing Journal; slogan on a ceremonial banner at the Forbidden City in Beijing, which appeared to call for the overthrow of the Chinese Communist Party, is apparently the result of a written error in Mandarin Chinese; episode is latest in series of embarrassments for Forbidden City, which include a theft and public scandal over plans for a private luxury club; photo (M)",
+        "headline": {
+          "kicker": "BEIJING JOURNAL",
+          "main": "A Call for Revolution? Probably a Typo"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "RUI CHENGGANG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HISTORIC BUILDINGS AND SITES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2011-05-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/05/18/world/asia/18beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A treasonous-sounding slogan seen on a banner at the Forbidden City appears to have been the result of a typo.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG; Mia Li contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2011/05/18/world/BEIJING/BEIJING-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2011/05/18/world/BEIJING/BEIJING-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd29e628eb7c8105d880d5d",
+        "source": "The New York Times",
+        "word_count": 780,
+        "lead_paragraph": "BEIJING -- For 600 years, the Forbidden City, with its vermilion walls, labyrinthine passageways and sloping tiled roofs, has stood in the heart of Beijing as the ultimate symbol of power, the inner sanctum from which authority emanated across a vast land. It is, perhaps, the last place one would imagine as a base for the overthrow of the Chinese Communist Party."
+      },
+      {
+        "abstract": "Beijing government agency says it will investigate company that tried to open luxury private club inside Forbidden City (S)",
+        "headline": {
+          "kicker": "WORLD BRIEFING | ASIA",
+          "main": "China: Company That Tried to Open Forbidden City Club to Be Investigated"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ORGANIZATIONS, SOCIETIES AND CLUBS"
+          },
+          {
+            "name": "subject",
+            "value": "HISTORIC BUILDINGS AND SITES"
+          },
+          {
+            "name": "subject",
+            "value": "BUILDING (CONSTRUCTION)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2011-05-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/05/19/world/asia/19briefs-chinaclub.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A government agency in Beijing has said it will investigate a company that tried to open a luxury private club inside the Forbidden City.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a0168eb7c8105d884199",
+        "source": "The New York Times",
+        "word_count": 118,
+        "lead_paragraph": "A government agency in Beijing has said it will investigate a company that tried to open a luxury private club inside the Forbidden City, according to a report on the Web site of People's Daily, the official newspaper of the Chinese Communist Party. The agency, the Beijing Administration of Industry and Commerce, is looking into wrongdoing by the Forbidden City Cultural Development Company, which had been charged by the palace's management office with organizing salons and lectures. Instead, the company began handing out ''membership sign-up forms'' without telling the managers, a palace spokesman said. The company reportedly wanted to sign up 500 members at a charge of one million renminbi each, or about $154,000."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "LETTER FROM CHINA",
+          "main": "Indifference as a Mode of Operation at China Schools"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION (K-12)"
+          },
+          {
+            "name": "subject",
+            "value": "AUTOMOBILE INSURANCE AND LIABILITY"
+          },
+          {
+            "name": "subject",
+            "value": "DRUNKEN AND RECKLESS DRIVING"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-05-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/05/19/world/asia/19iht-letter19.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Parents of children at a Beijing school where a car ran over a child called the dispassionate reaction typical of the lack of openness and responsiveness at many state-run institutions in China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a1528eb7c8105d885263",
+        "source": "International Herald Tribune",
+        "word_count": 1003,
+        "lead_paragraph": "BEIJING -- For several angry days last December, one of China's top state elementary schools, Fangcaodi International School, nearly became a statistic in the rising number of ''mass incidents'' here. That term includes petitions, demonstrations and strikes, both peaceful and violent, and there were about 280,000 in 2010, according to Sun Liping, a Tsinghua University sociologist. That was up from 87,000 in 2005, according to the Ministry of Public Security."
+      }
+    ],
+    "meta": {
+      "time": 14,
+      "hits": 102,
+      "offset": 30
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

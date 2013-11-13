@@ -1,0 +1,593 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Case of Dr Li Song of Linhe, China, reflects medical, political and economic repercussions of SARS; Li returned to Linhe, in Inner Mongolia, from trip to Beijing in late Mar, unknowingly carrying strain of SARS powerful enough to infect six immediate family members, at least nine medical workers and county official; all told, Linhe area now has more than 100 cases of SARS, many of them traced to Li; his family members died but he survived, and now city authorities are holding him accountable for malfeasance that they claim worsened SARS epidemic; they point to fact that week after Li was admitted to hospital he walked out; he told friends he was frustrated with care he was being given and alarmed at news that both his parents were also ill; Li's friends and colleagues say he broke no laws and cannot be blamed; strongly worded article on Communist Party newspaper suggests search for scapegoat; photo; map (L)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC: 'SUPERSPREADER'",
+          "main": "Man's Virus Infects Town, Killing His Family"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LI SONG"
+          },
+          {
+            "name": "glocations",
+            "value": "INNER MONGOLIA"
+          },
+          {
+            "name": "glocations",
+            "value": "LINHE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+          },
+          {
+            "name": "subject",
+            "value": "HOSPITALS"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2003-05-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/15/world/the-sars-epidemic-superspreader-man-s-virus-infects-town-killing-his-family.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "In the single-story isolation ward of the Ba Meng Hospital, the medical staff and fellow patients heard Dr. Li Song's plaintive cry as SARS ravaged him and his family a few weeks ago.    ''If this is going to kill us,'' Dr. Li said, ''let it take us ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd242928eb7c8105d7db8de",
+        "source": "The New York Times",
+        "word_count": 1774,
+        "lead_paragraph": "In the single-story isolation ward of the Ba Meng Hospital, the medical staff and fellow patients heard Dr. Li Song's plaintive cry as SARS ravaged him and his family a few weeks ago. ''If this is going to kill us,'' Dr. Li said, ''let it take us all together.'' SARS did end the lives of Dr. Li's father, mother and wife. But it ignored his plea and merely ruined his own."
+      },
+      {
+        "abstract": "China, major destination for Western parents who want to adopt child, temporarily suspends most foreign adoptions of Chinese babies in effort to combat SARS epidemic; announces severe new penalties, including execution, for anyone knowingly spreading the disease; says adoptive parents already in China, and in some cases those who have made final travel arrangements, will be allowed to proceed; government official says few cases of SARS have appeared in China's rural towns and villages, but that danger is great; many citizens of Beijing privately express disillusionment or anger over government's initial impulse to play down severity and extent of disease, which hindered control efforts; photo (M)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC: AVOIDING INFECTION",
+          "main": "China Suspends Adoptions and Sets Edict to Fight Virus"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ADOPTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2003-05-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/16/world/sars-epidemic-avoiding-infection-china-suspends-adoptions-sets-edict-fight-virus.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Seeking new ways to show it is effectively combatting the SARS epidemic, China today temporarily suspended most foreign adoptions of Chinese babies and announced severe new penalties, including execution, for anyone knowingly spreading the disease.  ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd242918eb7c8105d7db858",
+        "source": "The New York Times",
+        "word_count": 580,
+        "lead_paragraph": "Seeking new ways to show it is effectively combatting the SARS epidemic, China today temporarily suspended most foreign adoptions of Chinese babies and announced severe new penalties, including execution, for anyone knowingly spreading the disease. As of May 15, the China Center for Adoption Affairs will temporarily stop sending documents to prospective parents abroad, the agency said on its Web site. But adoptive parents already in China, and in some cases those who have made final travel arrangements, will be allowed to proceed, the agency said."
+      },
+      {
+        "abstract": "Roots Canada Ltd will supply US Olympic athletes with outfits for opening and closing ceremonies of 2004, 2006 and 2008 Olympics (S)",
+        "headline": {
+          "kicker": "PLUS: OLYMPICS",
+          "main": "ROOTS TO PROVIDE OUTFITS"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "TURIN (ITALY)"
+          },
+          {
+            "name": "glocations",
+            "value": "ATHENS (GREECE)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "ROOTS CANADA LTD"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2006)"
+          },
+          {
+            "name": "subject",
+            "value": "WINTER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "APPAREL"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2004)"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2003-05-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/17/sports/plus-olympics-roots-to-provide-outfits.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Roots, the Canadian apparel maker and retailer, announced yesterday at a news conference in Manhattan that it would provide the opening and closing ceremonies outfits for United State Olympic athletes in 2004, 2006 and 2008.   Richard Sandomir  ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Sandomir",
+            "role": "reported",
+            "firstname": "Richard"
+          }],
+          "original": "By Richard Sandomir"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd28f678eb7c8105d866e4a",
+        "source": "The New York Times",
+        "word_count": 39,
+        "lead_paragraph": "Roots, the Canadian apparel maker and retailer, announced yesterday at a news conference in Manhattan that it would provide the opening and closing ceremonies outfits for United State Olympic athletes in 2004, 2006 and 2008. Richard Sandomir"
+      },
+      {
+        "abstract": "Impact of SARS, which has reached 30 countries, infecting more than 7,700 people, discussed; Qianmen Bicycle Store in downtown Beijing sees business boom as residents forego subways and buses where disease might be lingering; car dealers are also seeing jump in sales; photo (M)",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC",
+          "main": "Economic Impact of New Disease, From Near Outbreak to Far Away"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SALES"
+          },
+          {
+            "name": "subject",
+            "value": "SUBWAYS"
+          },
+          {
+            "name": "subject",
+            "value": "BUSES"
+          },
+          {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+          },
+          {
+            "name": "subject",
+            "value": "BICYCLES AND BICYCLING"
+          },
+          {
+            "name": "subject",
+            "value": "TRANSIT SYSTEMS"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "2003-05-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/18/us/the-sars-epidemic-economic-impact-of-new-disease-from-near-outbreak-to-far-away-733474.html",
+        "news_desk": "National Desk",
+        "snippet": "The tracks of an epidemic are often wider and deeper than they may first appear, stretching far beyond the lives of sick patients and those who care for them.    Severe acute respiratory syndrome has reached 30 countries infecting more than 7,700 peo",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "U.S.",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BUCKLEY",
+            "role": "reported",
+            "firstname": "Chris"
+          }],
+          "original": "By CHRIS BUCKLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd23ebc8eb7c8105d7d57ea",
+        "source": "The New York Times",
+        "word_count": 622,
+        "lead_paragraph": "The tracks of an epidemic are often wider and deeper than they may first appear, stretching far beyond the lives of sick patients and those who care for them. Severe acute respiratory syndrome has reached 30 countries infecting more than 7,700 people and killing more than 600, the World Health Organization reports. Its economic consequences have already been profound. In China, for instance, the economy had been expanding at a rate of 9.9 percent but is now shrinking at an annual rate of 2 percent, and investment bankers attribute the turnabout to SARS."
+      },
+      {
+        "abstract": "Photo of cats abandoned in Beijing by people afrid that they might be responsible for spread of SARS virus",
+        "headline": {
+          "kicker": "THE SARS EPIDEMIC",
+          "main": "SARS' Other Victims"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CATS"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "15",
+        "pub_date": "2003-05-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/18/world/the-sars-epidemic-sars-other-victims.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Photo of cats abandoned in Beijing by people afrid that they might be responsible for spread of SARS virus",
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd23fcb8eb7c8105d7d7157",
+        "source": "The New York Times",
+        "word_count": 3,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Editorial says China's leaders have not fully grasped that Beijing's catastrophic mishandling of SARS crisis is as much political failure as medical calamity; says China still is not being open enough about SARS and scarcely open at all about other subjects vital to its citizens' lives; says Pres Hu Jintao appears to have little interest in modernizing country's political system",
+        "headline": {"main": "Diagnosing SARS in China"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "20",
+        "pub_date": "2003-05-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/19/opinion/diagnosing-sars-in-china.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "''The accident at the Chernobyl nuclear power station was graphic evidence not only of how obsolete our technology was, but also of the failure of the old system.''    Mikhail Gorbachev      The same could be said of the meaning of the SARS epidemic ",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd22b838eb7c8105d7b7248",
+        "source": "The New York Times",
+        "word_count": 358,
+        "lead_paragraph": "''The accident at the Chernobyl nuclear power station was graphic evidence not only of how obsolete our technology was, but also of the failure of the old system.'' Mikhail Gorbachev The same could be said of the meaning of the SARS epidemic in China. Unfortunately, China's leaders have not fully grasped that Beijing's catastrophic mishandling of the health crisis is as much a political failure as a medical calamity. The country's new president, Hu Jintao, has won praise for firing incompetent officials and ordering the release of more timely statistics tracking SARS, but far more ambitious reforms are needed."
+      },
+      {
+        "abstract": "Beijing students will start returning to school over next several weeks, as threat of SARS apparently eases in China; China has reported 5,223 cases with 284 fatalities (S)",
+        "headline": {"main": "As SARS Eases, Beijing Classes Resume"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2003-05-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/19/world/as-sars-eases-beijing-classes-resume.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "With the threat of SARS apparently easing, Beijing students will start returning to school over the next several weeks, officials said today.    Classes were suspended on April 22, when more than 100 new cases of SARS were being reported each day in ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd242948eb7c8105d7dba05",
+        "source": "The New York Times",
+        "word_count": 194,
+        "lead_paragraph": "With the threat of SARS apparently easing, Beijing students will start returning to school over the next several weeks, officials said today. Classes were suspended on April 22, when more than 100 new cases of SARS were being reported each day in the city and quarantine measures were starting."
+      },
+      {
+        "abstract": "Most notable change in street life in Beijing since onset of SARS epidemic is absence of children; with schools closed for nearly month, majority of Beijing's precious only children are virtual prisoners at home, kept in iron-clad parental lock down to protect them from SARS; photo (M)",
+        "headline": {"main": "The Sheltered Children of Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2003-05-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/20/world/the-sheltered-children-of-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "SARS has certainly changed the face of street life here, where masks are now worn as often as caps, and bicycles, once a disappearing mode of transportation, have increased as Beijingers shy away from buses and subways.    But there is one sight that",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd227098eb7c8105d7af859",
+        "source": "The New York Times",
+        "word_count": 823,
+        "lead_paragraph": "SARS has certainly changed the face of street life here, where masks are now worn as often as caps, and bicycles, once a disappearing mode of transportation, have increased as Beijingers shy away from buses and subways. But there is one sight that has almost completely vanished, giving the city a particularly forlorn feel: Beijing's millions of children are missing."
+      },
+      {
+        "abstract": "Three years after his arrest, Chengdu (China) court sentences Huang Qi to five years in prison for subverting state power through his web site, which criticized 1989 Tiananmen Square shootings (S)",
+        "headline": {"main": "World Briefing | Asia: China: Internet Operator Sentenced"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HUANG QI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2003-05-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/20/world/world-briefing-asia-china-internet-operator-sentenced.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Three years after he was arrested for running dissident information on his Web site, a man from Sichuan Province was sentenced to five years in prison this month for ''subverting state power,'' rights groups have learned. The man, Huang Qi, was arres",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Eckholm",
+            "role": "reported",
+            "lastname": "NYT",
+            "firstname": "Erik"
+          }],
+          "original": "By Erik Eckholm (NYT)"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd274098eb7c8105d831b06",
+        "source": "The New York Times",
+        "word_count": 75,
+        "lead_paragraph": "Three years after he was arrested for running dissident information on his Web site, a man from Sichuan Province was sentenced to five years in prison this month for ''subverting state power,'' rights groups have learned. The man, Huang Qi, was arrested in June 2000 after his Web site featured condemnations of the 1989 shootings of demonstrators around Tiananmen Square. The court, in Chengdu, did not explain the lengthy delay in sentencing. Erik Eckholm (NYT)"
+      },
+      {
+        "abstract": "World Health Orgn reports no cases of SARS have been transmitted on airline flights since late Mar, after it recommended that countries and airlines screen passengers and crew members departing from affected areas; says most recent affected flight was on Mar 23, from Bangkok to Beijing, four days before it made its recommendations on air travel; Taiwan, which is battling epidemic of SARS, is unsuccessful in its effort to use disease as reason to gain observer status in WHO; photo (M)",
+        "headline": {"main": "No Cases of SARS Have Been Transmitted on Airlines Since March, W.H.O. Reports"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "THAILAND"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BANGKOK (THAILAND)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD HEALTH ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          },
+          {
+            "name": "subject",
+            "value": "SARS (SEVERE ACUTE RESPIRATORY SYNDROME)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2003-05-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2003/05/20/world/no-cases-of-sars-have-been-transmitted-on-airlines-since-march-who-reports.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A small number of SARS cases have been transmitted on airline flights, but none since the World Health Organization recommended in late March that countries and airlines screen passengers and crew members departing from affected areas, the agency sai",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "K.",
+            "role": "reported",
+            "lastname": "ALTMAN",
+            "firstname": "Lawrence"
+          }],
+          "original": "By LAWRENCE K. ALTMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd242918eb7c8105d7db839",
+        "source": "The New York Times",
+        "word_count": 892,
+        "lead_paragraph": "A small number of SARS cases have been transmitted on airline flights, but none since the World Health Organization recommended in late March that countries and airlines screen passengers and crew members departing from affected areas, the agency said yesterday. In total, the health agency is aware of 35 flights where there was a passenger with SARS. On four of the flights, the virus that causes severe acute respiratory syndrome was probably transmitted to about 16 passengers and crew members, the W.H.O. said after analyzing information it had received through May 12."
+      }
+    ],
+    "meta": {
+      "time": 31,
+      "hits": 79,
+      "offset": 40
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

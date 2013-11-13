@@ -1,0 +1,717 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Helen Gao Beijing Journal on scene in Shoubaozhuang, one of 16 residential compounds in Beijing, China, where where rural migrants who work at low-paying jobs are walled off from outsiders in effort to protect them from crimes against them; photo (M)",
+        "headline": {
+          "kicker": "BEIJING JOURNAL",
+          "main": "Migrant 'Villages' Within a City Ignite Debate"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MIGRANT LABOR"
+          },
+          {
+            "name": "subject",
+            "value": "LABOR AND JOBS"
+          },
+          {
+            "name": "subject",
+            "value": "MIGRANT AND FOREIGN WORKERS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2010-10-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/10/04/world/asia/04beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Some migrants welcome gated communities as a way to fight crime, but critics see them as a sign of barriers facing rural migrants.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "GAO",
+            "role": "reported",
+            "firstname": "Helen"
+          }],
+          "original": "By HELEN GAO; Edward Wong and Jonathan Ansfield contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2010/10/04/world/04china_span/04china_span-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2010/10/04/world/04china_span/04china_span-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2010/10/04/world/04china_span/04china_span-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2010/10/04/world/04china_span/04china_span-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2a8578eb7c8105d892fce",
+        "source": "The New York Times",
+        "word_count": 1019,
+        "lead_paragraph": "BEIJING -- The community is walled and gated, an enclosure of rows of crowded low-rise homes and shops, where people live under the gaze of surveillance cameras and apart from the city. The police patrol around the clock, and security guards stop unfamiliar faces to check identification papers. In the morning, only one gate is open, through which parents head off to work and children go to school. At night, the gate is locked, preventing street loiterers from trespassing. The area, Shoubaozhuang, is not one of the affluent, gated residential compounds springing up around Beijing, but a poor village of rural migrants toiling at low-paying jobs. It was chosen, along with 15 other areas in the Daxing district of Beijing, to be walled off to outsiders, in what officials say is an experimental effort to curb crime. The authorities say the experiment has been a success -- the Communist Party-run People's Daily said the crime rate in the walled villages in Daxing district dropped by 73 percent from April to July this year -- and the ''walled village'' concept is being quickly expanded to other districts outside Beijing's center that are populated by migrant workers."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "SEEN/SCENE | A WEEKLY ARTS COLUMN",
+          "main": "A City Where Chinese Artists Hope to Strike Gold"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-10-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/10/09/arts/09iht-scsong.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "Songzhuang, an outlying Beijing suburb with lower rents, is the new frontier of Chinese art.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BERNSTEIN",
+            "role": "reported",
+            "firstname": "Richard"
+          }],
+          "original": "By RICHARD BERNSTEIN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2010/10/09/arts/09iht-scsong-cnd/09iht-scsong-cnd-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2010/10/09/arts/09iht-scsong-cnd/09iht-scsong-cnd-thumbStandard-v2.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2010/10/09/arts/09iht-scsong-cnd/09iht-scsong-cnd-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2010/10/09/arts/09iht-scsong-cnd/09iht-scsong-cnd-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2aa6c8eb7c8105d896195",
+        "source": "International Herald Tribune",
+        "word_count": 721,
+        "lead_paragraph": "SONGZHUANG, CHINA -- When you arrive in this town a fast 40 minutes on the expressway from Beijing, you pass under a modern version of an old-style Chinese pailou, or gate, inscribed in Chinese and English with ''Songzhuang, China,'' which would seem a rather grand way for an ordinary town on the North China Plain to describe itself. And Songzhuang at first seems like a medium-sized town of no particular distinction, with its long, ramshackle main street lined by ordinary concrete storefronts -- little charm here. Then you notice the Land Rovers and Mercedes sedans, the art galleries and exhibition halls, and you've arrived in what has become over the past decade one of the biggest and liveliest artists' colonies in the world."
+      },
+      {
+        "abstract": "Liu Xia, wife of Nobel Peace Prize winner Liu Xiaobo, is allowed to meet with her husband at prison in northeastern China where he is serving 11-year sentence; after visit, she is escorted back to Beijing and placed under house arrest; her telephone and Internet communication have been cut off (M)",
+        "headline": {"main": "Wife Detained After Visiting Nobel Winner"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LIU XIA"
+          },
+          {
+            "name": "persons",
+            "value": "LIU XIAOBO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "HUMAN RIGHTS AND HUMAN RIGHTS VIOLATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "TELEPHONES AND TELECOMMUNICATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "NOBEL PRIZES"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2010-10-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/10/11/world/asia/11nobel.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China continued to react with indignation at the Nobel Peace Prize being awarded to an imprisoned dissident.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LaFRANIERE",
+            "role": "reported",
+            "firstname": "Sharon"
+          }],
+          "original": "By SHARON LaFRANIERE; Jonathan Ansfield contributed reporting. Li Bibo contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b7968eb7c8105d8acb9a",
+        "source": "The New York Times",
+        "word_count": 559,
+        "lead_paragraph": "BEIJING -- The wife of this year's Nobel Peace Prize winner, Liu Xiaobo, was allowed to meet with her husband on Sunday at the prison in northeastern China where he is serving an 11-year sentence, but she was then escorted back to Beijing and placed under house arrest, a human rights group said. Prison officials had informed Mr. Liu that he won the award -- a decision vehemently condemned by the Chinese government -- the day before. In their hourlong visit, Mr. Liu's wife, Liu Xia, said her husband had told her, ''This is for the lost souls of June 4th,'' and then was moved to tears."
+      },
+      {
+        "abstract": "Cathy Horyn On The Runway column describes her experience shopping for luxury fashion goods in Beijing, China; photo (M)",
+        "headline": {
+          "kicker": "ON THE RUNWAY",
+          "main": "China Surprise"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FASHION AND APPAREL"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2010-10-17T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9406E4DE1131F934A25753C1A9669D8B63",
+        "news_desk": "Style Desk",
+        "snippet": "For the past week I've been in Beijing, my first trip to China. Except for the city's famous traffic jams, the city is nothing like I had expected. And what did I expect of this remarkable, sprawling, fast-changing city? Today - Friday in Beijing - I",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Style",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HORYN",
+            "role": "reported",
+            "firstname": "Cathy"
+          }],
+          "original": "By CATHY HORYN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd282af8eb7c8105d850786",
+        "source": "The New York Times",
+        "word_count": 580,
+        "lead_paragraph": "For the past week I've been in Beijing, my first trip to China. Except for the city's famous traffic jams, the city is nothing like I had expected. And what did I expect of this remarkable, sprawling, fast-changing city? Today - Friday in Beijing - I had lunch with Angelica Cheung, the editor in chief of Vogue China, at the China Grill on the 66th floor of the Park Hyatt, and since I arrived at the restaurant a few minutes early, I took a moment to press my nose to the windows. The sprawl of new buildings - skyscrapers, hotels, apartment blocks - is almost unfathomable and seemingly endless. In front of me was the CCTV building, by Rem Koolhaas, with its twin cantilevered towers. A second building on the site caught fire during the New Year's celebration and burned, leaving a charred hulk, and the area around the complex is still under construction. Still, the dazzling architecture reminds you that you're looking at a new world. My eyes kept coming back to the Koolhaas building."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China Remembers a Vast Crime"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-10-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/10/22/arts/22iht-MELVIN.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "It was 150 years ago that a European army destroyed Beijing's glorious Garden of Perfect Brightness -- Yuanmingyuan. As China marks the date, it will probably never forget it.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MELVIN",
+            "role": "reported",
+            "firstname": "Sheila"
+          }],
+          "original": "By SHEILA MELVIN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2010/10/22/arts/22iht-MELVIN-inline1/22iht-MELVIN-inline1-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2010/10/22/arts/22iht-MELVIN-inline1/22iht-MELVIN-inline1-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd29a9f8eb7c8105d879d36",
+        "source": "International Herald Tribune",
+        "word_count": 1435,
+        "lead_paragraph": "BEIJING -- In early October of 1860, the commanders of the British and French forces waging war on Qing Dynasty China held a tense conference outside the gates of the Garden of Perfect Brightness -- Yuanmingyuan -- on the western outskirts of Beijing. Victory was at hand, the emperor having fled on an ''autumnal hunting tour,'' and the meeting concerned its spoils: Each side feared the other would obtain more booty from looting the huge complex."
+      },
+      {
+        "abstract": "Watered-down version of Handel opera Semele, directed by Chinese artist Zhang Huan, opens at annual Beijing Music Festival; photo (M)",
+        "headline": {"main": "Beijing Allows Lustful Opera, but Tones Down the Donkey"},
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "SEMELE (OPERA)"
+          },
+          {
+            "name": "persons",
+            "value": "HANDEL, GEORGE FREDERICK"
+          },
+          {
+            "name": "persons",
+            "value": "ZHANG HUAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "BEIJING MUSIC FESTIVAL"
+          },
+          {
+            "name": "subject",
+            "value": "OPERA"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2010-10-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/10/26/world/asia/26beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The depiction of a sexually aroused donkey and references to capital punishment nearly derailed an ambitious re-interpretation of Handel\u2019s \u201cSemele.\u201d",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Zhang Jing contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2010/10/26/world/BEIJING/BEIJING-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2010/10/26/world/BEIJING/BEIJING-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd29c748eb7c8105d87e011",
+        "source": "The New York Times",
+        "word_count": 673,
+        "lead_paragraph": "BEIJING -- As any artist or performer in China knows, it is impossible to predict what will set off the mercurial culture censors who have sweeping power over the content of film, music, television and print. On Sunday, it was the depiction of a sexually aroused, anatomically correct male donkey and references to capital punishment that nearly derailed an ambitious interpretation of the Handelopera ''Semele,'' the tragic tale of what happens when a lustful god, a vengeful goddess and an impressionable young maiden are ensnared in a love triangle."
+      },
+      {
+        "abstract": "High school in remote Maine town of Millinocket, faced with dropping enrollment, has fixed on Chinese teenagers as unlikely source of salvation; superintendent Kenneth Smith spends week in China pitching Stearns High to school officials, parents and students in Beijing, Shanghai and other cities; other schools have tried to recruit students from China, as country emerges as economic juggernaut, and even opened campuses there; but Millinocket's plan may be unprecedented among public schools; Smith is seeking to change current rules, which forbid foreign students from attending public high school in US for more than one year; at time when shrinking budgets are forcing some public schools to require students to provide basic supplies, looking abroad for financial help may be act of self-preservation; public schools can legally charge tuition to students who do not live in district; Smith plans on charging Chinese students $27,000 per year in tuition, room and board; photos (M)",
+        "headline": {"main": "Needing Students, Maine School Hunts in China"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SMITH, KENNETH"
+          },
+          {
+            "name": "glocations",
+            "value": "MILLINOCKET (MAINE)"
+          },
+          {
+            "name": "glocations",
+            "value": "MAINE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION (K-12)"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN STUDY, TEACHING AND TRAVEL"
+          },
+          {
+            "name": "subject",
+            "value": "TUITION"
+          },
+          {
+            "name": "subject",
+            "value": "FINANCES"
+          },
+          {
+            "name": "subject",
+            "value": "ENROLLMENT"
+          },
+          {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+          },
+          {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN STUDENTS (IN US)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2010-10-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/10/27/education/27students.html",
+        "news_desk": "National Desk",
+        "snippet": "A Maine high school hopes to solve its financial woes by persuading Chinese students to pay $27,000 a year there.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Front Page; Education; U.S.",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "GOODNOUGH",
+            "role": "reported",
+            "firstname": "Abby"
+          }],
+          "original": "By ABBY GOODNOUGH"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2010/10/27/us/jp-students/jp-students-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2010/10/27/us/jp-students/jp-students-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 315,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2010/10/27/us/jp-students/jp-students-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 315,
+              "xlarge": "images/2010/10/27/us/jp-students/jp-students-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd282a98eb7c8105d850233",
+        "source": "The New York Times",
+        "word_count": 1258,
+        "lead_paragraph": "MILLINOCKET, Me. -- Faced with dropping enrollment and revenue, the high school in this remote Maine town has fixed on an unlikely source of salvation: Chinese teenagers. Never mind that Millinocket is an hour's drive from the nearest mall or movie theater, or that it gets an average 93 inches of snow a year. Kenneth Smith, the schools superintendent, is so certain that Chinese students will eventually arrive by the dozen -- paying $27,000 a year in tuition, room and board -- that he is scouting vacant properties to convert to dormitories."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Going Baroque in China"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BACH, JOHANN SEBASTIAN"
+          },
+          {
+            "name": "persons",
+            "value": "HANDEL, GEORGE FREDERICK"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CLASSICAL MUSIC"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-10-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/10/28/arts/28iht-baroque.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "Western classical music in China seems to begin and end with the big Romantic stars of the 19th century.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JOHNSON",
+            "role": "reported",
+            "firstname": "Ian"
+          }],
+          "original": "By IAN JOHNSON"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2010/10/28/arts/28iht-baroque-inline1/28iht-baroque-inline1-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2010/10/28/arts/28iht-baroque-inline1/28iht-baroque-inline1-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 315,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2010/10/28/arts/28iht-baroque-inline1/28iht-baroque-inline1-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 315,
+              "xlarge": "images/2010/10/28/arts/28iht-baroque-inline1/28iht-baroque-inline1-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd285548eb7c8105d855362",
+        "source": "International Herald Tribune",
+        "word_count": 1121,
+        "lead_paragraph": "BEIJING -- The young musicians ended the first movement of Bach's Brandenburg Concerto No. 3 and looked expectantly at the maestro. Christopher Hogwood weighed his words carefully then decided that honesty was the best policy. ''That was Tchaikovsky,'' the 69-year-old guru of Baroque music said to falling faces. ''It was not Baroque music. Can you buy CDs of Baroque music in China? DVDs? I'd suggest listening to them first.''"
+      },
+      {
+        "abstract": "Paul Cabo, high school graduate from Coney Island, Brooklyn, operates and teaches at children's learning center in Beijing; Cabo, who is tall, black and wears traditional Chinese dress, both confuses and inspires staff, parents and students; photo (M)",
+        "headline": {"main": "From Brooklyn to Beijing, and Into a Caldron"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CABO, PAUL"
+          },
+          {
+            "name": "glocations",
+            "value": "NEW YORK CITY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION (K-12)"
+          },
+          {
+            "name": "subject",
+            "value": "TEACHERS AND SCHOOL EMPLOYEES"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL STUDY AND TEACHING"
+          }
+        ],
+        "print_page": "24",
+        "pub_date": "2010-11-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/11/04/nyregion/04beijing.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "Paul Cabo, who attended high school in New York City, operates a learning center in China, where his attire, height and race make him stand out.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Education; New York and Region",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YANG",
+            "role": "reported",
+            "firstname": "Xiyun"
+          }],
+          "original": "By XIYUN YANG"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2010/11/04/nyregion/BEIJING2/BEIJING2-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2010/11/04/nyregion/BEIJING2/BEIJING2-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2b7988eb7c8105d8acd2d",
+        "source": "The New York Times",
+        "word_count": 1005,
+        "lead_paragraph": "BEIJING -- China had captivated the imagination of Paul Cabo for as long as he could remember. Maybe it started with the documentaries he saw as a child about the Great Wall. Or his desire to understand his recently immigrated Chinese classmates at Abraham Lincoln High School in Coney Island. Or maybe it was kung fu movies. Whatever the cause, four years ago it finally propelled Mr. Cabo, now 35, from a job as a Starbucks manager to a position as an English teacher in Beijing."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "LETTER FROM INDIA",
+          "main": "A Model of Development Worth Building"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SUMMERS, LAWRENCE H"
+          },
+          {
+            "name": "persons",
+            "value": "OBAMA, BARACK"
+          },
+          {
+            "name": "glocations",
+            "value": "INDIA"
+          },
+          {
+            "name": "glocations",
+            "value": "PONDICHERRY (INDIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-11-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/11/05/world/asia/05iht-letter.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "When President Barack Obama visits India this weekend, he will see a nation that holds the possibility of serving as a model for development for the rest of the world.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAPUR",
+            "role": "reported",
+            "firstname": "Akash"
+          }],
+          "original": "By AKASH KAPUR"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b78a8eb7c8105d8ac49b",
+        "source": "International Herald Tribune",
+        "word_count": 916,
+        "lead_paragraph": "PONDICHERRY, INDIA -- President Barack Obama arrives in India this weekend, accompanied by a retinue that occupies two jumbo jets. His visit coincides with Diwali, the Indian festival of lights, and his meetings will no doubt have a bright, upbeat tone. But his trip is unlikely to ease a nagging sense in India that ties between the two countries have suffered something of a downgrade under his administration."
+      }
+    ],
+    "meta": {
+      "time": 30,
+      "hits": 105,
+      "offset": 80
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

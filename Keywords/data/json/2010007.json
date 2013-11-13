@@ -1,0 +1,610 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Henan Airlines passenger plane crashes, killing 42 people and injuring 54 others; plane was attempting to land on fog-shrouded runway outside Yichun in northeastern China; map (M)",
+        "headline": {"main": "Passenger Jet Crashes in Northeastern China, Killing 42"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "YICHUN (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "HENAN AIRLINES"
+          },
+          {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          },
+          {
+            "name": "subject",
+            "value": "WEATHER"
+          },
+          {
+            "name": "subject",
+            "value": "FOG"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2010-08-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/08/25/world/asia/25china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Henan Airlines plane, carrying 91 passengers and a crew of 5, crashed near an airport in Heilongjiang Province.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LaFRANIERE",
+            "role": "reported",
+            "firstname": "Sharon"
+          }],
+          "original": "By SHARON LaFRANIERE; Jing Zhang contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd281d68eb7c8105d84e9d1",
+        "source": "The New York Times",
+        "word_count": 420,
+        "lead_paragraph": "BEIJING -- Forty-two people were killed and 54 others were injured Tuesday night when a Chinese jet crashed and burst into flames while trying to land on a fog-shrouded runaway in northeastern China, state media reported. A local official told the Xinhua news agency that the Henan Airlines plane split into two pieces, throwing some passengers out of the cabin, before it crashed outside Yichun, a city of about one million people in Heilongjiang Province."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Opera, a Historical Treasure in Fragile Condition"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OPERA"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-08-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/08/30/world/asia/30iht-bernstein.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Fans of the Beijing Opera Academy of China fear that it could fall victim to modernization as the economy surges, but the government is helping support the art form.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BERNSTEIN",
+            "role": "reported",
+            "firstname": "Richard"
+          }],
+          "original": "By RICHARD BERNSTEIN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2010/08/30/world/30iht-bernstein_337-span/30iht-bernstein_337-395-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2010/08/30/world/30iht-bernstein_337-span/30iht-bernstein_337-395-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2010/08/30/world/30iht-bernstein_337-span/30iht-bernstein_337-395-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2010/08/30/world/30iht-bernstein_337-span/30iht-bernstein_337-395-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd29a9e8eb7c8105d879c72",
+        "source": "International Herald Tribune",
+        "word_count": 1068,
+        "lead_paragraph": "BEIJING -- ''Watch out for that sword,'' the rehearsal director shouted. ''I don't want anybody's head getting cut off because you don't know what you're doing.''"
+      },
+      {
+        "abstract": "Beijing Opera has struggled to maintain the presence of an artform that has declined in popularity since its heyday in China; photos (M)",
+        "headline": {"main": "Carrying the Spear (and Dagger) for a Fading Art Form"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING OPERA"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING OPERA ACADEMY OF CHINA"
+          },
+          {
+            "name": "subject",
+            "value": "OPERA"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2010-09-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/09/02/arts/music/02iht-opera.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "Beijing opera\u2019s luster has dimmed since its heyday as China\u2019s most popular theatrical entertainment, and this ancient art forms struggles to attract a modern audience.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BERNSTEIN",
+            "role": "reported",
+            "firstname": "Richard"
+          }],
+          "original": "By RICHARD BERNSTEIN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2010/09/02/arts/2d-sub-Opera-1/2d-sub-Opera-1-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2010/09/02/arts/2d-sub-Opera-1/2d-sub-Opera-1-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 315,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2010/09/02/arts/2d-sub-Opera-1/2d-sub-Opera-1-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 315,
+              "xlarge": "images/2010/09/02/arts/2d-sub-Opera-1/2d-sub-Opera-1-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd281d78eb7c8105d84ea5f",
+        "source": "The New York Times",
+        "word_count": 1057,
+        "lead_paragraph": "BEIJING -- ''Watch out for that sword,'' the rehearsal director shouted. ''I don't want anybody's head getting cut off because you don't know what you're doing.'' Lots of weapons were on a stage of the Beijing Opera Academy of China here the other day. Teenage future opera stars were armed with lances, spears, swords and daggers as they carried out an elaborately choreographed, intricate, stylized and acrobatic fight scene, all to the clash of cymbals, drums, wooden clappers and a substantial orchestra of Chinese string and woodwind instruments."
+      },
+      {
+        "abstract": "Another huge traffic jam grips Jingzang Highway, freeway that links Inner Mongolia to metropolitan Beijing, possibly exceeding blockage that drew global attention in August (S)",
+        "headline": {
+          "kicker": "WORLD BRIEFING | ASIA",
+          "main": "China: Another Traffic Jam On the Jingzang Highway"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "INNER MONGOLIA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2010-09-04T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9C0CE7DC173EF937A3575AC0A9669D8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "Yet another gargantuan traffic jam has gripped the freeway that links Inner Mongolia's coal fields to metropolitan Beijing, possibly exceeding a blockage that drew global attention last month, Chinese media reported. More than 100 Inner Mongolian pol",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WINES",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL WINES"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd29eb08eb7c8105d881b01",
+        "source": "The New York Times",
+        "word_count": 104,
+        "lead_paragraph": "Yet another gargantuan traffic jam has gripped the freeway that links Inner Mongolia's coal fields to metropolitan Beijing, possibly exceeding a blockage that drew global attention last month, Chinese media reported. More than 100 Inner Mongolian police officers staffed the road, the Jingzang Highway, in an effort to break the jam, which stretched for 75 miles and involved 10,000 vehicles, the state broadcaster CCTV said Thursday. Beijing News, a daily newspaper, reported on Friday that 14,000 vehicles were trying to squeeze through the Lianhuatan toll gate in Inner Mongolia every day, compared with 6,000 at the same time in 2009."
+      },
+      {
+        "abstract": "Beijing officials scrap plan to redevelop historic Gulou Drum Tower neighborhood, dating from Qing and Ming dynasties, into tourist spot (S)",
+        "headline": {
+          "kicker": "WORLD BRIEFING  | ASIA",
+          "main": "China: Redevelopment Plan Scrapped For Historic Beijing Neighborhood"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HISTORIC BUILDINGS AND SITES"
+          },
+          {
+            "name": "subject",
+            "value": "AREA PLANNING AND RENEWAL"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2010-09-08T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9900E0DD1E31F93BA3575AC0A9669D8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "Beijing officials have shelved a much-attacked plan to redevelop the Gulou Drum Tower neighborhood, a warren of alleys and small homes dating from the Qing and Ming dynasties, into a tourist spot with high-end stores, The Beijing Times reported. The ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WINES",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL WINES"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd29eb18eb7c8105d881b20",
+        "source": "The New York Times",
+        "word_count": 140,
+        "lead_paragraph": "Beijing officials have shelved a much-attacked plan to redevelop the Gulou Drum Tower neighborhood, a warren of alleys and small homes dating from the Qing and Ming dynasties, into a tourist spot with high-end stores, The Beijing Times reported. The alleys, called hutongs, are among the few historic residential areas that have not been demolished in the city's rush to accommodate a fast-growing population and capitalize on ballooning land prices. The redevelopment plan called for the hutongs and the old Drum Tower, a Beijing landmark, to accommodate a new museum of timekeeping, a high-end underground shopping center and parking. Most residents had been awaiting an order to move out. The newspaper quoted an unidentified city official as saying the so-called Time Cultural City is ''a thing of the past,'' but said the neighborhood's future remained unclear."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "LETTER FROM CHINA",
+          "main": "Beijing's Vision for the Future"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POPULATION"
+          },
+          {
+            "name": "subject",
+            "value": "URBAN AREAS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-09-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/09/09/world/asia/09iht-letter.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Chinese leaders are looking to make a city of 20 million people a glittering, efficient and architecturally distinguished city, appropriate for the capital of a rising world power.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BERNSTEIN",
+            "role": "reported",
+            "firstname": "Richard"
+          }],
+          "original": "By RICHARD BERNSTEIN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd29ea28eb7c8105d8813d5",
+        "source": "International Herald Tribune",
+        "word_count": 1018,
+        "lead_paragraph": "BEIJING -- ''Henry Kissinger sat in this seat,'' the guide said. ''Henry Paulson'' -- the former U.S. treasury secretary -- ''sat there.'' The seats in question were equipped with safety belts to ensure against mishaps as they tilted and turned in the Dynamic Movie Hall, where the moving chairs combine with high-tech images on a screen to provide a virtual-reality experience, a simulation of speeding through tunnels or soaring over skyscrapers."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Mutual Trust Called Crucial to U.S.-China Relations"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "KISSINGER, HENRY A"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "GENEVA (SWITZERLAND)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-09-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/09/13/world/europe/13geneva.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The United States needs to forge ties with China that match those it has with the European Union, U.S. officials and strategists said in Geneva this weekend.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BENNHOLD",
+            "role": "reported",
+            "firstname": "Katrin"
+          }],
+          "original": "By KATRIN BENNHOLD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd281d08eb7c8105d84e405",
+        "source": "International Herald Tribune",
+        "word_count": 797,
+        "lead_paragraph": "GENEVA -- As the center of gravity of world affairs moves from the Atlantic to the Pacific, the United States needs to forge ties with China that match in depth, scope and trust those it has with the European Union, senior U.S. officials and strategists said this past weekend. Henry A. Kissinger, a former secretary of state and national security adviser, warned at a conference here of the risk of a confrontation between the world's two biggest economies unless they create ''a pattern of continuous cooperation.''"
+      },
+      {
+        "abstract": "Chinese authorities say four Japanese citizens were arrested in Beijing for videotaping military installations, in what appears to be another sign of rising tensions between the two nations (M)",
+        "headline": {"main": "China Arrests Four Japanese Amid Tensions"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAN QIXIONG"
+          },
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MILITARY BASES AND INSTALLATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDINGS AND DOWNLOADS (VIDEO)"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2010-09-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/09/24/world/asia/24chinajapan.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China accuses the four of videotaping military installations; the arrests follow an episode in which a Chinese trawler collided with Japanese naval vessels near a group of disputed islands.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JOHNSON",
+            "role": "reported",
+            "firstname": "Ian"
+          }],
+          "original": "By IAN JOHNSON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd281d88eb7c8105d84eb89",
+        "source": "The New York Times",
+        "word_count": 307,
+        "lead_paragraph": "BEIJING -- In what could be another sign of rising tensions between Japan and China, the authorities here said Thursday that four Japanese had been arrested for videotaping military installations. The terse report by the official Xinhua news agency said four Japanese citizens were detained at a military base near the city of Shijiazhuang, about 190 miles southwest of Beijing."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Missionary to the Forbidden City"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "MACAO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MISSIONARIES"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2010-09-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/09/28/arts/28iht-melvin.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "An exhibition in Macao celebrates the remarkable life of the Jesuit priest and Renaissance scholar Matteo Ricci, the first missionary welcomed into Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MELVIN",
+            "role": "reported",
+            "firstname": "Sheila"
+          }],
+          "original": "By SHEILA MELVIN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2010/09/28/world/28iht-melvin-inline1/28iht-melvin-inline1-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2010/09/28/world/28iht-melvin-inline1/28iht-melvin-inline1-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2b7328eb7c8105d8ab9f6",
+        "source": "International Herald Tribune",
+        "word_count": 1231,
+        "lead_paragraph": "MACAO -- In early May of 1610, the renowned Italian missionary Matteo Ricci took to his bed in the small Beijing rectory he shared with his fellow Jesuits. It was the Confucian exam season, when candidates from around China flocked to the capital to be tested, and Ricci had been besieged by visitors -- sometimes 100 a day. The men who knocked unbidden were drawn by his knowledge of astronomy, mathematics, mechanics, philosophy, literature and rhetoric; the widely popular books he had written -- in Chinese -- including ''On Friendship'' and ''Ten Discourses of a Strange Man''; his Chinese translation of Euclid's ''Geometry''; annotated maps of the world; deep knowledge of the Confucian classics; phenomenally trained memory -- he could scan a list of 500 Chinese characters once and then recite it from memory -- backwards -- and, no doubt, his reputation for sincerity and modesty."
+      },
+      {
+        "abstract": "Warren Buffett and Bill Gates, following dinner in Beijing to promote philanthropy with 50 of China's richest people, pronounce dinner unqualified success, with two-thirds of those invited showing up and more than half offering ideas on how Chinese philanthropy should work; photo (M)",
+        "headline": {"main": "Gates and Buffett Call China Charity Meeting a Success"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUFFETT, WARREN"
+          },
+          {
+            "name": "persons",
+            "value": "BUFFETT, WARREN E"
+          },
+          {
+            "name": "persons",
+            "value": "GATES, BILL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "PHILANTHROPY"
+          },
+          {
+            "name": "subject",
+            "value": "HIGH NET WORTH INDIVIDUALS"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2010-10-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2010/10/01/world/asia/01china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Warren Buffett and Bill Gates tried to dispel the notion that China\u2019s class of super-rich was too miserly to measure up to Western philanthropic standards.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WINES",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL WINES"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2010/10/01/world/01china_337-395/01china_337-395-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2010/10/01/world/01china_337-395/01china_337-395-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd29eb28eb7c8105d881bc5",
+        "source": "The New York Times",
+        "word_count": 636,
+        "lead_paragraph": "BEIJING -- After a night of wining and dining 50 of China's richest people in the name of promoting philanthropy, Warren Buffett and Bill Gates told a horde of journalists on Thursday that the biggest difference between eating with Chinese tycoons and Western ones was the food. Thus ended the two billionaires' mission to promote charity in China, a journey that provoked weeks of breathless speculation here about whether this nation's much resented class of superrich was too miserly to measure up to Western philanthropic standards."
+      }
+    ],
+    "meta": {
+      "time": 23,
+      "hits": 105,
+      "offset": 70
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

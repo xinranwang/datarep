@@ -1,0 +1,507 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Many of 2,000 scientists who attended International Congress of Genetics in Beijing debated controversial Chinese law, one that many experts believe permits doctors to require that people with serious genetic conditions be sterilized; law has so offended some scientists that national genetics societies from England, Holland and Argentina boycotted their profession's most prestigious general meeting, held once every five years (M)",
+        "headline": {"main": "Scientists Debate China's Law on Sterilizing the Carriers of Genetic Defects"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "GREAT BRITAIN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "NETHERLANDS"
+          },
+          {
+            "name": "glocations",
+            "value": "ARGENTINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL CONGRESS OF GENETICS"
+          },
+          {
+            "name": "subject",
+            "value": "STERILIZATION (BIOLOGICAL)"
+          },
+          {
+            "name": "subject",
+            "value": "GENETICS AND HEREDITY"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "1998-08-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/08/16/world/scientists-debate-china-s-law-on-sterilizing-the-carriers-of-genetic-defects.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "In an unusual move, the 2,000 scientists gathered here this week for the 18th International Congress of Genetics took time out from discussions of cloning and cancer genes to confront a controversial Chinese law, one that many experts believe permits",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1fe078eb7c8105d75e992",
+        "source": "The New York Times",
+        "word_count": 1387,
+        "lead_paragraph": "In an unusual move, the 2,000 scientists gathered here this week for the 18th International Congress of Genetics took time out from discussions of cloning and cancer genes to confront a controversial Chinese law, one that many experts believe permits doctors to require that people with serious genetic conditions be sterilized. In several forums and even at the closing ceremonies, some of the world's foremost geneticists scrutinized, and sometimes criticized, the vaguely worded 1994 law, debating whether it intended to condone forced sterilization or was just so poorly worded that it left that option open."
+      },
+      {
+        "abstract": "Rehearsals are underway in Beijing for first presentation of Turandot in the Forbidden City, the very setting Puccini imagined for his Orientalist fantasy; Zubin Mehta will conduct Maggio Musicale Fiorentino/Florence Opera orchestra, chorus of 200, and various divas; cast will approach 1,000 in grand finale; production is directed by Zhang Yimou; photos (M)",
+        "headline": {"main": "A Spectacular Tale In Its Mythic Home; 'Turandot' Enters the Forbidden City"},
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "TURANDOT (OPERA)"
+          },
+          {
+            "name": "persons",
+            "value": "MEHTA, ZUBIN"
+          },
+          {
+            "name": "persons",
+            "value": "PUCCINI, GIACOMO"
+          },
+          {
+            "name": "persons",
+            "value": "ZHANG YIMOU"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "MAGGIO MUSICALE FIORENTINO"
+          },
+          {
+            "name": "subject",
+            "value": "OPERA"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1998-09-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/09/01/arts/a-spectacular-tale-in-its-mythic-home-turandot-enters-the-forbidden-city.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "In a giant courtyard of the Forbidden City, a woman's voice soars gloriously into the night sky.     Spotlights illuminate a 580-year-old Ming Dynasty temple where emperors once made sacrifices to their ancestors. Now hundreds of Chinese soldiers and",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ff738eb7c8105d761927",
+        "source": "The New York Times",
+        "word_count": 1475,
+        "lead_paragraph": "In a giant courtyard of the Forbidden City, a woman's voice soars gloriously into the night sky. Spotlights illuminate a 580-year-old Ming Dynasty temple where emperors once made sacrifices to their ancestors. Now hundreds of Chinese soldiers and dancers move to the music and to instructions shouted over a loudspeaker. Two ancient-looking pavilions at the front of the vermilion temple hall eerily glide toward center stage, then spew forth dozens more soldiers."
+      },
+      {
+        "abstract": "Elaborate production of Turandot staged by Zhang Yimou concludes eight performances at site in Forbidden City; photo; thousands of opera fanatics came to Beijing from around world to see grand theatrical spectacle, conducted by Zubin Mehta (S)",
+        "headline": {"main": "'Turandot' Bids Farewell To Beijing, the 'Home' It Awed and Perplexed"},
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "TURANDOT (OPERA)"
+          },
+          {
+            "name": "persons",
+            "value": "MEHTA, ZUBIN"
+          },
+          {
+            "name": "persons",
+            "value": "PUCCINI, GIACOMO"
+          },
+          {
+            "name": "persons",
+            "value": "ZHANG YIMOU"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OPERA"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1998-09-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/09/15/arts/turandot-bids-farewell-to-beijing-the-home-it-awed-and-perplexed.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "After eight  performances  actually seven and two-thirds, because one was halted by rain -- the much-anticipated production of ''Turandot'' in an ancient temple of the Forbidden City here  closed on Sunday night to a lengthy  standing ovation from a ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1e1308eb7c8105d728e7a",
+        "source": "The New York Times",
+        "word_count": 692,
+        "lead_paragraph": "After eight performances actually seven and two-thirds, because one was halted by rain -- the much-anticipated production of ''Turandot'' in an ancient temple of the Forbidden City here closed on Sunday night to a lengthy standing ovation from a nearly full house approaching 3,000. If the sumptuous costumes, lavish set and kinetic staging by the Chinese movie director Zhang Yimou sometimes seemed to upstage the music -- conducted by Zubin Mehta with singing by major stars -- the thousands of opera fanatics who traveled here from Europe, the United States and neighboring Asian countries still got what they paid for: a grand theatrical spectacle that will be hard to match."
+      },
+      {
+        "abstract": "United Nations Human Rights Comr Mary Robinson, completing first visit to China, says that despite continuing abuses, Chinese leaders show new willingess to discuss nation's rights record, news conference, Beijing; lauds China's willingness to let commission work in nation; rights groups react with cautious optimism (M)",
+        "headline": {"main": "U.N. Rights Official, Back From China, Sees Better Attitude"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ROBINSON, MARY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "1998-09-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/09/16/world/un-rights-official-back-from-china-sees-better-attitude.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "At the end of what she called ''a successful but not always easy first visit to China,'' the United Nations High Commissioner for Human Rights, Mary Robinson,  said today that despite continuing human rights abuses, she had sensed among Chinese leade",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1e0178eb7c8105d7267c9",
+        "source": "The New York Times",
+        "word_count": 960,
+        "lead_paragraph": "At the end of what she called ''a successful but not always easy first visit to China,'' the United Nations High Commissioner for Human Rights, Mary Robinson, said today that despite continuing human rights abuses, she had sensed among Chinese leaders a new willingness to discuss the country's rights record. Mrs. Robinson said she had been told by Chinese officials that they were prepared to sign the International Covenant on Civil and Political Rights next month. She said the Chinese Government had also signed a letter of understanding with the Human Rights Commission requesting technical assistance in resolving human rights issues."
+      },
+      {
+        "abstract": "Correction of headline with Sept 16 article; United Nations official was in Beijing, not 'back from China,' when commenting on human rights",
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "1998-09-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/09/17/nyregion/c-corrections-897825.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "A headline yesterday about a United Nations official's comments about human rights in China misstated her whereabouts at the time. She was in Beijing, not ''back from China.''  ",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1e1348eb7c8105d7291a7",
+        "source": "The New York Times",
+        "word_count": 28,
+        "lead_paragraph": "A headline yesterday about a United Nations official's comments about human rights in China misstated her whereabouts at the time. She was in Beijing, not ''back from China.''"
+      },
+      {
+        "abstract": "China lets director Chen Kaige hold world film premiere of his historical epic about ancient battles that led to China's unification in Great Hall of the People, Beijing; English title of film, set for United States distribution, has not been chosen; photo (M)",
+        "headline": {"main": "Beijing Journal; A New Epic With a History of Its Own"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN KAIGE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MOTION PICTURES"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1998-10-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/10/10/world/beijing-journal-a-new-epic-with-a-history-of-its-own.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "As the crowd of mostly young Beijingers filed in from the misty night off Tiananmen Square, it was obvious this was not your everyday world film premiere. Sure, there were cameras flashing, huge movie posters and a high proportion of men with ponytai",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Movies; World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20c3a8eb7c8105d77b561",
+        "source": "The New York Times",
+        "word_count": 1069,
+        "lead_paragraph": "As the crowd of mostly young Beijingers filed in from the misty night off Tiananmen Square, it was obvious this was not your everyday world film premiere. Sure, there were cameras flashing, huge movie posters and a high proportion of men with ponytails. But instead of a red carpet, there were metal detectors and X-ray security machines. And weren't those bouncers People's Liberation Army guards?"
+      },
+      {
+        "abstract": "Photo of 10,000 martial artists in slow relaxed movements of tai chi; demonstration in Beijing's Tiananmen Square is first allowed there since Communist rule began in 1949; event marks 40th anniversary of China Wushu Assn",
+        "headline": {"main": "Tai Chi: The Sound of 10,000 Feet Gliding"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "MARTIAL ARTS"
+          },
+          {
+            "name": "subject",
+            "value": "TAI CHI (ORIENTAL EXERCISE)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1998-10-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/10/16/world/tai-chi-the-sound-of-10000-feet-gliding.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Photo of 10,000 martial artists in slow relaxed movements of tai chi; demonstration in Beijing's Tiananmen Square is first allowed there since Communist rule began in 1949; event marks 40th anniversary of China Wushu Assn",
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd216a78eb7c8105d7912d1",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Even though sturdy bicycles remain primary transportation for vast majority of residents in Beijing, China, automobiles have been multiplying rapidly, literally edging cyclists off road; thousands of bicyclists who once dominated streets have been corralled into bike lanes, where flow is often interrupted by impatient drivers seeking to avoid city's endless traffic jams scattering cyclists to and fro; photo (M)",
+        "headline": {"main": "Beijing Journal; Tide of Traffic Turns Against the Sea of Bicycles"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "AUTOMOBILES"
+          },
+          {
+            "name": "subject",
+            "value": "BICYCLES AND BICYCLING"
+          },
+          {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1998-11-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/11/03/world/beijing-journal-tide-of-traffic-turns-against-the-sea-of-bicycles.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Every day this city's wide boulevards are marred by a million ugly battles between ''gas vehicles,'' as cars are called in Chinese, and ''self-propelled vehicles,'' a.k.a. bicycles.     Although sturdy bicycles remain the primary transportation for t",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20d778eb7c8105d77d83c",
+        "source": "The New York Times",
+        "word_count": 730,
+        "lead_paragraph": "Every day this city's wide boulevards are marred by a million ugly battles between ''gas vehicles,'' as cars are called in Chinese, and ''self-propelled vehicles,'' a.k.a. bicycles. Although sturdy bicycles remain the primary transportation for the vast majority of Beijingers, their powerful gas-guzzling cousins have been multiplying rapidly, literally edging cyclists off the road."
+      },
+      {
+        "abstract": "Shankar Viswanathan letter ridicules economic think tanks that help promote use of cars instead of bicycles in Beijing (S)",
+        "headline": {"main": "Beijing Loses if Bikes Disappear"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "VISWANATHAN, SHANKAR"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BICYCLES AND BICYCLING"
+          },
+          {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+          }
+        ],
+        "print_page": "32",
+        "pub_date": "1998-11-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/11/06/opinion/l-beijing-loses-if-bikes-disappear-718815.html",
+        "news_desk": "Editorial Desk",
+        "snippet": " To the Editor:    Re your Nov. 3 Beijing Journal on cars replacing bicycles as the primary mode of transportation in that city: The economic think tanks can now start telling us how much these expensive (by local standards) vehicles have contributed",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1e1258eb7c8105d7289ed",
+        "source": "The New York Times",
+        "word_count": 144,
+        "lead_paragraph": "To the Editor: Re your Nov. 3 Beijing Journal on cars replacing bicycles as the primary mode of transportation in that city: The economic think tanks can now start telling us how much these expensive (by local standards) vehicles have contributed to China's gross domestic product and hence to its economic development. To the man in the street, however, the quality of life is deteriorating. But who listens to him?"
+      },
+      {
+        "abstract": "Hannah Borgeson letter regrets that cars are replacing bicycles on streets of Beijing (S)",
+        "headline": {"main": "Beijing Loses if Bikes Disappear"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BORGESON, HANNAH"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BICYCLES AND BICYCLING"
+          },
+          {
+            "name": "subject",
+            "value": "ROADS AND TRAFFIC"
+          }
+        ],
+        "print_page": "32",
+        "pub_date": "1998-11-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1998/11/06/opinion/l-beijing-loses-if-bikes-disappear-718840.html",
+        "news_desk": "Editorial Desk",
+        "snippet": " To the Editor:    Re your Nov. 3 Beijing Journal on the closing of Xisidong Avenue to bikes for the benefit of ''traffic'': Why do you not consider the city's six million bikes to be in this category, and why is the dominance of ''gas vehicles'' ine",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd21e0d8eb7c8105d79f7b4",
+        "source": "The New York Times",
+        "word_count": 132,
+        "lead_paragraph": "To the Editor: Re your Nov. 3 Beijing Journal on the closing of Xisidong Avenue to bikes for the benefit of ''traffic'': Why do you not consider the city's six million bikes to be in this category, and why is the dominance of ''gas vehicles'' inevitable?"
+      }
+    ],
+    "meta": {
+      "time": 35,
+      "hits": 37,
+      "offset": 20
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

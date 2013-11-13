@@ -1,0 +1,965 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "This month, China\u2019s once powerful Ministry of Railways was dissolved and in a historic change, is being replaced by a corporation.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Once So Mighty, Now Gone: China's Ministry of Railways"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Sina Weibo"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Communist Party of China"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Railroads"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "High-Speed Rail Projects"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-03-20T10:35:43Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/03/20/once-so-mighty-now-gone-chinas-ministry-of-railways/",
+        "news_desk": null,
+        "snippet": "This month, China\u2019s once powerful Ministry of Railways was dissolved and in a historic change, is being replaced by a corporation.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "width": 190,
+            "subtype": "wide",
+            "type": "image",
+            "url": "images/2013/03/20/world/asia/20MoRRDV/20MoRRDV-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/03/20/world/asia/20MoRRDV/20MoRRDV-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 465,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2013/03/20/world/asia/20MoRRDV/20MoRRDV-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "465",
+              "xlarge": "images/2013/03/20/world/asia/20MoRRDV/20MoRRDV-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2013/03/20/world/asia/20MoRRDV/20MoRRDV-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/03/20/world/asia/20MoRRDV/20MoRRDV-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "5149c9f3fdc5926e77001244",
+        "source": "The New York Times",
+        "word_count": "331",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "seo": "In China, Executives Flock Back to Graduate School",
+          "print_headline": "In China, Executives Flock Back to School for Unfinished Business",
+          "main": "In China, Executives Flock Back to School for Unfinished Business"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Education",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Business Schools",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Shanghai (China)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "",
+        "pub_date": "2013-03-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/03/27/education/in-china-executives-flock-back-to-graduate-school.html",
+        "news_desk": "Foreign",
+        "snippet": "During the Cultural Revolution, higher education was viewed with suspicion. Now, top-level Chinese executives are flooding to M.B.A. courses to catch up.",
+        "type_of_material": "Special Report",
+        "blog": [],
+        "section_name": "Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "GILLET",
+            "role": "reported",
+            "firstname": "Kit"
+          }],
+          "contributor": "",
+          "original": "By KIT GILLET"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "width": 190,
+            "subtype": "wide",
+            "type": "image",
+            "url": "images/2013/03/27/education/27iht-sreducchina27a/27iht-sreducchina27a-thumbWide-v3.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/03/27/education/27iht-sreducchina27a/27iht-sreducchina27a-thumbWide-v3.jpg"
+            }
+          },
+          {
+            "height": 400,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2013/03/27/education/27iht-sreducchina27a/27iht-sreducchina27a-articleLarge-v3.jpg",
+            "legacy": {
+              "xlargeheight": "400",
+              "xlarge": "images/2013/03/27/education/27iht-sreducchina27a/27iht-sreducchina27a-articleLarge-v3.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2013/03/27/education/27iht-sreducchina27a/27iht-sreducchina27a-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/03/27/education/27iht-sreducchina27a/27iht-sreducchina27a-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "5151ae77fdc5926e770025dd",
+        "source": "International Herald Tribune",
+        "word_count": "1086",
+        "lead_paragraph": "During the Cultural Revolution, higher education was viewed with suspicion. Now, top-level Chinese executives are flooding to M.B.A. courses to catch up."
+      },
+      {
+        "abstract": "Bizarre video seems to show ethnic Han Chinese man who has joined Syrian rebels in fight to overthrow government of Pres Bashar al-Assad.",
+        "headline": {
+          "seo": "An Unlikely Warrior in the Battle for Syria",
+          "print_headline": "An Unlikely Jihadist, Denouncing Assad in Mandarin",
+          "main": "An Unlikely Jihadist, Denouncing Assad in Mandarin"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Defense and Military Forces",
+            "is_major": "N"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Video Recordings and Downloads",
+            "is_major": "Y"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Syria",
+            "is_major": "Y"
+          },
+          {
+            "rank": "6",
+            "name": "organizations",
+            "value": "National Coalition of Syrian Revolutionary and Opposition Forces",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Assad, Bashar al-",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2013-03-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/03/30/world/asia/an-unlikely-chinese-warrior-in-the-battle-for-syria.html",
+        "news_desk": "Foreign",
+        "snippet": "A video that seems to show a Han Chinese man working for the overthrow of the Assad government is raising eyebrows in Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "contributor": "Robert F. Worth contributed reporting from Washington. Patrick Zuo contributed research from Beijing.",
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/03/29/world/asia/china-sub1/china-sub1-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/03/29/world/asia/china-sub1/china-sub1-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 299,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/03/29/world/asia/china-sub1/china-sub1-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "299",
+              "xlarge": "images/2013/03/29/world/asia/china-sub1/china-sub1-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/03/29/world/asia/china-sub1/china-sub1-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/03/29/world/asia/china-sub1/china-sub1-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51561138fdc59278db000df5",
+        "source": "The New York Times",
+        "word_count": "801",
+        "lead_paragraph": "A video that seems to show a Han Chinese man working for the overthrow of the Assad government is raising eyebrows in Beijing."
+      },
+      {
+        "abstract": "Beijing and Shanghai announce they will put in place new restrictions and penalties on housing sales to ensure that prices do not continue to soar, fueling what many say is a real estate bubble; property prices in China have been rising sharply, with prices in big cities up average 3.1 percent in Feb 2013.",
+        "headline": {
+          "seo": "2 China Cities Move to Cool Overheated Housing Market",
+          "print_headline": "2 Chinese Cities Move to Cool Overheated Housing Market",
+          "main": "2 Chinese Cities Move to Cool Overheated Housing Market"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Property Taxes",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Shanghai (China)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Economic Conditions and Trends",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2013-04-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/04/01/world/asia/2-china-cities-move-to-cool-overheated-housing-market.html",
+        "news_desk": "Foreign",
+        "snippet": "Beijing and Shanghai announced they would put in place new restrictions and penalties on housing sales to ensure that prices do not continue to soar, fueling what many say is a real estate bubble.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "contributor": "",
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/04/01/world/YUAN/YUAN-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/04/01/world/YUAN/YUAN-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 413,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/04/01/world/YUAN/YUAN-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "413",
+              "xlarge": "images/2013/04/01/world/YUAN/YUAN-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/04/01/world/YUAN/YUAN-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/04/01/world/YUAN/YUAN-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "5158d58ffdc59278db00129b",
+        "source": "The New York Times",
+        "word_count": "858",
+        "lead_paragraph": "Beijing and Shanghai announced they would put in place new restrictions and penalties on housing sales to ensure that prices do not continue to soar, fueling what many say is a real estate bubble."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "print_headline": "Chinese Cities Enact Rules to Cool Property Market",
+          "main": "China Releases New Measures to Restrict Housing Sales"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Shanghai (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Property Taxes",
+            "is_major": "N"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Real Estate and Housing (Residential)",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Economic Conditions and Trends",
+            "is_major": "N"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-04-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/04/01/business/global/china-releases-new-measures-to-restrict-housing-sales.html",
+        "news_desk": "Business",
+        "snippet": "Higher down payments, a 20 percent tax on sales and even a one-home limit for unmarried individuals are being implemented to avert a harmful bubble.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business Day",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "width": 190,
+            "subtype": "wide",
+            "type": "image",
+            "url": "images/2013/04/01/world/YUAN/YUAN-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/04/01/world/YUAN/YUAN-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 413,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2013/04/01/world/YUAN/YUAN-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "413",
+              "xlarge": "images/2013/04/01/world/YUAN/YUAN-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2013/04/01/world/YUAN/YUAN-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/04/01/world/YUAN/YUAN-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "51582a32fdc59278db0011c4",
+        "source": "International Herald Tribune",
+        "word_count": "854",
+        "lead_paragraph": "Higher down payments, a 20 percent tax on sales and even a one-home limit for unmarried individuals are being implemented to avert a harmful bubble."
+      },
+      {
+        "abstract": "Chinese news report says levels of two major air pollutants--nitrous dioxide and particulate matter called PM 10--have increased in Beijing by almost 30 percent in first quarter of 2013.",
+        "headline": {
+          "seo": "Two Major Air Pollutants Increase in China",
+          "print_headline": "2 Major Air Pollutants Increase in Beijing",
+          "main": "2 Major Air Pollutants Increase in Beijing"
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Weather",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Air Pollution",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2013-04-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/04/04/world/asia/two-major-air-pollutants-increase-in-china.html",
+        "news_desk": "Foreign",
+        "snippet": "Levels of two major air pollutants \u2014 nitrogen dioxide and particulate matter that is between 2.5 and 10 micrometers, called PM 10 \u2014 surged early in 2013, a report said.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "contributor": "",
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/04/04/world/asia/04china/04china-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/04/04/world/asia/04china/04china-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 366,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/04/04/world/asia/04china/04china-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "366",
+              "xlarge": "images/2013/04/04/world/asia/04china/04china-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/04/04/world/asia/04china/04china-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/04/04/world/asia/04china/04china-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "515dc338cf28d0219d005261",
+        "source": "The New York Times",
+        "word_count": "547",
+        "lead_paragraph": "Levels of two major air pollutants \u2014 nitrogen dioxide and particulate matter that is between 2.5 and 10 micrometers, called PM 10 \u2014 surged early in 2013, a report said."
+      },
+      {
+        "abstract": "Chinese news report says levels of two major air pollutants--nitrous dioxide and particulate matter called PM 10--have increased in Beijing by almost 30 percent in first quarter of 2013. (M)",
+        "headline": {"main": "2 Major Air Pollutants Increase in Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "WEATHER"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2013-04-04T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9F05E7DC143CF937A35757C0A9659D8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "BEIJING &#x2014; In the first three months of this year, levels of two major air pollutants increased by almost 30 percent here in the Chinese capital, over the same period in 2012, according to a report on Wednesday by a Chinese news organization.&#",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5166368ccf28d0219d00701b",
+        "source": "The New York Times",
+        "word_count": "549",
+        "lead_paragraph": "BEIJING \u2014 In the first three months of this year, levels of two major air pollutants increased by almost 30 percent here in the Chinese capital, over the same period in 2012, according to a report on Wednesday by a Chinese news organization.\n \nThe pollutants \u2014 nitrous dioxide and particulate matter that is between 2.5 and 10 micrometers in diameter, called PM 10 \u2014 appeared to have surged sharply in January, showing levels 47 percent higher than the same month last year, according to the report by Beijing News that was translated into English by The Economic Observer . The report cited as its source Chen Tian, the head of the Beijing Municipal Environmental Protection Bureau."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "print_headline": "In China, Party Trumps a Strongman",
+          "main": "In China, Party Trumps a Strongman"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Mao Zedong",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Xi Jinping",
+            "is_major": "N"
+          },
+          {
+            "rank": "7",
+            "name": "organizations",
+            "value": "Communist Party of China",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          },
+          {
+            "rank": "6",
+            "name": "persons",
+            "value": "Deng Xiaoping",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Taipei (Taiwan)",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "",
+        "pub_date": "2013-04-04T14:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/04/04/world/asia/04iht-letter04.html",
+        "news_desk": "Foreign",
+        "snippet": "Taiwan achieved democratic reforms in 1987, when a failing strongman created an opening for change. That's not the case in mainland China, where any strongman would be limited by party politics.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "contributor": "",
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "515dc2c4cf28d0219d005202",
+        "source": "International Herald Tribune",
+        "word_count": "914",
+        "lead_paragraph": "Taiwan achieved democratic reforms in 1987, when a failing strongman created an opening for change. That's not the case in mainland China, where any strongman would be limited by party politics."
+      },
+      {
+        "abstract": "Beijing Journal; residents of Beijing celebrate 'tomb sweeping' festival known as Qingming, in which living pay respects to departed ancestors by tidying graves and burning paper offerings so that spirits can afford good afterlife; banned by Communist Party in 1949 for its feudal links, Qingming is undergoing resurgence.",
+        "headline": {
+          "seo": "New Interest in China for \u2018Tomb Sweeping\u2019 Festival",
+          "print_headline": "Festival\u2019s Resurgence Has Chinese Sending Manna to the Heavens",
+          "kicker": "Beijing Journal",
+          "main": "Festival\u2019s Resurgence Has Chinese Sending Manna to the Heavens"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Holidays and Special Occasions",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Festivals",
+            "is_major": "N"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Cemeteries",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2013-04-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/04/05/world/asia/in-china-a-newfound-interest-in-keeping-dead-relatives-happy.html",
+        "news_desk": "Foreign",
+        "snippet": "The \u201ctomb sweeping\u201d festival known as Qingming, reinstated as a public holiday in 2008, has relatives flocking to cemeteries to pay respect to ancestors by burning money.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LEVIN",
+            "role": "reported",
+            "firstname": "Dan"
+          }],
+          "contributor": "Yuan Ren and Shi Da contributed research from Beijing, and Sue-Lin Wong from Fuzhou, China.",
+          "original": "By DAN LEVIN"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/04/05/world/asia/Graves/Graves-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/04/05/world/asia/Graves/Graves-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 393,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/04/05/world/asia/Graves/Graves-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "393",
+              "xlarge": "images/2013/04/05/world/asia/Graves/Graves-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/04/05/world/graves2/graves2-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/04/05/world/graves2/graves2-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "515ded70cf28d0219d005791",
+        "source": "The New York Times",
+        "word_count": "1068",
+        "lead_paragraph": "The \u201ctomb sweeping\u201d festival known as Qingming, reinstated as a public holiday in 2008, has relatives flocking to cemeteries to pay respect to ancestors by burning money."
+      },
+      {
+        "abstract": "Beijing has allowed remarkable transparency in the coverage of the bird flu outbreak. Living in Beijing, I have to hope the transparency is real, the author writes.",
+        "headline": {
+          "kicker": "DealBook",
+          "main": "Bird Flu Concerns and North Korean Jitters"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Xi Jinping"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Chinese Academy of Sciences"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Sina Weibo"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Yum Brands Inc"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Epidemics"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Defense and Military Forces"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Nuclear Tests"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Avian Influenza"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-04-09T14:43:07Z",
+        "web_url": "http://dealbook.nytimes.com/2013/04/09/bird-flu-concerns-and-north-korean-jitters/",
+        "news_desk": null,
+        "snippet": "Beijing has allowed remarkable transparency in the coverage of the bird flu outbreak. Living in Beijing, I have to hope the transparency is real, the author writes.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business Day",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BISHOP",
+            "role": "reported",
+            "firstname": "Bill"
+          }],
+          "original": "By BILL BISHOP"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "51646239cf28d0219d006961",
+        "source": "The New York Times",
+        "word_count": "834",
+        "lead_paragraph": null
+      }
+    ],
+    "meta": {
+      "time": 10,
+      "hits": 144,
+      "offset": 40
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

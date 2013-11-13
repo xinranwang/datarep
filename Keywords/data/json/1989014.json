@@ -1,0 +1,608 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "ABROAD AT HOME",
+          "main": "America And China"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "27",
+        "pub_date": "1989-06-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/18/opinion/abroad-at-home-america-and-china.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: When the Polish Government declared martial law in 1981, and then outlawed Solidarity, the United States reacted decisively. President Reagan, expressing outrage, imposed tough economic sanctions.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Lewis",
+            "role": "reported",
+            "firstname": "Anthony"
+          }],
+          "original": "By Anthony Lewis"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd195468eb7c8105d6a1127",
+        "source": "The New York Times",
+        "word_count": 772,
+        "lead_paragraph": "LEAD: When the Polish Government declared martial law in 1981, and then outlawed Solidarity, the United States reacted decisively. President Reagan, expressing outrage, imposed tough economic sanctions."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "What Will the People of China Do Next?; Insufficient Reaction"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          }
+        ],
+        "print_page": "26",
+        "pub_date": "1989-06-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/18/opinion/l-what-will-the-people-of-china-do-next-insufficient-reaction-775089.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: To the Editor:",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1840a8eb7c8105d682210",
+        "source": "The New York Times",
+        "word_count": 174,
+        "lead_paragraph": "LEAD: To the Editor:"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China's Peasants Get the Bad News"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "15",
+        "pub_date": "1989-06-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/19/opinion/china-s-peasants-get-the-bad-news.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: An American named Graham Peck who spent World War II in China wrote a book that he called ''Two Kinds of Time,'' putting forward the idea that China moves on another and slower kind of time than the Western world. For all the changes in recent ",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "Salisbury",
+            "firstname": "Harrison"
+          }],
+          "original": "By Harrison E. Salisbury; Harrison E. Salisbury, former editor of the Op-Ed page, is author of ''The Long March: The Untold Story.''"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18bf58eb7c8105d68f1f3",
+        "source": "The New York Times",
+        "word_count": 1549,
+        "lead_paragraph": "LEAD: An American named Graham Peck who spent World War II in China wrote a book that he called ''Two Kinds of Time,'' putting forward the idea that China moves on another and slower kind of time than the Western world. For all the changes in recent years, the Tiananmen massacre has again illuminated the fact that clocks in the"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "U.S. Suspends High-Level Links To China as Crackdown Goes On"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+          },
+          {
+            "name": "persons",
+            "value": "HAN XU"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMS SALES ABROAD"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "PARDONS"
+          },
+          {
+            "name": "subject",
+            "value": "CREDIT"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-06-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/21/world/us-suspends-high-level-links-to-china-as-crackdown-goes-on.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: The White House announced today that it was suspending high-level meetings between United States officials and the Chinese Government. The move was taken to express American anger over the crackdown against pro-democracy demonstrators.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "L.",
+              "role": "reported",
+              "lastname": "FRIEDMAN",
+              "firstname": "Thomas"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By THOMAS L. FRIEDMAN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1954b8eb7c8105d6a154a",
+        "source": "The New York Times",
+        "word_count": 869,
+        "lead_paragraph": "LEAD: The White House announced today that it was suspending high-level meetings between United States officials and the Chinese Government. The move was taken to express American anger over the crackdown against pro-democracy demonstrators."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China Arrests Another Student Leader"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHANG WEIPING"
+          },
+          {
+            "name": "persons",
+            "value": "LIU GANG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "VOICE OF AMERICA"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "1989-06-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/21/world/china-arrests-another-student-leader.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: The authorities today announced the arrest of one of China's most-wanted student leaders, along with another student who was accused of passing on ''rumors'' to an American reporter.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1954b8eb7c8105d6a154b",
+        "source": "The New York Times",
+        "word_count": 880,
+        "lead_paragraph": "LEAD: The authorities today announced the arrest of one of China's most-wanted student leaders, along with another student who was accused of passing on ''rumors'' to an American reporter."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "A Reassessment of How Many Died In the Military Crackdown in Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "DISCLOSURE OF INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "1989-06-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/21/world/a-reassessment-of-how-many-died-in-the-military-crackdown-in-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: More than two weeks after the Chinese Army gunned down demonstrators and onlookers in the center of Beijing, there is still no evidence to support some of the higher estimates of casualties, like an early American estimate that 3,000 died.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a28e8eb7c8105d6b9149",
+        "source": "The New York Times",
+        "word_count": 1060,
+        "lead_paragraph": "LEAD: More than two weeks after the Chinese Army gunned down demonstrators and onlookers in the center of Beijing, there is still no evidence to support some of the higher estimates of casualties, like an early American estimate that 3,000 died."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "CHINESE EXECUTE 3 IN PUBLIC DISPLAY FOR PROTEST ROLE"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "JINAN (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NEW CHINA NEWS AGENCY"
+          },
+          {
+            "name": "subject",
+            "value": "CAPITAL PUNISHMENT"
+          },
+          {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-06-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/22/world/chinese-execute-3-in-public-display-for-protest-role.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: The Chinese authorities staged a public execution today of three young men who were accused of taking part in a violent political protest in Shanghai.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1844f8eb7c8105d682eba",
+        "source": "The New York Times",
+        "word_count": 1518,
+        "lead_paragraph": "LEAD: The Chinese authorities staged a public execution today of three young men who were accused of taking part in a violent political protest in Shanghai."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "In Beijing, a Month of Living Dangerously"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "RATHER, DAN"
+          },
+          {
+            "name": "persons",
+            "value": "GIBSON, KYLE"
+          },
+          {
+            "name": "persons",
+            "value": "CHINOY, MIKE"
+          },
+          {
+            "name": "persons",
+            "value": "LEWIS, GEORGE"
+          },
+          {
+            "name": "persons",
+            "value": "JUDD, JACKIE"
+          },
+          {
+            "name": "persons",
+            "value": "BROKAW, TOM"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "29",
+        "pub_date": "1989-06-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/25/arts/in-beijing-a-month-of-living-dangerously.html",
+        "news_desk": "Arts and Leisure Desk",
+        "snippet": "LEAD: Covering the recent tumultuous events in China has proved a logistical challenge for American television. Here are observations from several news correspondents sent to Beijing by the various networks.  'THE WALKIE-TALKIE BECAME MY LIFELINE'",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd185838eb7c8105d684cc9",
+        "source": "The New York Times",
+        "word_count": 2769,
+        "lead_paragraph": "LEAD: Covering the recent tumultuous events in China has proved a logistical challenge for American television. Here are observations from several news correspondents sent to Beijing by the various networks. 'THE WALKIE-TALKIE BECAME MY LIFELINE'"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Many Wanted Chinese Elude Capture"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "1989-06-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/26/world/many-wanted-chinese-elude-capture.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Except for some armed troops almost lost in the crowds at major intersections and the occasional jogging patrol, you would hardly know during the daytime in Beijing that martial law is still in effect.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "BERNSTEIN",
+              "role": "reported",
+              "firstname": "Richard"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By RICHARD BERNSTEIN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd184508eb7c8105d682f8e",
+        "source": "The New York Times",
+        "word_count": 1055,
+        "lead_paragraph": "LEAD: Except for some armed troops almost lost in the crowds at major intersections and the occasional jogging patrol, you would hardly know during the daytime in Beijing that martial law is still in effect."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "In U.S.-China Ties, Cordiality Is No Longer on the Agenda"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LILLEY, JAMES R"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "1989-06-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/27/world/in-us-china-ties-cordiality-is-no-longer-on-the-agenda.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Two Chinese were hurriedly bicycling past the compound of the American Embassy the other day, rushing along as if it were a particularly dangerous neighborhood, when one leaned toward the other and then waved toward the embassy.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a2958eb7c8105d6b9487",
+        "source": "The New York Times",
+        "word_count": 861,
+        "lead_paragraph": "LEAD: Two Chinese were hurriedly bicycling past the compound of the American Embassy the other day, rushing along as if it were a particularly dangerous neighborhood, when one leaned toward the other and then waved toward the embassy."
+      }
+    ],
+    "meta": {
+      "time": 23,
+      "hits": 187,
+      "offset": 140
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,1036 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Well-organized and far-reaching band of Tibet support groups is galvanizing around Olympic torch relay and is troubling news for sponsors of torch relay; advertising analysts estimate companies have paid as much as $15 million each to sponsor relay; photo (L)",
+        "headline": {"main": "Corporate Sponsors Nervous as Tibet Protest Groups Shadow Olympic Torch's Run"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "organizations",
+            "value": "COCA-COLA CO"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "BUDDHISM"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-03-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/29/business/worldbusiness/29torch.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "The disruption of a Chinese official\u2019s address in Greece was just the beginning of a string of protests planned to coincide with the torch\u2019s trip around the globe.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "TIMMONS",
+            "role": "reported",
+            "firstname": "Heather"
+          }],
+          "original": "By HEATHER TIMMONS"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/03/29/business/29torch-span-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/03/29/business/29torch-span-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 354,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/03/29/business/29torch-span-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 354,
+              "xlarge": "images/2008/03/29/business/29torch-span-600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd283218eb7c8105d850cd1",
+        "source": "The New York Times",
+        "word_count": 893,
+        "lead_paragraph": "The disruption of a Chinese official's address during the Olympic torch lighting ceremonies in Greece last week was just the beginning of a string of protests planned to coincide with the torch's trip around the globe."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "ART",
+          "main": "Schooling the Artists' Republic of China"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "31",
+        "pub_date": "2008-03-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/30/arts/design/30barb.html",
+        "news_desk": "Arts and Leisure Desk",
+        "snippet": "With a booming art market, commercial pressure is trickling down to the academies.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/03/30/arts/30barb75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/03/30/arts/30barb75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/03/30/arts/30barb600.1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2008/03/30/arts/30barb600.1.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2b2b58eb7c8105d8a4183",
+        "source": "The New York Times",
+        "word_count": 1829,
+        "lead_paragraph": "ON a recent lazy afternoon Wang Haiyang, a student at China's top art school, was quietly packing away some of his new oil paintings in the campus's printmaking department. He is 23, and he just had his first major art exhibition at a big Beijing gallery."
+      },
+      {
+        "abstract": "American companies have expanded into",
+        "headline": {
+          "kicker": "SQUARE FEET | SPOTLIGHT",
+          "main": "Before the Olympics, A Parade of Companies"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "MCDONALD'S CORP"
+          },
+          {
+            "name": "organizations",
+            "value": "NIKE INC"
+          },
+          {
+            "name": "organizations",
+            "value": "MARRIOTT INTERNATIONAL INC"
+          },
+          {
+            "name": "organizations",
+            "value": "STARBUCKS CORP"
+          },
+          {
+            "name": "organizations",
+            "value": "STAPLES INC"
+          },
+          {
+            "name": "subject",
+            "value": "HOTELS AND MOTELS"
+          },
+          {
+            "name": "subject",
+            "value": "RESTORATION AND REHABILITATION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OFFICE BUILDINGS AND COMMERCIAL PROPERTIES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "TRANSIT SYSTEMS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "RETAIL STORES AND TRADE"
+          }
+        ],
+        "print_page": "20",
+        "pub_date": "2008-03-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/30/realestate/commercial/30sqft.html",
+        "news_desk": "Money and Business/Financial Desk",
+        "snippet": "By the time the Olympic torch arrives in Beijing in August, the city will have largely completed its transformation into a modern metropolis.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CORTESE",
+            "role": "reported",
+            "firstname": "Amy"
+          }],
+          "original": "By AMY CORTESE"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/03/30/business/30sqft.751.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/03/30/business/30sqft.751.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 200,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/03/30/business/30sqft.xlarge1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 200,
+              "xlarge": "images/2008/03/30/business/30sqft.xlarge1.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2b3288eb7c8105d8a4640",
+        "source": "The New York Times",
+        "word_count": 1134,
+        "lead_paragraph": "THE Olympic torch set off last week from Athens for Beijing. By the time it arrives in August for the start of the Olympic Games, Beijing will have largely completed a transformation from a staid seat of government to a modern metropolis. Even as its economy surged in recent years, Beijing, China's capital, still lagged behind business centers like Shanghai and Guangzhou in commercial development. Roads and public transit were outmoded, developers said, and companies that wanted to expand there had limited options for office or retail space."
+      },
+      {
+        "abstract": "As Chinese security forces have tried to tamp down continuing Tibetan protests during past two weeks, Chinese officials and state news media have tried to rally domestic opinion by stoking nationalism; Communist Party is using censorship and propaganda to claim that it is defender of China; is also blocking any examination of Tibetan grievances or its own role in crisis; emphasis on nationalism has risks; criticism by foreign news media comes months before Olympic Games in Beijing, when China wants to appear welcoming to outside world; some critics accuse Chinese government of inciting racial hatred; Chinese citizens are using Internet to express anger at protests; Tibet crisis has touched raw nerve of separatism at core of Chinese nationalism; many Chinese, influenced by government, see crisis as attempt to split China; regard Tibetans as having received special government benefits because of ethnic status; photos (M)",
+        "headline": {"main": "Chinese Nationalism Fuels Crackdown on Tibet"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "PUBLIC OPINION"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-03-31T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/31/world/asia/31china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "If the tough tactics have startled the outside world, the Communist Party for now seems more concerned with rallying domestic opinion.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY; Zhang Jing contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/03/30/world/china.75.ready.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/03/30/world/china.75.ready.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 280,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/03/30/world/30china.span.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 280,
+              "xlarge": "images/2008/03/30/world/30china.span.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 226,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/03/30/world/china.337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/03/30/world/china.337.jpg",
+              "tinythumbheight": 226,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd265438eb7c8105d819454",
+        "source": "The New York Times",
+        "word_count": 1770,
+        "lead_paragraph": "Like so many Chinese, Meng Huizhong was horrified by the violent Tibetan protests in Lhasa. She cringed at videos of Tibetan rioters attacking a Chinese motorcyclist. Her anger deepened as Tibet dominated her online conversation groups, until it settled on what might seem like an unlikely target: the Communist Party. ''We couldn't believe our government was being so weak and cowardly,'' said Ms. Meng, 52, an office worker, who was appalled that the authorities had failed to initially douse the violence. ''The Dalai Lama is trying to separate China, and it is not acceptable at all. We must crack down on the rioters.''"
+      },
+      {
+        "abstract": "Advertising column on new enigmatic Olympic-themed online game called The Lost Ring sponsored by McDonald's; photos (M)",
+        "headline": {
+          "kicker": "ADVERTISING",
+          "main": "An Online Game So Mysterious Its Famous Sponsor Is Hidden"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+          },
+          {
+            "name": "creative_works",
+            "value": "LOST RING, THE (VIDEO GAME)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "MCDONALD'S CORP"
+          },
+          {
+            "name": "subject",
+            "value": "RESTAURANTS"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTER AND VIDEO GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2008-04-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/04/01/business/media/01adco.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "McDonald\u2019s is the sponsor of an enigmatic Olympic-themed online game called The Lost Ring.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CLIFFORD",
+            "role": "reported",
+            "firstname": "Stephanie"
+          }],
+          "original": "By STEPHANIE CLIFFORD"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/04/01/business/01adco-span-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/04/01/business/01adco-span-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 239,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/04/01/business/01adco-span-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 239,
+              "xlarge": "images/2008/04/01/business/01adco-span-600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2b3288eb7c8105d8a467f",
+        "source": "The New York Times",
+        "word_count": 795,
+        "lead_paragraph": "NOT known for its dark marketing, McDonald's is more a try-our-new-salad, get-your-Shrek-action-figure, look-at-our-dollar-menu sort of place. For that reason, gamers were surprised to learn that McDonald's was the sponsor of an enigmatic Olympic-themed online game called The Lost Ring, introduced last month. Nothing about the game was branded McDonald's, and the game's Web sites -- mysterious and hip, like ''Lost'' mixed with ''The Blair Witch Project''-- were a far cry from the golden arches."
+      },
+      {
+        "abstract": "Socially conscious athletes are struggling to figure out how to honor their beliefs while respecting purpose of Olympic Games; US softball player Jessica Mendoza walks fine line, speaking about killings in Darfur but stopping short of publicly condemning China, which has close ties to Sudanese government, because she says it is impolite to criticize Olympic host and because Nike, one of her sponsors, has marketing presence in China; she is participating in Team Darfur, coalition of more than 200 athletes seeking to raise awareness; Brad Greiner, co-founder of Team Darfur, says personal and business considerations are keeping some well-known athletes from joining coalition; decision of whether to join carries risks for lesser known athletes who essentially get one shot every four years to elevate their ability to generate marketing dollars; some athletes say United States Olympic Committee is sending subtle messages about avoiding controversial subjects during athlete media and cultural training; some athletes believe their activism has attracted sponsors; many sponsorship contracts include clauses that can be used to terminate agreement if athlete does anything to materially damage company or brand; recap of famous Olympic protests; photos (M)",
+        "headline": {"main": "Issue for Athletes: Protest on Darfur at Olympics"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CROWSE, KAREN"
+          },
+          {
+            "name": "persons",
+            "value": "GREINER, BRAD"
+          },
+          {
+            "name": "persons",
+            "value": "MENDOZA, JESSICA"
+          },
+          {
+            "name": "glocations",
+            "value": "SUDAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "DARFUR (SUDAN)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED STATES OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "organizations",
+            "value": "NIKE INC"
+          },
+          {
+            "name": "organizations",
+            "value": "TEAM DARFUR"
+          },
+          {
+            "name": "subject",
+            "value": "WAR CRIMES, GENOCIDE AND CRIMES AGAINST HUMANITY"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-04-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/04/01/sports/othersports/01athletes.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Socially conscious athletes are struggling to honor their beliefs while also respecting the purpose of the Games.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Front Page; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "THOMAS",
+            "role": "reported",
+            "firstname": "Katie"
+          }],
+          "original": "By KATIE THOMAS; Karen Crouse and Richard Sandomir contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/04/01/sports/01athletes.1.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/04/01/sports/01athletes.1.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/04/01/sports/01athletes.1.337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/04/01/sports/01athletes.1.337.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd265438eb7c8105d81945e",
+        "source": "The New York Times",
+        "word_count": 1559,
+        "lead_paragraph": "Whether speaking to a group of young softball players or plying her teammates with literature, Jessica Mendoza, a 27-year-old outfielder on the United States Olympic softball team, does not hesitate to speak her mind about the killings in Darfur. But Ms. Mendoza stops short of publicly condemning China, which has close ties to the government of Sudan, because she says it is impolite to criticize her Olympic hosts and because one of her sponsors, Nike, has a major marketing presence in China."
+      },
+      {
+        "abstract": "House Speaker Nancy Pelosi suggests that Pres Bush consider skipping opening ceremony of Olympics in Beijing; as protest against China's actions in Tibet, its overall human rights record and its trade policies; says high-profile boycott of opening festivities, which are typically celebration of host country, could send strong message without interfering with Games; photo (M)",
+        "headline": {"main": "Pelosi Wants Bush to Weigh Skipping Olympic Ceremony"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "persons",
+            "value": "PELOSI, NANCY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "BOYCOTTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "17",
+        "pub_date": "2008-04-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/04/02/washington/02pelosi.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Nancy Pelosi, the speaker of the House, said a high-profile boycott of the opening festivities could send a strong message without interfering with the Olympic Games themselves.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HULSE",
+            "role": "reported",
+            "firstname": "Carl"
+          }],
+          "original": "By CARL HULSE"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/04/02/world/02pelosi-span-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/04/02/world/02pelosi-span-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 335,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/04/02/world/02pelosi-span-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 335,
+              "xlarge": "images/2008/04/02/world/02pelosi-span-600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2b3288eb7c8105d8a4698",
+        "source": "The New York Times",
+        "word_count": 430,
+        "lead_paragraph": "Nancy Pelosi, the speaker of the House, suggested Tuesday that President Bush consider skipping the opening ceremony of the Olympics in Beijing to protest China's actions in Tibet, its overall human rights record and its trade policies. The speaker, a California Democrat who has just returned from a meeting with the Dalai Lama in India, said a high-profile boycott of the opening festivities, which are typically a celebration of the host country, could send a strong message without interfering with the Games themselves."
+      },
+      {
+        "abstract": "Nicholas d Kristof Op-Ed column holds that in aftermath of turmoil in Tibet, complicated relationship between US and China is degenerating into mutual recriminations and rising tensions; says boycott of Olympic Games in Beijing is 'nonstarter'; contends that better answer is to postpose decision on boycotting opening ceremony as way of coaxing 'good behavior' out of Chinese government; says if Pres Bush does attend ceremony, he should balance it with trip to Tibetan area; urges Bush and other Western leaders to continue to consult with Dalai Lama; says if China allowed Dalai Lama to return to Tibet as spiritual leader, it would resolve problem of Tibet and improve China's international image; notes that this is not likely to happen anytime soon (M)",
+        "headline": {
+          "kicker": "OP-ED COLUMNIST",
+          "main": "A Not-So-Fine Romance"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "persons",
+            "value": "PELOSI, NANCY"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "BOYCOTTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "LEADERS AND LEADERSHIP"
+          }
+        ],
+        "print_page": "27",
+        "pub_date": "2008-04-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/04/03/opinion/03Kristof.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "China and the United States clash partly because of competing interests, but mostly because of competing narratives.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27a308eb7c8105d83dc3e",
+        "source": "The New York Times",
+        "word_count": 810,
+        "lead_paragraph": "In the aftermath of the Tibet upheavals, the complicated romance between America and China is degenerating into mutual recriminations, muttering about Olympic boycotts and tensions that are likely to rise through the summer. It would be convenient if we could simply denounce the crackdown in Tibet as the unpopular action of a dictatorial government. But it wasn't. It was the popular action of a dictatorial government, and many ordinary Chinese think the government acted too wimpishly, showing far too much restraint toward ''thugs'' and ''rioters.''"
+      },
+      {
+        "abstract": "Profile of China Vanke Co, largest housing developer in China and founder, 58-year-old tycoon-adventurer Wang Shi; interview; photos (M)",
+        "headline": {"main": "Building Wonderland"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WANG SHI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINA VANKE"
+          },
+          {
+            "name": "subject",
+            "value": "SALES"
+          },
+          {
+            "name": "subject",
+            "value": "MORTGAGES"
+          },
+          {
+            "name": "subject",
+            "value": "HOUSING"
+          },
+          {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "BUILDINGS (STRUCTURES)"
+          }
+        ],
+        "print_page": "82",
+        "pub_date": "2008-04-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/04/06/realestate/keymagazine/406china-t.html",
+        "news_desk": "Key",
+        "snippet": "As more Chinese strivers climb into the middle class, Wang Shi is making homes for them to buy \u0097 and covet. How China\u2019s biggest developer appeals to the new propertied masses.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LARMER",
+            "role": "reported",
+            "firstname": "Brook"
+          }],
+          "original": "By BROOK LARMER"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/04/04/realestate/keymagazine/406wonderland-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/04/04/realestate/keymagazine/406wonderland-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 527,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/04/04/realestate/keymagazine/406wonderland-650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 527,
+              "xlarge": "images/2008/04/04/realestate/keymagazine/406wonderland-650.jpg",
+              "xlargewidth": 650
+            }
+          }
+        ],
+        "_id": "4fd27a308eb7c8105d83dca9",
+        "source": "The New York Times",
+        "word_count": 5140,
+        "lead_paragraph": "ON A COLD JANUARY AFTERNOON, several hundred Chinese converged on a bookstore in a Beijing shopping center called the Creative Zone. As U2's anthem ''I Still Haven't Found What I'm Looking For'' swelled in the background, their eyes were drawn to a video montage of a middle-aged man with a scruffy beard projected onto a wall behind a raised stage. As the music faded, the man himself appeared, dressed in jeans and a black leather jacket, and the audience fell into a reverential hush. This was Wang Shi. A 58-year-old tycoon-adventurer in the mold of Sir Richard Branson, he had come to promote his second book, in which he retraces the journey of a seventh-century Buddhist monk across China, Central Asia and India. But the standing-room-only audience, most of them migrants and professionals half his age, seemed more interested in being enlightened about the secrets of his financial success than in hearing about his travels."
+      },
+      {
+        "abstract": "Human rights groups use Olympic Torch relay through streets of Paris to assail China's record on rights; torch is extinguished several times as demonstrators swarm security detail deployed to protect ceremonies; photos (M)",
+        "headline": {"main": "As Olympic Torch Visits Paris, Protests and Scuffles Follow"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "LONDON (ENGLAND)"
+          },
+          {
+            "name": "glocations",
+            "value": "PARIS (FRANCE)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2008-04-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/04/08/world/europe/08torch.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Thousands of demonstrators massed to protest the relay, and the torch went out several times, forcing the police to place it on a bus.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "BENNHOLD",
+              "role": "reported",
+              "firstname": "Katrin"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "ROSENTHAL",
+              "role": "reported",
+              "firstname": "Elisabeth"
+            }
+          ],
+          "original": "By KATRIN BENNHOLD  and ELISABETH ROSENTHAL; John F. Burns contributed reporting  from London, Jim Yardley from Beijing and Jesse McKinley from San Francisco"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/04/08/world/08torch-inline1-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/04/08/world/08torch-inline1-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 433,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/04/08/world/08torch-inline1-650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 433,
+              "xlarge": "images/2008/04/08/world/08torch-inline1-650.jpg",
+              "xlargewidth": 650
+            }
+          }
+        ],
+        "_id": "4fd277e08eb7c8105d839a23",
+        "source": "The New York Times",
+        "word_count": 1324,
+        "lead_paragraph": "China dubbed its Olympic torch relay the ''Journey of Harmony,'' a 21-nation promotional tour for the most expensive Games the world has seen and for a host nation eager to showcase its rising wealth and diplomatic clout. But what was supposed to be a majestic procession through the French capital resulted in waves of chaos on Monday, as human rights groups used the event to assail China's record on rights and make the Olympic Games an increasingly delicate political challenge for the governing Communist Party."
+      }
+    ],
+    "meta": {
+      "time": 21,
+      "hits": 367,
+      "offset": 40
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

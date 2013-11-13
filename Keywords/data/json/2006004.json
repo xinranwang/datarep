@@ -1,0 +1,790 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Beijing police begin swift and harsh crackdown against illegal dogs in campaign that limits households to single dog and forbids people from owning large dogs; regulations were introduced in 2003; Ministry of Health says rabies is reason for new crackdown; what horrifies pet advocates worldwide is brutal solution that some places in China have adopted to solve rabies problem; officials in Yunnan Province ordered extermination that led to slaughter of more than 54,000 dogs; spokesperson for International Fund for Animal Welfare says Beijing does not have rabies problem, point confirmed by state media report; photos (L)",
+        "headline": {
+          "kicker": "BEIJING JOURNAL",
+          "main": "A Law That Says Man Can Have Only One 'Best Friend'"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "YUNNAN PROVINCE (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL FUND FOR ANIMAL WELFARE"
+          },
+          {
+            "name": "subject",
+            "value": "DOGS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "RABIES"
+          },
+          {
+            "name": "subject",
+            "value": "PETS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2006-11-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/11/14/world/asia/14dogs.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "In Beijing, regulations limit households in eight districts to a single dog and forbid people from owning large dogs like golden retrievers and huskies.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY; Lin Yang contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "col": "Audio Slide Show",
+            "rank": "1",
+            "height": 550,
+            "width": 680,
+            "pay": "n",
+            "caption": "The Year of the Dog",
+            "type": "Other",
+            "url": "http://www.nytimes.com/packages/khtml/2006/11/14/world/20061113_DOGS_AUDIOSS.html",
+            "legacy": {
+              "MultimediaPopupWidth1": "680",
+              "MultimediaCol1": "Audio Slide Show",
+              "MultimediaPay1": "n",
+              "MultimediaType1": "Other",
+              "MultimediaPopupHeight1": "550",
+              "MultimediaHeadline1": "The Year of the Dog",
+              "MultimediaUrl1": "http://www.nytimes.com/packages/khtml/2006/11/14/world/20061113_DOGS_AUDIOSS.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2006/11/14/world/14dog.751.jpg",
+            "legacy": {
+              "thumbnail": "images/2006/11/14/world/14dog.751.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2006/11/14/world/14dogs.3372.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2006/11/14/world/14dogs.3372.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd2552b8eb7c8105d7fd38b",
+        "source": "The New York Times",
+        "word_count": 1072,
+        "lead_paragraph": "Wu Tianyu gave fair warning about the odor and then pushed open the heavy metal door to the ground-floor apartment. The smell rushed out, and so did the tiny dogs, tongues wagging, yipping, unaware of their central role in an issue gripping China's capital city. The small apartment was the equivalent of a safe house: Ms. Wu, head of a local animal rescue association, had stashed about 10 strays and handicapped mutts. She said the dogs, one paralyzed, another recovering from a broken spine, should be exempt from a new ''strike hard'' campaign against dogs in Beijing. But she was not certain."
+      },
+      {
+        "abstract": "Rem Koolhaas's five-million-square-foot Central Chinese Television building in Beijing, scheduled to be completed in 2008, is subject of exhibition at Museum of Modern Art; photos (M)",
+        "headline": {"main": "Embracing Koolhaas's Friendly Skyscraper"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "KOOLHAAS, REM"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "MUSEUM OF MODERN ART"
+          },
+          {
+            "name": "organizations",
+            "value": "CENTRAL CHINESE TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2006-11-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/11/16/arts/design/16rem.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "Rem Koolhaas\u2019s television authority headquarters in Beijing may be one of the largest buildings ever constructed.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "POGREBIN",
+            "role": "reported",
+            "firstname": "Robin"
+          }],
+          "original": "By ROBIN POGREBIN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2006/11/16/arts/16rem_CA1.75.75.jpg",
+          "legacy": {
+            "thumbnail": "images/2006/11/16/arts/16rem_CA1.75.75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd258dd8eb7c8105d8047bc",
+        "source": "The New York Times",
+        "word_count": 927,
+        "lead_paragraph": "Set on a site that's about as large as 37 football fields, Rem Koolhaas's television authority headquarters in Beijing may initially seem intimidating. This 54-story tower leans and looms like some kind of science-fiction creature poised to stomp all over the surrounding central business district. But if the five-million-square-foot building is one of the largest ever constructed, its architect sees it as a people-friendly reinvention of the skyscraper."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "Op-Ed Columnist",
+          "main": "The Green Leap Forward"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "PAN YUE"
+          },
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+          },
+          {
+            "name": "subject",
+            "value": "ACID RAIN"
+          },
+          {
+            "name": "subject",
+            "value": "ELECTRIC LIGHT AND POWER"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          },
+          {
+            "name": "subject",
+            "value": "LEADERS AND LEADERSHIP"
+          }
+        ],
+        "print_page": "31",
+        "pub_date": "2006-11-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/11/17/opinion/17friedman.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "Without a new cultural revolution to make China more green, more sustainable, the Chinese growth juggernaut will destroy itself.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "L.",
+            "role": "reported",
+            "lastname": "FRIEDMAN",
+            "firstname": "Thomas"
+          }],
+          "original": "By THOMAS L. FRIEDMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2006/04/02/opinion/friedman-ts-75.jpg",
+          "legacy": {
+            "thumbnail": "images/2006/04/02/opinion/friedman-ts-75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd28d598eb7c8105d862c38",
+        "source": "The New York Times",
+        "word_count": 786,
+        "lead_paragraph": "A friend of mine here wakes up every morning and does his own air quality test -- as many Beijing residents do: He looks out his 24th-story window and checks how far he can see. On a rare pristine day, when the wind has swept Beijing, he can see the Fragrant Mountain rising to the northwest. On a ''good'' pollution day, he can see the China World building four blocks away. On a bad day, he can't see the building next door. Shortly before I arrived in Beijing, China had been host of a summit meeting of 42 African leaders. Time magazine reported that Beijing officials had ''ordered half a million official cars off the roads and said 400,000 more drivers had 'volunteered' to refrain from using their vehicles'' in order to clean up the air for their African guests. No sooner were they gone, however, than all the cars returned and Beijing's air went back to ''unhealthy.'' China's Environmental Protection Administration, Time noted, recently estimated the annual number of premature deaths in China caused by air pollution at 358,000."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Explore the Great Wall "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2006-11-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2006/11/22/travel/20061126_GREATWALL_SLIDESHOW_index.html",
+        "news_desk": null,
+        "snippet": "China\u2019s greatest attraction is so popular with tourists the government needs to rescue it.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a87141c22dfde670c044f",
+        "source": null,
+        "word_count": 20,
+        "lead_paragraph": "China\u2019s greatest attraction is so popular with tourists the government needs to rescue it."
+      },
+      {
+        "abstract": "Beijing appeals court upholds spying conviction of prominent Hong Kong journalist Ching Cheong in case that has elicited criticism of China from human rights and press advocacy groups (M)",
+        "headline": {"main": "China Rejects Journalist's Appeal of Spying Conviction"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHING CHEONG"
+          },
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "NEW YORK TIMES"
+          },
+          {
+            "name": "subject",
+            "value": "ESPIONAGE"
+          },
+          {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "DECISIONS AND VERDICTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2006-11-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/11/25/world/asia/25hong.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The case, along with the detention of a Chinese researcher for The New York Times, has prompted international concern about China\u2019s crackdown on press freedom.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2721e8eb7c8105d82ef0a",
+        "source": "The New York Times",
+        "word_count": 485,
+        "lead_paragraph": "A Beijing appeals court on Friday upheld a spying conviction of a prominent Hong Kong journalist in a case that has elicited criticism of China from human rights and press advocacy groups. The journalist, Ching Cheong, faces a five-year prison sentence. He was arrested in April 2005 during a visit to Guangdong Province in mainland China and charged with taking payoffs in exchange for gathering information for Taiwan. A lower court in Beijing convicted him in August."
+      },
+      {
+        "abstract": "China reports government audit found more than $900 was misappropriated from $37 billion social security fund; says money was used for foreign investments, building projects and commercial loans; report comes as China embarks on serious crackdown on corruption; 'audit storm' has uncovered sweeping fraud at all levels of government (M)",
+        "headline": {"main": "China Reports Fraud in Fund for Elderly"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN INVESTMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+          },
+          {
+            "name": "subject",
+            "value": "ACCOUNTING AND ACCOUNTANTS"
+          },
+          {
+            "name": "subject",
+            "value": "EMBEZZLEMENT"
+          },
+          {
+            "name": "subject",
+            "value": "AGED"
+          },
+          {
+            "name": "subject",
+            "value": "PENSIONS AND RETIREMENT PLANS"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2006-11-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/11/25/business/worldbusiness/25pension.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "More than $900 million was misappropriated from China\u2019s $37 billion social security fund in the country\u2019s latest massive government fraud.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd257c98eb7c8105d802aa0",
+        "source": "The New York Times",
+        "word_count": 527,
+        "lead_paragraph": "China said on Friday that a government audit found that more than $900 million was misappropriated from the nation's $37 billion social security fund in just the latest sweeping government fraud to be uncovered in the last two years. The government did not announce any arrests or assign blame for the wrongdoing, but it said most of the money had been siphoned off for foreign investments, building projects and commercial loans."
+      },
+      {
+        "abstract": "China announces temporary regulations on loosening restrictions on foreign journalists, step intended to fulfill country's promise to allow visiting reporters to work freely in advance of 2008 Beijing Olympics; Reporters Without Borders praises new rules but notes that announcement came on same day that appeals court upheld fraud conviction against Zhao Yan, Chinese researcher for New York Times (M)",
+        "headline": {"main": "China Plans Temporary Easing of Curbs on Foreign Journalists"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO YAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "REPORTERS WITHOUT BORDERS"
+          },
+          {
+            "name": "organizations",
+            "value": "NEW YORK TIMES"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2006-12-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/12/02/world/asia/02china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The step is intended to fulfill the country\u2019s promise to allow visiting reporters to work freely in advance of the 2008 Beijing Olympics.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2afb08eb7c8105d89ecee",
+        "source": "The New York Times",
+        "word_count": 703,
+        "lead_paragraph": "China announced temporary regulations on Friday loosening restrictions on foreign journalists, a step intended to fulfill the country's promise to allow visiting reporters to work freely in advance of the 2008 Beijing Olympics. The rules, announced by the Foreign Ministry, will supersede existing restrictions that require journalists to obtain government approval before traveling or conducting interviews. Under the new rules, a foreign journalist will only need to obtain the permission of the person being interviewed."
+      },
+      {
+        "abstract": "China is described as major force in particle physics research; Dr Hershen Chen, Institute of High Energy Physics, Beijing, director, suggests that International Linear Collider, proposed global project designed to go beyond any other facility in world, might be built in China; China is currently upgrading ability of Beijing collider to allow for wider recognition of rare events like multiple quarks or provide better understanding of quantum property charm; background of China's particle physics program described; drawings; photos (L)",
+        "headline": {"main": "China Pursues Major Role in Particle Physics"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN, HERSHEN"
+          },
+          {
+            "name": "persons",
+            "value": "MAO ZEDONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INSTITUTE OF HIGH ENERGY PHYSICS"
+          },
+          {
+            "name": "subject",
+            "value": "LABORATORIES AND SCIENTIFIC EQUIPMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CULTURAL REVOLUTION"
+          },
+          {
+            "name": "subject",
+            "value": "QUARKS"
+          },
+          {
+            "name": "subject",
+            "value": "RESEARCH"
+          },
+          {
+            "name": "subject",
+            "value": "PARTICLE ACCELERATORS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL LINEAR COLLIDER"
+          },
+          {
+            "name": "subject",
+            "value": "PHYSICS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2006-12-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/12/05/science/05china.html",
+        "news_desk": "Science Desk",
+        "snippet": "With an improved particle accelerator, China sees \u201cgolden opportunities\u201d for collaborative research.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Science; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "OVERBYE",
+            "role": "reported",
+            "firstname": "Dennis"
+          }],
+          "original": "By DENNIS OVERBYE"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2006/12/04/science/mao.7575.jpg",
+            "legacy": {
+              "thumbnail": "images/2006/12/04/science/mao.7575.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 450,
+            "width": 398,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2006/12/04/science/mao.450.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 450,
+              "xlarge": "images/2006/12/04/science/mao.450.jpg",
+              "xlargewidth": 398
+            }
+          }
+        ],
+        "_id": "4fd28d5c8eb7c8105d862f08",
+        "source": "The New York Times",
+        "word_count": 2323,
+        "lead_paragraph": "Mao Zedong dreamed of splitting an electron. This was no idle diversion. According to natural dialectics, which formed the philosophical underpinnings of Marxism, the entire universe, from top to bottom, was seething with tension and change. As a result, Mao thought, nature should be infinitely divisible."
+      },
+      {
+        "abstract": "Physicists who attended 1989 Beijing conference on string theory describe what it was like to be in city during Tiananmen Square student demonstrations and rioting; photo (M)",
+        "headline": {"main": "The Weekend Politics Overshadowed Physics"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "PHYSICS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2006-12-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/12/05/science/05square.html",
+        "news_desk": "Science Desk",
+        "snippet": "Politics and physics have always made for strange bedfellows in China, but rarely more so than on those days that ended in massacre.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Science; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "OVERBYE",
+            "role": "reported",
+            "firstname": "Dennis"
+          }],
+          "original": "By DENNIS OVERBYE"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2006/12/05/science/square.7575.jpg",
+            "legacy": {
+              "thumbnail": "images/2006/12/05/science/square.7575.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 317,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2006/12/05/science/square.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 317,
+              "xlarge": "images/2006/12/05/science/square.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd279c28eb7c8105d83cfb6",
+        "source": "The New York Times",
+        "word_count": 689,
+        "lead_paragraph": "''Until the shooting began, the visit was delightful.'' So did David J. Gross, now director of the Kavli Institute of Theoretical Physics in Santa Barbara, Calif., writing in Physics Today, characterize a physics conference in Beijing in spring 1989. The meeting coincided with the pro-democracy demonstrations in Tiananmen Square."
+      },
+      {
+        "abstract": "George Jochnowitz letter on December 5 article about science in China says that drawing of Chairman Mao Zedong was not good image for cover of Science section",
+        "headline": {"main": "Questioning Mao"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "JOCHNOWITZ, GEORGE"
+          },
+          {
+            "name": "persons",
+            "value": "MAO ZEDONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "SCIENCE AND TECHNOLOGY"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "PHYSICS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2006-12-12T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9E03EFD61431F931A25751C1A9609C8B63",
+        "news_desk": "Science Desk",
+        "snippet": " To the Editor:     Re ''China Pursues Major Role in Particle Physics'' (Dec. 5): I was jolted and distressed at the sight of a photograph of Mao Zedong on the first page of Science Times. After all, as the accompanying article informs us, Mao ''clos",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Technology; Science; Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd279c38eb7c8105d83d0a9",
+        "source": "The New York Times",
+        "word_count": 114,
+        "lead_paragraph": "To the Editor: Re ''China Pursues Major Role in Particle Physics'' (Dec. 5): I was jolted and distressed at the sight of a photograph of Mao Zedong on the first page of Science Times. After all, as the accompanying article informs us, Mao ''closed universities and journals and set back Chinese physics for a generation.''"
+      }
+    ],
+    "meta": {
+      "time": 13,
+      "hits": 58,
+      "offset": 40
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

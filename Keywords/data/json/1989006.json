@@ -1,0 +1,608 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Quotation of the Day"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WU QIAOHONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "QUOTATION OF THE DAY"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "1989-05-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/25/nyregion/quotation-of-the-day-043989.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "LEAD: ''All the students in my year face the same problem. Our main task as students is to study, and we know that when we leave the university, we must earn a living based on what we have learned here. But what preoccupies us is the environment we w",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a2888eb7c8105d6b8b6e",
+        "source": "The New York Times",
+        "word_count": 136,
+        "lead_paragraph": "LEAD: ''All the students in my year face the same problem. Our main task as students is to study, and we know that when we leave the university, we must earn a living based on what we have learned here. But what preoccupies us is the environment we will end up in. Will it be free and democratic, or will it be repressive?"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Upheaval in China; Power Struggle Goes On in Tense Beijing"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO ZIYANG"
+          },
+          {
+            "name": "persons",
+            "value": "WAN LI"
+          },
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/25/world/upheaval-in-china-power-struggle-goes-on-in-tense-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: As an intense power struggle continued behind the walled compound that houses the Communist Party headquarters, there were signs that the hard-line faction of Prime Minister Li Peng may have gained army support and consolidated control over the",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a5988eb7c8105d6bea91",
+        "source": "The New York Times",
+        "word_count": 1671,
+        "lead_paragraph": "LEAD: As an intense power struggle continued behind the walled compound that houses the Communist Party headquarters, there were signs that the hard-line faction of Prime Minister Li Peng may have gained army support and consolidated control over the news media."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Upheaval in China; Unnerving Day of Reckoning Looms for Students: Exams"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/25/world/upheaval-in-china-unnerving-day-of-reckoning-looms-for-students-exams.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Wu Qiaohong, hunched over a stack of notes and books that cluttered a library desk, was taking a rest from protesting so she could finish her senior thesis.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1844c8eb7c8105d682b5f",
+        "source": "The New York Times",
+        "word_count": 1055,
+        "lead_paragraph": "LEAD: Wu Qiaohong, hunched over a stack of notes and books that cluttered a library desk, was taking a rest from protesting so she could finish her senior thesis."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China Again Cuts Off TV News Transmission"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1989-05-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/25/world/china-again-cuts-off-tv-news-transmission.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: In their second reversal in as many days, Chinese officials yesterday abruptly halted the transmission of foreign television news reports from Beijing. They also barred foreign broadcasters from recording and transmitting news reports by China'",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "GERARD",
+            "role": "reported",
+            "firstname": "Jeremy"
+          }],
+          "original": "By JEREMY GERARD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18aee8eb7c8105d68d06e",
+        "source": "The New York Times",
+        "word_count": 593,
+        "lead_paragraph": "LEAD: In their second reversal in as many days, Chinese officials yesterday abruptly halted the transmission of foreign television news reports from Beijing. They also barred foreign broadcasters from recording and transmitting news reports by China's state-run network."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Upheaval in China; Students Plan for Hurdle: Zhao's Fall"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO ZIYANG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "1989-05-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/26/world/upheaval-in-china-students-plan-for-hurdle-zhao-s-fall.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Six students lay crunched on a single sleeping bag near a plastic tent in preparation for a long night and possibly many more, as they began to discuss their plans for demonstrating if the rumors were true that their main supporter in the leade",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd195028eb7c8105d6a0c43",
+        "source": "The New York Times",
+        "word_count": 888,
+        "lead_paragraph": "LEAD: Six students lay crunched on a single sleeping bag near a plastic tent in preparation for a long night and possibly many more, as they began to discuss their plans for demonstrating if the rumors were true that their main supporter in the leadership was to about to fall."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Upheaval in China; Tide Turns Toward Chinese Hard-Liner"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO ZIYANG"
+          },
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/26/world/upheaval-in-china-tide-turns-toward-chinese-hard-liner.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Prime Minister Li Peng appeared on television today, declaring that his Government was in control, and there were more signs that at least for now he is gaining in the power struggle that is racking China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18bf58eb7c8105d68f270",
+        "source": "The New York Times",
+        "word_count": 1924,
+        "lead_paragraph": "LEAD: Prime Minister Li Peng appeared on television today, declaring that his Government was in control, and there were more signs that at least for now he is gaining in the power struggle that is racking China."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "OBSERVER",
+          "main": "Turn 'Em Loose, Dean"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "23",
+        "pub_date": "1989-05-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/27/opinion/observer-turn-em-loose-dean.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: We went to a commencement.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Baker",
+            "role": "reported",
+            "firstname": "Russell"
+          }],
+          "original": "By Russell Baker"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1840c8eb7c8105d68232c",
+        "source": "The New York Times",
+        "word_count": 723,
+        "lead_paragraph": "LEAD: We went to a commencement."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "UPHEAVAL IN CHINA",
+          "main": "CHINESE STUDENTS URGE END TO SIEGE OF BEIJING SQUARE"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO ZIYANG"
+          },
+          {
+            "name": "persons",
+            "value": "LI XIANNIAN"
+          },
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SANITATION"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/28/world/upheaval-in-china-chinese-students-urge-end-to-siege-of-beijing-square.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: China's student leaders today called for an end to their two-week occupation of Tiananmen Square, in the center of the capital, but said that they would continue to hold large-scale demonstrations to press for greater democracy and the resignat",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd194fd8eb7c8105d6a088d",
+        "source": "The New York Times",
+        "word_count": 1322,
+        "lead_paragraph": "LEAD: China's student leaders today called for an end to their two-week occupation of Tiananmen Square, in the center of the capital, but said that they would continue to hold large-scale demonstrations to press for greater democracy and the resignation of Prime Minister Li Peng."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "UPHEAVAL IN CHINA: Reporter's Notebook; For Foreigners, Beijing Turns Chilly"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN POPULATION AND FOREIGN DESCENT GROUPS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "GOVERNMENT INFORMATION POLICIES"
+          },
+          {
+            "name": "subject",
+            "value": "POSTERS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "1989-05-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/28/world/upheaval-in-china-reporter-s-notebook-for-foreigners-beijing-turns-chilly.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: For a foreigner in China these days, this is a season for farewells.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1840c8eb7c8105d6822e5",
+        "source": "The New York Times",
+        "word_count": 1291,
+        "lead_paragraph": "LEAD: For a foreigner in China these days, this is a season for farewells."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "UPHEAVAL IN CHINA",
+          "main": "China Exchange: From Gossip to Trash Bags"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGE ATHLETICS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN STUDENTS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "DATA PROCESSING (COMPUTERS)"
+          }
+        ],
+        "print_page": "17",
+        "pub_date": "1989-05-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/28/world/upheaval-in-china-china-exchange-from-gossip-to-trash-bags.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: The message went up on the international computer network that links thousands of corporations, universities and research centers around the world: the students demonstrating in Tiananmen Square in Beijing needed garbage bags.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "BISHOP",
+              "role": "reported",
+              "firstname": "Katherine"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By KATHERINE BISHOP, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a3fc8eb7c8105d6bba03",
+        "source": "The New York Times",
+        "word_count": 550,
+        "lead_paragraph": "LEAD: The message went up on the international computer network that links thousands of corporations, universities and research centers around the world: the students demonstrating in Tiananmen Square in Beijing needed garbage bags."
+      }
+    ],
+    "meta": {
+      "time": 23,
+      "hits": 187,
+      "offset": 60
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

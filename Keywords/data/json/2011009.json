@@ -1,0 +1,689 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Smog Closes Beijing Airport"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "AIRPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "DELAYS (TRANSPORTATION)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-12-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/12/06/world/asia/smog-closes-beijing-airport.html",
+        "news_desk": "National Desk",
+        "snippet": "Capital International Airport canceled hundreds of flights because of heavy smog, the latest sign that pollution in China is leading to significant economic losses.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "U.S.",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2a4198eb7c8105d889b8c",
+        "source": "The New York Times",
+        "word_count": 133,
+        "lead_paragraph": "BEIJING -- Capital International Airport in Beijing was forced to cancel hundreds of flights on Monday because of heavy smog and weather conditions. The cancellations were the latest sign that pollution in China's largest cities, among the worst in the world, is leading to significant economic losses. Monday's air quality index from the United States Embassy's air monitoring equipment in central Beijing measured more than 300, which is categorized as ''hazardous.'' On Sunday, the index hit the maximum of 500."
+      },
+      {
+        "abstract": "An air monitor atop the United States Embassy building stopped taking new readings for much of Tuesday, with reports of \"hazardous\" conditions on Monday replaced by hours of \"no data.\"",
+        "headline": {
+          "kicker": "The Lede",
+          "main": "A Hiccup for a Gauge of Beijing Pollution"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Diplomatic Service, Embassies and Consulates"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Air Pollution"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-12-06T17:53:23Z",
+        "web_url": "http://thelede.blogs.nytimes.com/2011/12/06/a-hiccup-for-a-gauge-of-beijing-pollution/",
+        "news_desk": null,
+        "snippet": "An air monitor atop the United States Embassy building stopped taking new readings for much of Tuesday, with reports of \"hazardous\" conditions on Monday replaced by hours of \"no data.\"",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": null,
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "David",
+            "role": "reported",
+            "lastname": "GOODMAN",
+            "firstname": "J."
+          }],
+          "original": "By J. DAVID GOODMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a2968eb7c8105d8eab25",
+        "source": "The New York Times",
+        "word_count": 519,
+        "lead_paragraph": "4:23 p.m. | Updated The air monitor was back up and running on Wednesday after what Richard Buangan, an embassy spokesman, described on Twitter as \"technical difficulties\" that lasted for much of the day before."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "seo": "Anger Grows Over Air Pollution in Beijing",
+          "print_headline": "Outrage Grows Over Air Pollution and China\u2019s Response",
+          "kicker": "Beijing Journal",
+          "main": "Outrage Grows Over Air Pollution and China\u2019s Response"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Air Pollution",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Environment",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "15",
+        "pub_date": "2011-12-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/12/07/world/asia/beijing-journal-anger-grows-over-air-pollution-in-china.html",
+        "news_desk": "Foreign",
+        "snippet": "The disruptions the haze causes to daily life are raising questions about the economic cost, and the government\u2019s ability to ensure the safety of the population.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "contributor": "Li Bibo and Edy Yin contributed research.",
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 370,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2011/12/07/world/BEIJING/BEIJING-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "370",
+              "xlarge": "images/2011/12/07/world/BEIJING/BEIJING-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2011/12/07/world/BEIJING/BEIJING-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/12/07/world/BEIJING/BEIJING-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "526f9e0638f0d81489d1691a",
+        "source": "The New York Times",
+        "word_count": "1054",
+        "lead_paragraph": "The disruptions the haze causes to daily life are raising questions about the economic cost, and the government\u2019s ability to ensure the safety of the population."
+      },
+      {
+        "abstract": "Beijing journal; chronic pollution in Beijing, China, has made people angry for a long time, but the disruptions it causes to daily life are now raising questions about the economic cost and the government's ability to ensure the safety of the population; the pollution has lead to cancellations of flights and the shutting down of highways, hobbling transportation of people and goods. Photo (M)",
+        "headline": {
+          "kicker": "BEIJING JOURNAL",
+          "main": "Outrage Grows Over Air Pollution and China's Response"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "15",
+        "pub_date": "2011-12-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/12/07/world/asia/beijing-journal-anger-grows-over-air-pollution-in-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The disruptions the haze causes to daily life are raising questions about the economic cost, and the government\u2019s ability to ensure the safety of the population.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG; Li Bibo and Edy Yin contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2011/12/07/world/BEIJING/BEIJING-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2011/12/07/world/BEIJING/BEIJING-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 370,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2011/12/07/world/BEIJING/BEIJING-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 370,
+              "xlarge": "images/2011/12/07/world/BEIJING/BEIJING-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2ad7d8eb7c8105d89b23f",
+        "source": "The New York Times",
+        "word_count": 1056,
+        "lead_paragraph": "BEIJING -- The statement posted online along with a photograph of central Beijing muffled in a miasma of brown haze did not mince words: ''The end of the world is imminent.'' The ceaseless churning of factories and automobile engines in and around Beijing has led to this: hundreds of flights canceled since Sunday because of smog, stores sold out of face masks, and many Chinese complaining on the Internet that officials are failing to level with them about air quality or make any improvements to the environment."
+      },
+      {
+        "abstract": "Advertisers are bullish on video, networks are anxious about the NFL and Mitt Romney changes his mind about Fox News.",
+        "headline": {
+          "kicker": "Media Decoder",
+          "main": "The Breakfast Meeting, Dec. 7"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "subject",
+            "value": "Presidential Election of 2012"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Moonves, Leslie"
+          },
+          {
+            "rank": "10",
+            "name": "subject",
+            "value": "Political Advertising"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Elliott, Stuart"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Auletta, Ken"
+          },
+          {
+            "rank": "17",
+            "name": "unknown",
+            "value": "CBS Corporation|CBS|NYSE"
+          },
+          {
+            "rank": "16",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Romney, Mitt"
+          },
+          {
+            "rank": "15",
+            "name": "organizations",
+            "value": "Twitter"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "persons",
+            "value": "Trump, Donald J"
+          },
+          {
+            "rank": "14",
+            "name": "organizations",
+            "value": "New Yorker"
+          },
+          {
+            "rank": "7",
+            "name": "persons",
+            "value": "Wallace, Chris"
+          },
+          {
+            "rank": "13",
+            "name": "organizations",
+            "value": "National Football League"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "News and News Media"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "Online Advertising"
+          },
+          {
+            "rank": "12",
+            "name": "organizations",
+            "value": "CBS Corporation"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-12-07T08:06:31Z",
+        "web_url": "http://mediadecoder.blogs.nytimes.com/2011/12/07/the-breakfast-meeting-dec-7/",
+        "news_desk": null,
+        "snippet": "Advertisers are bullish on video, networks are anxious about the NFL and Mitt Romney changes his mind about Fox News.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "COHEN",
+            "role": "reported",
+            "firstname": "Noam"
+          }],
+          "original": "By NOAM COHEN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a2348eb7c8105d8e9cc2",
+        "source": "The New York Times",
+        "word_count": 704,
+        "lead_paragraph": "One of the takeaways from the annual UBS global media and communications conference in Midtown Manhattan, Stuart Elliott and Amy Chozick report, is the primacy of video content \"regardless of the type of screen on which it is watched.\" Based on the talks there, \"marketers remain keen on buying commercial time during video programming despite the uncertain outlook for the economy.\" Spending on TV ads around the world next year will increase 6.7 percent from 2011, said one forecaster, Vincent Létang, as compared with a predicted overall 5 percent increase in advertising. (Online ads will have the greatest growth, he predicted, 11.2 percent.)"
+      },
+      {
+        "abstract": "It's surprising that there aren't more vehement public demands for more research on the risks of long-term exposure to Beijing's worsening air quality.",
+        "headline": {
+          "kicker": "Latitude",
+          "main": "Now Do You See the Smog?"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Air Pollution"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-12-09T10:45:48Z",
+        "web_url": "http://latitude.blogs.nytimes.com/2011/12/09/now-do-you-see-the-smog/",
+        "news_desk": null,
+        "snippet": "It's surprising that there aren't more vehement public demands for more research on the risks of long-term exposure to Beijing's worsening air quality.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HARNEY",
+            "role": "reported",
+            "firstname": "Alexandra"
+          }],
+          "original": "By ALEXANDRA HARNEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a2358eb7c8105d8e9e54",
+        "source": "The New York Times",
+        "word_count": 560,
+        "lead_paragraph": "BEIJING - This week, as smog forced the closure of roads and the cancellation of flights in northern China, my Beijing landlord called. \"The pollution is awful,\" he said. \"Don't open your windows, and definitely don't go outside.\""
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China: Nobel Winners Demand Release of Imprisoned Dissident"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LIU XIAOBO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "NOBEL PRIZES"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-12-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/12/10/world/asia/china-nobel-winners-demand-release-of-imprisoned-dissident.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A group of five Nobel laureates has called on China to release Liu Xiaobo, the imprisoned winner of the Nobel Peace Prize last year.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2ad7e8eb7c8105d89b29e",
+        "source": "The New York Times",
+        "word_count": 187,
+        "lead_paragraph": "A group of five Nobel laureates has called on China to release Liu Xiaobo, the imprisoned winner of the Nobel Peace Prize last year. In 2009, Mr. Liu was sentenced to 11 years on charges of trying to subvert the state. He was a main author of a manifesto circulated online, Charter 08, that called for gradual democratic reforms. His wife, Liu Xia, is under house arrest in Beijing. The Nobel winners said in a statement on Thursday, ''The international community seems to have forgotten that, a year after the award ceremony, Liu Xiaobo remains in prison in China and in harsh conditions.'' The five Nobel winners calling for Mr. Liu's release are Archbishop Desmond Tutu, Shirin Ebadi, Jody Williams, Mairead Maguire and Betty Williams."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "THEATER",
+          "main": "China Opens the Stage Curtains"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FESTIVALS"
+          },
+          {
+            "name": "subject",
+            "value": "THEATER"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2011-12-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/12/15/arts/15iht-chinatheater15.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "A Western-style theater scene is booming in China as part of a national drive to bring modern theater to smaller cities.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2011/12/15/arts/15iht-chinatheater15-inline2/15iht-chinatheater15-inline2-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2011/12/15/arts/15iht-chinatheater15-inline2/15iht-chinatheater15-inline2-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd292ea8eb7c8105d86ca52",
+        "source": "International Herald Tribune",
+        "word_count": 1226,
+        "lead_paragraph": "CHENGDU, CHINA -- Watching from the front row at 8 Space, a new theater in the southwestern city of Chengdu, Lei Bing hooted with laughter as three actresses in panda costumes slapped playing cards on a table and, in wisecracking dialogue, laid bare their struggle for love, dignity and affordable housing in the play ''Fight the Landlord.'' Afterward, Ms. Lei, an insurance company worker, gushed about the Western-style play, which opened the inaugural Chengdu International Theater Festival in October."
+      },
+      {
+        "abstract": "Beijing officials announce new rules aimed at controlling how Chinese Internet users post messages on social networking sites, especially those sites that have posed challenges to the Chinese Communist Party's propaganda machinery; most striking is requirement that people using microblogs register with their real names and biographical information, although they will still be able to post under aliases.",
+        "headline": {
+          "seo": "New Restrictions on Social Networking Sites in Beijing, China",
+          "print_headline": "Beijing Imposes New Rules on Social Networking Sites",
+          "main": "Beijing Imposes New Rules on Social Networking Sites"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Politics and Government",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Freedom of Speech and Expression",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Social Networking (Internet)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Computers and the Internet",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2011-12-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/12/17/world/asia/beijing-imposes-new-rules-on-social-networking-sites.html",
+        "news_desk": "Foreign",
+        "snippet": "New rules are aimed at controlling the way Chinese Internet users post messages on social networking sites that have posed challenges to the Chinese Communist Party.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "contributor": "Jonathan Ansfield contributed reporting from Beijing, and Shuo Feng contributed research.",
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [],
+        "_id": "51f96a0738f0d807d7762814",
+        "source": "The New York Times",
+        "word_count": "786",
+        "lead_paragraph": "New rules are aimed at controlling the way Chinese Internet users post messages on social networking sites that have posed challenges to the Chinese Communist Party."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Imposes New Rules on Social Networking Sites"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH AND EXPRESSION"
+          },
+          {
+            "name": "subject",
+            "value": "SOCIAL NETWORKING (INTERNET)"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2011-12-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2011/12/17/world/asia/beijing-imposes-new-rules-on-social-networking-sites.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "New rules are aimed at controlling the way Chinese Internet users post messages on social networking sites that have posed challenges to the Chinese Communist Party.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG; Jonathan Ansfield contributed reporting from Beijing, and Shuo Feng contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2ad7f8eb7c8105d89b369",
+        "source": "The New York Times",
+        "word_count": 786,
+        "lead_paragraph": "BEIJING -- Officials announced new rules on Friday aimed at controlling the way Chinese Internet users post messages on social networking sites that have posed challenges to the Chinese Communist Party's propaganda machinery. For many users, the most striking of the new rules requires people using the sites, called microblogs, or weibo in Chinese, to register with their real names and biographical information. They will still be able to post under aliases, according to a report by Xinhua, the state news agency."
+      }
+    ],
+    "meta": {
+      "time": 25,
+      "hits": 102,
+      "offset": 90
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

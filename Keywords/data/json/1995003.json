@@ -1,0 +1,443 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "2 U.S. Teams Leading in World Bridge"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BRIDGE (CARD GAME)"
+          }
+        ],
+        "print_page": "22",
+        "pub_date": "1995-10-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/10/11/arts/2-us-teams-leading-in-world-bridge.html",
+        "news_desk": "Cultural Desk",
+        "snippet": "  All four American teams placed well today in the World Bridge championships.   In the Bermuda Bowl for open teams, the group led by James Cayne is fifth in its pool.The standings after 6 of 14 qualifying rounds are: 1st, South Africa, 101 points; 2",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd202d98eb7c8105d768a0c",
+        "source": "The New York Times",
+        "word_count": 118,
+        "lead_paragraph": "All four American teams placed well today in the World Bridge championships. In the Bermuda Bowl for open teams, the group led by James Cayne is fifth in its pool.The standings after 6 of 14 qualifying rounds are: 1st, South Africa, 101 points; 2d, Argentina, 100; 3d, Indonesia, 94; 4th, Australia, 87; 5th, Cayne team, 86; 6th, Netherlands, 84; 7th, Venezuela, 81; 8th, France, 80."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "American Bridge Team Drops to Seventh Place"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MARLBORO WORLD BRIDGE CHAMPIONSHIPS"
+          },
+          {
+            "name": "subject",
+            "value": "BRIDGE (CARD GAME)"
+          }
+        ],
+        "print_page": "18",
+        "pub_date": "1995-10-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/10/13/arts/american-bridge-team-drops-to-seventh-place.html",
+        "news_desk": "Weekend Desk",
+        "snippet": "  One of the four American teams here seems headed for elimination in the Marlboro World Bridge Championships.   The team headed by James Cayne lost two matches and tied one in the Bermuda Bowl competition today. It is now seventh in its section, wit",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1f3c98eb7c8105d74c241",
+        "source": "The New York Times",
+        "word_count": 231,
+        "lead_paragraph": "One of the four American teams here seems headed for elimination in the Marlboro World Bridge Championships. The team headed by James Cayne lost two matches and tied one in the Bermuda Bowl competition today. It is now seventh in its section, with the top four to qualify."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Bridge"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MARLBORO WORLD BRIDGE CHAMPIONSHIPS"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "1995-10-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/10/19/arts/bridge-072257.html",
+        "news_desk": "Cultural Desk",
+        "snippet": "Play was evenly balanced in the two finals at the Marlboro World Championships here today.         In the Bermuda Bowl for Open Teams, the United States led Canada by the trivial margin of 1 imp after 64 deals of a scheduled 160. The American team co",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Truscott",
+            "role": "reported",
+            "firstname": "Alan"
+          }],
+          "original": "By Alan Truscott"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1f45c8eb7c8105d74d4df",
+        "source": "The New York Times",
+        "word_count": 377,
+        "lead_paragraph": "Play was evenly balanced in the two finals at the Marlboro World Championships here today. In the Bermuda Bowl for Open Teams, the United States led Canada by the trivial margin of 1 imp after 64 deals of a scheduled 160. The American team consists of Nick Nickell of Raleigh, N.C., Dick Freeman of Atlanta, Jeff Meckstroth of Tampa, Fla., Eric Rodwell of Naperville, Fla., and Bob Wolff and Bob Hamman of Dallas. The Canadian players are Joe Silver, Eric Kokish, Mark Molson and Boris Baran of Montreal and George Mittelman and Fred Gitelman of Toronto."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Bridge"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MARLBORO WORLD BRIDGE CHAMPIONSHIPS"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "1995-10-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/10/19/arts/bridge-641995.html",
+        "news_desk": "Cultural Desk",
+        "snippet": "  Play was evenly balanced in the two finals at the Marlboro World Championships here today.   In the Bermuda Bowl for Open Teams, the United States led Canada by the trivial margin of 1 imp after 64 deals of a scheduled 160. The American team consis",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Truscott",
+            "role": "reported",
+            "firstname": "Alan"
+          }],
+          "original": "By Alan Truscott"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd201f18eb7c8105d766c4c",
+        "source": "The New York Times",
+        "word_count": 377,
+        "lead_paragraph": "Play was evenly balanced in the two finals at the Marlboro World Championships here today. In the Bermuda Bowl for Open Teams, the United States led Canada by the trivial margin of 1 imp after 64 deals of a scheduled 160. The American team consists of Nick Nickell of Raleigh, N.C., Dick Freeman of Atlanta, Jeff Meckstroth of Tampa, Fla., Eric Rodwell of Naperville, Fla., and Bob Wolff and Bob Hamman of Dallas. The Canadian players are Joe Silver, Eric Kokish, Mark Molson and Boris Baran of Montreal and George Mittelman and Fred Gitelman of Toronto."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "HILLARY SPEAKS"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+          },
+          {
+            "name": "persons",
+            "value": "SAFIRE, WILLIAM"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "ENGLISH LANGUAGE"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1995-10-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/10/22/magazine/l-hillary-speaks-878095.html",
+        "news_desk": "Magazine Desk",
+        "snippet": "  As I read Safire's sanitation of Hillary Clinton's speech, I wondered if he was going after the message or the messenger.",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Magazine; Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1cf108eb7c8105d707ad9",
+        "source": "The New York Times",
+        "word_count": 57,
+        "lead_paragraph": "As I read Safire's sanitation of Hillary Clinton's speech, I wondered if he was going after the message or the messenger."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "HILLARY SPEAKS"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CLINTON, HILLARY RODHAM"
+          },
+          {
+            "name": "persons",
+            "value": "SAFIRE, WILLIAM"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "ENGLISH LANGUAGE"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1995-10-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/10/22/magazine/l-hillary-speaks-078263.html",
+        "news_desk": "Magazine Desk",
+        "snippet": "When Safire, the father of \"nattering nabobs of negativism,\" can't criticize  content, he becomes a grumpy grammarian groping for grist for griping.      MILTON F. SHORE Silver Spring, Md.   ",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Magazine; Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd201f78eb7c8105d767212",
+        "source": "The New York Times",
+        "word_count": 28,
+        "lead_paragraph": "When Safire, the father of \"nattering nabobs of negativism,\" can't criticize content, he becomes a grumpy grammarian groping for grist for griping. MILTON F. SHORE Silver Spring, Md."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "HILLARY SPEAKS"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+          },
+          {
+            "name": "persons",
+            "value": "SAFIRE, WILLIAM"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "ENGLISH LANGUAGE"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1995-10-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/10/22/magazine/l-hillary-speaks-078255.html",
+        "news_desk": "Magazine Desk",
+        "snippet": "As I read Safire's sanitation of Hillary Clinton's speech, I wondered if he was going after the message or the messenger.          Let us remember that the spoken word often calls for different treatment than the written word: the application of Safi",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Magazine; Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1c0748eb7c8105d6ef22d",
+        "source": "The New York Times",
+        "word_count": 57,
+        "lead_paragraph": "As I read Safire's sanitation of Hillary Clinton's speech, I wondered if he was going after the message or the messenger. Let us remember that the spoken word often calls for different treatment than the written word: the application of Safire's standards would diminish the fire and feel of almost every great oration."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "HILLARY SPEAKS"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WAXMAN, MILTON"
+          },
+          {
+            "name": "persons",
+            "value": "CLINTON, HILLARY RODHAM"
+          },
+          {
+            "name": "persons",
+            "value": "SAFIRE, WILLIAM"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "ENGLISH LANGUAGE"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1995-10-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/10/22/magazine/l-hillary-speaks-880295.html",
+        "news_desk": "Magazine Desk",
+        "snippet": "  We are really tired of hearing William Safire hit at the Clintons as a means of atoning for his not supporting George Bush (On Language: \"Hillary Speaks,\" Oct. 1).",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Magazine; Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1c0748eb7c8105d6ef22c",
+        "source": "The New York Times",
+        "word_count": 50,
+        "lead_paragraph": "We are really tired of hearing William Safire hit at the Clintons as a means of atoning for his not supporting George Bush (On Language: \"Hillary Speaks,\" Oct. 1)."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "HILLARY SPEAKS"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WAXMAN, MILTON"
+          },
+          {
+            "name": "persons",
+            "value": "CLINTON, HILLARY RODHAM"
+          },
+          {
+            "name": "persons",
+            "value": "SAFIRE, WILLIAM"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "ENGLISH LANGUAGE"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1995-10-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/10/22/magazine/l-hillary-speaks-078271.html",
+        "news_desk": "Magazine Desk",
+        "snippet": "We are really tired of hearing William Safire hit at the Clintons as a means  of atoning for his not supporting George Bush (On Language: \"Hillary Speaks,\" Oct. 1).          His carping at the First Lady's talk in China is a new low in nit-picking.  ",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Magazine; Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1f3cc8eb7c8105d74c503",
+        "source": "The New York Times",
+        "word_count": 50,
+        "lead_paragraph": "We are really tired of hearing William Safire hit at the Clintons as a means of atoning for his not supporting George Bush (On Language: \"Hillary Speaks,\" Oct. 1). His carping at the First Lady's talk in China is a new low in nit-picking."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "HILLARY SPEAKS"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CLINTON, HILLARY RODHAM"
+          },
+          {
+            "name": "persons",
+            "value": "SAFIRE, WILLIAM"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "ENGLISH LANGUAGE"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1995-10-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/10/22/magazine/l-hillary-speaks-879995.html",
+        "news_desk": "Magazine Desk",
+        "snippet": "  When Safire, the father of \"nattering nabobs of negativism,\" can't criticize content, he becomes a grumpy grammarian groping for grist for griping. MILTON F. SHORE Silver Spring, Md.",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Magazine; Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1c0748eb7c8105d6ef231",
+        "source": "The New York Times",
+        "word_count": 28,
+        "lead_paragraph": "When Safire, the father of \"nattering nabobs of negativism,\" can't criticize content, he becomes a grumpy grammarian groping for grist for griping. MILTON F. SHORE Silver Spring, Md."
+      }
+    ],
+    "meta": {
+      "time": 45,
+      "hits": 42,
+      "offset": 30
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

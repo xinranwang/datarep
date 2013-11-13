@@ -1,0 +1,492 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "United Nations report says noxious cocktail of soot, smog and toxic chemicals is blotting out sun, fouling lungs of millions of people and altering weather patterns in large parts of Asia; says brownish haze sometimes more than mile thick stretches from Arabian Peninsula to Yellow Sea; identifies 13 cities across vast region as brown-cloud hot spots, with Beijing being among world's most polluted; photo (M)",
+        "headline": {"main": "U.N. Report Points to Peril From Noxious 'Brown Clouds'"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "FAR EAST, SOUTH AND SOUTHEAST ASIA AND PACIFIC AREAS"
+          },
+          {
+            "name": "glocations",
+            "value": "YELLOW SEA"
+          },
+          {
+            "name": "glocations",
+            "value": "ARABIAN PENINSULA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "WEATHER"
+          },
+          {
+            "name": "subject",
+            "value": "HAZARDOUS AND TOXIC SUBSTANCES"
+          },
+          {
+            "name": "subject",
+            "value": "SMOG"
+          },
+          {
+            "name": "subject",
+            "value": "SOOT"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2008-11-14T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/11/14/world/14cloud.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "\u201cBrown clouds\u201d made up of toxic chemicals are blotting out the sun in large parts of Asia, a U.N. report said.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Andrew C. Revkin contributed reporting from New York"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/11/14/world/14cloud.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/11/14/world/14cloud.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/11/14/world/14cloud.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2008/11/14/world/14cloud.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2685c8eb7c8105d81eb32",
+        "source": "The New York Times",
+        "word_count": 764,
+        "lead_paragraph": "A noxious cocktail of soot, smog and toxic chemicals is blotting out the sun, fouling the lungs of millions of people and altering weather patterns in large parts of Asia, according to a report released Thursday by the United Nations. The byproduct of automobiles, slash-and-burn agriculture, cooking on dung or wood fires and coal-fired power plants, these plumes rise over southern Africa, the Amazon basin and North America. But they are most pronounced in Asia, where so-called atmospheric brown clouds are dramatically reducing sunlight in many Chinese cities and leading to decreased crop yields in swaths of rural India, say a team of more than a dozen scientists who have been studying the problem since 2002."
+      },
+      {
+        "abstract": "The Olympics are gone and fall is well under way, which means it's a perfect time to visit Ritan, in my eyes Beijing's loveliest park.",
+        "headline": {
+          "kicker": "In Transit",
+          "main": "A Peaceful Place in Post-Olympic Beijing"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Olympic Games (2008)"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-11-17T23:47:23Z",
+        "web_url": "http://intransit.blogs.nytimes.com/2008/11/17/a-peaceful-place-in-post-olympic-beijing/",
+        "news_desk": null,
+        "snippet": "The Olympics are gone and fall is well under way, which means it's a perfect time to visit Ritan, in my eyes Beijing's loveliest park.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "GOLDKORN",
+            "role": "reported",
+            "firstname": "Jeremy"
+          }],
+          "original": "By JEREMY GOLDKORN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd392c88eb7c8105d8c597c",
+        "source": "The New York Times",
+        "word_count": 529,
+        "lead_paragraph": "During the Olympics, Ritan Park was a designated \"protest zone\", but no one ever got permission to protest and crews of old ladies were employed to lurk around the park watching for potential disturbances. Before the Games, one of the park's seedier attractions also shut down and has remained closed: Maggies bar. Maggies had existed for more than a decade in several locations and was notorious amongst Beijing expatriates for its Mongolian prostitutes who catered exclusively to foreign men, a business decision that kept the cops from the door, at least until the pre-Olympic clean up campaign."
+      },
+      {
+        "abstract": "Eric Pfanner Advertising column on shortfall in what WPP Group billed as Beijing bounce--surge in advertising spending connected with Summer Olympics; photo (M)",
+        "headline": {
+          "kicker": "ADVERTISING",
+          "main": "Summer in Beijing Was Strong for Sports, But Weak for Ads"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WPP GROUP"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2008-11-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/11/21/business/media/21adcol.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Despite strong television ratings for the Games in vital markets, the Summer Olympics failed to provide the expected surge in advertising in China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "PFANNER",
+            "role": "reported",
+            "firstname": "Eric"
+          }],
+          "original": "By ERIC PFANNER"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/11/21/business/21adco01-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/11/21/business/21adco01-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 500,
+            "width": 370,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/11/21/business/21adco01-500.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 500,
+              "xlarge": "images/2008/11/21/business/21adco01-500.jpg",
+              "xlargewidth": 370
+            }
+          }
+        ],
+        "_id": "4fd26e1e8eb7c8105d828121",
+        "source": "The New York Times",
+        "word_count": 681,
+        "lead_paragraph": "WHAT happened to the ''Beijing bounce''? It was the surge in advertising spending that the Summer Olympics were supposed to provide. ''Going into this, we expected a substantial spike,'' said Martin Sorrell, the chief executive of the WPP Group, the world's second-largest advertising company, after the Omnicom Group. ''That spike didn't materialize.''"
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "EDITORIAL",
+          "main": "Beijing's Blind Spot"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "organizations",
+            "value": "EUROPEAN UNION"
+          },
+          {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          }
+        ],
+        "print_page": "38",
+        "pub_date": "2008-11-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/11/27/opinion/27thu2.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "It is in Beijing\u2019s interest to pursue serious negotiations with the Dalai Lama about Tibetan autonomy.",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd26b9f8eb7c8105d823b71",
+        "source": "The New York Times",
+        "word_count": 393,
+        "lead_paragraph": "Despite rising calls for Tibetan independence, nearly 600 Tibetan exiles from Buddhist monasteries and the diaspora in India, Europe and America have wisely reaffirmed the Dalai Lama's ''middle way'' of nonviolence toward China and autonomy for Tibet. China's leaders are unwisely refusing to seriously pursue a compromise. Tibetans, especially younger Tibetans, are increasingly frustrated. Eight rounds of talks since 2002 between the Dalai Lama's representatives and Chinese officials have yielded no progress. Beijing has invested heavily to improve the quality of life in Tibet. But it continues to restrict Tibetans' rights, while seeking to dilute their power by encouraging Han Chinese to migrate to the region."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Treasury's Lead Role in China in Flux"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "PAULSON, HENRY M JR"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ECONOMY"
+          }
+        ],
+        "print_page": "17",
+        "pub_date": "2008-12-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/12/02/washington/02paulson.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Secretary Henry M. Paulson has spearheaded American policy toward Beijing since 2006, which raises the question of who will pick up the baton upon his departure.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LANDLER",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK LANDLER"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2008/12/02/washington/02paulson_75.jpg",
+          "legacy": {
+            "thumbnail": "images/2008/12/02/washington/02paulson_75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd284048eb7c8105d8526ab",
+        "source": "The New York Times",
+        "word_count": 913,
+        "lead_paragraph": "When Treasury Secretary Henry M. Paulson Jr. leaves office next month, Washington will lose its No. 1 China hand. Mr. Paulson, who spent years cultivating Chinese leaders as a Wall Street banker, has spearheaded American policy toward Beijing since 2006. That raises some big questions, including who will pick up Mr. Paulson's baton in the Obama administration, and whether the Treasury Department will continue to be the lead agency in steering a relationship increasingly defined by China's yawning trade gap with the United States."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "STYLE",
+          "main": "'It is always inspiring to see Dior through someone else's eyes.' John Galliano"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "DIOR, CHRISTIAN"
+          },
+          {
+            "name": "subject",
+            "value": "APPAREL"
+          },
+          {
+            "name": "subject",
+            "value": "COUTURE (FASHION)"
+          }
+        ],
+        "print_page": "57",
+        "pub_date": "2008-12-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/12/07/magazine/07style-t.html",
+        "news_desk": "Magazine Desk",
+        "snippet": "In a former factory space in Beijing\u2019s 798 arts district, 50 works specially commissioned for the exhibition commingle with the original couture gowns by Dior and John Galliano.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Magazine",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BROWNE",
+            "role": "reported",
+            "firstname": "Alix"
+          }],
+          "original": "By ALIX BROWNE"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 495,
+          "width": 650,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2008/12/07/magazine/07style-650.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 495,
+            "xlarge": "images/2008/12/07/magazine/07style-650.jpg",
+            "xlargewidth": 650
+          }
+        }],
+        "_id": "4fd284058eb7c8105d8527ec",
+        "source": "The New York Times",
+        "word_count": 377,
+        "lead_paragraph": "''A country, a style or an epoch are interesting only for the idea behind them,'' Christian Dior wrote in his 1957 autobiography, ''Christian Dior and I.'' That said, the exacting French couturier might well have approved of ''Christian Dior and Chinese Artists,'' an exhibition that recently opened at the Ullens Center for Contemporary Art in Beijing. In a former factory space in the city's booming 798 arts district, 50 works specially commissioned for the exhibition commingle with the original couture gowns by Dior and John Galliano (creative director since 1997) that inspired them. The slick, fun-house setting was designed by Alexandre de Betak, who has for many years been responsible for the production of Galliano's phantasmagorical runway shows. Highlights include Li Songsong's 10-foot-tall Lady Dior handbag constructed from neon rods; Xu Zhongmin's strobe-lighted mechanical runway; and Zhang Huan's portrait of Dior made from incense ashes collected from thousands of Buddhist temples. A series of curtains strung with mother-of-pearl beads (an idea that goes back to the Tang dynasty) by the formerly exiled artist Huang Rui serve as both a time line, emphasizing quite literally the weight of history, and a gateway to the exhibition. In fashion, Dior casts a very long shadow -- and not just over the doorstep of his own house. John Galliano first visited China in 2002 -- five years after Dior opened its first boutique there -- and returned to Paris to make a wild, chinoiserie couture collection that gave a whole new meaning to the words New Look. Galliano says he found Shanghai ''incredibly modern.'' But he added: ''Driving out to the country, in 20 minutes you have the feeling you have traveled back centuries. That contrast really turned me on.'' At its best, the exhibition sparks a dialogue between East and West, art and commerce, fashion and politics, and between the artists. According to Bérénice Angremy, a curator who consulted on the project in Beijing, some of the artists had not spoken to one another in more than a decade. Here 18 of the 22 artists are gathered with Galliano on opening night for a group photo. ''It all surprised me,'' he says of the work in the show. ''It is always inspiring to see Dior through someone else's eyes.''"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Long Forgotten in the Forbidden City "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "DESIGN"
+          },
+          {
+            "name": "subject",
+            "value": "PALACES AND CASTLES"
+          },
+          {
+            "name": "subject",
+            "value": "RESTORATION AND REHABILITATION"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-12-31T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2008/12/31/arts/design/20090101_FORBIDDEN_index.html",
+        "news_desk": null,
+        "snippet": "After decades of neglect, the Juanqinzhai is the first part of the 18th-century Palace of Tranquillity and Longevity to be restored.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a89d81c22dfde670c2d43",
+        "source": null,
+        "word_count": 29,
+        "lead_paragraph": "After decades of neglect, the Juanqinzhai is the first part of the 18th-century Palace of Tranquillity and Longevity to be restored."
+      }
+    ],
+    "meta": {
+      "time": 9,
+      "hits": 367,
+      "offset": 360
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

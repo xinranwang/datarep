@@ -1,0 +1,602 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "TRAVEL ADVISORY: CORRESPONDENT'S REPORT",
+          "main": "Bulldozers Changing The Face of Beijing"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HISTORIC BUILDINGS AND SITES"
+          },
+          {
+            "name": "subject",
+            "value": "GEOGRAPHIC PROFILES"
+          },
+          {
+            "name": "subject",
+            "value": "AREA PLANNING AND RENEWAL"
+          },
+          {
+            "name": "subject",
+            "value": "NYTRAVEL"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1995-05-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/05/28/travel/travel-advisory-correspondent-s-report-bulldozers-changing-the-face-of-beijing.html",
+        "news_desk": "Travel Desk",
+        "snippet": "  BEFORE he was denounced in the 1960's, Liang Sicheng, one of China's most famous architects, said that when the Communist Party brought in the wrecking balls to demolish the city's gate towers, \"it was like cutting a piece of flesh from me.   \"And ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1c8a78eb7c8105d6fb741",
+        "source": "The New York Times",
+        "word_count": 788,
+        "lead_paragraph": "BEFORE he was denounced in the 1960's, Liang Sicheng, one of China's most famous architects, said that when the Communist Party brought in the wrecking balls to demolish the city's gate towers, \"it was like cutting a piece of flesh from me. \"And when the bricks of the outer city wall were torn down,\" he continued, \"I felt as if my own skin was being stripped off.\""
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "World News Briefs; China Reaches Accord With Women's Groups"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CONVENTIONS AND CONFERENCES"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "1995-06-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/06/15/world/world-news-briefs-china-reaches-accord-with-women-s-groups.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  China and the organizers of a huge international forum on women planned for this summer in Beijing have reached a compromise on a dispute, with China agreeing to increase by 20,000 the number of foreign participants it will admit and the forum acce",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1bedd8eb7c8105d6ec5ca",
+        "source": "The New York Times",
+        "word_count": 177,
+        "lead_paragraph": "China and the organizers of a huge international forum on women planned for this summer in Beijing have reached a compromise on a dispute, with China agreeing to increase by 20,000 the number of foreign participants it will admit and the forum accepting a site it had earlier rejected. The forum, for nongovernmental groups, will run in conjunction with the Fourth United Nations World Conference on Women. The two events were assigned nearby sites in Beijing, but China announced in April that the forum's sessions would be held at Hairou, 30 miles outside Beijing."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "5 Greenpeace Leaders Detained at Beijing Protest"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "GREENPEACE"
+          },
+          {
+            "name": "subject",
+            "value": "ATOMIC WEAPONS"
+          },
+          {
+            "name": "subject",
+            "value": "NUCLEAR TESTS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "1995-08-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/08/15/world/5-greenpeace-leaders-detained-at-beijing-protest.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Five activists for the environmental group Greenpeace unfurled a banner in Tiananmen Square this morning to protest nuclear testing in China and were promptly taken into custody, witnesses said.    After posing for photographs, like tourists, under",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FAISON",
+            "role": "reported",
+            "firstname": "Seth"
+          }],
+          "original": "By SETH FAISON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1eb6d8eb7c8105d73bfcd",
+        "source": "The New York Times",
+        "word_count": 283,
+        "lead_paragraph": "Five activists for the environmental group Greenpeace unfurled a banner in Tiananmen Square this morning to protest nuclear testing in China and were promptly taken into custody, witnesses said. After posing for photographs, like tourists, under an enormous portrait of the Chinese leader Mao Zedong, the activists opened an eight-foot-long banner saying \"Stop All Nuclear Tests\" in Chinese and English. It took about a minute before plain-clothes police confiscated the banner, witnesses said."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Hard Choice for White House On Hillary Clinton and China"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+          },
+          {
+            "name": "persons",
+            "value": "CLINTON, HILLARY RODHAM"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CONVENTIONS AND CONFERENCES"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1995-08-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/08/17/world/hard-choice-for-white-house-on-hillary-clinton-and-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Of all the powerful people in the White House, there is probably no one -- not even the President -- to whom aides less like to say no. So Hillary Rodham Clinton's strong wish to lead the American delegation to the United Nations Conference on Wome",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "S.",
+            "role": "reported",
+            "lastname": "PURDUM",
+            "firstname": "Todd"
+          }],
+          "original": "By TODD S. PURDUM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1d0ef8eb7c8105d70b003",
+        "source": "The New York Times",
+        "word_count": 861,
+        "lead_paragraph": "Of all the powerful people in the White House, there is probably no one -- not even the President -- to whom aides less like to say no. So Hillary Rodham Clinton's strong wish to lead the American delegation to the United Nations Conference on Women in Beijing next month has prompted much hand-wringing among senior diplomatic officials who are not sure she should go. The geopolitics are plain enough: should the most prominent woman in the United States lend her presence to a conference on women's rights that happens to be held in a country with an abysmal record on human rights -- especially when China is holding the American human rights advocate Harry Wu on espionage charges and Chinese-American relations are rubbed raw."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Citibank Plans in Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CITIBANK"
+          },
+          {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1995-08-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/08/18/business/citibank-plans-in-beijing.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "  Citibank said today that it would become the first United States bank to open a branch in Beijing when it upgrades its existing office in the Chinese capital next month. The unit of Citicorp, the largest bank in the United States, said the branch w",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ce268eb7c8105d705a23",
+        "source": "Dow Jones",
+        "word_count": 91,
+        "lead_paragraph": "Citibank said today that it would become the first United States bank to open a branch in Beijing when it upgrades its existing office in the Chinese capital next month. The unit of Citicorp, the largest bank in the United States, said the branch would offer trade services, cash management and foreign exchange, as well as lending and financial advice. However, foreign banks remain unable to do business in yuan, the Chinese currency. Citibank now has other Chinese branches in Shanghai and Shenzhen, along with representative offices elsewhere in the nation."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Women's Rights, Human Rights"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CLINTON, HILLARY RODHAM"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "15",
+        "pub_date": "1995-08-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/08/22/opinion/women-s-rights-human-rights.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "  Voices are growing louder in Washington against American participation in the United Nations Conference on Women in Beijing next month. Powerful Republicans say Hillary Rodham Clinton's participation would lend credibility to a repressive regime. T",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "A.",
+            "role": "reported",
+            "lastname": "Ferraro",
+            "firstname": "Geraldine"
+          }],
+          "original": "By Geraldine A. Ferraro;"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1d0ea8eb7c8105d70ad21",
+        "source": "The New York Times",
+        "word_count": 627,
+        "lead_paragraph": "Voices are growing louder in Washington against American participation in the United Nations Conference on Women in Beijing next month. Powerful Republicans say Hillary Rodham Clinton's participation would lend credibility to a repressive regime. They say Washington should refuse to send a delegation at all, to punish China for its human rights record. Yet the American delegation, led by Madeleine Albright, the chief American representative at the United Nations, should hold firm. This conference, along with parallel meetings of grass-roots organizations, is expected to be the largest international meeting in history. The issue it will address is not women's rights but human rights: they are the same thing."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "First Lady Will Attend Women's Conference"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WU, HARRY"
+          },
+          {
+            "name": "persons",
+            "value": "CLINTON, HILLARY RODHAM"
+          },
+          {
+            "name": "glocations",
+            "value": "HUAIROU (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "AMERICANS ABROAD"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "1995-08-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/08/26/world/first-lady-will-attend-women-s-conference.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Hillary Rodham Clinton will spend two days at a United Nations-sponsored conference on women in Beijing early next month, the White House announced today, only 24 hours after China expelled a Chinese-born American who had been convicted on spying c",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "W.",
+            "role": "reported",
+            "lastname": "APPLE",
+            "qualifier": "Jr",
+            "firstname": "R."
+          }],
+          "original": "By R. W. APPLE Jr"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ce2e8eb7c8105d705fd7",
+        "source": "The New York Times",
+        "word_count": 605,
+        "lead_paragraph": "Hillary Rodham Clinton will spend two days at a United Nations-sponsored conference on women in Beijing early next month, the White House announced today, only 24 hours after China expelled a Chinese-born American who had been convicted on spying charges. In a statement released in Wyoming, where President Clinton and his family are vacationing, the White House said \"the conference presents a significant chance to chart further gains in the status of women.\" Mrs. Clinton, the honorary chairwoman of the American delegation, will speak to the conference and talk with members of advocacy groups meeting separately in Huairou, near the Chinese capital."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Vatican Attacks U.S.-Backed Draft for Women's Conference"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "GLENDON, MARY ANN"
+          },
+          {
+            "name": "persons",
+            "value": "CLINTON, BILL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "ROMAN CATHOLIC CHURCH"
+          },
+          {
+            "name": "subject",
+            "value": "APPOINTMENTS AND EXECUTIVE CHANGES"
+          },
+          {
+            "name": "subject",
+            "value": "ABORTION"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "1995-08-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/08/26/world/vatican-attacks-us-backed-draft-for-women-s-conference.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Saying it feared the Fourth World Conference on Women in Beijing next month could result in a \"step backward in the field of human rights for women,\" the Vatican today made a detailed attack on positions endorsed by the United States and other part",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "TAGLIABUE",
+            "role": "reported",
+            "firstname": "John"
+          }],
+          "original": "By JOHN TAGLIABUE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ce2e8eb7c8105d705fd5",
+        "source": "The New York Times",
+        "word_count": 751,
+        "lead_paragraph": "Saying it feared the Fourth World Conference on Women in Beijing next month could result in a \"step backward in the field of human rights for women,\" the Vatican today made a detailed attack on positions endorsed by the United States and other participants in preparatory meetings, saying that they promoted abortion and would undermine the central place of the family. The statement by Joaquin Navarro-Valls, the spokesman for Pope John Paul II, came as the Vatican announced that its 22-member delegation will include 14 women and will be headed by Mary Ann Glendon, an American legal scholar whose appointment had been quietly urged by the Clinton Administration."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "U.N. Women's Forum Is a Test for Pope's Advocate"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "GLENDON, MARY ANN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "ROMAN CATHOLIC CHURCH"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "CONVENTIONS AND CONFERENCES"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1995-08-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/08/29/world/un-women-s-forum-is-a-test-for-pope-s-advocate.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Mary Ann Glendon, the Harvard law professor who is the Vatican's surprising choice to head its delegation to the United Nations Conference on Women that starts next week in Beijing, does not fit easily into stereotypes.   A pioneer in her professio",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BUTTERFIELD",
+            "role": "reported",
+            "firstname": "Fox"
+          }],
+          "original": "By FOX BUTTERFIELD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1c0258eb7c8105d6ee53c",
+        "source": "The New York Times",
+        "word_count": 1334,
+        "lead_paragraph": "Mary Ann Glendon, the Harvard law professor who is the Vatican's surprising choice to head its delegation to the United Nations Conference on Women that starts next week in Beijing, does not fit easily into stereotypes. A pioneer in her profession who had to battle discrimination, she rejects what she calls \"radical feminism.\" A social conservative, she worked in the civil rights movement in Mississippi and champions radical economic measures to benefit the third world."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "A Forum on Women Is Vexed By Chinese Security Officials"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CONVENTIONS AND CONFERENCES"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1995-08-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/08/30/world/a-forum-on-women-is-vexed-by-chinese-security-officials.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Just after dawn today, a senior staff member of an international women's forum assembling here left her hotel room for stroll around Huairou reservoir, where the mist-shrouded Fragrant Hills loomed to the west and the morning light caught delicate ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1bfe38eb7c8105d6ee295",
+        "source": "The New York Times",
+        "word_count": 698,
+        "lead_paragraph": "Just after dawn today, a senior staff member of an international women's forum assembling here left her hotel room for stroll around Huairou reservoir, where the mist-shrouded Fragrant Hills loomed to the west and the morning light caught delicate pagodas in silhouette. A Chinese policeman stepped into her path and ordered her back to her room."
+      }
+    ],
+    "meta": {
+      "time": 44,
+      "hits": 42,
+      "offset": 10
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

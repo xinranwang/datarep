@@ -1,0 +1,851 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Initial reports suggest that Chinese Communist Party Central Committee members meeting in Beijing either were reluctant to make major changes or disagreed over how changes might be made; committee, which agreed to anticorruption directive that would force officials and their families to disclose property holdings and investments, failed to appoint Vice Pres Xi Jinping to key military post, which would have assured his ascension to general secretary in 2012; nearly 100 students demand release of lecturer Ding Xiaoping, former leader of 1989 Tiananamen Square pro-democracy demonstrations, whom they believe is being held unfairly; photo (M)",
+        "headline": {"main": "Party's Ambitious Agenda In China Seems to Fall Flat"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "XI JINPING"
+          },
+          {
+            "name": "persons",
+            "value": "SHAMBAUGH, DAVID"
+          },
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "DING XIAOPING"
+          },
+          {
+            "name": "persons",
+            "value": "MOSES, RUSSELL LEIGH"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "APPOINTMENTS AND EXECUTIVE CHANGES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ETHICS"
+          },
+          {
+            "name": "subject",
+            "value": "LOCAL GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2009-09-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/09/21/world/asia/21china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Initial reports from the Communist Party\u2019s Central Committee policy meetings suggested that there were few, if any, changes.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WINES",
+            "role": "reported",
+            "firstname": "Michael"
+          }],
+          "original": "By MICHAEL WINES"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/09/21/world/21china.751.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/09/21/world/21china.751.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/09/21/world/21china.xlarge1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2009/09/21/world/21china.xlarge1.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2009/09/21/world/21china.3371.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2009/09/21/world/21china.3371.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd274b18eb7c8105d833a8d",
+        "source": "The New York Times",
+        "word_count": 757,
+        "lead_paragraph": "China's Communist Party elite had billed its four-day strategy session as an attack on ''acute problems'' that threatened the party's political standing, like official corruption, China's yawning gap between the rich and poor, and the lack of democracy within the party's own ranks. But besides an anticorruption directive that would force officials and their families to disclose their property holdings and investments, initial reports from the meeting last week suggested that the Central Committee's members either were reluctant to make major changes, or disagreed over how those changes might be made."
+      },
+      {
+        "abstract": "At least five people are injured in gas explosion that levels restaurant in Beijing; photo (M)",
+        "headline": {"main": "Blast Flattens Beijing Restaurant, Injuring 5"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+          },
+          {
+            "name": "subject",
+            "value": "RESTAURANTS"
+          },
+          {
+            "name": "subject",
+            "value": "EXPLOSIONS"
+          },
+          {
+            "name": "subject",
+            "value": "NATURAL GAS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2009-09-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/09/26/world/asia/26beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The blast, a gas explosion that leveled a restaurant in a busy shopping district, rattled the capital, which has been under intense security restrictions.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Xiyun Yang contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/09/26/world/26china.751.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/09/26/world/26china.751.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 360,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/09/26/world/26china.xlarge1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 360,
+              "xlarge": "images/2009/09/26/world/26china.xlarge1.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2a1ac8eb7c8105d8868c3",
+        "source": "The New York Times",
+        "word_count": 547,
+        "lead_paragraph": "At least five people were injured Friday morning in what the authorities said was a gas explosion that leveled a restaurant in a busy shopping district in central Beijing. The blast, coming less than a week before elaborate celebrations marking the 60th anniversary of the People's Republic of China, rattled the capital, which has been under intense security restrictions."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China's Mr. Wu Keeps Talking"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMICS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2009-09-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/09/27/business/global/27spy.html",
+        "news_desk": "Money and Business/Financial Desk",
+        "snippet": "With critiques of the government and its half-socialist economy, the economist Wu Jinglian seems to be testing what Beijing will allow.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/09/25/business/27spy75.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/09/25/business/27spy75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 434,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/09/25/business/27spy650.1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 434,
+              "xlarge": "images/2009/09/25/business/27spy650.1.jpg",
+              "xlargewidth": 650
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2009/09/25/business/27spy337.1.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2009/09/25/business/27spy337.1.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd2902d8eb7c8105d8684a6",
+        "source": "The New York Times",
+        "word_count": 2039,
+        "lead_paragraph": "AT 79, Wu Jinglian is considered China's most famous economist. In the 1980s and '90s, he was an adviser to China's leaders, including Deng Xiaoping. He helped push through some of this country's earliest market reforms, paving the way for China's spectacular rise and earning him the nickname ''Market Wu.''"
+      },
+      {
+        "abstract": "Article on difficulties facing China's indie filmmakers; government has decreed that all films must be approved by its censors before being distributed and screened, even in overseas film festivals; discusses how these filmmakers represent mixture of defiance and principle as they pursue their art in apparent violation of law; problems faced by Zhao Danyang noted; photos (L)",
+        "headline": {"main": "Indie Filmmakers: China's New Guerillas"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO DANYANG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING FILM ACADEMY"
+          },
+          {
+            "name": "subject",
+            "value": "MOVIES"
+          },
+          {
+            "name": "subject",
+            "value": "NEW YORK FILM FESTIVAL"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2009-09-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/09/27/movies/27semp.html",
+        "news_desk": "Arts and Leisure Desk",
+        "snippet": "Moviemakers like Zhao Dayong pursue their art in apparent violation of the law.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Movies; Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SEMPLE",
+            "role": "reported",
+            "firstname": "Kirk"
+          }],
+          "original": "By KIRK SEMPLE; Zhang Jing contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "col": "MOVIES",
+            "rank": "2",
+            "caption": "Clip: 'Ghost Town'",
+            "type": "Video",
+            "credit": "A scene from the documentary \"Ghost Town,\" which looks at the difficult lives of those living in Zhiziluo, a remote Chinese village.",
+            "url": "http://video.nytimes.com/video/2009/09/25/movies/1247464831677/clip-ghost-town.html",
+            "legacy": {
+              "MultimediaSummary2": "A scene from the documentary \"Ghost Town,\" which looks at the difficult lives of those living in Zhiziluo, a remote Chinese village.",
+              "MultimediaCol2": "MOVIES",
+              "MultimediaType2": "Video",
+              "MultimediaUrl2": "http://video.nytimes.com/video/2009/09/25/movies/1247464831677/clip-ghost-town.html",
+              "MultimediaHeadline2": "Clip: 'Ghost Town'"
+            }
+          },
+          {
+            "rank": "1",
+            "height": 583,
+            "width": 680,
+            "caption": "Festival Films to Admire",
+            "type": "AudioSS",
+            "credit": "Manohla Dargis narrates a look at films in the first week of the 47th New York Film Festival.",
+            "url": "http://www.nytimes.com/interactive/2009/09/25/movies/20090925-nyffdargis-audioss/index.html",
+            "legacy": {
+              "MultimediaSummary1": "Manohla Dargis narrates a look at films in the first week of the 47th New York Film Festival.",
+              "MultimediaPopupWidth1": "680",
+              "MultimediaType1": "AudioSS",
+              "MultimediaPopupHeight1": "583",
+              "MultimediaHeadline1": "Festival Films to Admire",
+              "MultimediaUrl1": "http://www.nytimes.com/interactive/2009/09/25/movies/20090925-nyffdargis-audioss/index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/09/27/arts/27semp-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/09/27/arts/27semp-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 340,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/09/27/arts/27semp-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 340,
+              "xlarge": "images/2009/09/27/arts/27semp-600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd28b348eb7c8105d85ee1c",
+        "source": "The New York Times",
+        "word_count": 1142,
+        "lead_paragraph": "OVER the course of six years Zhao Dayong, an independent filmmaker from Guangzhou, China, spent many months living among the residents of Zhiziluo, an impoverished and forgotten village in the rugged mountains near the Myanmar border, and filming their lives."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Chinese Bond Sale Tests Global Brand"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "INVESTMENT BANKING"
+          },
+          {
+            "name": "subject",
+            "value": "STOCKS AND BONDS"
+          },
+          {
+            "name": "subject",
+            "value": "GOVERNMENT BONDS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2009-09-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/09/29/business/global/29yuan.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "China started selling yuan-denominated sovereign bonds in Hong Kong for the first time on Monday, testing international demand for its currency.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "V.",
+            "role": "reported",
+            "lastname": "NICHOLSON",
+            "firstname": "Chris"
+          }],
+          "original": "By CHRIS V. NICHOLSON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd274448eb7c8105d83292c",
+        "source": "International Herald Tribune",
+        "word_count": 505,
+        "lead_paragraph": "China started selling yuan-denominated sovereign bonds in Hong Kong for the first time on Monday, testing international demand for its currency with the $879 million issue as it moves to widen the yuan's exposure and appeal to markets abroad. Bank of China and Bank of Communications, the two lenders managing the 6 billion yuan sale, said in news releases on Monday that the two-year bonds would have a yield of 2.25 percent, and the three-year bonds would yield 2.7 percent -- higher rates than those offered to investors on the mainland."
+      },
+      {
+        "abstract": "Chinese government is preparing to observe 60th anniversary of People's Republic of China with massive parade in Beijing; parade will feature soldiers, tanks and floats; 10,000 police officers and security guards and as many as 800,000 volunteers will monitor street corners and checkpoints for evidence of potential party-spoilers; knife sales have been banned in some stores and international airport will be closed on October 1 for three hours; authorities have also prohibited parade-watchers from opening windows or standing on balconies along parade route; photos (M)",
+        "headline": {"main": "No Detail Is Overlooked as China Prepares to Celebrate"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          },
+          {
+            "name": "subject",
+            "value": "DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "AIRPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+          },
+          {
+            "name": "subject",
+            "value": "PARADES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "COMMUNISM (THEORY AND PHILOSOPHY)"
+          },
+          {
+            "name": "subject",
+            "value": "VOLUNTEERS"
+          },
+          {
+            "name": "subject",
+            "value": "SECURITY AND WARNING SYSTEMS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2009-09-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/09/29/world/asia/29beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The government, which will observe its 60th anniversary on Thursday in Beijing, has drilled soldiers, banned knife sales, and even grounded tame pigeons.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LaFRANIERE",
+            "role": "reported",
+            "firstname": "Sharon"
+          }],
+          "original": "By SHARON LaFRANIERE"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "caption": "China Prepares for National Day Celebration",
+            "type": "Slideshow",
+            "credit": "The country will observe the 60th anniversary of the People's Republic of China with a parade on Thursday that will make 76 trombones look like a child's plastic kazoo.",
+            "url": "http://www.nytimes.com/slideshow/2009/09/28/world/20090928-CHINA_index.html",
+            "legacy": {
+              "MultimediaSummary1": "The country will observe the 60th anniversary of the People's Republic of China with a parade on Thursday that will make 76 trombones look like a child's plastic kazoo.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "China Prepares for National Day Celebration",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2009/09/28/world/20090928-CHINA_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/09/28/world/asia/29beijing3_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/09/28/world/asia/29beijing3_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 337,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/09/28/world/asia/29beijing3_600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 337,
+              "xlarge": "images/2009/09/28/world/asia/29beijing3_600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2009/09/28/world/asia/29beijing3_337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2009/09/28/world/asia/29beijing3_337.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd271238eb7c8105d82d8b2",
+        "source": "The New York Times",
+        "word_count": 1011,
+        "lead_paragraph": "Domesticated pigeons of this city, take note: Until Oct. 1, you are prohibited by government edict from flying over the center of China's capital. Do not take it personally, however. The government is preparing to observe the 60th anniversary of the People's Republic of China with a parade that will make 76 trombones look like a child's plastic kazoo. And nothing -- not unauthorized window-peeping, nor marchers' mental health, nor even the chance that pigeons might muck up displays of aerial might -- is being left to chance."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "SPECIAL REPORT: CHINA OPEN",
+          "main": "Back to Her Golden Court in Beijing"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DEMENTIEVA, ELENA"
+          },
+          {
+            "name": "persons",
+            "value": "WILLIAMS, SERENA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TENNIS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2009-10-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/10/01/sports/tennis/01iht-SRelena.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Because the China Open has moved to the Olympic tennis center where Elena Dementieva won the singles gold in 2008, the Russian seems like the revamped tournament's defending champion.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CLAREY",
+            "role": "reported",
+            "firstname": "Christopher"
+          }],
+          "original": "By CHRISTOPHER CLAREY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/09/30/sports/01iht-SRelena-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/09/30/sports/01iht-SRelena-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/09/30/sports/01iht-SRelena-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2009/09/30/sports/01iht-SRelena-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2009/09/30/sports/01iht-SRelena-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2009/09/30/sports/01iht-SRelena-337.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd28b378eb7c8105d85f019",
+        "source": "International Herald Tribune",
+        "word_count": 1039,
+        "lead_paragraph": "Technically, the defending women's champion at the China Open is Jelena Jankovic, the slumping Serbian who defeated Svetlana Kuznetsova in the final last year when Jankovic's game and self-belief were in better shape. But in spirit, the defending champion in Beijing is Elena Dementieva."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "OP-ED CONTRIBUTOR",
+          "main": "Eight Ideas Behind China's Success"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "COMMUNISM (THEORY AND PHILOSOPHY)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2009-10-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/10/01/opinion/01iht-edzhang.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "The West would do well to study the ideas behind China's dramatic rise.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WEI-WEI",
+            "role": "reported",
+            "firstname": "Zhang"
+          }],
+          "original": "By ZHANG WEI-WEI"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd28ca08eb7c8105d861beb",
+        "source": "International Herald Tribune",
+        "word_count": 898,
+        "lead_paragraph": "BEIJING -- Beijing is celebrating the 60th anniversary of the People's Republic on Thursday, and the fanfare will undoubtedly irk those whose ideological inclinations do not tolerate a ''Communist country'' being so self-righteous. Yet it is worthwhile to look at China objectively, to see what has enabled it to change within one generation from a poverty-stricken country to one of the world's largest economies."
+      },
+      {
+        "abstract": "Fourteen Western rock bands will not be allowed to participate in Modern Sky Festival in Beijing; photo (S)",
+        "headline": {
+          "kicker": "ARTS, BRIEFLY",
+          "main": "Western Bands Out of Beijing Festival"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ROCK MUSIC"
+          },
+          {
+            "name": "subject",
+            "value": "MUSIC"
+          },
+          {
+            "name": "subject",
+            "value": "MDOERN SKY FESTIVAL"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2009-10-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/10/02/arts/music/02arts-WESTERNBANDS_BRF.html",
+        "news_desk": "Movies, Performing Arts/Weekend Desk",
+        "snippet": "On Thursday Modern Sky, the record label and media company behind the festival, said in a statement that none of the bands would appear, \u201cdue to unforeseen circumstances.\u201d",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Movies; Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SISARIO",
+            "role": "reported",
+            "firstname": "Ben"
+          }],
+          "original": "By BEN SISARIO; Compiled by Dave Itzkoff"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd274408eb7c8105d8326ed",
+        "source": "The New York Times",
+        "word_count": 149,
+        "lead_paragraph": "For Western pop acts booked in China, it's never certain whether the gig will actually take place. Billboard reported that Beyoncé, below, and Skid Row had been confirmed for performances in Beijing this month but that 14 Western rock bands scheduled for a festival next week weren't so lucky. The bands, which include the Buzzcocks, British Sea Power, Shonen Knife and the (International) Noise Conspiracy, were been booked for the Modern Sky Festival, where the Yeah Yeah Yeahs played two years ago. But on Thursday Modern Sky, the record label and media company behind the festival, said none of the bands would appear. ''The 14 overseas acts previously announced for the 2009 festival are unable to participate due to unforeseen circumstances,'' the company said in a statement. Modern Sky said that the Chinese acts at the festival, scheduled for Sunday to Wednesday, would go on as planned."
+      },
+      {
+        "abstract": "Correction of Sept 22 article about efforts by university officials in Beijing to stop student protests against detention of popular lecturer Ding Xiaoping",
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DING XIAOPING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "TEACHERS AND SCHOOL EMPLOYEES"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2009-10-02T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9B00E7D7153DF931A35753C1A96F9C8B63",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "A headline on Sept. 22 with an article about efforts by university officials in Beijing to stop a student protest against the detention of a popular lecturer misstated, in some copies, the objective of the officials. As the article noted, they pressu",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Education; Corrections; New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd274b28eb7c8105d833b75",
+        "source": "The New York Times",
+        "word_count": 56,
+        "lead_paragraph": "A headline on Sept. 22 with an article about efforts by university officials in Beijing to stop a student protest against the detention of a popular lecturer misstated, in some copies, the objective of the officials. As the article noted, they pressured students to stop demonstrating. They did not tell students ''not to stop their protests.''"
+      }
+    ],
+    "meta": {
+      "time": 22,
+      "hits": 62,
+      "offset": 30
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

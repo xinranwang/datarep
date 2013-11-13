@@ -1,0 +1,87 @@
+{
+  "response": {
+    "docs": [{
+      "abstract": null,
+      "headline": {"main": "Beijing Journal; CNN and MTV Hanging by a 'Heavenly Thread'"},
+      "keywords": [
+        {
+          "name": "persons",
+          "value": "LI PENG"
+        },
+        {
+          "name": "glocations",
+          "value": "CHINA"
+        },
+        {
+          "name": "glocations",
+          "value": "BEIJING (CHINA)"
+        },
+        {
+          "name": "organizations",
+          "value": "CABLE NEWS NETWORK"
+        },
+        {
+          "name": "organizations",
+          "value": "MUSIC TELEVISION NETWORKS INC"
+        },
+        {
+          "name": "subject",
+          "value": "CENSORSHIP"
+        },
+        {
+          "name": "subject",
+          "value": "TELEVISION"
+        },
+        {
+          "name": "subject",
+          "value": "POLITICS AND GOVERNMENT"
+        },
+        {
+          "name": "subject",
+          "value": "LAW AND LEGISLATION"
+        },
+        {
+          "name": "subject",
+          "value": "GOVERNMENT INFORMATION POLICIES"
+        },
+        {
+          "name": "subject",
+          "value": "NEWS AND NEWS MEDIA"
+        }
+      ],
+      "print_page": "4",
+      "pub_date": "1993-11-22T00:00:00Z",
+      "web_url": "http://www.nytimes.com/1993/11/22/world/beijing-journal-cnn-and-mtv-hanging-by-a-heavenly-thread.html",
+      "news_desk": "Foreign Desk",
+      "snippet": "  Ever since Prime Minister Li Peng signed State Council Proclamation No. 129 last month banning the purchase or possession of satellite dishes by ordinary Chinese, millions of people on the broadcasting and receiving ends of the television business ",
+      "type_of_material": "News",
+      "blog": [],
+      "section_name": "World",
+      "document_type": "article",
+      "byline": {
+        "person": [{
+          "organization": "",
+          "rank": 1,
+          "middlename": "E.",
+          "role": "reported",
+          "lastname": "TYLER",
+          "firstname": "Patrick"
+        }],
+        "original": "By PATRICK E. TYLER"
+      },
+      "subsection_name": null,
+      "multimedia": [],
+      "_id": "4fd1e0a48eb7c8105d727c57",
+      "source": "The New York Times",
+      "word_count": 925,
+      "lead_paragraph": "Ever since Prime Minister Li Peng signed State Council Proclamation No. 129 last month banning the purchase or possession of satellite dishes by ordinary Chinese, millions of people on the broadcasting and receiving ends of the television business in Asia have been trying to determine whether Mr. Li will risk the draconian steps necessary to enforce the order. So far, no police officers have been sent to start ripping dishes off rooftops, but the Government is talking tough. Many in Beijing feel the Politburo has invested too much of its prestige to back down."
+    }],
+    "meta": {
+      "time": 9,
+      "hits": 31,
+      "offset": 30
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,598 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Crackdown in Beijing; Ungoverning China"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1989-06-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/05/world/crackdown-in-beijing-ungoverning-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Whoever wins the power struggle now under way in the Communist Party will find the challenge of ruling China incomparably greater after this weekend.",
+        "type_of_material": "An Analysis; News Analysis",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a28e8eb7c8105d6b911f",
+        "source": "The New York Times",
+        "word_count": 917,
+        "lead_paragraph": "LEAD: Whoever wins the power struggle now under way in the Communist Party will find the challenge of ruling China incomparably greater after this weekend."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "In Beijing, Rage and Despair Over the Soldiers' Brutality"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-06-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/05/world/in-beijing-rage-and-despair-over-the-soldiers-brutality.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Her world collapsed early this morning, when she got a phone call that her husband was in the hospital fighting to survive the bullets that ripped through his midriff.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1954b8eb7c8105d6a1536",
+        "source": "The New York Times",
+        "word_count": 1082,
+        "lead_paragraph": "LEAD: Her world collapsed early this morning, when she got a phone call that her husband was in the hospital fighting to survive the bullets that ripped through his midriff."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Crackdown in Beijing; For Students in U.S., Grief and Fury"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINESE STUDENTS AUTONOMOUS ASSN"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN INVESTMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN STUDENTS"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "1989-06-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/05/world/crackdown-in-beijing-for-students-in-us-grief-and-fury.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Chinese students in the United States reacted with outrage today to the army's killing of pro-democracy demonstrators in Beijing, saying in a letter to President Bush that the Communist Party had turned into an ''evil fascist dictatorship.''",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "BUTTERFIELD",
+              "role": "reported",
+              "firstname": "Fox"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By FOX BUTTERFIELD, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a3ff8eb7c8105d6bbc8e",
+        "source": "The New York Times",
+        "word_count": 981,
+        "lead_paragraph": "LEAD: Chinese students in the United States reacted with outrage today to the army's killing of pro-democracy demonstrators in Beijing, saying in a letter to President Bush that the Communist Party had turned into an ''evil fascist dictatorship.''"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Two Old Men, Many Young Lives; Deng Xiaoping Defiles His Legacy With Blood"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+          },
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "1989-06-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/05/opinion/two-old-men-many-young-lives-deng-xiaoping-defiles-his-legacy-with-blood.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "LEAD: Mao Zedong taught Chinese Communists that political power grows out of the barrel of a gun. Deng Xiaoping believes it. Now 84 years old, and said to be hospitalized with cancer, he is neither too old nor too ill to order the army massacre of hu",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd184108eb7c8105d6826c6",
+        "source": "The New York Times",
+        "word_count": 649,
+        "lead_paragraph": "LEAD: Mao Zedong taught Chinese Communists that political power grows out of the barrel of a gun. Deng Xiaoping believes it. Now 84 years old, and said to be hospitalized with cancer, he is neither too old nor too ill to order the army massacre of hundreds of unarmed, idealistic Chinese students in Beijing's central square."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Employees Taken Out Of Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN INVESTMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-06-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/06/business/employees-taken-out-of-beijing.html",
+        "news_desk": "Financial Desk",
+        "snippet": "LEAD: Several big United States corporations, including I.B.M., Xerox and Dow Chemical, pulled their non-Chinese employees out of Beijing yesterday or closed offices as a result of the weekend violence.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "H.",
+            "role": "reported",
+            "lastname": "KREISLER",
+            "firstname": "Nancy"
+          }],
+          "original": "By NANCY H. KREISLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18bf38eb7c8105d68f043",
+        "source": "The New York Times",
+        "word_count": 944,
+        "lead_paragraph": "LEAD: Several big United States corporations, including I.B.M., Xerox and Dow Chemical, pulled their non-Chinese employees out of Beijing yesterday or closed offices as a result of the weekend violence."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "CRACKDOWN IN BEIJING",
+          "main": "A Student's Body Is Honored With Tears of Horror and Cries for Revenge"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "1989-06-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/06/world/crackdown-beijing-student-s-body-honored-with-tears-horror-cries-for-revenge.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: For the dozen student pallbearers who walked solemnly into the university hall, it was a grim scene: The body of a friend lay wrapped in a red cloth and nestled in a bed of ice on a table.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a63e8eb7c8105d6bfffc",
+        "source": "The New York Times",
+        "word_count": 1166,
+        "lead_paragraph": "LEAD: For the dozen student pallbearers who walked solemnly into the university hall, it was a grim scene: The body of a friend lay wrapped in a red cloth and nestled in a bed of ice on a table."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "CRACKDOWN IN BEIJING",
+          "main": "Civil War For Army?"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "1989-06-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/06/world/crackdown-in-beijing-civil-war-for-army.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: American military specialists say a serious rift has developed within the Chinese armed forces as a result of the Beijing Government's crackdown on the students over the weekend.",
+        "type_of_material": "An Analysis; Military Analysis",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "E.",
+              "role": "reported",
+              "lastname": "TRAINOR",
+              "firstname": "Bernard"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By BERNARD E. TRAINOR, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1840f8eb7c8105d682587",
+        "source": "The New York Times",
+        "word_count": 895,
+        "lead_paragraph": "LEAD: American military specialists say a serious rift has developed within the Chinese armed forces as a result of the Beijing Government's crackdown on the students over the weekend."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "CRACKDOWN IN BEIJING",
+          "main": "Groups Postpone China Trips"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL, PERSONAL"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "1989-06-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/06/world/crackdown-in-beijing-groups-postpone-china-trips.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Groups planning to visit China, ranging from a high school chorus in the Bronx to a group of specialists on the American Presidency, have postponed their trips as a result of the violent crackdown in Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "L.",
+            "role": "reported",
+            "lastname": "GOLDMAN",
+            "firstname": "Ari"
+          }],
+          "original": "By ARI L. GOLDMAN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1840f8eb7c8105d682589",
+        "source": "The New York Times",
+        "word_count": 499,
+        "lead_paragraph": "LEAD: Groups planning to visit China, ranging from a high school chorus in the Bronx to a group of specialists on the American Presidency, have postponed their trips as a result of the violent crackdown in Beijing."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "CRACKDOWN IN BEIJING",
+          "main": "One Man Can Make a Difference: This One Jousted Briefly With Goliath"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "1989-06-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/06/world/crackdown-beijing-one-man-can-make-difference-this-one-jousted-briefly-with.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: It all started with a man in a white shirt who walked into the street and raised his right hand no higher than a New Yorker hailing a taxi.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARRON",
+            "role": "reported",
+            "firstname": "James"
+          }],
+          "original": "By JAMES BARRON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1954a8eb7c8105d6a1427",
+        "source": "The New York Times",
+        "word_count": 625,
+        "lead_paragraph": "LEAD: It all started with a man in a white shirt who walked into the street and raised his right hand no higher than a New Yorker hailing a taxi."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "A Drama Within a Drama on the Streets of Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-06-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/06/world/a-drama-within-a-drama-on-the-streets-of-beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": null,
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": "Front Page",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a28d8eb7c8105d6b9008",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      }
+    ],
+    "meta": {
+      "time": 50,
+      "hits": 187,
+      "offset": 90
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

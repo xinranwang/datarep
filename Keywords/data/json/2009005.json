@@ -1,0 +1,833 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Edward Wong reviews Commune by the Great Wall, lodgings close to Great Wall of China in Shuiguan; photo (M)",
+        "headline": {
+          "kicker": "CHECK IN, CHECK OUT",
+          "main": "Shuiguan, China: Commune by the Great Wall"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "GREAT WALL OF CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "SHUIGUAN (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "COMMUNE BY THE GREAT WALL"
+          },
+          {
+            "name": "subject",
+            "value": "REVIEWS"
+          },
+          {
+            "name": "subject",
+            "value": "HOTELS AND MOTELS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2009-11-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/11/08/travel/08check.html",
+        "news_desk": "Travel Desk",
+        "snippet": "Few hotels allow one to spend the night next to an architectural wonder of the ancient world. Fewer still are also architectural marvels themselves.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/11/08/travel/08checkspan-1/thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/11/08/travel/08checkspan-1/thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 331,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/11/08/travel/08checkspan-1/articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 331,
+              "xlarge": "images/2009/11/08/travel/08checkspan-1/articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2747e8eb7c8105d833357",
+        "source": "The New York Times",
+        "word_count": 641,
+        "lead_paragraph": "THE BASICS Few hotels allow one to spend the night next to an architectural wonder of the ancient world. Fewer still are also architectural marvels themselves. The Commune by the Great Wall, about an hour and a half by car from central Beijing, qualifies in both regards. The project was the brainchild of Zhang Xin, a prominent Chinese real estate developer, who gathered 12 architects from across Asia and asked them to design homes that would serve as lodging for people seeking a retreat from the urban sprawl of Beijing. Ms. Zhang was awarded a special prize at the 2002 Venice Biennale. Guests can stay in one of the original homes, which are costly, or in one of the many copies that were built after Kempinski took over management in 2005."
+      },
+      {
+        "abstract": "Historical legacy of tumultuous year 1989 is still subject to debate; fall of Berlin Wall reunified Germany and made Europe whole and free, but new divisions and fierce nationalisms that emerged continue to hobble European Union; many people in West envisioned rise of democracy and banishing of serious rivals to American power, but China forestalled revolution that year and catapulted itself to prominence through authoritarian capitalism; photo (M)",
+        "headline": {"main": "The Legacy Of 1989 Is Still Up For Debate"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "GERMANY"
+          },
+          {
+            "name": "glocations",
+            "value": "EUROPE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BERLIN (GERMANY)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "EUROPEAN UNION"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "BERLIN WALL"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2009-11-09T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9D04E2D61031F93AA35752C1A96F9C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "The historical legacy of 1989, when the Berlin Wall fell and the cold war thawed, is as political as the upheavals of that decisive year.     The events of 1989 spurred a striking transformation of Europe, which is now whole and free, and a reunified",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ERLANGER",
+            "role": "reported",
+            "firstname": "Steven"
+          }],
+          "original": "By STEVEN ERLANGER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd28efa8eb7c8105d865e5d",
+        "source": "The New York Times",
+        "word_count": 1417,
+        "lead_paragraph": "The historical legacy of 1989, when the Berlin Wall fell and the cold war thawed, is as political as the upheavals of that decisive year. The events of 1989 spurred a striking transformation of Europe, which is now whole and free, and a reunified Germany, milestones that are being observed with celebrations all over the continent, including a French-German extravaganza Monday evening on the Place de la Concorde."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "OP-ED CONTRIBUTOR",
+          "main": "Beijing's Path Forward"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2009-11-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/11/11/opinion/11iht-edwatkins.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "China has made great strides in the rule of law. This momentum must be encouraged.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "role": "reported",
+            "lastname": "WATKINS",
+            "qualifier": "Jr",
+            "firstname": "John"
+          }],
+          "original": "By JOHN WATKINS Jr"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd28ca18eb7c8105d861c58",
+        "source": "International Herald Tribune",
+        "word_count": 835,
+        "lead_paragraph": "China's rapidly growing economy, which has weathered the global recession better than that of any large country, tends to garner big headlines. But the country's rise coincides with another development that receives far less attention: its legal institutions. When President Obama arrives for his first China trip, he will find a country with a legal system vastly improved from a generation ago, particularly in the area of business law. And when it comes to dealing with China, as American businesses know, confidence in commitment to legal obligations is critical in giving assurances that business can be carried out effectively. For the United States, it provides a bilateral and multilateral negotiation framework."
+      },
+      {
+        "abstract": "Human Rights Watch report asserts that Chinese govenrment tolerates extensive network of secret jails in Beijing operated by provincial and municipal governments to prevent citizens from complaining to national officials; says guards at 'black jails' beat, sexually abuse, intimidate and rob men, women and teens; Foreign Ministry spokesman Qin Gang denies existence of such jails (M)",
+        "headline": {"main": "China Is Accused of Abuses in Secret Jails"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "HUMAN RIGHTS WATCH"
+          },
+          {
+            "name": "subject",
+            "value": "ROBBERIES AND THEFTS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "SEX CRIMES"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "ASSAULTS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "GUARDS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2009-11-13T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9F01E3D8113DF930A25752C1A96F9C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "China's national government tolerates an extensive network of secret jails in Beijing operated by provincial and municipal governments to prevent citizens from complaining to national officials, according to a report released here Thursday by Human R",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd28efb8eb7c8105d865e8c",
+        "source": "The New York Times",
+        "word_count": 529,
+        "lead_paragraph": "China's national government tolerates an extensive network of secret jails in Beijing operated by provincial and municipal governments to prevent citizens from complaining to national officials, according to a report released here Thursday by Human Rights Watch. The report was based on interviews with 38 former detainees who had gone to Beijing to complain about what they described as corruption or other abuses of power at lower levels of government. It said that guards at the ''black jails'' beat, sexually abused, intimidated and robbed men, women and teenagers."
+      },
+      {
+        "abstract": "Pres Obama, on first visit to China, and Pres Hu Jintao tell reporters after meeting in Beijing that US and China agree on range of issues but speak only in general terms; meeting comes one day after Obama tried to hold public discussion with Chinese students in Shanghai but, rather than lively exchange, event was staged; some Chinese bloggers whom White House invited were barred from attending; scripted interactions underscore obstacles Obama faces as he tries to manage American relationship with authoritarian China; photos (M)",
+        "headline": {"main": "Obama and China's Leader Pledge to Expand Cooperation on Many Issues"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "OBAMA, BARACK"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "BLOGS AND BLOGGING (INTERNET)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2009-11-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/11/17/world/asia/17prexy.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "After meeting on Tuesday, President Obama and President Hu Jintao said the U.S. and China would work together on nuclear proliferation, climate change and stabilizing the world economy.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WONG",
+              "role": "reported",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "COOPER",
+              "role": "reported",
+              "firstname": "Helene"
+            }
+          ],
+          "original": "By EDWARD WONG  and HELENE COOPER; David Barboza contributed reporting from Shanghai, and Jonathan Ansfield from Beijing"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/11/17/world/1117-prexy-cnd-01/thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/11/17/world/1117-prexy-cnd-01/thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 250,
+            "width": 395,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/11/17/world/1117-prexy-cnd-01/sfSpan.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 250,
+              "xlarge": "images/2009/11/17/world/1117-prexy-cnd-01/sfSpan.jpg",
+              "xlargewidth": 395
+            }
+          }
+        ],
+        "_id": "4fd2b5e98eb7c8105d8a9b52",
+        "source": "The New York Times",
+        "word_count": 1330,
+        "lead_paragraph": "President Obama and President Hu Jintao of China met in private off Tiananmen Square here on a frigid Tuesday morning to discuss issues like trade, climate change and the nuclear programs of Iran and North Korea, in a session that signaled the central role of China on the world stage. The leaders told reporters afterward that the United States and China were in agreement on a range of issues, but they spoke only in general terms."
+      },
+      {
+        "abstract": "Police in Beijing detain Zhao Lianhai, father who was organizing parents whose children were sickened or died from tainted dairy products in 2008; parents have been waging campaign for justice but governments, both local and central, have been harassing them (S)",
+        "headline": {
+          "kicker": "WORLD BRIEFING | ASIA",
+          "main": "China: Police Detain An Advocate for Victims of Tainted Dairy Items"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "MELAMINE"
+          },
+          {
+            "name": "subject",
+            "value": "HAZARDOUS AND TOXIC SUBSTANCES"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "CONSUMER PROTECTION"
+          },
+          {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+          },
+          {
+            "name": "subject",
+            "value": "RECALLS AND BANS OF PRODUCTS"
+          },
+          {
+            "name": "subject",
+            "value": "FOOD CONTAMINATION AND POISONING"
+          },
+          {
+            "name": "subject",
+            "value": "DAIRY PRODUCTS"
+          },
+          {
+            "name": "subject",
+            "value": "INFANT FORMULAS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2009-11-17T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9407E2DA1138F934A25752C1A96F9C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "Zhao Lianhai, a father who has been organizing parents whose children suffered from drinking tainted dairy products last year, was detained by the police on Friday in Beijing, according to a report published Monday in The Global Times, a popular news",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd28c998eb7c8105d86168e",
+        "source": "The New York Times",
+        "word_count": 117,
+        "lead_paragraph": "Zhao Lianhai, a father who has been organizing parents whose children suffered from drinking tainted dairy products last year, was detained by the police on Friday in Beijing, according to a report published Monday in The Global Times, a popular newspaper. Mr. Zhao was taken from his home by about a dozen police officers, his wife, Li Xuemei, told the newspaper. The officers also confiscated two computers, a camera, a video recorder and an address book. Parents whose children were sickened or died from drinking dairy products tainted with melamine, an industrial chemical, have been waging a campaign for justice, but local governments and the central government in Beijing have repeatedly harassed them."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Obama Ends China Trip With Visit to the Great Wall"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "OBAMA, BARACK"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2009-11-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/11/19/world/asia/19wall.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The usual cacophony at the Badaling section of the wall was absent as the site was largely shuttered for the presidential visit.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "COOPER",
+            "role": "reported",
+            "firstname": "Helene"
+          }],
+          "original": "By HELENE COOPER"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/11/18/world/asia/19wall-337/thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/11/18/world/asia/19wall-337/thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/11/18/world/asia/19wall-337/articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2009/11/18/world/asia/19wall-337/articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd293148eb7c8105d86cd25",
+        "source": "The New York Times",
+        "word_count": 308,
+        "lead_paragraph": "On his last day in China, President Obama went to see the Great Wall. At around 3:32 p.m. on Wednesday, Mr. Obama's motorcade arrived at the wall's Badaling section, which snakes over jagged, rocky mountains. The usual cacophony of vendors at the wall was absent as the whole place was largely shuttered for the presidential visit. The bustling tourist attraction looked like a ghost town."
+      },
+      {
+        "abstract": "Pres Obama spends part of his last morning in Beijing giving interview to Southern Weekly newspaper; is quoted as talking about basketball but his other comments--about trade, bilateral relations and China's rise--add virtually nothing to what he said previously on three-day visit; page containing interview is missing from edition delivered to Western news outlets in Beijing; weekly's Web site does not display interview with any prominence and primary Internet portals are ordered to ignore it (M)",
+        "headline": {"main": "In Obama Interview With a Chinese Newspaper, Signs of Beijing's Heavy Hand"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "OBAMA, BARACK"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "SOUTHERN WEEKLY"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWSPAPERS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF THE PRESS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2009-11-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/11/20/world/asia/20china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Authorities appeared to carefully monitor how President Obama\u2019s words were transmitted to China\u2019s public, even in a newspaper known for its press-the-envelope approach.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "LaFRANIERE",
+              "role": "reported",
+              "firstname": "Sharon"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "ANSFIELD",
+              "role": "reported",
+              "firstname": "Jonathan"
+            }
+          ],
+          "original": "By SHARON LaFRANIERE and JONATHAN ANSFIELD; Zhang Jing and Li Bibo contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd28c9a8eb7c8105d8616cd",
+        "source": "The New York Times",
+        "word_count": 701,
+        "lead_paragraph": "President Obama spent part of his last morning in Beijing giving an interview to Southern Weekly, a newspaper in Guangdong Province sometimes known for its push-the-envelope approach to the government's ever-present censorship. But if the White House expected a hard-hitting article that showcased the United States' commitment to press freedom, it must have been disappointed when the newspaper hit the stands on Thursday."
+      },
+      {
+        "abstract": "State-run magazine in China publishes expose on secret network of so-called black jails, detention centers used to prevent citizens from lodging complaints of corruption; details how those who come to Beijing hoping authorities will resolve grievances are locked away for days or weeks and sometimes beaten; they are then shipped back home with warning to stay away from capital; human rights advocates express hope that article is sign that Chinese government is ready to close down black jails, existence of which it has long denied; photo (M)",
+        "headline": {"main": "A Rare Chinese Look at Secret Detentions"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DETAINEES"
+          },
+          {
+            "name": "subject",
+            "value": "PRISONS AND PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "SHUTDOWNS (INSTITUTIONAL)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "ETHICS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2009-11-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2009/11/27/world/asia/27china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A state-run magazine has published an article detailing a secret network of detention centers that are intended to prevent citizens from complaining to the government.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Zhang Jing contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2009/11/27/world/27china01/thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2009/11/27/world/27china01/thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 260,
+            "width": 395,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2009/11/27/world/27china01/sfSpan.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 260,
+              "xlarge": "images/2009/11/27/world/27china01/sfSpan.jpg",
+              "xlargewidth": 395
+            }
+          }
+        ],
+        "_id": "4fd28c9b8eb7c8105d86178d",
+        "source": "The New York Times",
+        "word_count": 482,
+        "lead_paragraph": "In a rare dose of candor that contradicts past official statements, a state-run magazine has published an article that details a secret network of detention centers used to prevent aggrieved citizens from lodging complaints against the Chinese government. Liaowang, or Outlook, a dependably stodgy publication aimed at Communist Party bureaucrats and policy makers, ran an exposé on Tuesday laying out the Byzantine network of interceptors, guards and holding pens used to put off the petitioners who flock to Beijing in the hope that the authorities will resolve longstanding grievances, many of them involving official corruption in their hometowns."
+      },
+      {
+        "abstract": "Even as other potential buyers circle Saab, Beijing Automotive Industry Holding has struck a tentative agreement for the right to produce several of the beleaguered Swedish manufacturer's models, The New York Times reported.",
+        "headline": {
+          "kicker": "DealBook",
+          "main": "Chinese Firm Strikes Deal to Produce Saab Models"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Mergers, Acquisitions and Divestitures"
+          },
+          {
+            "rank": "10",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Automobiles"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Rennert, Ira"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "Ford Motor Co"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "organizations",
+            "value": "General Motors"
+          },
+          {
+            "rank": "7",
+            "name": "organizations",
+            "value": "Koenigsegg Automotive"
+          },
+          {
+            "rank": "13",
+            "name": "glocations",
+            "value": "Sweden"
+          },
+          {
+            "rank": "8",
+            "name": "organizations",
+            "value": "Saab Automobile AB"
+          },
+          {
+            "rank": "9",
+            "name": "organizations",
+            "value": "Volvo Car Corp"
+          },
+          {
+            "rank": "12",
+            "name": "glocations",
+            "value": "Detroit (Mich)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2009-12-13T13:19:02Z",
+        "web_url": "http://dealbook.nytimes.com/2009/12/13/chinese-firm-strikes-deal-to-produce-saab-models/",
+        "news_desk": null,
+        "snippet": "Even as other potential buyers circle Saab, Beijing Automotive Industry Holding has struck a tentative agreement for the right to produce several of the beleaguered Swedish manufacturer's models, The New York Times reported.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Business Day",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By DEALBOOK"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd398478eb7c8105d8d25c5",
+        "source": "The New York Times",
+        "word_count": 566,
+        "lead_paragraph": "Even as other potential buyers circle Saab, Beijing Automotive Industry Holding has struck a tentative agreement for the right to produce several of the beleaguered Swedish manufacturer's models, Nelson D. Schwartz of The New York Times reported Sunday."
+      }
+    ],
+    "meta": {
+      "time": 12,
+      "hits": 62,
+      "offset": 50
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

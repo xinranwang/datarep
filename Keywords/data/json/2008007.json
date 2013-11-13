@@ -1,0 +1,1081 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {
+          "sub": "Beijing's New Airport Terminal",
+          "main": "Welcomed In by a Dragon"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Airports",
+            "is_major": "N"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-04-30T11:32:16Z",
+        "web_url": "http://www.nytimes.com/video/2008/04/30/business/worldbusiness/1194817113435/welcomed-in-by-a-dragon.html",
+        "news_desk": "Business Day / World Business",
+        "snippet": "The Beijing Capital International Airport is the latest record-breaking infrastructure project to be unveiled ahead of the 2008 Olympics.",
+        "type_of_material": "Video",
+        "blog": [],
+        "section_name": "Business Day",
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": "World Business",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2008/04/30/business/worldbusiness/2898_1_airport_2_p2_xml.190x126.fr.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2008/04/30/business/worldbusiness/2898_1_airport_2_p2_xml.190x126.fr.jpg"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2008/04/30/business/worldbusiness/2898_1_airport_2_p2_xml.75x75.fr.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/04/30/business/worldbusiness/2898_1_airport_2_p2_xml.75x75.fr.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "523b5d4338f0d8198973a49a",
+        "source": "The New York Times",
+        "word_count": "19",
+        "lead_paragraph": "The Beijing Capital International Airport is the latest record-breaking infrastructure project to be unveiled ahead of the 2008 Olympics."
+      },
+      {
+        "abstract": "There are few low-key protests around China during first day of planned boycott against Carrefour, French supermarket chain in Beijing; many Carrefour outlets do healthy business; Chinese consumers have been urged to avoid stores as punishment for what China considers France's shabby reception of Olympic torch; photo (M)",
+        "headline": {"main": "Despite Boycott Threat, a French Retailer's Aisles Are Far From Empty in China"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "FRANCE"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CARREFOUR SA"
+          },
+          {
+            "name": "subject",
+            "value": "SUPERMARKETS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "BOYCOTTS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "RETAIL STORES AND TRADE"
+          },
+          {
+            "name": "subject",
+            "value": "FOOD"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2008-05-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/02/world/asia/02china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "They came. They expressed patriotic fervor. Then they shopped. Carrefour, a French department store chain, did a brisk business despite protests and a planned boycott.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS; Edward Wong contributed reporting, and Yuanxi Huang contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/05/01/world/01china-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/05/01/world/01china-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/05/01/world/01china-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2008/05/01/world/01china-600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/05/01/world/01china-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/05/01/world/01china-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd27a358eb7c8105d83e088",
+        "source": "The New York Times",
+        "word_count": 1003,
+        "lead_paragraph": "They came. They expressed patriotic fervor. Then they shopped. On Thursday, the first day of a planned boycott against Carrefour, a French retail chain here, there were a few low-key protests around the country, but many Carrefour outlets did a healthy business in peanut oil, petit fours and family packs of litchi juice."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "In China, an Airport Colossus for the Olympics "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "AIRPORTS"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-05-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2008/05/02/business/0502airport_index.html",
+        "news_desk": null,
+        "snippet": "The recently completed Terminal 3 at Beijing Capital International Airport was designed and completed in record time for the Summer Olympics.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a89a51c22dfde670c2b3a",
+        "source": null,
+        "word_count": 25,
+        "lead_paragraph": "The recently completed Terminal 3 at Beijing Capital International Airport was designed and completed in record time for the Summer Olympics."
+      },
+      {
+        "abstract": "Beijing airport's new Terminal 3 is largest building in world; massive glass- and steel-sheathed structure, designed by Norman Foster, cost $3.8 billion and can handle more than 50 million passengers each year; terminal opened in late February with little fanfare and few glitches; this is image China would like to project as it hosts Olympic Games--confident rising power constructing dazzling monuments exemplifying its rapid progress and its audacious ambition; main Olympic stadium is already widely admired for its striking appearance; nearby National Aquatics Center, known as Water Cube, is translucent blue bubble that glows in dark; east of main Olympic areas, construction is winding down on new headquarters of country's main state television network, China Central Television, or CCTV; photos (L)",
+        "headline": {"main": "Going All Out for the Games"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "FOSTER, NORMAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINA CENTRAL TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          },
+          {
+            "name": "subject",
+            "value": "NATIONAL AQUATICS CENTER (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "AIRPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "BUILDING (CONSTRUCTION)"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "STADIUMS AND ARENAS"
+          },
+          {
+            "name": "subject",
+            "value": "AQUARIUMS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "STATIONS AND TERMINALS (PASSENGER)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-05-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/02/business/worldbusiness/02terminal.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "The $3.8 billion structure, the latest in China\u2019s Olympic works, can handle more than 50 million fliers a year.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "2",
+            "height": 700,
+            "width": 750,
+            "caption": "In China, an Airport Colossus for the Olympics",
+            "type": "Slideshow",
+            "credit": "The recently completed Terminal 3 at Beijing Capital International Airport was designed and completed in record time for the Summer Olympics.",
+            "url": "http://www.nytimes.com/slideshow/2008/05/02/business/0502airport_index.html",
+            "legacy": {
+              "MultimediaSummary2": "The recently completed Terminal 3 at Beijing Capital International Airport was designed and completed in record time for the Summer Olympics.",
+              "MultimediaPopupWidth2": "750",
+              "MultimediaType2": "Slideshow",
+              "MultimediaPopupHeight2": "700",
+              "MultimediaUrl2": "http://www.nytimes.com/slideshow/2008/05/02/business/0502airport_index.html",
+              "MultimediaHeadline2": "In China, an Airport Colossus for the Olympics"
+            }
+          },
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 820,
+            "caption": "Welcomed In by a Dragon",
+            "type": "External",
+            "credit": "A new terminal at the Beijing Capital International Airport is the latest enormous Chinese infrastructure project built in preparation for the 2008 Olympics.",
+            "url": "http://video.on.nytimes.com/?fr_story=7b1fb8e417f0cf2b4fff38029301949f65875968",
+            "legacy": {
+              "MultimediaSummary1": "A new terminal at the Beijing Capital International Airport is the latest enormous Chinese infrastructure project built in preparation for the 2008 Olympics.",
+              "MultimediaPopupWidth1": "820",
+              "MultimediaType1": "External",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Welcomed In by a Dragon",
+              "MultimediaUrl1": "http://video.on.nytimes.com/?fr_story=7b1fb8e417f0cf2b4fff38029301949f65875968"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/05/01/business/worldbusiness/01terminal75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/05/01/business/worldbusiness/01terminal75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 340,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/05/01/business/worldbusiness/01terminal600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 340,
+              "xlarge": "images/2008/05/01/business/worldbusiness/01terminal600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/05/01/business/worldbusiness/02airport-337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/05/01/business/worldbusiness/02airport-337.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd283278eb7c8105d851276",
+        "source": "The New York Times",
+        "word_count": 1466,
+        "lead_paragraph": "Beijing airport's new Terminal 3 -- twice the size of the Pentagon -- is the largest building in the world. Adorned with the colors of imperial China and a roof that evokes the scales of a dragon, the massive glass- and steel-sheathed structure, designed by the renowned British architect Norman Foster, cost $3.8 billion and can handle more than 50 million passengers a year. The developers call it the ''most advanced airport building in the world,'' and say it was completed in less than four years, a timetable some believed impossible."
+      },
+      {
+        "abstract": "Foreign Min James Huang of Taiwan and two other top officials resign over botched attempt to win diplomatic recognition from Papua New Guinea; scandal has stirred public outrage against departing government just two weeks before it is to step down; Taiwan is embarrassed by public disclosure that about $30 million, which had been intended for Papua New Guinea in exchange for its switching diplomatic allegiance from China, has disappeared; photo (M)",
+        "headline": {"main": "3 Taiwan Officials Quit in Diplomatic Furor"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN SHUI-BIAN"
+          },
+          {
+            "name": "persons",
+            "value": "HUANG, JAMES"
+          },
+          {
+            "name": "glocations",
+            "value": "PAPUA NEW GUINEA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SUSPENSIONS, DISMISSALS AND RESIGNATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "FRAUDS AND SWINDLING"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ETHICS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2008-05-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/07/world/asia/07taiwan.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The foreign minister of Taiwan and two other top officials resigned over a botched attempt to win diplomatic recognition from Papua New Guinea.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ADAMS",
+            "role": "reported",
+            "firstname": "Jonathan"
+          }],
+          "original": "By JONATHAN ADAMS"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/05/07/world/07taiwan-span-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/05/07/world/07taiwan-span-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 317,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/05/07/world/07taiwan-span-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 317,
+              "xlarge": "images/2008/05/07/world/07taiwan-span-600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd295b58eb7c8105d870d91",
+        "source": "The New York Times",
+        "word_count": 497,
+        "lead_paragraph": "The foreign minister of Taiwan and two other top officials resigned on Tuesday over a botched attempt to win diplomatic recognition from Papua New Guinea, a scandal that has stirred public outrage against the departing government just two weeks before it is to step down. Taipei was embarrassed by the public disclosure that about $30 million, which had been intended for Papua New Guinea in exchange for its switching diplomatic allegiance from Beijing, had disappeared."
+      },
+      {
+        "abstract": "Chinese health officials , responding to continued spread of hand, foot and mouth disease, issues new regulations requiring all health care providers to report new cases of disease, which has killed 28 children in past two months, most of them in Anhui Province; several new cases are reported in Beijing (S)",
+        "headline": {
+          "kicker": "WORLD BUSINESS BRIEFING | ASIA",
+          "main": "China: Rushing To Track Children's Disease"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "ANHUI PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "LIVESTOCK"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+          },
+          {
+            "name": "subject",
+            "value": "LIVESTOCK DISEASES"
+          },
+          {
+            "name": "subject",
+            "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+          },
+          {
+            "name": "subject",
+            "value": "FOOT-AND-MOUTH DISEASE"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2008-05-08T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9806E7DF143DF93BA35756C0A96E9C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "Health officials in China, responding to the continued spread of hand, foot and mouth disease, a dangerous intestinal virus, issued new regulations requiring all health care providers to report new cases of the disease, which has killed 28 children i",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b32e8eb7c8105d8a4c5a",
+        "source": "The New York Times",
+        "word_count": 65,
+        "lead_paragraph": "Health officials in China, responding to the continued spread of hand, foot and mouth disease, a dangerous intestinal virus, issued new regulations requiring all health care providers to report new cases of the disease, which has killed 28 children in the past two months, most of them in central Anhui Province. Several new cases were reported in Beijing this week."
+      },
+      {
+        "abstract": "Memo Pad column; General Aviation Manufacturers Assn says there were 297 business jet deliveries in first quarter, 40.8 percent increase over 211 shipped in first quarter of 2007; British Airways plans to move eight additional long-haul flights into its new Terminal 5 from Terminal 4 at Heathrow Airport on June 5; Southwest Airlines is adding three new destinations and five new nonstop routes at Denver International Airport; JetBlue is delaying start of service at Los Angeles International Airport because of rising fuel costs; Korean Air says increases in first- and business-class traffic helped raise first-quarter revenue by 11.5 percent; United Airlines plans to begin nonstop routes between Washington Dulles and Dubai and Moscow on Oct 26; Northwest Airlines plans daily service between Seattle and Beijing beginning March 1 (M)",
+        "headline": {"main": "Memo Pad"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "GREAT BRITAIN"
+          },
+          {
+            "name": "glocations",
+            "value": "MOSCOW (RUSSIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "LOS ANGELES (CALIF)"
+          },
+          {
+            "name": "glocations",
+            "value": "SEATTLE (WASH)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "DUBAI"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED AIRLINES"
+          },
+          {
+            "name": "organizations",
+            "value": "BRITISH AIRWAYS"
+          },
+          {
+            "name": "organizations",
+            "value": "GENERAL AVIATION MANUFACTURERS ASSN"
+          },
+          {
+            "name": "organizations",
+            "value": "KOREAN AIR LINES"
+          },
+          {
+            "name": "organizations",
+            "value": "SOUTHWEST AIRLINES"
+          },
+          {
+            "name": "organizations",
+            "value": "JETBLUE AIRWAYS"
+          },
+          {
+            "name": "organizations",
+            "value": "NORTHWEST AIRLINES"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          },
+          {
+            "name": "subject",
+            "value": "DENVER INTERNATIONAL AIRPORT"
+          },
+          {
+            "name": "subject",
+            "value": "AIRPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+          },
+          {
+            "name": "subject",
+            "value": "WASHINGTON DULLES INTERNATIONAL AIRPORT"
+          },
+          {
+            "name": "subject",
+            "value": "HEATHROW AIRPORT (LONDON)"
+          },
+          {
+            "name": "subject",
+            "value": "JET FUEL"
+          },
+          {
+            "name": "subject",
+            "value": "LOS ANGELES INTERNATIONAL AIRPORT"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "STATIONS AND TERMINALS (PASSENGER)"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2008-05-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/13/business/13memopad.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "News about the airlines.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SHARKEY",
+            "role": "reported",
+            "firstname": "Joe"
+          }],
+          "original": "By JOE SHARKEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b32f8eb7c8105d8a4cc4",
+        "source": "The New York Times",
+        "word_count": 441,
+        "lead_paragraph": "BUSINESS JET BOOM Business jet deliveries, which were at record levels last year, continued to be robust in the first quarter of this year, with 297 shipments, a 40.8 percent increase over the 211 shipped in the first quarter of 2007, according to the General Aviation Manufacturers Association. Last year, 1,138 business jets were delivered to customers in the United States and abroad. MORE MOVES AT HEATHROW British Airways plans to move eight additional long-haul flights into its new Terminal 5 from Terminal 4 at Heathrow Airport on June 5. The increase in flights using Terminal 5 was delayed after the chaotic opening of the terminal in March. The new flights include those between Heathrow and Kennedy International Airport."
+      },
+      {
+        "abstract": "Powerful earthquake strikes southwestern China, toppling thousands of homes, factories and offices, trapping students in schools and killing at least 10,000 people; it is country's worst disaster since 1976 quake leveled Tangshan in eastern China; quake is estimated to have had magnitude of 7.9; area affected is mountainous region outside Chengdu, capital of Sichuan Province; 80 percent of structures near epicenter are destroyed; tremors are felt as far away as Vietnam and set off another quake in outskirts of Beijing; landslides, power failures and fallen mobile phone towers leave much of affected area cut off from outside world, but snapshots of concentratated devastation suggest that death toll could rise significantly as rescue workers reach heavily damaged towns; at least two large schools, each with nearly 1,000 students, are reduced to rubble, setting off frantic search for survivors; officials mobilize 50,000 soldiers to help with rescue efforts; quake is latest in series of events that have disrupted China's planning for Olympic Games; local leaders may face scrutiny of compliance with building codes, which were put in place after 1976 earthquake that killed 240,000 people; people huddle together, too fearful of aftershocks to go indoors; relatively vigorous flow of information and fast response from top officials and rescue workers is in stark contrast to how military junta in neighboring Myanmar has handled aftermath of giant cyclone that killed 32,000 people earlier in month; photos; maps; chart (M)",
+        "headline": {"main": "Powerful Quake Ravages China, Killing Thousands"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WEN JIABAO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHENGDU (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "MYANMAR"
+          },
+          {
+            "name": "glocations",
+            "value": "TANGSHAN (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "SICHUAN PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "VIETNAM"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CATHAY PACIFIC AIRWAYS"
+          },
+          {
+            "name": "subject",
+            "value": "ACCIDENTS AND SAFETY"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          },
+          {
+            "name": "subject",
+            "value": "CELLULAR TELEPHONES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "DAMS AND DIKES"
+          },
+          {
+            "name": "subject",
+            "value": "THREE GORGES DAM (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "RESCUES"
+          },
+          {
+            "name": "subject",
+            "value": "DISASTERS"
+          },
+          {
+            "name": "subject",
+            "value": "WIRELESS COMMUNICATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "BLACKOUTS AND BROWNOUTS (ELECTRICAL)"
+          },
+          {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "HURRICANES AND TROPICAL STORMS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-05-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/13/world/asia/13china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "An earthquake struck in China, toppling thousands of buildings and killing at least 10,000 people.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "HOOKER",
+              "role": "reported",
+              "firstname": "Jake"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "YARDLEY",
+              "role": "reported",
+              "firstname": "Jim"
+            }
+          ],
+          "original": "By JAKE HOOKER and JIM YARDLEY; Jake Hooker reported from Chengdu, and Jim Yardley from Beijing. Ed Wong contributed reporting from Chengdu, Andrew Jacobs from Beijing and Keith Bradsher from Hong Kong. Zhang Jing contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "2",
+            "height": 700,
+            "width": 750,
+            "caption": "Digging Through the Disaster",
+            "type": "Slideshow",
+            "credit": "The earthquake in southwestern China on Monday killed at 10,000 people, including many children whose school buildings collapsed.",
+            "url": "http://www.nytimes.com/slideshow/2008/05/13/world/0513-CHINA_index.html",
+            "legacy": {
+              "MultimediaSummary2": "The earthquake in southwestern China on Monday killed at 10,000 people, including many children whose school buildings collapsed.",
+              "MultimediaPopupWidth2": "750",
+              "MultimediaType2": "Slideshow",
+              "MultimediaPopupHeight2": "700",
+              "MultimediaUrl2": "http://www.nytimes.com/slideshow/2008/05/13/world/0513-CHINA_index.html",
+              "MultimediaHeadline2": "Digging Through the Disaster"
+            }
+          },
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 820,
+            "caption": "Earthquake in Sichuan Province",
+            "type": "External",
+            "credit": "Interactive map showing the extent of the most damaged areas from the 7.9 magnitude earthquake in Western China.",
+            "url": "http://www.nytimes.com/interactive/2008/05/12/world/05132008_CHINA_MAP.html",
+            "legacy": {
+              "MultimediaSummary1": "Interactive map showing the extent of the most damaged areas from the 7.9 magnitude earthquake in Western China.",
+              "MultimediaPopupWidth1": "820",
+              "MultimediaType1": "External",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Earthquake in Sichuan Province",
+              "MultimediaUrl1": "http://www.nytimes.com/interactive/2008/05/12/world/05132008_CHINA_MAP.html"
+            }
+          },
+          {
+            "rank": "3",
+            "height": 700,
+            "width": 750,
+            "caption": "Powerful Earthquake Hits China",
+            "type": "Slideshow",
+            "credit": "A powerful earthquake struck a mountainous region of western China on Monday, killing several thousand people and trapping more than 900 students beneath a collapsed high school.",
+            "url": "http://www.nytimes.com/slideshow/2008/05/12/world/0512-CHINA_index.html",
+            "legacy": {
+              "MultimediaPopupWidth3": "750",
+              "MultimediaPopupHeight3": "700",
+              "MultimediaHeadline3": "Powerful Earthquake Hits China",
+              "MultimediaType3": "Slideshow",
+              "MultimediaSummary3": "A powerful earthquake struck a mountainous region of western China on Monday, killing several thousand people and trapping more than 900 students beneath a collapsed high school.",
+              "MultimediaUrl3": "http://www.nytimes.com/slideshow/2008/05/12/world/0512-CHINA_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/05/13/world/13quake.751.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/05/13/world/13quake.751.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/05/13/world/13quake.xlarge1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2008/05/13/world/13quake.xlarge1.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd283288eb7c8105d851397",
+        "source": "The New York Times",
+        "word_count": 1526,
+        "lead_paragraph": "A powerful earthquake struck southwestern China on Monday, toppling thousands of homes, factories and offices, trapping students in schools, and killing at least 10,000 people, the country's worst natural disaster in three decades. The quake, which was estimated preliminarily to have had a magnitude of 7.9, ravaged a mountainous region outside Chengdu, capital of Sichuan Province, just after lunchtime Monday, destroying 80 percent of structures in some of the towns and small cities near its epicenter, Chinese officials said. Its tremors were felt as far away as Vietnam and set off another, smaller quake in the outskirts of Beijing, 900 miles away."
+      },
+      {
+        "abstract": "Nicholas D Kristof Op-Ed column describes secret meeting he had with several Tibetan monks who, he says, are desperate to get truth out to world about beatings and torture at hands of Chinese; says people are too frightened now to mount any more protests, especially with Olympic Games looming; says even though living standards of Tibetans have improved under Chinese rule, quest for freedom to worship Dalai Lama has been denied; urges Pres Bush to encourage China to negotiate seriously with Tibet and to communicate to Chinese leaders that negotiation is sign of strength, not indication of weakness (M)",
+        "headline": {
+          "kicker": "OP-ED COLUMNIST",
+          "main": "The Terrified Monks"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "glocations",
+            "value": "LHASA (TIBET)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "MARTIAL LAW"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF RELIGION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "29",
+        "pub_date": "2008-05-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/05/15/opinion/15kristof.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "When President Bush visits China for the Olympics, he should strongly encourage serious negotiations between Beijing and the Dalai Lama.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "caption": "A Historical Tibet",
+            "type": "Slideshow",
+            "credit": "In Gansu and Qinghai Provinces of China, Nicholas D. Kristof encounters Tibetan herders and monks.",
+            "url": "http://www.nytimes.com/slideshow/2008/05/15/opinion/20080515_kristof_index.html",
+            "legacy": {
+              "MultimediaSummary1": "In Gansu and Qinghai Provinces of China, Nicholas D. Kristof encounters Tibetan herders and monks.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "A Historical Tibet",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2008/05/15/opinion/20080515_kristof_index.html"
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/05/15/opinion/kristof2.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2008/05/15/opinion/kristof2.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2b32f8eb7c8105d8a4ce1",
+        "source": "The New York Times",
+        "word_count": 792,
+        "lead_paragraph": "This is historical Tibet, a land of jutting mountains, sculptures made of yak butter, and serene monks in red robes spinning golden prayer wheels in ancient monasteries."
+      },
+      {
+        "abstract": "Two children die of intestinal virus in Beijing; has killed 42 children and infected almost 25,000 others; outbreak began in early March and has been spreading beyond Anhui Province (S)",
+        "headline": {
+          "kicker": "WORLD BRIEFING | ASIA",
+          "main": "China: Virus Kills 2 Children In Beijing"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "ANHUI PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "VIRUSES"
+          },
+          {
+            "name": "subject",
+            "value": "DIGESTIVE TRACT"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2008-05-15T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9900E0D81139F936A25756C0A96E9C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "In the first reported deaths in the capital, two children have died of an intestinal virus that has killed 42 children and infected almost 25,000 others, according to Xinhua, the official news agency. The number of those infected has more than double",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd265468eb7c8105d81974e",
+        "source": "The New York Times",
+        "word_count": 66,
+        "lead_paragraph": "In the first reported deaths in the capital, two children have died of an intestinal virus that has killed 42 children and infected almost 25,000 others, according to Xinhua, the official news agency. The number of those infected has more than doubled in the last week. The virus has been spreading beyond central Anhui Province, where the outbreak began in early March."
+      }
+    ],
+    "meta": {
+      "time": 7,
+      "hits": 367,
+      "offset": 70
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,785 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "For the average traveler passing through Munich and Beijing, which airport feels more like the product of an authoritarian society?",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Where Europe Trails Asia: The Airport Experience"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Munich (Germany)"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Germany"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Customer Relations"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Airports"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-08-02T21:49:44Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/08/02/where-europe-trails-asia-the-airport-experience/",
+        "news_desk": null,
+        "snippet": "For the average traveler passing through Munich and Beijing, which airport feels more like the product of an authoritarian society?",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "501becf21c22dfde670b3eaf",
+        "source": "The New York Times",
+        "word_count": 826,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Whether you've spent the last two weeks watching the Olympics or lounging at the beach, chances are you've thought about how to improve your own fitness. There's an app for that.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Favorite Fitness Apps: Beijing Edition"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Mobile Applications"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Exercise"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-08-10T19:30:11Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/08/10/favorite-fitness-apps-beijing-edition/",
+        "news_desk": null,
+        "snippet": "Whether you've spent the last two weeks watching the Olympics or lounging at the beach, chances are you've thought about how to improve your own fitness. There's an app for that.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SIMS",
+            "role": "reported",
+            "firstname": "Tom"
+          }],
+          "original": "By TOM SIMS"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "502599c41c22dfde670b5710",
+        "source": "The New York Times",
+        "word_count": 341,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "The bad air, the unsafe food, the high-pressure schools - they have worn out two prominent expatriates, a dissident artist and increasing numbers of the Chinese elite. Daily life for many in China's proliferating mega-cities is getting ever more unhealthy and increasingly unbearable.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Heading for the Exits in China"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Ai Weiwei"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Food Contamination and Poisoning"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Air Pollution"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-08-15T01:19:19Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/08/15/heading-for-the-exits-in-china/",
+        "news_desk": null,
+        "snippet": "The bad air, the unsafe food, the high-pressure schools - they have worn out two prominent expatriates, a dissident artist and increasing numbers of the Chinese elite. Daily life for many in China's proliferating mega-cities is getting ever more unhe",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "502b32a61c22dfde670b6056",
+        "source": "The New York Times",
+        "word_count": 1083,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "As Chinese Valentine's Day nears, preparations for matchmaking events are picking up. Never mind chemistry, though, what counts is money and connections.",
+        "headline": {
+          "kicker": "Latitude",
+          "main": "Romance With Chinese Characteristics"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Confucius"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Chengdu (China)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Reality Television"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Marriages"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Valentine's Day"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Single Persons"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Dating and Courtship"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Women and Girls"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-08-21T12:16:50Z",
+        "web_url": "http://latitude.blogs.nytimes.com/2012/08/21/romance-with-chinese-characteristics/",
+        "news_desk": null,
+        "snippet": "As Chinese Valentine's Day nears, preparations for matchmaking events are picking up. Never mind chemistry, though, what counts is money and connections.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SEBAG-MONTEFIORE",
+            "role": "reported",
+            "firstname": "Clarissa"
+          }],
+          "original": "By CLARISSA SEBAG-MONTEFIORE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5033b5301c22dfde670b6db2",
+        "source": "The New York Times",
+        "word_count": 710,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "As Growth Flags, China Shies From Stimulus"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "FACTORIES AND MANUFACTURING"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-09-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/09/04/business/global/as-growth-flags-china-shies-from-stimulus.html",
+        "news_desk": "Business Day / Global Business",
+        "snippet": "Beijing has been leery of unpleasant side effects amid a shaky global economy, analysts said, as more than two months\u2019 worth of disappointing data have not led to any policy changes.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WASSENER",
+            "role": "reported",
+            "firstname": "Bettina"
+          }],
+          "original": "By BETTINA WASSENER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5044a7ef1c22dfde670b84b7",
+        "source": "International Herald Tribune",
+        "word_count": 736,
+        "lead_paragraph": "HONG KONG -- As evidence has mounted that the Chinese economy is slowing, Beijing has kept the world on tenterhooks, delivering none of the big, headline-grabbing economic stimulus measures many analysts have predicted. Two months have passed since the last interest rate cut, and it looks increasingly as if the Chinese government is biding its time, avoiding measures that could reignite another investment binge of the sort that sent prices for property and other assets soaring in 2009 and 2010."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "ART",
+          "main": "At Either End of the Ceramics Route"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "GREAT BRITAIN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          },
+          {
+            "name": "subject",
+            "value": "CERAMICS AND POTTERY"
+          },
+          {
+            "name": "subject",
+            "value": "MUSEUMS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-09-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/09/04/arts/04iht-melvin04.html",
+        "news_desk": "Arts",
+        "snippet": "China's National Museum joins forces with two British museums to celebrate porcelain.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MELVIN",
+            "role": "reported",
+            "firstname": "Sheila"
+          }],
+          "original": "By SHEILA MELVIN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "http://www.nytimes.com/images/2012/09/04/arts/04iht-melvin04-pic1/04iht-melvin04-pic1-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "http://www.nytimes.com/images/2012/09/04/arts/04iht-melvin04-pic1/04iht-melvin04-pic1-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "5044b1b81c22dfde670b84c0",
+        "source": "International Herald Tribune",
+        "word_count": 1194,
+        "lead_paragraph": "BEIJING -- When the National Museum of China and the British Museum decided to collaborate on an exhibition here that would celebrate two important 2012 events -- the London Olympics and the Chinese museum's centennial -- they chose to focus on something that played a vital role in the fortunes of both nations: porcelain. ''China is incredibly proud that they found the technology to make porcelain,'' said Jan Stuart, head of the Asia department at the British Museum. ''They wanted to highlight that for the international and local audience.''"
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "MEMO FROM BEIJING",
+          "main": "As China Ages, Beijing Turns to Morality Tales to Spur Filial Devotion"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "THE 24 PARAGONS OF FILIAL PIETY (BOOK)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "COMMUNIST PARTY OF CHINA"
+          },
+          {
+            "name": "subject",
+            "value": "ELDERLY"
+          },
+          {
+            "name": "subject",
+            "value": "PARENTING"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND CHILDHOOD"
+          },
+          {
+            "name": "subject",
+            "value": "BOOKS AND LITERATURE"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2012-09-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/09/06/world/asia/beijing-updates-parables-the-24-paragons-of-filial-piety.html",
+        "news_desk": "World / Asia Pacific",
+        "snippet": "China\u2019s updated book of parables, \u201cThe 24 Paragons of Filial Piety,\u201d has drawn ridicule for not addressing the complexities of life that keep children from taking care of their parents.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Books; World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "JACOBS",
+              "role": "reported",
+              "firstname": "Andrew"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "CENTURY",
+              "role": "reported",
+              "firstname": "Adam"
+            }
+          ],
+          "original": "By ANDREW JACOBS and ADAM CENTURY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "http://www.nytimes.com/images/2012/09/06/world/alt-parents1/alt-parents1-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "http://www.nytimes.com/images/2012/09/06/world/alt-parents1/alt-parents1-thumbStandard-v2.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2012/09/06/world/alt-parents1/alt-parents1-articleLarge-v2.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2012/09/06/world/alt-parents1/alt-parents1-articleLarge-v2.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "5047da611c22dfde670b8be1",
+        "source": "The New York Times",
+        "word_count": 1088,
+        "lead_paragraph": "BEIJING -- Reading it now, six centuries after Guo Jujing wrote this paean to parental devotion, ''The 24 Paragons of Filial Piety'' comes off as a collection of scary bedtime stories. There is the woman who cut out her own liver to feed her sick mother, the boy who sat awake shirtless all night to draw mosquitoes away from his slumbering parents and the man who sold himself into servitude to pay for a father's funeral. While the parables are even more familiar to most Chinese than Grimm's Fairy Tales are to Americans -- the text remains a mainstay of educational curriculum here -- they have understandably lost much of their motivational punch."
+      },
+      {
+        "abstract": "Memo From Beijing; China\u2019s updated book of parables, The 24 Paragons of Filial Piety, has drawn ridicule for not addressing the complexities of life that keep children from taking care of their parents; good intentions have also unintentionally kicked up a debate on whether the government, not overextended children, should be looking after China\u2019s ballooning population of retirees.",
+        "headline": {
+          "seo": "Beijing Updates Parables, \u2018The 24 Paragons of Filial Piety\u2019",
+          "print_headline": "As China Ages, Beijing Turns to Morality Tales to Spur Filial Devotion",
+          "kicker": "Memo From Beijing",
+          "main": "As China Ages, Beijing Turns to Morality Tales to Spur Filial Devotion"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Children and Childhood",
+            "is_major": "N"
+          },
+          {
+            "rank": "8",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Elderly",
+            "is_major": "Y"
+          },
+          {
+            "rank": "7",
+            "name": "organizations",
+            "value": "Communist Party of China",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Books and Literature",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Parenting",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "2012-09-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/09/06/world/asia/beijing-updates-parables-the-24-paragons-of-filial-piety.html",
+        "news_desk": "Foreign",
+        "snippet": "China\u2019s updated book of parables, \u201cThe 24 Paragons of Filial Piety,\u201d has drawn ridicule for not addressing the complexities of life that keep children from taking care of their parents.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "JACOBS",
+              "role": "reported",
+              "firstname": "Andrew"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "CENTURY",
+              "role": "reported",
+              "firstname": "Adam"
+            }
+          ],
+          "contributor": "",
+          "original": "By ANDREW JACOBS and ADAM CENTURY"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 330,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2012/09/06/world/alt-parents1/alt-parents1-articleLarge-v2.jpg",
+            "legacy": {
+              "xlargeheight": "330",
+              "xlarge": "images/2012/09/06/world/alt-parents1/alt-parents1-articleLarge-v2.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2012/09/06/world/alt-parents1/alt-parents1-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2012/09/06/world/alt-parents1/alt-parents1-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "515d9b3ccf28d0219d000328",
+        "source": "The New York Times",
+        "word_count": "1084",
+        "lead_paragraph": "China\u2019s updated book of parables, \u201cThe 24 Paragons of Filial Piety,\u201d has drawn ridicule for not addressing the complexities of life that keep children from taking care of their parents."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "Op-Ed Contributor",
+          "main": "The Missing Mr. Xi and the Price of Official Secrecy"
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Politics and Government"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Xi Jinping"
+          }
+        ],
+        "print_page": "",
+        "pub_date": "2012-09-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/09/18/opinion/the-missing-mr-xi-and-the-price-of-official-secrecy.html",
+        "news_desk": "Opinion",
+        "snippet": "The ruling bureaucracy is ill-adapted to rule an increasingly complex country with a global role.",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FENBY",
+            "role": "reported",
+            "firstname": "Jonathan"
+          }],
+          "original": "By JONATHAN FENBY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 385,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2012/09/17/opinion/global/17-iht-fenby-art/17-iht-fenby-art-articleLarge-v4.jpg",
+            "legacy": {
+              "xlargeheight": "385",
+              "xlarge": "images/2012/09/17/opinion/global/17-iht-fenby-art/17-iht-fenby-art-articleLarge-v4.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2012/09/17/opinion/global/17-iht-fenby-art/17-iht-fenby-art-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2012/09/17/opinion/global/17-iht-fenby-art/17-iht-fenby-art-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "505739b61c22dfde670c914b",
+        "source": "International Herald Tribune",
+        "word_count": 1045,
+        "lead_paragraph": "The ruling bureaucracy is ill-adapted to rule an increasingly complex country with a global role."
+      },
+      {
+        "abstract": "Video of Chinese protesters in Beijing surrounding the American ambassador's car on Tuesday was uploaded to YouTube by Ai Weiwei, a Chinese artist and dissident.",
+        "headline": {
+          "kicker": "The Lede",
+          "main": "Ai, Reporter"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Ai Weiwei"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Instagram Inc"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Twitter"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "YouTube.com"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Diplomatic Service, Embassies and Consulates"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Demonstrations, Protests, and Riots"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "United States International Relations"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Social Networking (Internet)"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Video Recordings and Downloads"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-09-19T18:08:58Z",
+        "web_url": "http://thelede.blogs.nytimes.com/2012/09/19/ai-reporter/",
+        "news_desk": null,
+        "snippet": "Video of Chinese protesters in Beijing surrounding the American ambassador's car on Tuesday was uploaded to YouTube by Ai Weiwei, a Chinese artist and dissident.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": null,
+        "document_type": "blogpost",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "MACKEY",
+              "role": "reported",
+              "firstname": "Robert"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "HAUSER",
+              "role": "reported",
+              "firstname": "Christine"
+            }
+          ],
+          "original": "By ROBERT MACKEY and CHRISTINE HAUSER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "505a46911c22dfde670c9b23",
+        "source": "The New York Times",
+        "word_count": 432,
+        "lead_paragraph": null
+      }
+    ],
+    "meta": {
+      "time": 10,
+      "hits": 167,
+      "offset": 130
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

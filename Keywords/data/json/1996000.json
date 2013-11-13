@@ -1,0 +1,209 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Detroit-Beijing Flights"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "DETROIT (MICH)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING, CHINA"
+          },
+          {
+            "name": "organizations",
+            "value": "NORTHWEST AIRLINES"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          }
+        ],
+        "print_page": "17",
+        "pub_date": "1996-01-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1996/01/05/business/detroit-beijing-flights.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Northwest Airlines will begin offering nonstop flights to Beijing from Detroit on May 1, becoming the first United States carrier to provide such service, the company said today. Minneapolis-based Northwest will begin service  with three flights a we",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Business",
+            "role": "reported",
+            "lastname": "News",
+            "firstname": "Bloomberg"
+          }],
+          "original": "By Bloomberg Business News"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2036f8eb7c8105d7698d7",
+        "source": "The New York Times",
+        "word_count": 56,
+        "lead_paragraph": "Northwest Airlines will begin offering nonstop flights to Beijing from Detroit on May 1, becoming the first United States carrier to provide such service, the company said today. Minneapolis-based Northwest will begin service with three flights a week in each direction. Northwest can increase that service to nine flights by 1998 under a United States-China agreement."
+      },
+      {
+        "abstract": "Bao Tong, highest-ranking Chinese Communist Party official jailed for actions during 1989 pro-democracy demonstration in Tiananmen Square, remains in isolated detention in hills near Beijing three months after release from prison; challenged Prime Min Li Peng and other hard-liners who advocated martial law to clear Square of thousands of protestors encamped there after crisis erupted (M)",
+        "headline": {"main": "Chinese Aide, Released From Prison, Is Still Held in Isolation"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BAO TONG"
+          },
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "1996-09-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1996/09/10/world/chinese-aide-released-from-prison-is-still-held-in-isolation.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Bao Tong's family says he would like to learn to play classical music on the piano and, at the age of 63, receive a thorough medical examination before getting on with his life after seven years in prison.    But three months after the release of Mr.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ccca8eb7c8105d703317",
+        "source": "The New York Times",
+        "word_count": 589,
+        "lead_paragraph": "Bao Tong's family says he would like to learn to play classical music on the piano and, at the age of 63, receive a thorough medical examination before getting on with his life after seven years in prison. But three months after the release of Mr. Bao, the highest-ranking Communist Party official jailed for his actions during the 1989 pro-democracy demonstrations at Tiananmen Square, he remains in isolated detention in the hills west of Beijing."
+      },
+      {
+        "abstract": "Frugal Traveler article on visiting Beijing, and finding her way through maze of streets and alleyways; photos; map (S)",
+        "headline": {
+          "kicker": "FRUGAL TRAVELER",
+          "main": "Lost Without Qualms in Beijing"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "1996-11-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1996/11/24/travel/lost-without-qualms-in-beijing.html",
+        "news_desk": "Travel Desk",
+        "snippet": "BEFORE I arrived in Beijing, I thought I was invincible. Like a bird dog in the woods, I could find my way around any city, as long as I had a map. I couldn't even remember what it felt like to be lost. But it all came rushing back to me when I got o",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SPANO",
+            "role": "reported",
+            "firstname": "Susan"
+          }],
+          "original": "By SUSAN SPANO"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd208da8eb7c8105d773f71",
+        "source": "The New York Times",
+        "word_count": 2554,
+        "lead_paragraph": "BEFORE I arrived in Beijing, I thought I was invincible. Like a bird dog in the woods, I could find my way around any city, as long as I had a map. I couldn't even remember what it felt like to be lost. But it all came rushing back to me when I got off a rattletrap airport bus on Jianguomennei Avenue in central Beijing one morning in early October. The 22-hour flight from New York (on Air China for $1,000 round trip) had left me groggy, of course, and the smog was unusually thick, even for Beijing, where many residents cook and heat with coal. Still, I felt sure that if I just walked a few blocks northwest I'd end up on Wangfujing Street, Beijing's main shopping artery, which would eventually lead me to the little Lu Song Yuan Hotel, where I'd booked a room by fax for 298 yuan, about $36, a night (calculating the yuan at 8.3 to the dollar)."
+      },
+      {
+        "abstract": "Correction of Frugal Traveler article Nov 24 on Beijing",
+        "headline": {"main": "Corrections"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CORRECTION STORIES"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1996-12-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1996/12/22/travel/c-corrections-815306.html",
+        "news_desk": "Travel Desk",
+        "snippet": "The Frugal Traveler column on Nov. 24, about Beijing, misstated the number of rooms in the Forbidden City. It is 9,000, not 900.",
+        "type_of_material": "Correction",
+        "blog": [],
+        "section_name": "Corrections",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1f7788eb7c8105d752811",
+        "source": "The New York Times",
+        "word_count": 23,
+        "lead_paragraph": "The Frugal Traveler column on Nov. 24, about Beijing, misstated the number of rooms in the Forbidden City. It is 9,000, not 900."
+      }
+    ],
+    "meta": {
+      "time": 66,
+      "hits": 4,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

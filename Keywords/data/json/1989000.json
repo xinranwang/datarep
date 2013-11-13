@@ -1,0 +1,527 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "China's Racial Unrest Spreads to Beijing Campus"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING UNIVERSITY"
+          },
+          {
+            "name": "subject",
+            "value": "BLACKS (NON-US)"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "RACIAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1989-01-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/01/04/world/china-s-racial-unrest-spreads-to-beijing-campus.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: China's racial unrest spread to Beijing today, with a march by Chinese students to protest what they said were assaults by African students on Chinese women.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd180bd8eb7c8105d67c778",
+        "source": "The New York Times",
+        "word_count": 696,
+        "lead_paragraph": "LEAD: China's racial unrest spread to Beijing today, with a march by Chinese students to protest what they said were assaults by African students on Chinese women."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "AFRICANS IN BEIJING BOYCOTT CLASSES"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "WUHAN (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BLACKS (NON-US)"
+          },
+          {
+            "name": "subject",
+            "value": "BOYCOTTS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1989-01-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/01/05/world/africans-in-beijing-boycott-classes.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: African students at a Beijing language institute began boycotting classes today to protest what they feel is racism in China, and interracial clashes were reported in another city after two weeks of racial unrest.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd199e98eb7c8105d6aa5ff",
+        "source": "The New York Times",
+        "word_count": 400,
+        "lead_paragraph": "LEAD: African students at a Beijing language institute began boycotting classes today to protest what they feel is racism in China, and interracial clashes were reported in another city after two weeks of racial unrest."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Journal; Freshest Nuance in China's Art Is (Blush) Nudes"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "XIE DONGMING"
+          },
+          {
+            "name": "subject",
+            "value": "NUDISM AND NUDITY"
+          },
+          {
+            "name": "subject",
+            "value": "ART SHOWS"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1989-01-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/01/09/world/beijing-journal-freshest-nuance-in-china-s-art-is-blush-nudes.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: In the 10 years since China opened up to the world, most Chinese encountered enough Coca-Cola, television, disco dancing and sunglasses to make them blase about most exotic imports from the Occident - until Beijing opened an exhibition of nude ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd180ba8eb7c8105d67c57f",
+        "source": "The New York Times",
+        "word_count": 1127,
+        "lead_paragraph": "LEAD: In the 10 years since China opened up to the world, most Chinese encountered enough Coca-Cola, television, disco dancing and sunglasses to make them blase about most exotic imports from the Occident - until Beijing opened an exhibition of nude art."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Police in China Close Art Show After Artist Shoots Her Work    ''That must be performance art too,'' an artist said. (AP)"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ART SHOWS"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1989-02-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/02/06/world/police-china-close-art-show-after-artist-shoots-her-work-that-must-be.html",
+        "news_desk": "Foreign Desk",
+        "snippet": null,
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a2418eb7c8105d6b89f4",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "At Bush's Beijing Villa, Marxists Pursue Profit"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL, PERSONAL"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1989-02-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/02/26/world/at-bush-s-beijing-villa-marxists-pursue-profit.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: As President Bush visits here this weekend, his lodgings will be testimony to China's growing interest in market economics.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd17dac8eb7c8105d677cf2",
+        "source": "The New York Times",
+        "word_count": 811,
+        "lead_paragraph": "LEAD: As President Bush visits here this weekend, his lodgings will be testimony to China's growing interest in market economics."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "'Blunder' at Beijing Dinner: U.S. Chides Embassy"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE"
+          },
+          {
+            "name": "persons",
+            "value": "FANG LIZHI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED STATES FOREIGN SERVICE"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CHINA-INTERNATIONAL RELATIONS-US"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL, PERSONAL"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1989-03-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/03/03/world/blunder-at-beijing-dinner-us-chides-embassy.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: A senior White House official said today that inviting a prominent Chinese dissident to a dinner in Beijing last week honoring the country's leaders had not been President Bush's idea, and he suggested that the resulting contretemps was the fau",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "W.",
+              "role": "reported",
+              "lastname": "APPLE",
+              "qualifier": "Jr.",
+              "firstname": "R."
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By R. W. APPLE Jr., Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd180c28eb7c8105d67cbe8",
+        "source": "The New York Times",
+        "word_count": 675,
+        "lead_paragraph": "LEAD: A senior White House official said today that inviting a prominent Chinese dissident to a dinner in Beijing last week honoring the country's leaders had not been President Bush's idea, and he suggested that the resulting contretemps was the fault of the American Embassy there."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Mao's Portrait in the Plaza: Is It Next to Go?"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "MAO ZEDONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "1989-03-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/03/12/world/mao-s-portrait-in-the-plaza-is-it-next-to-go.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: In a proposal laden with symbolism, one of China's most prominent architects has called for the removal of a giant portrait of Mao Zedong from its perch in the center of the capital.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a2088eb7c8105d6b81ef",
+        "source": "The New York Times",
+        "word_count": 701,
+        "lead_paragraph": "LEAD: In a proposal laden with symbolism, one of China's most prominent architects has called for the removal of a giant portrait of Mao Zedong from its perch in the center of the capital."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "WHAT'S DOING IN: Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "GEOGRAPHIC PROFILES"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1989-03-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/03/26/travel/what-s-doing-in-beijing.html",
+        "news_desk": "Travel Desk",
+        "snippet": "LEAD: As it sheds the chilly sandstorms and its wintry pall of coal dust, Beijing seems to go through a metamorphosis: the trees and grass in the parks and the bustling activity at temples and monuments and marketplaces light up the place the way col",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WuDUNN",
+            "role": "reported",
+            "firstname": "Sheryl"
+          }],
+          "original": "By SHERYL WuDUNN; SHERYL WuDUNN is a writer who lives in Beijing"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd183c08eb7c8105d681b10",
+        "source": "The New York Times",
+        "word_count": 2061,
+        "lead_paragraph": "LEAD: As it sheds the chilly sandstorms and its wintry pall of coal dust, Beijing seems to go through a metamorphosis: the trees and grass in the parks and the bustling activity at temples and monuments and marketplaces light up the place the way color brightens up a drab black and white picture."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "TO START WITH...",
+          "main": "China's Hotels Mean Business"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN INVESTMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "JOINT VENTURES AND CONSORTIUMS"
+          },
+          {
+            "name": "subject",
+            "value": "HOTELS AND MOTELS"
+          },
+          {
+            "name": "subject",
+            "value": "RATES"
+          }
+        ],
+        "print_page": "18",
+        "pub_date": "1989-04-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/04/02/magazine/to-start-with-china-s-hotels-mean-business.html",
+        "news_desk": "Business World Magazine",
+        "snippet": "LEAD: RETURNING TO HER room at the Great Wall Sheraton Hotel in Beijing last December, Margaret Z. Lee, a marketing specialist for Honeywell, was astonished to find what appeared to be gold coins twice as big as dollar pieces resting on her pillow. W",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Business; Magazine",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WUDUNN",
+            "role": "reported",
+            "firstname": "Sheryl"
+          }],
+          "original": "By SHERYL WUDUNN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd180bb8eb7c8105d67c63d",
+        "source": "The New York Times",
+        "word_count": 447,
+        "lead_paragraph": "LEAD: RETURNING TO HER room at the Great Wall Sheraton Hotel in Beijing last December, Margaret Z. Lee, a marketing specialist for Honeywell, was astonished to find what appeared to be gold coins twice as big as dollar pieces resting on her pillow. What impressed Lee, a frequent visitor to China from Honeywell's base in Hong Kong, was the size of the foil-wrapped chocolates."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Hu's Death Is Stirring Unrest"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU YAOBANG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          }
+        ],
+        "print_page": "38",
+        "pub_date": "1989-04-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/04/16/world/hu-s-death-is-stirring-unrest.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Hundreds of students, reacting in sadness and anger to the death of the former Communist Party leader Hu Yaobang, crowded in the dark tonight at Beijing University to pin up illegal posters and discuss the consequences for Chinese democracy.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a2028eb7c8105d6b7c91",
+        "source": "The New York Times",
+        "word_count": 454,
+        "lead_paragraph": "LEAD: Hundreds of students, reacting in sadness and anger to the death of the former Communist Party leader Hu Yaobang, crowded in the dark tonight at Beijing University to pin up illegal posters and discuss the consequences for Chinese democracy."
+      }
+    ],
+    "meta": {
+      "time": 50,
+      "hits": 187,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

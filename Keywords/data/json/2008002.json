@@ -1,0 +1,685 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Pictures of the Day, Feb. 22 "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": ""
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BALUCHISTAN (PAKISTAN)"
+          },
+          {
+            "name": "glocations",
+            "value": "KOSOVO"
+          },
+          {
+            "name": "glocations",
+            "value": "BELGRADE (SERBIA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "WEST BANK"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-02-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2008/02/22/nytfrontpage/20080222POD_index.html",
+        "news_desk": null,
+        "snippet": "A significant snowfall in the New York region; unrest continues along the border of Kosovo and Serbia, and Turkish troops cross the border into Iraq.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a89901c22dfde670c2a46",
+        "source": null,
+        "word_count": 28,
+        "lead_paragraph": "A significant snowfall in the New York region; unrest continues along the border of Kosovo and Serbia, and Turkish troops cross the border into Iraq."
+      },
+      {
+        "abstract": "Michelle Higgins Practical Traveler column offers tips on planning trip to Beijing Olympics; drawing (M)",
+        "headline": {
+          "kicker": "PRACTICAL TRAVELER | SUMMER OLYMPICS",
+          "main": "Not Too Late for a Dash to the Games"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2008-02-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/02/24/travel/24pracolympics.html",
+        "news_desk": "Travel Desk",
+        "snippet": "Procrastinators can still chase Olympic gold if they\u2019re willing to be flexible, spend a little more money and perhaps blend in with the locals.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "HIGGINS",
+            "role": "reported",
+            "firstname": "Michelle"
+          }],
+          "original": "By MICHELLE HIGGINS"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/02/20/travel/24prac75.1.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/02/20/travel/24prac75.1.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 328,
+            "width": 395,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/02/20/travel/24prac395.1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 328,
+              "xlarge": "images/2008/02/20/travel/24prac395.1.jpg",
+              "xlargewidth": 395
+            }
+          }
+        ],
+        "_id": "4fd2b23e8eb7c8105d8a348e",
+        "source": "The New York Times",
+        "word_count": 1183,
+        "lead_paragraph": "IT'S not too late to plan a trip to the Beijing Olympics. Sure, more than a million visitors are expected to visit during the Summer Games this August, and most tourist hotels are booked solid. But procrastinators can still chase Olympic gold if they're willing to be flexible, spend a little more money and perhaps blend in with the locals. Despite a major hotel boom that will add thousands of rooms to the city, most Beijing hotels are already sold out -- even ones that haven't yet opened, including a new Park Hyatt. And the 241-room Mandarin Oriental inside the dazzling Television Cultural Center has a waiting list for reservations."
+      },
+      {
+        "abstract": "China says that it will resume human rights dialogue with US, in move that appears to be aimed at countering criticism from activists ahead of Olympic Games in August; Sec of State Condoleezza Rice won agreement after discussions with Chinese officials in Beijing (M)",
+        "headline": {"main": "China Says It Will Resume Human Rights Talks"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "RICE, CONDOLEEZZA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "2008-02-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/02/27/world/asia/27china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The move to resume talks with the U.S. appeared to be aimed at countering criticism ahead of the Olympic Games in Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LAGUE",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID LAGUE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd265408eb7c8105d81912a",
+        "source": "The New York Times",
+        "word_count": 480,
+        "lead_paragraph": "China said Tuesday that it would resume a human rights dialogue with the United States, in a move that appeared to be aimed at countering criticism from activists ahead of the Olympic Games here in August. Secretary of State Condoleezza Rice won agreement to restart the talks after discussions with Chinese officials here on Tuesday on the second leg of a three-nation tour that began in South Korea and will end in Japan on Thursday."
+      },
+      {
+        "abstract": "General Electric is using Olympic Games in Beijing to prove to potential customers and shareholders in developed world that its creativity is translating into big sales in developing nations; is building imagination center in middle of Olympic Green, two-story building that is half fun house, half museum exhibit; is putting finishing touches on series of print ads and commercials that put Olympic spin on environmental issues in developing nations; photos (L)",
+        "headline": {
+          "kicker": "ADVERTISING",
+          "main": "To G.E., a Chinese Olympics Is Just Made for a Global Message"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "GENERAL ELECTRIC CO"
+          },
+          {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "THIRD WORLD AND DEVELOPING COUNTRIES"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-02-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/02/28/business/media/28adco.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "General Electric is hoping to make a big splash at the Olympics and prove that the company\u2019s creativity is translating into big sales in the developing world.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "H.",
+            "role": "reported",
+            "lastname": "DEUTSCH",
+            "firstname": "Claudia"
+          }],
+          "original": "By CLAUDIA H. DEUTSCH"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 982,
+          "width": 650,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2008/02/28/business/28ge.650.1.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 982,
+            "xlarge": "images/2008/02/28/business/28ge.650.1.jpg",
+            "xlargewidth": 650
+          }
+        }],
+        "_id": "4fd265408eb7c8105d819157",
+        "source": "The New York Times",
+        "word_count": 1185,
+        "lead_paragraph": "SO, how do you say ''Imagination at Work'' in Chinese? Actually, that is easy enough to answer -- just check the Chinese characters next to the General Electric logo in the ads on billboards, in newspapers and in airports throughout Beijing and Shanghai. With its ''Imagination at Work'' ad campaign into its fifth year, G.E. has the nuances of both the language and the concept down pat."
+      },
+      {
+        "abstract": "Prime Min Wen Jiabao says curbing fast-rising inflation and preventing economic overheating are China's top fiscal priorities for 2008; Wen, speaking at Communist Party-controlled legislative session of National People's Congress, also plans to create superministries empowering Beijing with greater control in carrying out government policy; photo (M)",
+        "headline": {"main": "China to Focus on Reducing Inflation, Prime Minister Says"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WEN JIABAO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "WATER POLLUTION"
+          },
+          {
+            "name": "subject",
+            "value": "SPEECHES AND STATEMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+          },
+          {
+            "name": "subject",
+            "value": "BUREAUCRATIC RED TAPE"
+          },
+          {
+            "name": "subject",
+            "value": "FINANCES"
+          },
+          {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+          },
+          {
+            "name": "subject",
+            "value": "BUDGETS AND BUDGETING"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2008-03-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/05/world/asia/05npc.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Prime Minister Wen Jiabao\u2019s emphasis on inflation reflects public anxiety over rising domestic prices for food and other items, as inflation hit an 11-year high of 7.1 percent in January.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2831d8eb7c8105d850923",
+        "source": "The New York Times",
+        "word_count": 797,
+        "lead_paragraph": "Prime Minister Wen Jiabao said Wednesday that curbing fast-rising inflation and preventing economic overheating were China's top fiscal priorities for 2008. He also announced plans to begin overhauling the bureaucracy by creating so-called superministries that would enable Beijing to exert greater control in carrying out government policy."
+      },
+      {
+        "abstract": "Liu Guijin, China's special envoy to Darfur, says that Beijing has expressed concerns to Sudanese government about recent violence in Darfur and is working to resolve delays in establishing international peacekeeping force; repeats Beijing's stance that activists were wrong to link strife in Darfur to Beijing Olympics; expresses surprise at film director Steven Spielberg's public withdrawal as artistic adviser to Beijing Olympics (M)",
+        "headline": {"main": "China Defends Sudan Policy and Criticizes Olympics Tie-In"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SPIELBERG, STEVEN"
+          },
+          {
+            "name": "persons",
+            "value": "LIU GUIJIN"
+          },
+          {
+            "name": "glocations",
+            "value": "SUDAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "DARFUR PROVINCE (SUDAN)"
+          },
+          {
+            "name": "glocations",
+            "value": "DARFUR (SUDAN)"
+          },
+          {
+            "name": "subject",
+            "value": "WAR CRIMES, GENOCIDE AND CRIMES AGAINST HUMANITY"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2008-03-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/08/world/asia/08darfur.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A Chinese envoy said he had expressed \u201cgrave concerns\u201d to the Sudanese government about the violence in Darfur.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY; Graham Bowley contributed reporting from New York"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b2b38eb7c8105d8a3f6c",
+        "source": "The New York Times",
+        "word_count": 857,
+        "lead_paragraph": "China has expressed ''grave concerns'' to the Sudanese government about the recent violence in western Darfur and is actively working to resolve delays in establishing an international peacekeeping force, China's special envoy to Darfur said Friday. The envoy, Liu Guijin, who recently returned from his fourth visit to Sudan, offered a detailed defense of China's role in Darfur at a news conference at the Foreign Ministry here and repeated Beijing's stance that activists were wrong to link the strife in Darfur to the Beijing Olympics in August."
+      },
+      {
+        "abstract": "Teng Biao, Chinese lawyer who has urged Communist Party to improve its human rights record in advance of Summer Olympics, has disappeared; Wang Ling, his wife, says that authorities might have detained him because of his political advocacy (M)",
+        "headline": {"main": "Lawyer and Rights Advocate In China Is Missing, Wife Says"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "TENG BIAO"
+          },
+          {
+            "name": "persons",
+            "value": "WANG LING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-03-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/08/world/asia/08beijing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "A Chinese lawyer who has called on the Communist Party to improve its human rights record in advance of the 2008 Olympics has disappeared, according to his wife.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY; Zhang Jing contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd266a08eb7c8105d81b2cf",
+        "source": "The New York Times",
+        "word_count": 283,
+        "lead_paragraph": "A Chinese lawyer who has urged the Communist Party to improve its human rights record in advance of the Summer Olympics has disappeared, according to his wife, who said Friday that she was worried that the authorities might have detained him because of his political advocacy. The lawyer, Teng Biao, 34, disappeared on Thursday evening after calling to say he would be home in 20 minutes, said his wife, Wang Ling. Shortly afterward, she said, she heard shouting in the parking lot below the family apartment and later found her husband's empty car. Witnesses told her that two men had dragged someone out of the car and taken him away, she said."
+      },
+      {
+        "abstract": "Beijing public security agents release lawyer Teng Biao after detaining him for two days of intensive questioning; says officers warned him about recent articles he posted on Internet; Teng and his friend Hu Jia wrote public letter last year accusing Communist Party of failing to meet its promises to improve human rights; Hu will soon face trial for subversion (M)",
+        "headline": {"main": "Chinese Lawyer Says He Was Detained and Warned on Activism"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "TENG BIAO"
+          },
+          {
+            "name": "persons",
+            "value": "HU JIA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          },
+          {
+            "name": "subject",
+            "value": "LEGAL PROFESSION"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2008-03-09T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/09/world/asia/09china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Teng Biao\u2019s detention was the latest example of how China is moving against some of its more outspoken dissidents, lawyers and human rights advocates.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY; Zhang Jing contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b3258eb7c8105d8a436a",
+        "source": "The New York Times",
+        "word_count": 485,
+        "lead_paragraph": "Beijing public security agents released a Chinese human rights lawyer on Saturday after detaining him two days earlier without notice and forcing him to endure intensive questioning at an unknown location, the lawyer said. The lawyer, Teng Biao, 34, said he was released after 41 hours in custody. Mr. Teng, reached by telephone, said four officers from the Beijing Public Security Bureau grabbed him on Thursday night at a parking lot outside his apartment and then drove him away."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Whoever Wins Taiwan Presidential Vote, Independence Movement Is Likely to Wane"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "TAIPEI (TAIWAN)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "WASHINGTON (DC)"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2008-03-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/12/world/asia/12taiwan.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Both candidates in Taiwan\u2019s presidential election want closer ties with Beijing, differing only in how quickly and to what degree they would strengthen relations.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "WONG",
+            "role": "reported",
+            "firstname": "Edward"
+          }],
+          "original": "By EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd265418eb7c8105d819298",
+        "source": "The New York Times",
+        "word_count": 1242,
+        "lead_paragraph": "No matter who wins Taiwan's fiercely contested presidential election on March 22, the fervent independence movement that has so agitated relations with mainland China in recent years seems destined to suffer a significant setback. Both candidates, Ma Ying-jeou and Frank Hsieh, want closer ties with Beijing, differing only in how quickly and to what degree they would strengthen relations. By calling for closer economic cooperation with China and rejecting any notions of separatism, they are repudiating the tough nationalist policies of the departing president, Chen Shui-bian, whose confrontational stance has angered officials in Beijing and Washington and has stirred anxiety among many Taiwanese."
+      },
+      {
+        "abstract": "Holly Brubach column on book The Last Days of Old Beijing: Life in the Vanishing Backstreets of a City Transformed by Michael Meyer; photo (L)",
+        "headline": {
+          "kicker": "BIBLIO FILE",
+          "main": "Raze High the Roof Beams, Comrade"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "LAST DAYS OF OLD BEIJING, THE (BOOK)"
+          },
+          {
+            "name": "persons",
+            "value": "MEYER, MICHAEL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "AREA PLANNING AND RENEWAL"
+          },
+          {
+            "name": "subject",
+            "value": "BOOKS AND LITERATURE"
+          }
+        ],
+        "print_page": "84",
+        "pub_date": "2008-03-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/03/16/style/tmagazine/16brubach.html",
+        "news_desk": "T: Design Magazine",
+        "snippet": "Now it\u2019s China\u2019s turn. The signs of progress that have marred Europe and America for the past century have lately been unleashed in the world\u2019s fastest growing economy, and the eyewitnesses are lining up to testify. Not surprisingly, money is t",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts; Style; Magazine; Books",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Brubach",
+            "role": "reported",
+            "firstname": "Holly"
+          }],
+          "original": "By Holly Brubach"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2b3268eb7c8105d8a441c",
+        "source": "The New York Times",
+        "word_count": 1447,
+        "lead_paragraph": "Now it's China's turn. The signs of progress that have marred Europe and America for the past century have lately been unleashed in the world's fastest growing economy, and the eyewitnesses are lining up to testify. Not surprisingly, money is talking loud enough to drown out any dissent, as the fate of an ancient society increasingly rests in the hands of real estate developers. If ever there were an exercise in urban planning, this is it: how to modernize a civilization without obliterating its heritage; how to accommodate density without compromising quality of life; how to learn from the mistakes of the so-called developed countries, now congested and polluted, their major cities homogenized and colonized by the same handful of global brands. In ''The Last Days of Old Beijing: Life in the Vanishing Backstreets of a City Transformed'' (Walker and Company), Michael Meyer documents the city as it vanishes before his -- and our -- eyes. A former Peace Corps volunteer from Minnesota, now a writer and teacher of English, Meyer has made his home for the past two years in the hutong, the ''lanes that lattice the heart of Beijing.'' As the municipal government prepares to host the world (slogan: ''New Beijing, Great Olympics''), the hutong are being razed to make way for Range Rover showrooms, Starbucks, Pizza Hut, Hooters. The Old and Dilapidated Housing Renewal program authorized the sale of land rights for entire neighborhoods filled with one-story courtyard houses, and the preservation movement has been powerless. Meyer meets with Hua Xinmin, the daughter of a prominent local architect whose ''activism'' seems to consist of cataloging the destruction: ''As I flipped through a photo album that documented scores of courtyards pulled down over the years, Hua identified each in the voice one uses when speaking of the deceased.''"
+      }
+    ],
+    "meta": {
+      "time": 26,
+      "hits": 367,
+      "offset": 20
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

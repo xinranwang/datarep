@@ -1,0 +1,724 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "China prepares to host 2008 Summer Games; photo (M)",
+        "headline": {
+          "kicker": "THE NEXT HOST",
+          "main": "China Is Patiently Working to Develop Its Winter Profile"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2006)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2006-02-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/02/26/sports/olympics/26china.html",
+        "news_desk": "Sports Desk",
+        "snippet": "China, which is poised to play host to the next Olympics in 2008, has approached its winter sports methodically instead of rushing toward all-out dominance.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ZINSER",
+            "role": "reported",
+            "firstname": "Lynn"
+          }],
+          "original": "By LYNN ZINSER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd24fda8eb7c8105d7f318d",
+        "source": "The New York Times",
+        "word_count": 1328,
+        "lead_paragraph": "In China, people wait for gold medals to roll in from the Olympic Winter Games. Ski manufacturers wait for a growing Chinese middle class to flock to newly constructed slopes. The Chinese Olympic committee waits for a Swedish coach to transform its cross-country ski team and for speedskaters training in Canada to dominate their events. Outside China, the world waits to see whether the country will become as big a force in the Winter Games as it has become in the Summer Games, where it is not only poised to play host to the next Olympics in 2008, but may also dominate the medal count after spending the past decade building a summer sports machine."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "Chongqing Journal",
+          "main": "For Visitors, Graveyard Holds Memories of a Bloody Era"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "MAO ZEDONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TOMBS AND TOMBSTONES"
+          },
+          {
+            "name": "subject",
+            "value": "COMMUNISM"
+          },
+          {
+            "name": "subject",
+            "value": "HISTORY"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2006-04-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/04/10/world/asia/10china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The rusted front gate opens into a walled cemetery that is a time capsule from the Cultural Revolution, an era the Communist Party wants to forget.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "YARDLEY",
+            "role": "reported",
+            "firstname": "Jim"
+          }],
+          "original": "By JIM YARDLEY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2006/04/10/world/10china.751.jpg",
+            "legacy": {
+              "thumbnail": "images/2006/04/10/world/10china.751.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2006/04/10/world/10china.3371.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2006/04/10/world/10china.3371.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd2ab848eb7c8105d8988bc",
+        "source": "The New York Times",
+        "word_count": 1080,
+        "lead_paragraph": "One of the many unexpected things about the small graveyard here where Xi Qingsheng buried his mother during the mayhem of the Cultural Revolution is that it still exists. The rusted front gate, locked for many years, opens into a walled cemetery that amounts to a time capsule from an era the Communist Party wants to forget. Revolutionary slogans, long since discredited, are etched onto huge, ornate tombstones, including the large concrete marker that Mr. Xi built for his mother when he was a teenager."
+      },
+      {
+        "abstract": "Ned Martel reviews Frontline documentary The Tank Man on PBS; photo (M)",
+        "headline": {
+          "kicker": "TELEVISION REVIEW",
+          "main": "Mystery of One Man's Act of Defiance on One Day in Beijing"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "TANK MAN, THE (TV PROGRAM)"
+          },
+          {
+            "name": "creative_works",
+            "value": "FRONTLINE (TV PROGRAM)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "REVIEWS"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "DOCUMENTARY FILMS AND PROGRAMS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "2006-04-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/04/11/arts/television/11mart.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "Tuesday's rambling episode of \"Frontline\" asserts that from China's teeming citizenry, one man's brief, thwarted act of defiance actually changed the world.",
+        "type_of_material": "Review",
+        "blog": [],
+        "section_name": "Movies; Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MARTEL",
+            "role": "reported",
+            "firstname": "Ned"
+          }],
+          "original": "By NED MARTEL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd26ab48eb7c8105d82262f",
+        "source": "The New York Times",
+        "word_count": 450,
+        "lead_paragraph": "Tonight's rambling episode of ''Frontline'' asserts that from China's teeming citizenry, one man's brief, thwarted act of defiance actually changed the world. ''The Tank Man,'' as he is called in lieu of a confirmed identity, was the Beijing obstructionist who stood in the way of a column of tanks in Tiananmen Square nearly 17 years ago. This 90-minute episode, produced by the provocative filmmaker Antony Thomas, argues that although the Tank Man's gesture did not lead to his government's collapse after soldiers fired on peaceful protesters, it inspired reformers everywhere to challenge totalitarian oppressors."
+      },
+      {
+        "abstract": "Scientists from Taiwan, United States and Japan invite mainland Chinese scientists to take part in Taiger, $5 million study of movement in, around and below island of Taiwan; hold that over several million years that Taiwan Strait will disappear and island will be connected to China; study will generate high resolution 3-D images of many mountain ranges and movement below sea level; map; photos (M)",
+        "headline": {"main": "Taiwan Moves Closer to Mainland, Pulled by Forces That Molded Its Mountains"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN STRAIT"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "EARTH"
+          },
+          {
+            "name": "subject",
+            "value": "FINANCES"
+          },
+          {
+            "name": "subject",
+            "value": "OCEANS"
+          },
+          {
+            "name": "subject",
+            "value": "RESEARCH"
+          },
+          {
+            "name": "subject",
+            "value": "GEOLOGY"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2006-04-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/04/18/science/18taiw.html",
+        "news_desk": "Science Desk",
+        "snippet": "Geologically, the small island of Taiwan appears to be on a collision course with mainland China. Over millions of years, that is.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Science; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CHEN",
+            "role": "reported",
+            "firstname": "Ingfei"
+          }],
+          "original": "By INGFEI CHEN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2006/04/18/science/18taiw.75.jpg",
+          "legacy": {
+            "thumbnail": "images/2006/04/18/science/18taiw.75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd26ab68eb7c8105d82279e",
+        "source": "The New York Times",
+        "word_count": 1282,
+        "lead_paragraph": "Politically, Taiwan's relationship to Beijing could be characterized primarily as a rift borne of defiance on one side and menacing rebuke on the other. But geologically, the small island of Taiwan appears to be on a collision course with mainland China. Over millions of years, that is. Millimeter by millimeter, the same colossal forces that molded Taiwan's steep mountains -- and that unleash its earthquakes -- are narrowing parts of the Taiwan Strait, bringing the island ever closer to the mainland."
+      },
+      {
+        "abstract": "Artists and designers in China, with varying levels of formal training, are reshaping indigenous forms like courtyard houses and canal towns into modern idioms that appeal to country's rising leisure class; Guan Yi, one of most influential collectors of contemporary art in China and self-taught architect, has designed and renovated warehouse in Beijing to serve as his own home and private museum for his artworks; photos (L)",
+        "headline": {"main": "China 's New Home Life"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "GUAN, YI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "COLLECTORS AND COLLECTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2006-04-20T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9A0CE5DC143FF933A15757C0A9609C8B63",
+        "news_desk": "House & Home/Style Desk",
+        "snippet": "ON a cold, gray day in late March, Guan Yi, one of the most influential collectors of contemporary art in China, lifted this reporter by the elbows and pushed her up a steep brick ramp of his own design, toward the second floor of his new house here.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Home and Garden; Style",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LOUIE",
+            "role": "reported",
+            "firstname": "Elaine"
+          }],
+          "original": "By ELAINE LOUIE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2702c8eb7c8105d82b37c",
+        "source": "The New York Times",
+        "word_count": 3332,
+        "lead_paragraph": "ON a cold, gray day in late March, Guan Yi, one of the most influential collectors of contemporary art in China, lifted this reporter by the elbows and pushed her up a steep brick ramp of his own design, toward the second floor of his new house here. Later he jogged down another ramp as his guest followed on tiptoe to avoid losing a heel in its steel-grate surface. ''I don't like women in high heels,'' he said through an interpreter when asked why he had designed such treacherous means of access to the house, which he finished last year. ''I prefer women to be in sneakers.''"
+      },
+      {
+        "abstract": "Large dust storm hit Beijing last week, turning skies murky yellow and coating buildings and streets in fine powder; geologists say storm's intensity may have been due to drought in China's extensive deserts, or to land clearing and other agricultural practices that leave soil exposed; photo (S)",
+        "headline": {
+          "kicker": "The Basics",
+          "main": "Also Made in China: The Big Dust Storm"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "AGRICULTURE"
+          },
+          {
+            "name": "subject",
+            "value": "SOIL"
+          },
+          {
+            "name": "subject",
+            "value": "DROUGHT"
+          },
+          {
+            "name": "subject",
+            "value": "WEATHER"
+          },
+          {
+            "name": "subject",
+            "value": "DUST"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2006-04-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/04/23/weekinreview/23basic.html",
+        "news_desk": "Week in Review Desk",
+        "snippet": "The Olympics will be in Beijing in August 2008, and a major dust storm could wreak havoc.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Week in Review",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FOUNTAIN",
+            "role": "reported",
+            "firstname": "Henry"
+          }],
+          "original": "By HENRY FOUNTAIN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2006/04/23/weekinreview/23basic.75.jpg",
+          "legacy": {
+            "thumbnail": "images/2006/04/23/weekinreview/23basic.75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd278348eb7c8105d83a294",
+        "source": "The New York Times",
+        "word_count": 207,
+        "lead_paragraph": "As President Hu Jintao left China for the United States last week, something was sweeping into Beijing behind him. A large dust storm hit the capital, turning skies a murky yellow and coating buildings and streets in fine powder. While dust storms are not unusual in China, particularly in the spring, ''this one was quite a bit more extreme than they've had in recent years,'' said Thomas E. Gill, an associate professor of geology and environmental science at the University of Texas at El Paso who studies dust storms. The storm's intensity may have been due to drought in China's extensive deserts, or to land clearing and other agricultural practices that leave soil exposed."
+      },
+      {
+        "abstract": "Several galleries in Beijing, China, are ordered by government officials to remove art works with political themes from view; no one is sure who ordered paintings to be taken away, but move comes on eve of third annual Dashanzi International Art Festival, event expected to draw foreign visitors; photo (M)",
+        "headline": {"main": "China Orders Galleries to Remove Art"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DASHANZI INTERNATIONAL ART FESTIVAL"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "2006-05-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/05/13/arts/design/13cens.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "The galleries were ordered to remove more than 20 paintings, apparently because they dealt with political themes, according to local artists and gallery directors.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2006/05/13/arts/censo.7575.jpg",
+          "legacy": {
+            "thumbnail": "images/2006/05/13/arts/censo.7575.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2aec78eb7c8105d89d1a6",
+        "source": "The New York Times",
+        "word_count": 708,
+        "lead_paragraph": "Several galleries in this city's thriving arts district were recently ordered by government officials to remove more than 20 paintings, apparently because they dealt with political themes, artists and gallery directors here said. The works, some of which featured radical portrayals of Mao and references to the Tiananmen Square uprising in 1989, were taken down just before one of the city's biggest art festivals, which opened on April 30."
+      },
+      {
+        "abstract": "Arthur Lubow article on lure of China to architects and troubles they encounter getting projects approved and built; focuses on Swiss architects Jacques Herzog and Pierre de Meuron and their work on National Stadium in Beijing for 2008 Olympic Games; drawings; photos (L)",
+        "headline": {"main": "The China Syndrome"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HERZOG, JACQUES"
+          },
+          {
+            "name": "persons",
+            "value": "DE MEURON, PIERRE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "HERZOG & DE MEURON"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "STADIUMS AND ARENAS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "68",
+        "pub_date": "2006-05-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/05/21/magazine/21bejing.html",
+        "news_desk": "Magazine",
+        "snippet": "Winning a commission and getting a project built are different things \u0097 especially in China today, as the vanguard Swiss architects Jacques Herzog and Pierre de Meuron have learned the hard way.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Magazine",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Lubow",
+            "role": "reported",
+            "firstname": "Arthur"
+          }],
+          "original": "By Arthur Lubow"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 630,
+            "width": 750,
+            "pay": "n",
+            "caption": "Slide Show: Olympic Countdown",
+            "type": "Slideshow",
+            "credit": "Winning a commission and getting a project built are different things \u0097 especially in China today, as the vanguard Swiss architects Jacques Herzog and Pierre de Meuron have learned, with difficulty.",
+            "url": "http://www.nytimes.com/slideshow/2006/05/21/magazine/20060521_BEIJING_SLIDESHOW_index.html",
+            "legacy": {
+              "MultimediaSummary1": "Winning a commission and getting a project built are different things \u0097 especially in China today, as the vanguard Swiss architects Jacques Herzog and Pierre de Meuron have learned, with difficulty.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaPay1": "n",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "630",
+              "MultimediaHeadline1": "Slide Show: Olympic Countdown",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2006/05/21/magazine/20060521_BEIJING_SLIDESHOW_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2006/05/17/magazine/21china.1.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2006/05/17/magazine/21china.1.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          }
+        ],
+        "_id": "4fd270308eb7c8105d82b7bd",
+        "source": "The New York Times",
+        "word_count": 8144,
+        "lead_paragraph": "A visit to the construction site of the National Stadium in Beijing is as close as you get in the 21st century to seeing what it must have been like to put up the Great Wall of China. At one point, 7,000 workers were toiling on the stadium, dispatched in six-month stints from the countryside and organized like an army into squadrons. When I visited at the end of March, their number had diminished to a couple of thousand: the concrete had already been poured for the huge bowl that will seat 91,000 spectators at the 2008 Olympic Games, and the raising and welding of the steel columns and beams -- tasks that require extra training and elbow room -- were well under way. Cranes more than 300 feet tall hovered above, hoisting metal pieces as heavy as 350 tons to form a lattice of interwoven steel. Knowing that the nickname ''bird's nest'' has clicked with the Chinese public, I could imagine the enormous cranes as Godzilla-fied birds and the dangling curves of steel as worms being lowered for the chicks. The 24 main columns are gargantuan -- 1,000 tons each, far more than the weight of those in a conventional stadium and spaced in what appears to be a random pattern. ''Everyone thinks this is the most remarkable piece of architecture we have ever designed,'' the architect Jacques Herzog told me months before in Switzerland, where he lives. ''To realize that project there is amazing.'' It defies expectations to see this avant-garde building rising in China, and yet, Herzog had remarked, ''such a structure you couldn't do anywhere else.''"
+      },
+      {
+        "abstract": "Unidentified Chinese-American collector plans to sell official portrait of Mao by Zhang Zhenshi at auction in Beijing; decision has stirred up controversy as many believe portrait should go to national museum; buyer of painting would be allowed to take painting outside country; portrait is expected to sell for at least $120,000; auction comes at sensitive time, near June 10 anniversary of 1989 pro-democracy demonstration in Tianamen Square and 40th anniversary year of Cultural Revolution; photo (M)",
+        "headline": {"main": "A Mao Portrait On the Block Causes a Stir In Chat Rooms"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "MAO ZEDONG"
+          },
+          {
+            "name": "persons",
+            "value": "ZHANG ZHENSHI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "CULTURAL REVOLUTION"
+          },
+          {
+            "name": "subject",
+            "value": "AUCTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "PRICES (FARES, FEES AND RATES)"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2006-05-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/05/22/arts/design/22mao.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "Some argue that a renowned official portrait of Mao, which a collector plans to sell at auction in Beijing, should go to a national museum.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2006/05/22/arts/Mao75.jpg",
+          "legacy": {
+            "thumbnail": "images/2006/05/22/arts/Mao75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd251788eb7c8105d7f5b44",
+        "source": "The New York Times",
+        "word_count": 614,
+        "lead_paragraph": "In a decision that is stirring wide debate in Chinese Internet chat rooms, a Chinese-American collector plans to sell a renowned official portrait of Mao at auction in Beijing on June 3. Some argue that the 1950 portrait, the model for a big painting of Mao in Tiananmen Square, should go to a national museum."
+      },
+      {
+        "abstract": "Evolution of Mao Zedong's official portrait over decades described in light of recent firestorm over plan to auction old official portait in Beijing; photos (M)",
+        "headline": {
+          "kicker": "THE WORLD",
+          "main": "Chameleon Mao, the Face of Tiananmen Square"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "MAO ZEDONG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "AUCTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2006-05-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/05/28/weekinreview/28barboza.html",
+        "news_desk": "Week in Review Desk",
+        "snippet": "Who actually painted Mao's official portrait? And why is it still up in the square, when many Chinese seem more eager to buy Gucci bags than Mao suits?",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Week in Review",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2006/05/28/weekinreview/29barboza.75.gif",
+          "legacy": {
+            "thumbnail": "images/2006/05/28/weekinreview/29barboza.75.gif",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd278388eb7c8105d83a6ab",
+        "source": "The New York Times",
+        "word_count": 1145,
+        "lead_paragraph": "FEW images created in the last century are as recognizable as the official portrait of Mao that looms over Tiananmen Square in Beijing. For decades, the 15-by-20-foot oil painting has served as a national icon. This is the same image that, in the 1960's and 70's, was widely reproduced and hung near the entrances to millions of homes, schools, factories and government buildings. During the Cultural Revolution, when Mao was raised to cult status, it seemed as if the entire nation had set about drawing a Mao portrait, or at least honoring one. If Mao's Little Red Book was the national bible, Mao's official portrait was the national stamp."
+      }
+    ],
+    "meta": {
+      "time": 58,
+      "hits": 58,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

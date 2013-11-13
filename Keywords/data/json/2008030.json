@@ -1,0 +1,762 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "A Victory Lap in Hong Kong for China's Gold Medalists"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/21/sports/olympics/21hong.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Moving swiftly to capitalize politically on the success of Chinese athletes at the Olympics, Beijing will send most of China\u2019s gold medalists to Hong Kong next week.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRADSHER",
+            "role": "reported",
+            "firstname": "Keith"
+          }],
+          "original": "By KEITH BRADSHER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd26b9a8eb7c8105d823746",
+        "source": "The New York Times",
+        "word_count": 611,
+        "lead_paragraph": "Moving swiftly to capitalize on the success of Chinese athletes at the Olympics, government officials in Beijing will send most of China's gold medalists to Hong Kong next week, ahead of legislative elections here on Sept. 7. The athletes' visit, announced Wednesday by the Hong Kong government, comes as democracy advocates here are struggling to hold on to their 26 seats in the 60-member Legislature."
+      },
+      {
+        "abstract": "Scene at Temple of Heaven Park in Beijing (China) discussed as locals exercise and watch Olympics highlights (M)",
+        "headline": {"main": "Exercising Mind and Body to Different Drummers in Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "TEMPLE OF HEAVEN PARK (BEIJING)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2008-08-21T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9F06E5D9123AF932A1575BC0A96E9C8B63",
+        "news_desk": "Sports Desk",
+        "snippet": "The giant gates of Temple of Heaven Park swung open at 6 a.m., magnets pulling people into a new day. People quietly poured out of apartment buildings and low-slung hutong neighborhoods and drained through the gates of Beijing's favorite morning gath",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BRANCH",
+            "role": "reported",
+            "firstname": "John"
+          }],
+          "original": "By JOHN BRANCH"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd27cca8eb7c8105d8438c7",
+        "source": "The New York Times",
+        "word_count": 1055,
+        "lead_paragraph": "The giant gates of Temple of Heaven Park swung open at 6 a.m., magnets pulling people into a new day. People quietly poured out of apartment buildings and low-slung hutong neighborhoods and drained through the gates of Beijing's favorite morning gathering place. Slowly the corners of the park filled, even the shady spots deep among the tight rows of cypress trees that date back 800 years. Over there, a man performed the slow-motion dance of tai chi. Over here, a woman scratched her back against a tree. Everywhere, people gave themselves pat-downs to loosen their muscles."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "In Beijing, No Making Heads or Tails of a New Building"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "BUILDINGS (STRUCTURES)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-21T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/21/sports/olympics/21apartment.html",
+        "news_desk": "Sports Desk",
+        "snippet": "A mysterious dragon-shaped building called the Pangu Plaza has Chinese newspapers abuzz with rumors about important guests residing within.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA; Chen Yang contributed research"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/19/sports/olympics/20apartment_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/19/sports/olympics/20apartment_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 280,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/19/sports/olympics/20apartment_600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 280,
+              "xlarge": "images/2008/08/19/sports/olympics/20apartment_600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/08/19/sports/olympics/20apartment_337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/08/19/sports/olympics/20apartment_337.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd267d08eb7c8105d81d456",
+        "source": "The New York Times",
+        "word_count": 744,
+        "lead_paragraph": "Visitors to the Beijing Olympics have been drawn to the city's Olympic stadiums, such as the Water Cube and the Bird's Nest. But there is also intrigue about a mysterious building that sits adjacent to the Olympic Green, something called the Pangu Plaza. Shaped like a dragon -- and stretching the length of seven football fields -- is a colossal row of stone buildings that boast a high-rise office tower, shopping mall, seven-star hotel and what the developer insists is the world's first traditional Chinese ''courtyard in the sky.''"
+      },
+      {
+        "abstract": "People attending summer Olympic Games in Beijing will find New York-style bagels at Mrs Shanen's Bagels, owned by Brooklyn-bred Chinese-American entrpreneur Lejen Chen, who wanted taste of home when she moved to China; photo (M)",
+        "headline": {"main": "Chinese Food: Craving a Bagel At the Olympics"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN, LEJEN"
+          },
+          {
+            "name": "glocations",
+            "value": "NEW YORK CITY"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "MRS SHANEN'S BAGELS"
+          },
+          {
+            "name": "subject",
+            "value": "BAGELS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "CHINESE-AMERICANS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "BAKERIES AND BAKED PRODUCTS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2008-08-22T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9E04E4DB113DF931A1575BC0A96E9C8B63",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "For New Yorkers who might want a break from pork buns for breakfast while at the Olympics, there are bagels to be had, even in Beijing.      The best known place in Beijing for New York-style bagels -- translated as ''beigu,'' or ''precious wheat'' -",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "New York and Region",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By JENNIFER 8. LEE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2972b8eb7c8105d8735f8",
+        "source": "The New York Times",
+        "word_count": 538,
+        "lead_paragraph": "For New Yorkers who might want a break from pork buns for breakfast while at the Olympics, there are bagels to be had, even in Beijing. The best known place in Beijing for New York-style bagels -- translated as ''beigu,'' or ''precious wheat'' -- is Mrs. Shanen's Bagels. The bagels, slightly smaller than the average version found in New York, with a crisp crust and soft insides, are the product of a Brooklyn-bred Chinese-American entrepreneur, Lejen Chen, who wanted a taste of home when she moved to China."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Tattoos, Once Taboo, Gain Street Credibility in China "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "TATTOOS"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-08-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2008/08/22/sports/olympics/0824-TATTOO_index.html",
+        "news_desk": null,
+        "snippet": "In Beijing, athletes, Olympics support staff and tourists are packing into tattoo parlors for a permanent commemoration of their time in China.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a89821c22dfde670c28de",
+        "source": null,
+        "word_count": 28,
+        "lead_paragraph": "In Beijing, athletes, Olympics support staff and tourists are packing into tattoo parlors for a permanent commemoration of their time in China."
+      },
+      {
+        "abstract": "China Central Television, or CCTV, is smashing viewership records with coverage of Olympic Games; opening ceremonies had average audience of nearly half billion people, and 842 billion watched at least one minute of it; NBC is celebrating average prime-time audiences of 29 million viewers in US; CCTV paid about $17 million for exclusive broadcast rights in China but could reap $394 million in Olympic advertising revenue; analysts say global corporations seeking foothold in Chinese market have begun to notice CCTV; chart; photos (L)",
+        "headline": {"main": "Chinese TV Hits Jackpot With Games"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINA CENTRAL TELEVISION"
+          },
+          {
+            "name": "organizations",
+            "value": "NBC UNIVERSAL"
+          },
+          {
+            "name": "subject",
+            "value": "RECORDS AND ACHIEVEMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/22/sports/olympics/22cctv.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "The broadcast of the Beijing Olympic Games has been a boon for China Central Television, one of the chief propaganda arms of the state and perhaps a new global media titan.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARBOZA",
+            "role": "reported",
+            "firstname": "David"
+          }],
+          "original": "By DAVID BARBOZA"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "caption": "A Big Stage for Chinese Television",
+            "type": "Slideshow",
+            "credit": "The Summer Olympics Games in Beijing provided a breakout platform for athletes and an enormous audience for China Central Television.",
+            "url": "http://www.nytimes.com/slideshow/2008/08/21/business/0822-CCTV_index.html",
+            "legacy": {
+              "MultimediaSummary1": "The Summer Olympics Games in Beijing provided a breakout platform for athletes and an enormous audience for China Central Television.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "A Big Stage for Chinese Television",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2008/08/21/business/0822-CCTV_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/22/sports/olympics/22cctvsub75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/22/sports/olympics/22cctvsub75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 351,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/22/sports/olympics/22cctv600sub.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 351,
+              "xlarge": "images/2008/08/22/sports/olympics/22cctv600sub.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd297238eb7c8105d873070",
+        "source": "The New York Times",
+        "word_count": 1277,
+        "lead_paragraph": "When the Beijing Olympic Games kicked off two weeks ago with a four-hour spectacular, more than 840 million people in China tuned in, perhaps the largest television audience in history for a single event. The broadcast was the first in a series of Olympic bonanzas for China Central Television, or CCTV, one of the chief propaganda arms of the Chinese state and perhaps also a new global media titan."
+      },
+      {
+        "abstract": "Chinese police in Beijing confirm that six Americans who were taken into custody as they tried to protest China's rule in Tibet have been given 10-day detentions; activists from New York-based Students for Free Tibet say they have no information about four other protesters who were detained near National Stadium; organization has staged eight protests involving 55 people since Olympics began; photo (M)",
+        "headline": {"main": "China Gives 6 Americans 10-Day Detentions After Pro-Tibet Protest"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "organizations",
+            "value": "STUDENTS FOR A FREE TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2008-08-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/23/sports/olympics/23protest.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "After trying to protest against China\u2019s rule in Tibet, six Americans have been given 10-day detentions, the Chinese police said Friday.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 310,
+          "width": 600,
+          "subtype": "xlarge",
+          "type": "image",
+          "url": "images/2008/08/23/world/23protest_600.jpg",
+          "legacy": {
+            "hasxlarge": "Y",
+            "xlargeheight": 310,
+            "xlarge": "images/2008/08/23/world/23protest_600.jpg",
+            "xlargewidth": 600
+          }
+        }],
+        "_id": "4fd297238eb7c8105d87307b",
+        "source": "The New York Times",
+        "word_count": 748,
+        "lead_paragraph": "A group of six Americans who were taken into custody on Tuesday as they tried to protest China's rule in Tibet have been given 10-day detentions, the Chinese police confirmed Friday. But activists from the New York-based Students for a Free Tibet said Friday that they had no information about four other protesters who were detained early Thursday during a protest near National Stadium, also known as the Bird's Nest. The four are two Americans, a German and a Briton."
+      },
+      {
+        "abstract": "Dalai Lama, at dedication of Buddhist temple in southern France, says that China has increased repression of Tibetans during Olympic Games in Beijing; photo (S)",
+        "headline": {
+          "kicker": "WORLD BRIEFING | EUROPE",
+          "main": "France: Dalai Lama Says Repression Is Up"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "glocations",
+            "value": "FRANCE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "BUDDHISM"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2008-08-23T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9B05E3D61F30F930A1575BC0A96E9C8B63",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Dalai Lama, Tibet's exiled spiritual leader, said Friday that China had increased repression of Tibetans during the Olympic Games in Beijing, and he urged China to ''march toward democracy.'' He met France's foreign minister, Bernard Kouchner, an",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ERLANGER",
+            "role": "reported",
+            "firstname": "Steven"
+          }],
+          "original": "By STEVEN ERLANGER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd297238eb7c8105d873081",
+        "source": "The New York Times",
+        "word_count": 108,
+        "lead_paragraph": "The Dalai Lama, Tibet's exiled spiritual leader, said Friday that China had increased repression of Tibetans during the Olympic Games in Beijing, and he urged China to ''march toward democracy.'' He met France's foreign minister, Bernard Kouchner, and first lady, Carla Sarkozy, in southern France at the dedication of a Buddhist temple in Roqueredonde, above. Ms. Sarkozy and Mr. Kouchner talked privately with the Dalai Lama, and his interpreter later briefed reporters on some of his comments. France's human rights minister, Rama Yade, was also there. President Nicolas Sarkozy's political party said he would meet the Dalai Lama by the end of the year."
+      },
+      {
+        "abstract": "Editorial contends that final gold medal in Beijing Olympics--for authoritarian image management--should be awarded to China's Communist Party leadership; maintains that with repression-scarred Olympics drawing to close, Pres Bush and other world leaders must tell Beijing that its failure to live up to its Olympic commitments will neither be ignored nor forgotten",
+        "headline": {
+          "kicker": "EDITORIAL",
+          "main": "Beijing's Bad Faith Olympics"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "18",
+        "pub_date": "2008-08-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/23/opinion/23sat1.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "With these repression-scarred Olympics now drawing to a close, world leaders must tell Beijing that its failure to live up to its commitments will not be forgotten.",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd297288eb7c8105d873449",
+        "source": "The New York Times",
+        "word_count": 453,
+        "lead_paragraph": "The Beijing Olympics still have one more day to run. But the final gold medal -- for authoritarian image management -- can already be safely awarded to China's Communist Party leadership. Beijing got what it wanted out of this globally televised spectacular. It reaped a huge prestige bonanza that it will surely use to promote its international influence and, we fear, further tighten its grip at home."
+      },
+      {
+        "abstract": "Bryan Clay (US) wins men's decathlon; Andrei Krauchanka (Belarus) wins silver and Leonel Suarez (Cuba) wins bronze; Jamaica wins men's 4x100 relay; Trinidad and Tobago wins silver and Japan takes bronze; photos (M)",
+        "headline": {"main": "Triumphant Display of Grit and Speed"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SUAREZ, LEONEL"
+          },
+          {
+            "name": "persons",
+            "value": "POWELL, ASAFA"
+          },
+          {
+            "name": "persons",
+            "value": "KRAUCHANKA, ANDREI"
+          },
+          {
+            "name": "persons",
+            "value": "O'BRIEN, DAN"
+          },
+          {
+            "name": "persons",
+            "value": "BOLT, USAIN"
+          },
+          {
+            "name": "persons",
+            "value": "CLAY, BRYAN"
+          },
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "JAMAICA"
+          },
+          {
+            "name": "glocations",
+            "value": "BELARUS"
+          },
+          {
+            "name": "glocations",
+            "value": "TRINIDAD AND TOBAGO"
+          },
+          {
+            "name": "glocations",
+            "value": "CUBA"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "DECATHLON"
+          },
+          {
+            "name": "subject",
+            "value": "TRACK AND FIELD"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-08-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/08/23/sports/olympics/23track.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Brian Clay became the first American decathlete since 1996 to win the gold medal, but he ceded the spotlight to Usain Bolt, the world\u2019s fastest man.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ZINSER",
+            "role": "reported",
+            "firstname": "Lynn"
+          }],
+          "original": "By LYNN ZINSER"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/08/23/sports/23track-span-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/08/23/sports/23track-span-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 355,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/08/23/sports/23track-span-600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 355,
+              "xlarge": "images/2008/08/23/sports/23track-span-600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2b3c48eb7c8105d8a5ac7",
+        "source": "The New York Times",
+        "word_count": 957,
+        "lead_paragraph": "The contrast between the events could not have been more stark, coming as they did right after each other Friday night at the Olympic stadium. Jamaica's Asafa Powell flew past the finish line with the final leg of an amazing world record in the 4x100-meter relay, his teammate Usain Bolt soaring after him to celebrate. But for all the speed and joy of the fastest set of men on earth, they followed an event that is both much less appreciated in the United States and almost unimaginably grueling. The American Bryan Clay's triumphant moment in the decathlon came after he all but staggered across the finish line at the end of the 1,500 meters. The track announcer greeted him with the news that he was the Olympic champion, to which Clay responded by pitching forward onto the track."
+      }
+    ],
+    "meta": {
+      "time": 231,
+      "hits": 367,
+      "offset": 300
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

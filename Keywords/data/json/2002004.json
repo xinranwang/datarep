@@ -1,0 +1,627 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Chen Ziming, Chinese dissident behind 1989 democracy demonstrations at Tiananmen Square, is reportedly released after his 13-year prison term; spent last several years under house arrest (S)",
+        "headline": {"main": "World Briefing | Asia: China: Democracy Campaigner's Sentence Ends"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN ZIMING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2002-10-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/10/11/world/world-briefing-asia-china-democracy-campaigner-s-sentence-ends.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The 13-year prison sentence of Chen Ziming, a dissident intellectual authorities labeled a principal ''black hand'' behind the 1989 democracy demonstrations at Tiananmen Square, officially ended yesterday, his relatives told reporters. Mr. Chen, 50, ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Eckholm",
+            "role": "reported",
+            "lastname": "NYT",
+            "firstname": "Erik"
+          }],
+          "original": "By Erik Eckholm (NYT)"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd26b2f8eb7c8105d82349a",
+        "source": "The New York Times",
+        "word_count": 79,
+        "lead_paragraph": "The 13-year prison sentence of Chen Ziming, a dissident intellectual authorities labeled a principal ''black hand'' behind the 1989 democracy demonstrations at Tiananmen Square, officially ended yesterday, his relatives told reporters. Mr. Chen, 50, spent the last several years under strict house arrest so he could receive medical treatment. It was not clear how free he will be to speak or write, and fellow dissidents speculated that the government would try to force him into exile. Erik Eckholm (NYT)"
+      },
+      {
+        "abstract": "Communist Party leaders Jia Qinglin (Beijing) and Huang Ju (Shanghai) step down from posts; are expected to get positions in China's central government (S)",
+        "headline": {"main": "World Briefing | Asia: China: Leadership Shuffle Starts"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HUANG JU"
+          },
+          {
+            "name": "persons",
+            "value": "JIA QINGLIN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SUSPENSIONS, DISMISSALS AND RESIGNATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2002-10-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/10/23/world/world-briefing-asia-china-leadership-shuffle-starts.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The Communist Party leaders of Beijing and Shanghai stepped down. The leadership change was the first of many expected over the next two weeks as China prepares for the start of the Communist Party Congress on Nov. 8. Both men, Jia Qinglin in Beijing",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Rosenthal",
+            "role": "reported",
+            "lastname": "NYT",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By Elisabeth Rosenthal (NYT)"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd21f828eb7c8105d7a2269",
+        "source": "The New York Times",
+        "word_count": 62,
+        "lead_paragraph": "The Communist Party leaders of Beijing and Shanghai stepped down. The leadership change was the first of many expected over the next two weeks as China prepares for the start of the Communist Party Congress on Nov. 8. Both men, Jia Qinglin in Beijing and Huang Ju in Shanghai, are expected to move to posts in the central government. Elisabeth Rosenthal (NYT)"
+      },
+      {
+        "abstract": "Samsung Electronics Co renews its worldwide Olympic sponsorship agreement with International Olympic Committee, covering 2006 Winter Games in Torino, Italy, and 2008 Summer Games in Beijing; financial terms undisclosed; Norm Marshall & Associates forms strategic alliance with Dentsu; terms undisclosed (S)",
+        "headline": {
+          "kicker": "THE MEDIA BUSINESS: ADVERTISING -- ADDENDA",
+          "main": "Miscellany"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TORINO (ITALY)"
+          },
+          {
+            "name": "organizations",
+            "value": "SAMSUNG ELECTRONICS CO"
+          },
+          {
+            "name": "organizations",
+            "value": "MARSHALL, NORM, & ASSOCIATES"
+          },
+          {
+            "name": "organizations",
+            "value": "DENTSU"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2006)"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING"
+          },
+          {
+            "name": "subject",
+            "value": "WINTER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2002-10-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/10/25/business/the-media-business-advertising-addenda-miscellany.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": " * The Samsung Electronics Company renewed its worldwide Olympic sponsorship agreement with the International Olympic Committee, covering two additional Olympics, the 2006 Winter Games in Torino, Italy, and the 2008 Summer Games in Beijing. Terms wer",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "Fabrikant",
+            "role": "reported",
+            "firstname": "Geraldine"
+          }],
+          "original": "By Geraldine Fabrikant"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd26b278eb7c8105d822d81",
+        "source": "The New York Times",
+        "word_count": 104,
+        "lead_paragraph": "* The Samsung Electronics Company renewed its worldwide Olympic sponsorship agreement with the International Olympic Committee, covering two additional Olympics, the 2006 Winter Games in Torino, Italy, and the 2008 Summer Games in Beijing. Terms were not disclosed. Samsung has been a worldwide Olympic sponsor in what is known as the TOP program since the 1998 Winter Games. * Norm Marshall & Associates , Sun Valley, Calif., an entertainment marketing company, formed a strategic alliance with Dentsu, Tokyo. Terms were not disclosed. Marshall will negotiate product placements and promotions for Dentsu's entertainment-related clients in films and television series."
+      },
+      {
+        "abstract": "Atty Gen John Ashcroft concludes three-day visit to Beijing, offering praise for China's efforts to combat international terrorism and announcing opening of FBI liaison office in Beijing to further that effort; provides few details about what form law enforcement coordination between US and China might take or about complicated matter of how American officials would cooperate with police in China; photo (M)",
+        "headline": {
+          "kicker": "THREATS AND RESPONSES: THE F.B.I.",
+          "main": "Ashcroft Says U.S. Will Place Agents in China"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ASHCROFT, JOHN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "FEDERAL BUREAU OF INVESTIGATION"
+          },
+          {
+            "name": "subject",
+            "value": "TERRORISM"
+          }
+        ],
+        "print_page": "15",
+        "pub_date": "2002-10-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/10/25/world/threats-and-responses-the-fbi-ashcroft-says-us-will-place-agents-in-china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Concluding a three-day visit to Beijing today, Attorney General John Ashcroft offered praise for China's efforts to combat international terrorism and announced the opening of an F.B.I. liaison office in Beijing to further that effort.     Mr. Ashcro",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd26b268eb7c8105d822d72",
+        "source": "The New York Times",
+        "word_count": 480,
+        "lead_paragraph": "Concluding a three-day visit to Beijing today, Attorney General John Ashcroft offered praise for China's efforts to combat international terrorism and announced the opening of an F.B.I. liaison office in Beijing to further that effort. Mr. Ashcroft added that the F.B.I office would also deal with other crimes, including people smuggling and money laundering."
+      },
+      {
+        "abstract": "Dr Joseph Galichia, cardiologist who opened $20 million Galichia Heart Hospital in Wichita, Kan, in February, hopes to eventually have as many as 30 Galichia heart hospitals worldwide; Galichia has parlayed his reputation as cardiology research pioneer into burgeoning enteprise; group is close to finalizing plans for Galichia facilities in Texas and Arizona, and Galichia is in Beijing lining up investors for hospital there that will carry his name; photo (M)",
+        "headline": {"main": "A Kansas Cardiologist With His Eye on the World"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "GALICHIA, JOSEPH"
+          },
+          {
+            "name": "glocations",
+            "value": "TEXAS"
+          },
+          {
+            "name": "glocations",
+            "value": "ARIZONA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "GALICHIA HEART HOSPITAL"
+          },
+          {
+            "name": "subject",
+            "value": "HEART"
+          },
+          {
+            "name": "subject",
+            "value": "BIOGRAPHICAL INFORMATION"
+          },
+          {
+            "name": "subject",
+            "value": "RESEARCH"
+          },
+          {
+            "name": "subject",
+            "value": "HOSPITALS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2002-10-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/10/30/business/a-kansas-cardiologist-with-his-eye-on-the-world.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "After a slow month or two, the $20 million Galichia Heart Hospital, which opened in February on the east side of this bustling agribusiness city, took off like a cornfield in July.    Medical staff members have been performing almost 18 angioplasties",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Health; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "NEWTON",
+            "role": "reported",
+            "firstname": "Edmund"
+          }],
+          "original": "By EDMUND NEWTON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd23a678eb7c8105d7cecbc",
+        "source": "The New York Times",
+        "word_count": 791,
+        "lead_paragraph": "After a slow month or two, the $20 million Galichia Heart Hospital, which opened in February on the east side of this bustling agribusiness city, took off like a cornfield in July. Medical staff members have been performing almost 18 angioplasties a day and more than a dozen bypasses and other cardiovascular procedures a week -- there is a waiting list to get in and profits are mounting."
+      },
+      {
+        "abstract": "Delegates from all over China flood into Beijing to attend 16th Communist Party Congress; in preparation, tens of thousands of people regarded as potential troublemakers have been detained by authorities--many moved to custody in distant locales--to make sure their presence does not create slightest hitch in well-choreographed political conference; photo (M)",
+        "headline": {"main": "Cleaned Up for Party, Beijing Is Swept of 'Trouble'"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2002-11-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/11/06/world/cleaned-up-for-party-beijing-is-swept-of-trouble.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "This week, palm trees and topiaries were arranged improbably in Tiananmen Square as delegates from all over China flooded triumphantly into this vibrant capital to attend the 16th Communist Party Congress, which opens on Friday.    But there has been",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2396a8eb7c8105d7cd107",
+        "source": "The New York Times",
+        "word_count": 1052,
+        "lead_paragraph": "This week, palm trees and topiaries were arranged improbably in Tiananmen Square as delegates from all over China flooded triumphantly into this vibrant capital to attend the 16th Communist Party Congress, which opens on Friday. But there has been another wave of human movement in Beijing, in a very different direction: tens of thousands of people regarded as potential troublemakers have been detained by the authorities -- many moved to custody in distant locales -- to make sure that their presence does not create the slightest hitch in a well-choreographed political conference."
+      },
+      {
+        "abstract": "Elite members of Communist Party gather inside Great Hall of the People in Beijing to ponder China's future; Chinese Communist Party is going through one of most momentous transitions in its 81-year history; Jiang Zemin is expected to step down as party chief later this week and as country's president next year; new generation of leaders, led by Vice Pres Hu Jintao, largely unknown personality, is thought to be in line to take over most powerful positions in world's most populous country (M)",
+        "headline": {"main": "At Chinese Congress, Little Debate but Lots of Picture-Taking"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "JIANG ZEMIN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2002-11-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/11/11/world/at-chinese-congress-little-debate-but-lots-of-picture-taking.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Deep inside the Great Hall of the People, in a windowless chamber lined with rich-lacquered wood and white marble, elite members of the Communist Party gathered today to ponder China's future.    ''The policies put forward by the party leadership wit",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd23bab8eb7c8105d7d0966",
+        "source": "The New York Times",
+        "word_count": 993,
+        "lead_paragraph": "Deep inside the Great Hall of the People, in a windowless chamber lined with rich-lacquered wood and white marble, elite members of the Communist Party gathered today to ponder China's future. ''The policies put forward by the party leadership with Jiang Zemin at the core have resulted in spectacular success,'' said He Zhaosu, a party official from Tianjin and delegate to the 16th Communist Party Congress, which opened on Friday. ''Looking to the future,'' he said, raising his voice a few octaves, ''we must not pause in our work to raise the spirit of the masses and make greater contributions to our nation's development.''"
+      },
+      {
+        "abstract": "Zhao Ziyang, Chinese leader ousted as Communist Party general secretary in 1989 for being soft on democracy advocates who occupied Tiananmen Square, lives in enforced isolation in spacious home, Beijing; officials preparing for major transfer of power from his successor, Jiang Zemin, do not dare speak of Zhao in public; his unending detention without trial is embarrassing to government that fears him as possible magnet for dissent; photos (M)",
+        "headline": {"main": "China's Ghost of '89: Chief Ousted by Hard-Liners"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO ZIYANG"
+          },
+          {
+            "name": "persons",
+            "value": "JIANG ZEMIN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "2002-11-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/11/13/world/china-s-ghost-of-89-chief-ousted-by-hard-liners.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "In a maze of crumbling alleyways just off Beijing's premier shopping avenue, the former chief of the Communist Party spends his days and years of enforced silence in a spacious, gray-walled courtyard home.    As the party prepares for a major transfe",
+        "type_of_material": "An Analysis; News Analysis",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd21ffd8eb7c8105d7a330b",
+        "source": "The New York Times",
+        "word_count": 859,
+        "lead_paragraph": "In a maze of crumbling alleyways just off Beijing's premier shopping avenue, the former chief of the Communist Party spends his days and years of enforced silence in a spacious, gray-walled courtyard home. As the party prepares for a major transfer of power this Friday, no one dares utter the name of Zhao Ziyang, who was the general secretary before the current leader, Jiang Zemin. Today's leaders surely must wish that Mr. Zhao would just disappear."
+      },
+      {
+        "abstract": "Jessica Adler travel essay on Internet friendship that has been developing since last March, when she gave her e-mail address to elderly Chinese man she met on train ride between Beijing and Huang Shan, China; drawing (M)",
+        "headline": {"main": "Encounter on a Chinese Train"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "HUANG SHAN (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "17",
+        "pub_date": "2002-11-24T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/11/24/travel/encounter-on-a-chinese-train.html",
+        "news_desk": "Travel Desk",
+        "snippet": "THE journey began at 8:45 on a cool morning last March as my friend Aaron and I boarded the K45 train in Beijing with a box of cardboard-flavored wafers, watery orange juice and a thick Mandarin phrase book. We put our bags on the overhead shelf of o",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ADLER",
+            "role": "reported",
+            "firstname": "Jessica"
+          }],
+          "original": "By JESSICA ADLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd239698eb7c8105d7cd03b",
+        "source": "The New York Times",
+        "word_count": 1304,
+        "lead_paragraph": "THE journey began at 8:45 on a cool morning last March as my friend Aaron and I boarded the K45 train in Beijing with a box of cardboard-flavored wafers, watery orange juice and a thick Mandarin phrase book. We put our bags on the overhead shelf of our sleeper compartment and settled in for the 20-hour ride to Huang Shan, a city in the lush and mountainous Anhui Province of China. As the train hissed out and rumbled through a countryside filled with farmland and idle industrial parks, we looked out the window and wondered whether anyone would be joining us in our four-passenger compartment. After a lunch of bamboo and bony pork in the crowded meal car, it became common knowledge that there were two foreigners in the sleeper section. Passengers began casually strolling by, looking into our open-doored compartment in curiosity."
+      },
+      {
+        "abstract": "Researchers studying China's high suicide rate cite ready availability of lethal pesticides and rodent poisons in rural areas and absence of mental health services in much of nation, article in journal Lancet; Dr Michael Phillips, study co-author, and colleagues are set to open suicide research and prevention center financed by Beijing city government (M)",
+        "headline": {"main": "Study Links Rural Suicides in China to Stress and Ready Poisons"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "PHILLIPS, MICHAEL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "LANCET"
+          },
+          {
+            "name": "subject",
+            "value": "PESTICIDES"
+          },
+          {
+            "name": "subject",
+            "value": "POISONING AND POISONS"
+          },
+          {
+            "name": "subject",
+            "value": "MENTAL HEALTH AND DISORDERS"
+          },
+          {
+            "name": "subject",
+            "value": "RESEARCH"
+          },
+          {
+            "name": "subject",
+            "value": "SUICIDES AND SUICIDE ATTEMPTS"
+          }
+        ],
+        "print_page": "18",
+        "pub_date": "2002-11-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2002/11/29/world/study-links-rural-suicides-in-china-to-stress-and-ready-poisons.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Just as Beijing prepares to open its first government-sponsored suicide prevention center, a new study about suicide in China paints a grim picture of a large and unaddressed public health problem.    China has one of the highest suicide rates in the",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd222f08eb7c8105d7a85b6",
+        "source": "The New York Times",
+        "word_count": 521,
+        "lead_paragraph": "Just as Beijing prepares to open its first government-sponsored suicide prevention center, a new study about suicide in China paints a grim picture of a large and unaddressed public health problem. China has one of the highest suicide rates in the world, particularly among women. It is the only country where suicides among women outnumber those among men, and one of the few where rural suicides outnumber urban suicides."
+      }
+    ],
+    "meta": {
+      "time": 31,
+      "hits": 51,
+      "offset": 40
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

@@ -1,0 +1,828 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "The habit of control is so strong in China that, even for Beijing's latest campaign to boost residents' civic pride, city authorities couldn't let go.",
+        "headline": {
+          "kicker": "Latitude",
+          "main": "Beijing Spirit"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Slogans and Mottoes"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Propaganda"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Politics and Government"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "China"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-02-29T03:04:01Z",
+        "web_url": "http://latitude.blogs.nytimes.com/2012/02/29/beijing-spirit-campaign-reveals-chinese-governments-habit-of-control/",
+        "news_desk": null,
+        "snippet": "The habit of control is so strong in China that, even for Beijing's latest campaign to boost residents' civic pride, city authorities couldn't let go.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ABRAHAMSEN",
+            "role": "reported",
+            "firstname": "Eric"
+          }],
+          "original": "By ERIC ABRAHAMSEN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a35d8eb7c8105d8ec950",
+        "source": "The New York Times",
+        "word_count": 576,
+        "lead_paragraph": "BEIJING - At the mouth of the traditional Beijing alleyway where I live, this propaganda banner has hung for several weeks:"
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "Dance",
+          "main": "Modern Dance Comes Into Its Own in China"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "subject",
+            "value": "DANCING"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-03-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/03/01/arts/01iht-chinadance01.html",
+        "news_desk": "Arts",
+        "snippet": "Homegrown companies are expanding their profiles nationally and internationally.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MELVIN",
+            "role": "reported",
+            "firstname": "Sheila"
+          }],
+          "original": "By SHEILA MELVIN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "width": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2012/03/01/arts/01iht-chinadance01-inline2/01iht-chinadance01-inline2-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2012/03/01/arts/01iht-chinadance01-inline2/01iht-chinadance01-inline2-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailwidth": 75,
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2a7c58eb7c8105d890eb6",
+        "source": "International Herald Tribune",
+        "word_count": 1144,
+        "lead_paragraph": "Homegrown companies are expanding their profiles nationally and internationally."
+      },
+      {
+        "abstract": "China has just issued a new \"action plan\" to combat the rising spread of HIV and AIDS. This seems to be the takeaway decree: Condoms or condom vending machines should be available in 95 percent of the country's hotels by 2015. Meanwhile, heterosexual sex is surpassing injection drug use as the leading cause of infection.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "China Calls for Expanded Use of Condoms"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Condoms"
+          },
+          {
+            "rank": "10",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Acquired Immune Deficiency Syndrome"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Sidibe, Michel"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Deaths (Fatalities)"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Epidemics"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Sex"
+          },
+          {
+            "rank": "8",
+            "name": "organizations",
+            "value": "United Nations"
+          },
+          {
+            "rank": "9",
+            "name": "organizations",
+            "value": "World Health Organization"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-03-04T03:23:22Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/03/04/china-calls-for-expanded-use-of-condoms/",
+        "news_desk": null,
+        "snippet": "China has just issued a new \"action plan\" to combat the rising spread of HIV and AIDS. This seems to be the takeaway decree: Condoms or condom vending machines should be available in 95 percent of the country's hotels by 2015. Meanwhile, heterosexual",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a35d8eb7c8105d8ec964",
+        "source": "The New York Times",
+        "word_count": 288,
+        "lead_paragraph": "HONG KONG - China has just issued a new \"action plan\" to combat the rising spread of H.I.V. and AIDS, and this seems to be the takeaway: Condoms or condom vending machines should be available in 95 percent of the country's hotels by 2015."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Critics Worry About Influence of Chinese Institutes on U.S. Campuses"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DALAI LAMA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIBET"
+          },
+          {
+            "name": "subject",
+            "value": "CONFUCIANISM"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-03-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/03/05/us/critics-worry-about-influence-of-chinese-institutes-on-us-campuses.html",
+        "news_desk": "U.S.",
+        "snippet": "Confucius Institutes are cultural outposts of the Chinese government and bring much-needed cash to American universities. But some are concerned that such largesse comes with strings attached.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Education",
+        "document_type": "article",
+        "byline": {
+          "person": [],
+          "original": "By D.D. GUTTENPLAN"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "width": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2012/03/05/education/05iht-educlede05/05iht-educlede05-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "images/2012/03/05/education/05iht-educlede05/05iht-educlede05-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailwidth": 75,
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd2baa28eb7c8105d8b1271",
+        "source": "International Herald Tribune",
+        "word_count": 1458,
+        "lead_paragraph": "Confucius Institutes are cultural outposts of the Chinese government and bring much-needed cash to American universities. But some are concerned that such largesse comes with strings attached."
+      },
+      {
+        "abstract": "Two women, one system. Didi Kirsten Tatlow takes us into the dangerous cloak-and-dagger world of reporting on women rights campaigners in China. Leave her your questions.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Fighting for the Chinese Enlightenment"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Women's Rights"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Women and Girls"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Politics and Government"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "Wukan (China)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-03-06T19:36:01Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/03/06/fighting-for-the-chinese-enlightenment/",
+        "news_desk": null,
+        "snippet": "Two women, one system. Didi Kirsten Tatlow takes us into the dangerous cloak-and-dagger world of reporting on women rights campaigners in China. Leave her your questions.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a38a8eb7c8105d8ecfaa",
+        "source": "The New York Times",
+        "word_count": 993,
+        "lead_paragraph": "BEIJING - Until Liu Ping emerged from the subway and onto a street under bright blue skies one recent Saturday, I wasn't sure she'd even make it. I feared she'd be stopped on her journey by security officials from Xinyu, her hometown, a common occurrence in China for people who have incurred the displeasure of local officials."
+      },
+      {
+        "abstract": "It wasn't like they were expected to be wearing Mao-era tunics and leftover get-ups from the Cultural Revolution. But a number of high-ranking delegates decided to wear high-end outfits and accessories to the annual Communist Party meetings in Beijing. And they were hardly shy about it, which drove the Sinosphere crazy.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Communist Bling: It's All the Rage in China"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "organizations",
+            "value": "Armani"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Mao Zedong"
+          },
+          {
+            "rank": "10",
+            "name": "subject",
+            "value": "Vouchers"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Mao Xinyu"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Li Peng"
+          },
+          {
+            "rank": "16",
+            "name": "glocations",
+            "value": "Tiananmen Square (Beijing)"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Blogs and Blogging (Internet)"
+          },
+          {
+            "rank": "15",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Cultural Revolution"
+          },
+          {
+            "rank": "14",
+            "name": "organizations",
+            "value": "Hermes International SA"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "13",
+            "name": "organizations",
+            "value": "Communist Party of China"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Luxury Goods"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "Politics and Government"
+          },
+          {
+            "rank": "12",
+            "name": "organizations",
+            "value": "Christian Dior SA"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-03-11T01:41:30Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/03/11/communist-bling-its-all-the-rage/",
+        "news_desk": null,
+        "snippet": "It wasn't like they were expected to be wearing Mao-era tunics and leftover get-ups from the Cultural Revolution. But a number of high-ranking delegates decided to wear high-end outfits and accessories to the annual Communist Party meetings in Beijin",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a3698eb7c8105d8ecae0",
+        "source": "The New York Times",
+        "word_count": 886,
+        "lead_paragraph": "HONG KONG - They arrived at the annual meetings in Beijing - and these were card-carrying Communist Party members, mind you - as if they had just descended from Cleopatra's barge, or at least had maxed out their other cards, the platinum ones, at Dior, Vuitton and Hermès."
+      },
+      {
+        "abstract": "The Bank of China isn't the most Orwellian institution in the world, but in terms of human suffering inflicted by bureaucracy, it has to make the long list.",
+        "headline": {
+          "kicker": "Latitude",
+          "main": "Four Mao Too Many"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Bank of China"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Banking and Financial Institutions"
+          },
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-03-12T05:07:40Z",
+        "web_url": "http://latitude.blogs.nytimes.com/2012/03/12/chinas-burdensome-bureaucracy-seen-in-closure-of-bank-account/",
+        "news_desk": null,
+        "snippet": "The Bank of China isn't the most Orwellian institution in the world, but in terms of human suffering inflicted by bureaucracy, it has to make the long list.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ABRAHAMSEN",
+            "role": "reported",
+            "firstname": "Eric"
+          }],
+          "original": "By ERIC ABRAHAMSEN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a38a8eb7c8105d8ecf94",
+        "source": "The New York Times",
+        "word_count": 626,
+        "lead_paragraph": "BEIJING - Last Wednesday I tried to close my bank account. I won't pretend that the Bank of China is the most Orwellian institution in the world, but in terms of human suffering inflicted by bureaucracy, it has to make the long list."
+      },
+      {
+        "abstract": "Asia has seen remarkable displays of hard power and soft power in recent days, as the region struggles to come to grips with frozen and seemingly intractable conflicts. There have been war games, the display of China's new aircraft carrier, Vietnamese monks being sent to \"occupy\" a disputed island and a South Korean-born conductor leading an orchestra with North Korean musicians. So, do six Buddhists trump one warship?",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Six Monks vs. One Warship"
+        },
+        "keywords": [
+          {
+            "rank": "11",
+            "name": "subject",
+            "value": "Ships and Shipping"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Nixon, Richard Milhous"
+          },
+          {
+            "rank": "21",
+            "name": "glocations",
+            "value": "United States"
+          },
+          {
+            "rank": "10",
+            "name": "subject",
+            "value": "Politics and Government"
+          },
+          {
+            "rank": "19",
+            "name": "glocations",
+            "value": "Far East, South and Southeast Asia and Pacific Areas"
+          },
+          {
+            "rank": "20",
+            "name": "glocations",
+            "value": "Spratly Islands"
+          },
+          {
+            "rank": "3",
+            "name": "persons",
+            "value": "Mao Zedong"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Chertoff, Michael"
+          },
+          {
+            "rank": "18",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "17",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "16",
+            "name": "organizations",
+            "value": "Radio France Philharmonic Orchestra"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Aircraft Carriers"
+          },
+          {
+            "rank": "15",
+            "name": "organizations",
+            "value": "North Atlantic Treaty Organization"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Buddhism"
+          },
+          {
+            "rank": "14",
+            "name": "organizations",
+            "value": "Al Jazeera"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Classical Music"
+          },
+          {
+            "rank": "13",
+            "name": "subject",
+            "value": "United States Defense and Military Forces"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Defense and Military Forces"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "Foreign Aid"
+          },
+          {
+            "rank": "12",
+            "name": "subject",
+            "value": "Table Tennis"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-03-15T00:59:55Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/03/15/six-monks-vs-one-warship/",
+        "news_desk": null,
+        "snippet": "Asia has seen remarkable displays of hard power and soft power in recent days, as the region struggles to come to grips with frozen and seemingly intractable conflicts. There have been war games, the display of China's new aircraft carrier, Vietnames",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd3a3778eb7c8105d8ecc8f",
+        "source": "The New York Times",
+        "word_count": 923,
+        "lead_paragraph": "HONG KONG - Asia has seen varying displays of hard power and soft power in recent days, as the region struggles to come to grips with some frozen and seemingly intractable conflicts."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "Special Report: Art in Perspective",
+          "main": "Chinese Sculptors' Exploration of Ancient Traditions Sparks Artistic Rebirth"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "MAO ZEDONG"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "subject",
+            "value": "BUDDHISM"
+          },
+          {
+            "name": "subject",
+            "value": "TAOISM"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-03-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/03/16/arts/16iht-rartsculptors16.html",
+        "news_desk": "Arts",
+        "snippet": "A generation after Mao Zedong destroyed China's artistic and religious traditions, a new wave of sculptors has begun tapping remnants of classical Chinese civilization to create experimental artworks.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Holden",
+            "role": "reported",
+            "lastname": "PLATT",
+            "firstname": "Kevin"
+          }],
+          "original": "By KEVIN HOLDEN PLATT"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2012/03/16/arts/16iht-rartsculptors16A/16iht-rartsculptors16A-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2012/03/16/arts/16iht-rartsculptors16A/16iht-rartsculptors16A-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailwidth": 75,
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 340,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2012/03/16/arts/16iht-rartsculptors16A/16iht-rartsculptors16A-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 340,
+              "xlarge": "images/2012/03/16/arts/16iht-rartsculptors16A/16iht-rartsculptors16A-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2ae588eb7c8105d89c8dc",
+        "source": "International Herald Tribune",
+        "word_count": 1400,
+        "lead_paragraph": "A generation after Mao Zedong destroyed China's artistic and religious traditions, a new wave of sculptors has begun tapping remnants of classical Chinese civilization to create experimental artworks."
+      },
+      {
+        "abstract": "Chinese activist Liu Ping, who has angered Chinese officials with her advocacy for free elections and support of labor and women's rights issues, has been reported missing after being detained in Beijing by security personnel. (M)1",
+        "headline": {"main": "A Chinese Activist, Liu Ping, Is Missing, Rights Group Says"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LIU PING"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINESE HUMAN RIGHTS DEFENDERS"
+          },
+          {
+            "name": "subject",
+            "value": "MISSING PERSONS"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-03-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/03/20/world/asia/chinese-activist-is-missing-rights-group-says.html",
+        "news_desk": "World / Asia Pacific",
+        "snippet": "Liu Ping, who has angered officials in China, has been missing since she was detained in Beijing on March 6, an advocacy group says.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2012/03/07/world/asia/20beijing-ffchina-liuping/20beijing-ffchina-liuping--thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2012/03/07/world/asia/20beijing-ffchina-liuping/20beijing-ffchina-liuping--thumbStandard-v2.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailwidth": 75,
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 400,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2012/03/07/world/asia/20beijing-ffchina-liuping/20beijing-ffchina-liuping--articleLarge-v2.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 400,
+              "xlarge": "images/2012/03/07/world/asia/20beijing-ffchina-liuping/20beijing-ffchina-liuping--articleLarge-v2.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd2baa58eb7c8105d8b14b4",
+        "source": "The New York Times",
+        "word_count": 419,
+        "lead_paragraph": "Liu Ping, who has angered officials in China, has been missing since she was detained in Beijing on March 6, an advocacy group says."
+      }
+    ],
+    "meta": {
+      "time": 43,
+      "hits": 167,
+      "offset": 20
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

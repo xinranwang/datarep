@@ -1,0 +1,887 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Detention of Shanghai boss Chen Liangyu on corruption charges, first purge of high-ranking party leader since 1995, signals widening investigation of corruption and shakeup as party leaders move to wipe out resistance to policy agenda; largest probe since market-style changes began is supervised by Vice Pres Zeng Qinghong, who is forcing provincial figures to heed Beijing's economic directives, sidelining officials loyal to former leader Jiang Zemin and strengthening himself and Pres Hu Jintau; crackdown may help Hu carry out agenda of broader welfare benefits and stronger pollution controls but may also consolidate power of leader who curbs media and Internet and punishes dissent; also detained are high-level officials in Shanghai, Beijing, Tianjin, Fujian and Hunan; Zeng reportedly also hopes to dismiss Politboro members Jia Qinglin and Huang Ju, which would seal Zeng's reputation as political mastermind; Zeng and Hu promote 'harmonious society,' slogan covering policies to restore balance between thriving market economy and neglected socialist ideology, primarily by paying more attention to peasants and migrant workers who have not benefited as much as white-collar elite; Zeng is son of one of Mao Zedong's security chiefs and has close ties to Communist Party's founding families; photo (M)",
+        "headline": {"main": "In Graft Inquiry, Chinese See a Shake-Up Coming"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO ZIYANG"
+          },
+          {
+            "name": "persons",
+            "value": "WEN JIABAO"
+          },
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "HUANG JU"
+          },
+          {
+            "name": "persons",
+            "value": "ZENG QINGHONG"
+          },
+          {
+            "name": "persons",
+            "value": "MAO ZEDONG"
+          },
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "persons",
+            "value": "JIA QINGLIN"
+          },
+          {
+            "name": "persons",
+            "value": "JIANG ZEMIN"
+          },
+          {
+            "name": "persons",
+            "value": "CHEN LIANGYU"
+          },
+          {
+            "name": "glocations",
+            "value": "FUJIAN PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "HUNAN PROVINCE (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANJIN (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "CENSORSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ETHICS"
+          },
+          {
+            "name": "subject",
+            "value": "BRIBERY"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "NEWS AND NEWS MEDIA"
+          },
+          {
+            "name": "subject",
+            "value": "LEADERS AND LEADERSHIP"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2006-10-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/10/04/world/asia/04corrupt.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Analysts say China\u2019s rulers are trying to shake up the leadership and wipe out resistance to their policy agenda.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2006/10/04/world/nyt.757575.jpg",
+            "legacy": {
+              "thumbnail": "images/2006/10/04/world/nyt.757575.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 230,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2006/10/04/world/corrupt.337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2006/10/04/world/corrupt.337.jpg",
+              "tinythumbheight": 230,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd254008eb7c8105d7faa43",
+        "source": "The New York Times",
+        "word_count": 1697,
+        "lead_paragraph": "When Shanghai's party boss was detained in an anticorruption probe last week, Chinese were rattled by news of the first purge of a high-ranking Communist Party leader since 1995. But the investigation's scope and its ultimate goals are wider, as the party's two most powerful officials aim to shake up the leadership and wipe out resistance to their policy agenda, party officials and analysts say. The investigation, the largest of its kind since China first pursued market-style changes to its economy more than a quarter-century ago, was planned and supervised by Zeng Qinghong, China's vice president and the day-to-day manager of Communist Party affairs, people informed about the operation said."
+      },
+      {
+        "abstract": "Editorial on nightmare scenario of North Korea testing nuclaer weapon and Japan, South Korea and Taiwan thinking they need one too, followed by Iran's neighbors in Middle East; say this is why Bush administration and other key players need to do much more to talk North Korea back from nuclear edge",
+        "headline": {
+          "kicker": "Editorial",
+          "main": "North Korea and the Dominoes"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "glocations",
+            "value": "JAPAN"
+          },
+          {
+            "name": "glocations",
+            "value": "SOUTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "IRAN"
+          },
+          {
+            "name": "glocations",
+            "value": "NORTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "MIDDLE EAST"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ATOMIC WEAPONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "NUCLEAR TESTS"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "TESTS AND TESTING"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ARMAMENT AND DEFENSE"
+          }
+        ],
+        "print_page": "24",
+        "pub_date": "2006-10-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/10/06/opinion/06fri1.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "What\u2019s needed now is real pressure and real diplomacy to get North Korea out of the nuclear weapons business.",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd257c08eb7c8105d80228a",
+        "source": "The New York Times",
+        "word_count": 479,
+        "lead_paragraph": "Here's a scenario to keep you up nights. North Korea tests a nuclear weapon, and Japan, South Korea and Taiwan start thinking they need one too. Meanwhile, over in the Middle East, Iran's neighbors start asking themselves why they should even wait for Tehran to go nuclear before starting their own programs. Which is why the Bush administration, and other critical players, need to do a lot more to talk North Korea back from the nuclear ledge -- and to keep it there."
+      },
+      {
+        "abstract": "China's Communist Party endorses new doctrine that puts more emphasis on tackling severe side effects of unrestrained growth it has encouraged in recent years; analysts see this as one of most decisive shifts in party's thinking since Deng Xiaoping accelerated push for high growth rates in early 1990's; leadership cites range of social concerns that must be addressed, including surging wealth gap, corruption, pollution and access to education and medical care; China's economy has recently been expanding at better than 10 percent annually; party shows no signs of trying to sharply reduce that rate soon, but 'harmonious society' theme contains multitude of political positions that reflect Pres Hu Jintao's agenda as he has consolidated his power (M)",
+        "headline": {"main": "China Makes a Commitment to Achieving Social Harmony"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "ZENG QINGHONG"
+          },
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SOCIAL CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION AND SCHOOLS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ETHICS"
+          },
+          {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "LEADERS AND LEADERSHIP"
+          }
+        ],
+        "print_page": "14",
+        "pub_date": "2006-10-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/10/12/world/asia/12china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China\u2019s Communist Party has endorsed a new doctrine that emphasizes tackling the severe side effects of unrestrained growth.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Health; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2795d8eb7c8105d83c3a5",
+        "source": "The New York Times",
+        "word_count": 814,
+        "lead_paragraph": "China's Communist Party, devoted in recent years to expanding the economy at any cost, on Wednesday endorsed a new doctrine that puts more emphasis on tackling the severe side effects of unrestrained growth. The annual meeting of the ruling party's Central Committee formally adopted President Hu Jintao's proposal to ''build a harmonious socialist society,'' a move some analysts said was one of most decisive shifts in the party's thinking since Deng Xiaoping accelerated the push for high growth rates in the early 1990's."
+      },
+      {
+        "abstract": "Editorial says business people leaving Hong Kong because of awful air pollution has finally begun to raise concerns in its business community; says Beijing and Hong Kong leaders have repeatedly promised to cut down on pollution and then reneged; says they could learn from Mexico City, which has approved comprehensive approach to air pollution",
+        "headline": {
+          "kicker": "Editorial",
+          "main": "Something in Hong Kong's Air"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "TSANG, DONALD"
+          },
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "MEXICO CITY (MEXICO)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "WORLD HEALTH ORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "ENVIRONMENT"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "26",
+        "pub_date": "2006-10-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/10/13/opinion/13fri3.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "The air throughout Hong Kong\u2019s tropical landscape has grown steadily more polluted \u0097 tainted by dark, unhealthy clouds from power plants, traffic and underregulated smokestacks from the Chinese mainland.",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd28d548eb7c8105d8627c0",
+        "source": "The New York Times",
+        "word_count": 351,
+        "lead_paragraph": "Anyone who has ever fallen under Hong Kong's exotic spell in recent years knows how taking a deep breath can make the magic disappear. The air throughout Hong Kong's tropical landscape has grown steadily more polluted -- tainted by dark, unhealthy clouds from power plants, traffic and underregulated smokestacks from the Chinese mainland. Hong Kong's average air pollution levels can be so high -- double or even triple the World Health Organization limit -- that some analysts estimate the air contributes to an extra 2,000 deaths a year. Leaders in Beijing and Hong Kong have repeatedly promised to cut down on environmental toxins in the air, land and water."
+      },
+      {
+        "abstract": "China is reportedly prepared to step up pressure on North Korea in coming weeks by reducing oil shipments, among other measures, if country refuses to return to negotiations or conducts more nuclear tests; such action by China is likely to bolster its relationship with United States; photo (M)",
+        "headline": {
+          "kicker": "THE NORTH KOREAN CHALLENGE",
+          "main": "CHINA MAY PRESS NORTH KOREANS"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "RICE, CONDOLEEZZA"
+          },
+          {
+            "name": "persons",
+            "value": "BUSH, GEORGE W"
+          },
+          {
+            "name": "persons",
+            "value": "KIM JONG IL"
+          },
+          {
+            "name": "glocations",
+            "value": "SOUTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "FAR EAST, SOUTH AND SOUTHEAST ASIA AND PACIFIC AREAS"
+          },
+          {
+            "name": "glocations",
+            "value": "NORTH KOREA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "SECURITY COUNCIL"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ATOMIC WEAPONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "NUCLEAR TESTS"
+          },
+          {
+            "name": "subject",
+            "value": "ARMS CONTROL AND LIMITATION AND DISARMAMENT"
+          },
+          {
+            "name": "subject",
+            "value": "EMBARGOES AND ECONOMIC SANCTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "OIL (PETROLEUM) AND GASOLINE"
+          },
+          {
+            "name": "subject",
+            "value": "ATOMIC ENERGY"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2006-10-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/10/20/world/asia/20china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China is prepared to reduce oil shipments if the country refuses to return to talks or conducts more nuclear tests.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2006/10/20/world/20china75.1.jpg",
+            "legacy": {
+              "thumbnail": "images/2006/10/20/world/20china75.1.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 260,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2006/10/20/world/20china337.1.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2006/10/20/world/20china337.1.jpg",
+              "tinythumbheight": 260,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd257c28eb7c8105d802436",
+        "source": "The New York Times",
+        "word_count": 1398,
+        "lead_paragraph": "China is prepared to step up pressure on North Korea in coming weeks by reducing oil shipments, among other measures, if the country refuses to return to negotiations or conducts more nuclear tests, Chinese government advisers and scholars who have discussed the matter with the leadership say. If Beijing does take a tougher line on its neighbor and longtime ally, the action is likely to bolster its relationship with the United States. Washington has urged Chinese leaders to use all the tools at their disposal to put additional pressure on Kim Jong-il, the North Korean leader."
+      },
+      {
+        "abstract": "Super 8 Hotels, preparing for 2008 Olympics, opens six franchise hotels in China including three in Beijing; recently signing up its 100th hotel in 54 cities, Super 8 has become largest foreign hotel operator in China; photo (S)",
+        "headline": {
+          "kicker": "IN TRANSIT",
+          "main": "Looking to '08 Games, Super 8 Expands in China"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "COLIN, JENNIFER"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "SUPER 8"
+          },
+          {
+            "name": "subject",
+            "value": "FRANCHISES"
+          },
+          {
+            "name": "subject",
+            "value": "HOTELS AND MOTELS"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2006-10-22T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/10/22/travel/22transchina.html",
+        "news_desk": "Travel Desk",
+        "snippet": "Last month, Super 8 Hotels, owned by Wyndham Worldwide, opened six franchise hotels in China in preparation for the 2008 Olympics in Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CONLIN",
+            "role": "reported",
+            "firstname": "Jennifer"
+          }],
+          "original": "By JENNIFER CONLIN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd271a78eb7c8105d82dc76",
+        "source": "The New York Times",
+        "word_count": 242,
+        "lead_paragraph": "Super 8 Hotels is getting ready for the 2008 Olympics in Beijing. Last month, the company, owned by Wyndham Worldwide, opened six franchise hotels in China, including three in Beijing. Now, having just signed up its 100th hotel in 54 cities (34 of which are open), Super 8 has become the largest foreign economy hotel operator in mainland China. With more than 500,000 overseas visitors and one million domestic tourists predicted for the 2008 Olympic Summer Games, Super 8 is aiming at the midmarket traveler in China. ''There is a good array of high-end hotels here,'' said Mitchell A. Presnick, chief executive officer of Super 8 China. ''What they need for the Olympics is more economy hotels, and we are hoping to support Beijing in their efforts by getting as many of them open as we can.''"
+      },
+      {
+        "abstract": "Pres Hu Jintao is said to be intent on removing officials he considers insufficiently loyal, as evidenced by widening anticorruption investigation that is taking aim at Beijing's party leaders; 300 Communist Party investigators who examined property deals and procurement practices in capital since last Sept have reportedly uncovered suspicious dealings that implicate top Chinese leaders, including Jia Qinglin, member of nine-member Politburo Standing Committee, and Liu Qi, Beijing party secretary who is regular member of Politburo; if either one of them is removed, it will make housecleaning most sweeping since shake-up after 1989 suppression of democracy protests; numerous Shanghai officials have been arrested or sidelined, nearly all of them viewed as loyalists to China's former top leader Jiang Zemin, or as having resisted Hu's policies (M)",
+        "headline": {"main": "Corruption Inquiry Grows, and China's Leader May Profit"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JINTAO"
+          },
+          {
+            "name": "persons",
+            "value": "JIA QINGLIN"
+          },
+          {
+            "name": "persons",
+            "value": "JIANG ZEMIN"
+          },
+          {
+            "name": "persons",
+            "value": "LIU QI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "EMBEZZLEMENT"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ETHICS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          },
+          {
+            "name": "subject",
+            "value": "LEADERS AND LEADERSHIP"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2006-10-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/10/27/world/asia/27china.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The investigation is a sign that President Hu Jintao intends to keep removing officials he considers insufficiently loyal.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "KAHN",
+            "role": "reported",
+            "firstname": "Joseph"
+          }],
+          "original": "By JOSEPH KAHN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd28c0d8eb7c8105d85fff3",
+        "source": "The New York Times",
+        "word_count": 1227,
+        "lead_paragraph": "A widening Chinese anticorruption investigation is taking aim at Beijing's party leaders, a sign that President Hu Jintao intends to continue removing officials he considers insufficiently loyal, people told about the leadership's planning said. Some 300 Communist Party investigators have been examining property deals and procurement practices in the capital city since at least late September and have uncovered suspicious dealings that implicate top Chinese leaders, the people said."
+      },
+      {
+        "abstract": "Lehman Brothers and IBM each put up $90 million to create private equity fund to take minority stakes in companies in China (M)",
+        "headline": {"main": "Lehman and I.B.M. to Start Chinese Private Equity Fund"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "FAR EAST, SOUTH AND SOUTHEAST ASIA AND PACIFIC AREAS"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BLACKSTONE GROUP"
+          },
+          {
+            "name": "organizations",
+            "value": "LEHMAN BROTHERS HOLDINGS INC"
+          },
+          {
+            "name": "organizations",
+            "value": "LEHMAN BROTHERS"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL BUSINESS MACHINES CORPORATION"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL BUSINESS MACHINES CORP"
+          },
+          {
+            "name": "subject",
+            "value": "MERGERS, ACQUISITIONS AND DIVESTITURES"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+          },
+          {
+            "name": "subject",
+            "value": "STOCKS AND BONDS"
+          }
+        ],
+        "print_page": "9",
+        "pub_date": "2006-10-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/10/30/business/worldbusiness/30private.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Lehman Brothers and I.B.M. have teamed up to create a $180 million private equity fund to take minority stakes in companies in China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ANDERSON",
+            "role": "reported",
+            "firstname": "Jenny"
+          }],
+          "original": "By JENNY ANDERSON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd253078eb7c8105d7f8e62",
+        "source": "The New York Times",
+        "word_count": 436,
+        "lead_paragraph": "Lehman Brothers and I.B.M. have teamed up to create a $180 million private equity fund to take minority stakes in companies in China. At a time when a private equity giant like the Blackstone Group is seeking to raise a $20 billion fund, this China fund is a small one. But the two companies, which plan to announce their venture today, are hoping that the unusual partnership between an investment bank and a technology giant will help differentiate the fund in a country whose warp-speed growth has captured the minds and wallets of corporations around the world."
+      },
+      {
+        "abstract": "Ford",
+        "headline": {
+          "kicker": "INTERNATIONAL BUSINESS",
+          "main": "China Bank Sentence"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHANG ENZHAO"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINA CONSTRUCTION BANK"
+          },
+          {
+            "name": "subject",
+            "value": "SENTENCES (CRIMINAL)"
+          },
+          {
+            "name": "subject",
+            "value": "BRIBERY"
+          },
+          {
+            "name": "subject",
+            "value": "BANKS AND BANKING"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2006-11-03T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/11/03/business/worldbusiness/03zhang.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "The former chairman of the state-owned China Construction Bank was sentenced to 15 years in jail for accepting bribes.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd28d568eb7c8105d8629b6",
+        "source": "Bloomberg News",
+        "word_count": 124,
+        "lead_paragraph": "Zhang Enzhao, the former chairman of the state-owned China Construction Bank, was sentenced today to 15 years in jail for accepting bribes, the second executive at the lender to be punished in the government's crackdown on corruption. Mr. Zhang, 60, will serve 15 years at the Qingcheng prison outside Beijing, a penitentiary built in 1958 for jailing political prisoners. His sentence began June 13, 2005, when he was detained for investigations into charges that he had accepted 4.18 million yuan ($530,000) in bribes, according to the verdict by the Beijing No. 1 Intermediate Court."
+      },
+      {
+        "abstract": "Figure skater Michelle Kwan is latest popular sports figure to become good-will ambasssador to counter hostile images of America around world; her new title is United States public diplomacy envoy; she will report to Karen P Hughes, under secretary of state for public diplomacy; photo (M)",
+        "headline": {"main": "Figure Skater Is New Envoy Of Good Will Overseas"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "KWAN, MICHELLE"
+          },
+          {
+            "name": "persons",
+            "value": "HUGHES, KAREN P"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "STATE DEPARTMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ICE SKATING"
+          },
+          {
+            "name": "subject",
+            "value": "APPOINTMENTS AND EXECUTIVE CHANGES"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES FOREIGN SERVICE"
+          },
+          {
+            "name": "subject",
+            "value": "FIGURE SKATING"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "2006-11-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2006/11/10/world/10diplo.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Michelle Kwan, America\u2019s newest good-will ambassador, said her first trip would likely be early next year to Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Washington",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "COOPER",
+            "role": "reported",
+            "firstname": "Helene"
+          }],
+          "original": "By HELENE COOPER"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "images/2006/11/10/world/10diplo.75.jpg",
+          "legacy": {
+            "thumbnail": "images/2006/11/10/world/10diplo.75.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "4fd257c68eb7c8105d8027bd",
+        "source": "The New York Times",
+        "word_count": 447,
+        "lead_paragraph": "During the cold war, the State Department called on the Harlem Globetrotters to travel as good-will ambassadors to counter hostile images of America around the world. During the Cuban missile crisis, the New York City Ballet was sent to perform in Moscow, where it was received enthusiastically. And during these troubled times? America's newest good-will ambassador is Michelle Kwan, the figure skater, who, in the words of her new boss, Karen P. Hughes, the under secretary of state for public diplomacy, ''combines the power of sports diplomacy with the personal appeal of a unique American story.''"
+      }
+    ],
+    "meta": {
+      "time": 11,
+      "hits": 58,
+      "offset": 30
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

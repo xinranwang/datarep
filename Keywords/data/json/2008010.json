@@ -1,0 +1,851 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Editorial urges International Olympic Committee and Western governments to remind China that world is watching as it hosts Olympic Games; argues that China is doing opposite of what it promised when it won right to host Games: improve its human-rights record; notes that Chinese Olympic organizing committee has issued comprehensive restrictions for visitors, including ban on any material considered 'detrimental' to China",
+        "headline": {
+          "kicker": "EDITORIAL",
+          "main": "China's List of Olympic Don'ts"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "EDITORIALS"
+          },
+          {
+            "name": "subject",
+            "value": "EARTHQUAKES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "22",
+        "pub_date": "2008-06-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/11/opinion/11wed3.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "To win the right to host the Games, China promised to improve its human-rights record. It keeps moving mostly in the opposite direction.",
+        "type_of_material": "Editorial",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2660c8eb7c8105d81a2c5",
+        "source": "The New York Times",
+        "word_count": 382,
+        "lead_paragraph": "Now that the shock of the earthquake (which they could not control) in Sichuan Province has dissipated somewhat, China's leaders are focusing again on something that they think they can control: people. Sports fans attending the 2008 Olympics in Beijing will have a long list of rules to carry in their pockets along with their tickets. On its Web site last week, the Chinese Olympic organizing committee listed a set of restrictions for the 500,000 overseas visitors expected in August. Olympic spectators are being told not to bring in ''anything detrimental'' to China, including printed materials, photos, records or movies. Religious or political banners or slogans are banned. So are rallies, demonstrations and marches -- unless approved by authorities in advance. It also says that visitors with mental illnesses and sexually transmitted diseases will be barred from the country."
+      },
+      {
+        "abstract": "Matthew Forney, who lives and raises his family in Beijing, describes how his children eat wide variety of sometimes strange foods, which are common in China; photo (M)",
+        "headline": {"main": "Scorpions for Breakfast And Snails for Dinner"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "FAMILIES AND FAMILY LIFE"
+          },
+          {
+            "name": "subject",
+            "value": "FOOD"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "2008-06-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/11/dining/11china.html",
+        "news_desk": "Dining In, Dining Out / Style Desk",
+        "snippet": "My wife and I may not deserve credit for rearing adventurous eaters. Our children were born and raised in China, where people eat anything.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Dining and Wine; Style",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FORNEY",
+            "role": "reported",
+            "firstname": "Matthew"
+          }],
+          "original": "By MATTHEW FORNEY"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/06/11/dining/11china-75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/06/11/dining/11china-75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/06/11/dining/11china.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2008/06/11/dining/11china.600.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 225,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/06/11/dining/11china.337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/06/11/dining/11china.337.jpg",
+              "tinythumbheight": 225,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd2699e8eb7c8105d8206a1",
+        "source": "The New York Times",
+        "word_count": 851,
+        "lead_paragraph": "IN Beijing, where my family lives, I once returned home from a restaurant with a doggy bag full of deep-fried scorpions. The next morning, I poured them instead of imported raisin bran into my 11-year-old son's cereal bowl. I wanted to freak him out. The scorpions were black and an inch long, with dagger tails. ''Scorpions!'' shrieked my son, Roy. ''Awesome!''"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Nightclubs "},
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "NIGHTCLUBS AND CABARETS"
+          },
+          {
+            "name": "organizations",
+            "value": ""
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "persons",
+            "value": ""
+          },
+          {
+            "name": "creative_works",
+            "value": ""
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2008-06-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/slideshow/2008/06/13/style/0615-BEIJING_index.html",
+        "news_desk": null,
+        "snippet": "Images that capture the city and its nocturnal celebrators.",
+        "type_of_material": null,
+        "blog": [],
+        "section_name": null,
+        "document_type": "multimedia",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "504a89e91c22dfde670c2e0a",
+        "source": null,
+        "word_count": 15,
+        "lead_paragraph": "Images that capture the city and its nocturnal celebrators."
+      },
+      {
+        "abstract": "Fred Bernstein reviews Ritz-Carlton Beijing hotel in Beijing, China; photo (M)",
+        "headline": {
+          "kicker": "CHECK IN, CHECK OUT",
+          "main": "Beijing: Ritz-Carlton Beijing"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "RITZ-CARLTON HOTEL"
+          },
+          {
+            "name": "organizations",
+            "value": "RITZ-CARLTON HOTEL CO"
+          },
+          {
+            "name": "subject",
+            "value": "REVIEWS"
+          },
+          {
+            "name": "subject",
+            "value": "HOTELS AND MOTELS"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-06-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/15/travel/15checkin.html",
+        "news_desk": "Travel Desk",
+        "snippet": "If you\u2019re looking for service and Old-World décor, this hotel gets a gold medal.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "A.",
+            "role": "reported",
+            "lastname": "BERNSTEIN",
+            "firstname": "Fred"
+          }],
+          "original": "By FRED A. BERNSTEIN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/06/15/travel/15check75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/06/15/travel/15check75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 300,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/06/15/travel/15check600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 300,
+              "xlarge": "images/2008/06/15/travel/15check600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd295bd8eb7c8105d871381",
+        "source": "The New York Times",
+        "word_count": 559,
+        "lead_paragraph": "THE BASICS China's natural and political upheavals have had little impact on Beijing's pre-Olympics hotel boom. Ritz-Carlton, already represented in the capital by the Ritz-Carlton Beijing Financial Street, unveiled the Ritz-Carlton Beijing at the end of last year. The former is a sleek glass building. The latter (which everyone calls the ''Ritz-Carlton Not-Financial Street'' to avoid confusing cab drivers) is more traditional, with a new stone facade that suggests old money and lots of crystal chandeliers."
+      },
+      {
+        "abstract": "About 50 athletes since 1992 have become US citizens in order to compete at Olympics, and have won eight medals; this year a number of foreign-born athletes will compete for US; photos (M)",
+        "headline": {"main": "Swapping Passports in Pursuit Of Olympic Medals"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED STATES OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL OLYMPIC COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "CITIZENSHIP"
+          },
+          {
+            "name": "subject",
+            "value": "IMMIGRATION AND REFUGEES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-06-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/15/sports/olympics/15citizen.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Foreign-born and trained stars have been contributing to the United States\u2019s Olympic medal count since 2000 in a growing trend that blurs the national boundaries of the competition.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WILSON",
+              "role": "reported",
+              "firstname": "Duff"
+            },
+            {
+              "organization": "",
+              "rank": 2,
+              "middlename": "W.",
+              "role": "reported",
+              "lastname": "LEHREN",
+              "firstname": "Andrew"
+            }
+          ],
+          "original": "By DUFF WILSON and ANDREW W. LEHREN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 583,
+            "width": 680,
+            "caption": "Foreign Elite Athletes Who Switched to the U.S.",
+            "type": "Other",
+            "credit": "Since 1992, there have been about 50 athletes who competed for other nations before becoming members of U.S. Olympic teams.",
+            "url": "http://www.nytimes.com/packages/html/sports/20080615_OLYMPICS_GRAPHIC/",
+            "legacy": {
+              "MultimediaSummary1": "Since 1992, there have been about 50 athletes who competed for other nations before becoming members of U.S. Olympic teams.",
+              "MultimediaPopupWidth1": "680",
+              "MultimediaType1": "Other",
+              "MultimediaPopupHeight1": "583",
+              "MultimediaHeadline1": "Foreign Elite Athletes Who Switched to the U.S.",
+              "MultimediaUrl1": "http://www.nytimes.com/packages/html/sports/20080615_OLYMPICS_GRAPHIC/"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/06/15/sports/15citizen.1.75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/06/15/sports/15citizen.1.75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 286,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/06/15/sports/15citizen.1.600.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 286,
+              "xlarge": "images/2008/06/15/sports/15citizen.1.600.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "4fd27cc18eb7c8105d842f13",
+        "source": "The New York Times",
+        "word_count": 2206,
+        "lead_paragraph": "Marching into Beijing Stadium under the American flag this August will be a kayaker from Poland, table tennis players from China, a triathlete from New Zealand, a world-champion distance runner from Kenya and a gold-medal-winning equestrian from Australia. All newly minted United States citizens."
+      },
+      {
+        "abstract": "Article on newly emerging nightlife in Beijing, fueled by new monied class; photos (M)",
+        "headline": {"main": "Beijing Lights Up the Night"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "NIGHTCLUBS AND CABARETS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-06-15T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/15/fashion/15beijing.html",
+        "news_desk": "Style Desk",
+        "snippet": "With the approach of the Olympic Games, the capital\u2019s new monied class has come out to party.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Style",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LEVIN",
+            "role": "reported",
+            "firstname": "Dan"
+          }],
+          "original": "By DAN LEVIN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "rank": "1",
+            "height": 700,
+            "width": 750,
+            "caption": "Beijing Night Clubs",
+            "type": "Slideshow",
+            "credit": "Images that capture the city and its nocturnal celebrators.",
+            "url": "http://www.nytimes.com/slideshow/2008/06/13/style/0615-BEIJING_index.html",
+            "legacy": {
+              "MultimediaSummary1": "Images that capture the city and its nocturnal celebrators.",
+              "MultimediaPopupWidth1": "750",
+              "MultimediaType1": "Slideshow",
+              "MultimediaPopupHeight1": "700",
+              "MultimediaHeadline1": "Beijing Night Clubs",
+              "MultimediaUrl1": "http://www.nytimes.com/slideshow/2008/06/13/style/0615-BEIJING_index.html"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/06/15/fashion/15beijin.751.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/06/15/fashion/15beijin.751.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 350,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/06/15/fashion/15beijin.xlarge1.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 350,
+              "xlarge": "images/2008/06/15/fashion/15beijin.xlarge1.jpg",
+              "xlargewidth": 600
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/06/15/fashion/15beijing_337_b.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/06/15/fashion/15beijing_337_b.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd296388eb7c8105d871a7d",
+        "source": "The New York Times",
+        "word_count": 1187,
+        "lead_paragraph": "BEAMING across the smoggy night sky like twin hedonist bat signals, the searchlights at the entrance of the giant dance club GT Banana also illuminated a small brass plaque in the doorway that reads ''precious your life -- say no to drugs.''"
+      },
+      {
+        "abstract": "Australia's track and field authorities say that they will not allow their team to march in opening ceremony at 2008 Olympics in Beijing because of air quality concerns; photo (M)",
+        "headline": {
+          "kicker": "RINGS",
+          "main": "Australia's Track Team Will Skip Ceremony"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "AUSTRALIA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "TRACK AND FIELD"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AIR POLLUTION"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "2008-06-17T00:00:00Z",
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9B02E1DF123AF934A25755C0A96E9C8B63",
+        "news_desk": "Sports Desk",
+        "snippet": "Australia's track and field authorities announced they will not allow their team to march in the opening ceremony at the Beijing Olympics because of fears the city's smog may harm the athletes.      Instead, the team will spend the first week of the ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Z.",
+            "role": "reported",
+            "lastname": "KLEIN",
+            "firstname": "Jeff"
+          }],
+          "original": "By JEFF Z. KLEIN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2699e8eb7c8105d82073c",
+        "source": "The New York Times",
+        "word_count": 674,
+        "lead_paragraph": "Australia's track and field authorities announced they will not allow their team to march in the opening ceremony at the Beijing Olympics because of fears the city's smog may harm the athletes. Instead, the team will spend the first week of the Games in Hong Kong because track and field events do not begin until the second week, The Associated Press reported Monday. Australian authorities portrayed the decision as a logistical rather than a health issue, but nevertheless expressed their concerns about the smog."
+      },
+      {
+        "abstract": "Special report on Connie Shaw, who spent two months living with dread that her son Kendall Bailey might be disqualified from participation in Beijing Paralympic games in September; US had formally requested, just weeks after April trials in which Bailey was named to team, that he be declared ineligible; Bailey, who has cerebral palsy, mental retardation and other disabilities, may be fastest disabled breaststroker in world; Shaw, who learned only on June 16 that Bailey could compete, now wonders whether US team was trying to protect her son or if it did not want distraction of dealing with his retardation and volatile temperament; Bailey continues to train, oblivious to rancor that has surrounded him and his bid for gold; photos (M)",
+        "headline": {"main": "A Disabled Swimmer's Dream, a Mother's Fight"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BAILEY, KENDALL"
+          },
+          {
+            "name": "persons",
+            "value": "SHAW, CONNIE"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "PARALYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SWIMMING"
+          },
+          {
+            "name": "subject",
+            "value": "HANDICAPPED"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-06-18T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/18/sports/othersports/18swimmer.html",
+        "news_desk": "Sports Desk",
+        "snippet": "Questions about an athlete\u2019s eligibility for the Paralympics prompted a dedicated effort from his mother.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Front Page; Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SCHWARZ",
+            "role": "reported",
+            "firstname": "Alan"
+          }],
+          "original": "By ALAN SCHWARZ"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/06/18/sports/18swimmer01_75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/06/18/sports/18swimmer01_75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 450,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/06/18/sports/18swimmer01_650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 450,
+              "xlarge": "images/2008/06/18/sports/18swimmer01_650.jpg",
+              "xlargewidth": 650
+            }
+          },
+          {
+            "height": 240,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/06/18/sports/18swimmer01_337.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/06/18/sports/18swimmer01_337.jpg",
+              "tinythumbheight": 240,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd285258eb7c8105d854a02",
+        "source": "The New York Times",
+        "word_count": 2712,
+        "lead_paragraph": "As Kendall Bailey swims, his praying-mantis limbs flapping him forward, something about the water disguises his many maladies: cerebral palsy, mental retardation, autism and more. Only in a swimming pool do they dissolve and allow his troubled body and mind to be all but normal. He is happy, safe and possibly the fastest disabled breaststroker in the world. ''I'm going to the Paralympics,'' Bailey told a waiter last week at his favorite restaurant, speaking of the Olympic Games for disabled athletes in Beijing this September. He wears his Team USA jersey everywhere, every day, and sleeps under an American-flag blanket, occasionally with the medals he has won around his neck. ''I'm going to swim for the U.S.A.''"
+      },
+      {
+        "abstract": "Lenovo, which bought IBM's personal computer business in 2005, plans to use its Olympic campaign as launching pad for its brand, which had once played understudy to IBM name; photos (L)",
+        "headline": {
+          "kicker": "ADVERTISING",
+          "main": "Lenovo Brand, A Stalwart in China, Savors Olympic Stage"
+        },
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "ADVERTISING (TIMES COLUMN)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL BUSINESS MACHINES CORP"
+          },
+          {
+            "name": "organizations",
+            "value": "LENOVO GROUP"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "SUMMER GAMES (OLYMPICS)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "COMPUTERS AND THE INTERNET"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2008-06-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/20/business/media/20adco.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "Lenovo, the only Chinese company sponsoring the 2008 Beijing Olympics worldwide, is using its campaign as a launching pad for its brand.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Technology; Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CLIFFORD",
+            "role": "reported",
+            "firstname": "Stephanie"
+          }],
+          "original": "By STEPHANIE CLIFFORD"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/06/20/business/adco75.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/06/20/business/adco75.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 450,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/06/20/business/adco650.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 450,
+              "xlarge": "images/2008/06/20/business/adco650.jpg",
+              "xlargewidth": 650
+            }
+          }
+        ],
+        "_id": "4fd2699f8eb7c8105d820785",
+        "source": "The New York Times",
+        "word_count": 1445,
+        "lead_paragraph": "WITH an Italian-sounding name, a line of computers once made by I.B.M., and a chief executive who hails from Dell and NCR, the Lenovo Group is not a company that most Americans would assume is Chinese. And that is just fine with Lenovo, which happens to be the only Chinese company having a worldwide sponsorship for the 2008 Beijing Olympics."
+      },
+      {
+        "abstract": "China's Olympic athletes push themselves to limit and beyond in preparation for 2008 Games in Beijing; face intense pressure to perform from both national athletic system and from hope that success will bring glory, opportunity and commercial riches; press through grueling training regimens despite serious injuries, some risking long-term or life-threatening effects; exist in tightly controlled system that manages every aspect of their lives, often from early childhood; injury decisions are made by system officials, without consulting medical professionals; system doctrine suggests that anything less than gold medal amounts to failure; photos (L)",
+        "headline": {"main": "China Presses Injured Athletes In Quest for Gold and Glory"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "HU JIA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "ATHLETICS AND SPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "AWARDS, DECORATIONS AND HONORS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "2008-06-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2008/06/20/world/asia/20olympics.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "Pressured by the nation\u2019s athletic system, China\u2019s Olympic aspirants are pushing themselves to their limits.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Health",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "W.",
+            "role": "reported",
+            "lastname": "FRENCH",
+            "firstname": "Howard"
+          }],
+          "original": "By HOWARD W. FRENCH; Li Zhen, Fan Wenxin and Shi Jing contributed reporting"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2008/06/20/world/20olympics-inlineA1-75-2.jpg",
+            "legacy": {
+              "thumbnail": "images/2008/06/20/world/20olympics-inlineA1-75-2.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 757,
+            "width": 650,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2008/06/20/world/20olympics-inlineA1-650-2.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 757,
+              "xlarge": "images/2008/06/20/world/20olympics-inlineA1-650-2.jpg",
+              "xlargewidth": 650
+            }
+          },
+          {
+            "height": 250,
+            "width": 337,
+            "subtype": "tiny_thumb",
+            "type": "image",
+            "url": "images/2008/06/20/world/20olympics-inlineA1-337-2.jpg",
+            "legacy": {
+              "tinythumbwidth": 337,
+              "tinythumb": "images/2008/06/20/world/20olympics-inlineA1-337-2.jpg",
+              "tinythumbheight": 250,
+              "hastinythumb": "Y"
+            }
+          }
+        ],
+        "_id": "4fd285268eb7c8105d854a38",
+        "source": "The New York Times",
+        "word_count": 2676,
+        "lead_paragraph": "When China's champion 10-meter platform diver suffered a detached retina while training, a year after winning a gold medal in the 2004 Athens Olympics, family members and fans speculated about the imminent end of a great career. The parents of the diver, Hu Jia, had surrendered him to trainers from the Chinese sports establishment at the age of 10, and had seen little of him since then. In an interview with a Chinese newspaper after the diver's injury, his father suggested that this was sacrifice enough. Had he known his son risked blindness, the father said, ''I would never have sent him off to dive.''"
+      }
+    ],
+    "meta": {
+      "time": 109,
+      "hits": 367,
+      "offset": 100
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

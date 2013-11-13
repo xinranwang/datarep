@@ -1,0 +1,891 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Elite Chinese athletes in their final preparations for the Olympics, which open on Friday, are now focusing on special training routines while eliminating distractions. One distraction that the women swimmers didn't need was a peeping Tom in their locker room --- along with the politics over a visit by the Dalai Lama and Chinese pork dangerously loaded with steroids.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "A Peeping Tom and Toxic Pigs: China's Olympic Headaches"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Dalai Lama"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Tibet"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Leeds (England)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "World Anti-Doping Agency"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Beijing News, The"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "British Broadcasting Corp"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "China Daily"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "Court of Arbitration for Sport"
+          },
+          {
+            "rank": "9",
+            "name": "subject",
+            "value": "Tests (Drug Use)"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Swimming"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Meat"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Doping (Sports)"
+          },
+          {
+            "rank": "10",
+            "name": "subject",
+            "value": "Women and Girls"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Olympic Games (2012)"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Olympic Games"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Chinese Food (Cuisine)"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Steroids"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Pork"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-07-22T00:18:17Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/07/22/a-peeping-tom-and-toxic-pigs-chinas-olympic-headaches/",
+        "news_desk": null,
+        "snippet": "Elite Chinese athletes in their final preparations for the Olympics, which open on Friday, are now focusing on special training routines while eliminating distractions. One distraction that the women swimmers didn't need was a peeping Tom in their lo",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "500b7fcf1c22dfde670b1bfd",
+        "source": "The New York Times",
+        "word_count": 890,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "A new study gives the first rough estimate of how the Chinese reduced carbon dioxide emissions from urban traffic during the 2008 Olympic Games in Beijing.",
+        "headline": {
+          "kicker": "Green",
+          "main": "When Beijing Cleared the Air"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "National Center for Atmospheric Research"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Olympic Games (2008)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-07-22T09:34:23Z",
+        "web_url": "http://green.blogs.nytimes.com/2012/07/22/remembering-beijings-accomplishment/",
+        "news_desk": null,
+        "snippet": "A new study gives the first rough estimate of how the Chinese reduced carbon dioxide emissions from urban traffic during the 2008 Olympic Games in Beijing.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "Science",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BARRINGER",
+            "role": "reported",
+            "firstname": "Felicity"
+          }],
+          "original": "By FELICITY BARRINGER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "500c01e41c22dfde670b1c9e",
+        "source": "The New York Times",
+        "word_count": 552,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Britain's track cycling team, preparing for the 2012 Games in London, is looking to repeat the astonishing success it had at the 2008 Olympics; team is led by Chris Hoy, who became one of Britain's most popular athletes after winning three gold medals in Beijing.",
+        "headline": {
+          "seo": "2012 Olympics \u2014 How Britain Conquered the Cycling World",
+          "print_headline": "Cycling\u2019s British Invasion",
+          "main": "Cycling\u2019s British Invasion"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Staff, Jamie",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Cycling, Track",
+            "is_major": "N"
+          },
+          {
+            "rank": "8",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Olympic Games",
+            "is_major": "N"
+          },
+          {
+            "rank": "9",
+            "name": "glocations",
+            "value": "London (England)",
+            "is_major": "N"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Olympic Games (2008)",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Olympic Games (2012)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Great Britain",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Hoy, Chris",
+            "is_major": "Y"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2012-07-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/07/23/sports/olympics/2012-olympics-how-britain-conquered-the-cycling-world.html",
+        "news_desk": "Sports",
+        "snippet": "Britain set out to dominate the sport of cycling and has transformed its program from white elephant to gold medal factory.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BISHOP",
+            "role": "reported",
+            "firstname": "Greg"
+          }],
+          "contributor": "",
+          "original": "By GREG BISHOP"
+        },
+        "subsection_name": "Olympics",
+        "multimedia": [
+          {
+            "height": 350,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2012/07/23/sports/OLY-BRITCYCLE/OLY-BRITCYCLE-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "350",
+              "xlarge": "images/2012/07/23/sports/OLY-BRITCYCLE/OLY-BRITCYCLE-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2012/07/23/sports/OLY-BRITCYCLE/OLY-BRITCYCLE-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2012/07/23/sports/OLY-BRITCYCLE/OLY-BRITCYCLE-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "515d9f07cf28d0219d000b7b",
+        "source": "The New York Times",
+        "word_count": "1730",
+        "lead_paragraph": "Britain set out to dominate the sport of cycling and has transformed its program from white elephant to gold medal factory."
+      },
+      {
+        "abstract": "United States men's and women's 4x100-meter relay teams hope to avoid botched baton exchanges at the 2012 London Games, like the ones that cost them victories at the 2008 Olympics and world championships.",
+        "headline": {
+          "seo": "Olympics 2012 \u2014 U.S. Track Relays Hope to Avoid Another Baton Drop",
+          "print_headline": "Pass or Fail",
+          "main": "For U.S. Relayers, Dread of Another Dropped Baton"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Olympic Games",
+            "is_major": "N"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "London (England)",
+            "is_major": "N"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Olympic Games (2008)",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "USA Track and Field",
+            "is_major": "N"
+          },
+          {
+            "rank": "8",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Track and Field",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Olympic Games (2012)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "persons",
+            "value": "Drummond, Jon",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2012-07-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/07/23/sports/olympics/olympics-2012-us-track-relays-hope-to-avoid-another-baton-drop.html",
+        "news_desk": "Sports",
+        "snippet": "Batons may not seem particularly calamitous, but they have been the undoing of several American 4x100-meter relay teams at recent Olympics and world championships.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BORDEN",
+            "role": "reported",
+            "firstname": "Sam"
+          }],
+          "contributor": "",
+          "original": "By SAM BORDEN"
+        },
+        "subsection_name": "Olympics",
+        "multimedia": [
+          {
+            "height": 228,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2012/07/23/sports/RELAY5/RELAY5-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "228",
+              "xlarge": "images/2012/07/23/sports/RELAY5/RELAY5-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2012/07/23/sports/OLY-RELAY3/OLY-RELAY3-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2012/07/23/sports/OLY-RELAY3/OLY-RELAY3-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "515d9f05cf28d0219d000b78",
+        "source": "The New York Times",
+        "word_count": "3207",
+        "lead_paragraph": "Batons may not seem particularly calamitous, but they have been the undoing of several American 4x100-meter relay teams at recent Olympics and world championships."
+      },
+      {
+        "abstract": "French officials dispute news media reports that Patrick Henri Devillers, a French architect who was an associate of disgraced Chinese politician Bo Xilai, was arrested after arriving in Beijing, saying that he was being housed in proper conditions and was not in prison. Photo (M)",
+        "headline": {"main": "Figure in China Scandal Arrives in Beijing"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BO XILAI"
+          },
+          {
+            "name": "persons",
+            "value": "GU KAILAI"
+          },
+          {
+            "name": "persons",
+            "value": "DEVILLERS, PATRICK HENRI"
+          },
+          {
+            "name": "glocations",
+            "value": "FRANCE"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2012-07-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/07/24/world/asia/patrick-devillers-bo-xilai-beijing.html",
+        "news_desk": "World / Asia Pacific",
+        "snippet": "French officials disputed news media reports that Patrick Henri Devillers, an associate of Bo Xilai, was in custody, saying that he was being \u201choused\u201d in \u201cproper conditions.\u201d",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "PERLEZ",
+            "role": "reported",
+            "firstname": "Jane"
+          }],
+          "original": "By JANE PERLEZ; Scott Sayare contributed reporting from Paris"
+        },
+        "subsection_name": null,
+        "multimedia": [{
+          "height": 75,
+          "subtype": "thumbnail",
+          "type": "image",
+          "url": "http://www.nytimes.com/images/2012/07/24/world/SUB-DEVILLERS/SUB-DEVILLERS-thumbStandard.jpg",
+          "legacy": {
+            "thumbnail": "http://www.nytimes.com/images/2012/07/24/world/SUB-DEVILLERS/SUB-DEVILLERS-thumbStandard.jpg",
+            "hasthumbnail": "Y",
+            "thumbnailheight": 75
+          }
+        }],
+        "_id": "500d85b41c22dfde670b202b",
+        "source": "The New York Times",
+        "word_count": 584,
+        "lead_paragraph": "BEIJING -- The French government said on Monday that its diplomats visited a French architect over the weekend after he arrived in Beijing from Cambodia in connection with the case of a disgraced Chinese politician and his wife, but French officials disputed earlier accounts that the Chinese had taken him into custody. After news media reports on Saturday that the Chinese had taken the architect, Patrick Henri Devillers, 51, into custody, a spokesman for the French Foreign Ministry said that Mr. Devillers was being ''housed'' in ''proper conditions'' and that he was not in prison. ''He is well; he's in great health,'' said the spokesman, Bernard Valero."
+      },
+      {
+        "abstract": "United States men's and women's 4x100-meter relay teams hope to avoid botched baton exchanges at the 2012 London Games, like the ones that cost them victories at the 2008 Olympics and world championships. Photos, Diagrams (L)",
+        "headline": {
+          "kicker": "YEARS OF HOPES LOST IN INSTANT",
+          "main": "Pass or Fail"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "DRUMMOND, JON"
+          },
+          {
+            "name": "glocations",
+            "value": "LONDON (ENGLAND)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "USA TRACK AND FIELD"
+          },
+          {
+            "name": "subject",
+            "value": "TRACK AND FIELD"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2008)"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES"
+          },
+          {
+            "name": "subject",
+            "value": "OLYMPIC GAMES (2012)"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "2012-07-23T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/07/23/sports/olympics/olympics-2012-us-track-relays-hope-to-avoid-another-baton-drop.html",
+        "news_desk": "Sports / Olympics",
+        "snippet": "Batons may not seem particularly calamitous, but they have been the undoing of several American 4x100-meter relay teams at recent Olympics and world championships.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Sports",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "BORDEN",
+            "role": "reported",
+            "firstname": "Sam"
+          }],
+          "original": "By SAM BORDEN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "http://www.nytimes.com/images/2012/07/23/sports/RELAY5/RELAY5-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "http://www.nytimes.com/images/2012/07/23/sports/RELAY5/RELAY5-thumbStandard.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 228,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2012/07/23/sports/RELAY5/RELAY5-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 228,
+              "xlarge": "images/2012/07/23/sports/RELAY5/RELAY5-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "500d6ecd1c22dfde670b1fc9",
+        "source": "The New York Times",
+        "word_count": 3218,
+        "lead_paragraph": "It is the sound no relay runner wants to hear, a sound so soft and unassuming it might barely be noticed in the stands but nonetheless reverberates, over and over, down on the track. Ping. Ping. Ping."
+      },
+      {
+        "abstract": "Government officials are sticking with their official death toll of 37 after rainstorms pounded Beijing over the weekend, but many in the capital are expecting the actual number of deaths to be much higher.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "A Flood of Anger Follows Deadly Rains in Beijing "
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Communist Party of China"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Sewers and Sewage"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Floods"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Deaths (Fatalities)"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-07-25T00:49:27Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/07/25/a-flood-of-anger-follows-deadly-rains-in-beijing/",
+        "news_desk": null,
+        "snippet": "Government officials are sticking with their official death toll of 37 after rainstorms pounded Beijing over the weekend, but many in the capital are expecting the actual number of deaths to be much higher.",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "500f7b571c22dfde670b251e",
+        "source": "The New York Times",
+        "word_count": 1136,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "News analysis; epic rainstorm that hits Chinese capital of Beijing, heaviest downpour in decades, has prompted tough questions about management of this city of 22 million, and its infrastructure, after catastrophic flooding leaves at least 77 people dead. Photos (M)0",
+        "headline": {
+          "kicker": "NEWS ANALYSIS",
+          "main": "An Epic Downpour Wipes Away a Capital's Sheen"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WANG HUI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "FLOODS"
+          },
+          {
+            "name": "subject",
+            "value": "INFRASTRUCTURE (PUBLIC WORKS)"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "2012-07-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/07/27/world/asia/an-epic-flood-exposes-a-creakier-beijing.html",
+        "news_desk": "World / Asia Pacific",
+        "snippet": "A rainstorm, the heaviest to hit Beijing in decades, has prompted tough questions about the management of the city after flooding left at least 77 people dead.",
+        "type_of_material": "An Analysis; News Analysis",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "FROMER",
+              "role": "reported",
+              "firstname": "Jacob"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "lastname": "WONG",
+              "role": "reported",
+              "firstname": "Edward"
+            }
+          ],
+          "original": "By JACOB FROMER and EDWARD WONG"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "http://www.nytimes.com/images/2012/07/27/world/CHINA2/CHINA2-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "http://www.nytimes.com/images/2012/07/27/world/CHINA2/CHINA2-thumbStandard-v2.jpg",
+              "hasthumbnail": "Y",
+              "thumbnailheight": 75
+            }
+          },
+          {
+            "height": 330,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2012/07/27/world/china1/china1-articleLarge.jpg",
+            "legacy": {
+              "hasxlarge": "Y",
+              "xlargeheight": 330,
+              "xlarge": "images/2012/07/27/world/china1/china1-articleLarge.jpg",
+              "xlargewidth": 600
+            }
+          }
+        ],
+        "_id": "5011e9051c22dfde670b2a9e",
+        "source": "The New York Times",
+        "word_count": 1194,
+        "lead_paragraph": "BEIJING -- In the heart of the Chinese capital is the showcase neighborhood of Sanlitun, where expatriates and Chinese glitterati go to dine, drink and dance. It has gleaming curved skyscrapers, a boutique hotel where rooms list for $400 to $4,000 a night, and restaurants with cuisines like French, Persian and Mexican. What it does not have is a modern drainage system."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "BRIEFLY: EDUCATION",
+          "main": "Yale-Peking University Program Canceled"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "YALE UNIVERSITY"
+          },
+          {
+            "name": "subject",
+            "value": "EDUCATION"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-07-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2012/07/30/world/asia/30iht-educbriefs30.html",
+        "news_desk": "World / Asia Pacific",
+        "snippet": "A program that allowed Yale University undergraduates to study at Peking University for credit has been canceled, The Yale Daily News reported.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Education; World",
+        "document_type": "article",
+        "byline": {
+          "person": [],
+          "organization": "THE INTERNATIONAL HERALD TRIBUNE",
+          "original": "By THE INTERNATIONAL HERALD TRIBUNE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "50150fef1c22dfde670b306a",
+        "source": "International Herald Tribune",
+        "word_count": 754,
+        "lead_paragraph": "Peking University program with Yale is canceled A program that allowed Yale University undergraduates to study at Peking University for credit has been canceled, The Yale Daily News reported last week."
+      },
+      {
+        "abstract": "Large public protests are coming faster and bloodier now in China, with two riots just this month over dangerous and ill-conceived factory projects. With citizens' outrage ever more evident, both online and off, perhaps we're seeing \"the Chinese street\" --- as a corollary of the Arab street --- beginning to emerge.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Taking It to the Street in China"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "creative_works",
+            "value": "Network (Movie)"
+          },
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Djilas, Milovan"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "King, Gary"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Shifang (China)"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Dalian (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "2",
+            "name": "organizations",
+            "value": "Council on Foreign Relations"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "Tencent"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Communist Party of China"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Censorship"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Freedom of the Press"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Demonstrations, Protests, and Riots"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Blogs and Blogging (Internet)"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Text Messaging"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "News and News Media"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2012-07-29T01:12:28Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2012/07/29/taking-it-to-the-street-in-china/",
+        "news_desk": null,
+        "snippet": "Large public protests are coming faster and bloodier now in China, with two riots just this month over dangerous and ill-conceived factory projects. With citizens' outrage ever more evident, both online and off, perhaps we're seeing \"the Chinese stre",
+        "type_of_material": "Blog",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MCDONALD",
+            "role": "reported",
+            "firstname": "Mark"
+          }],
+          "original": "By MARK MCDONALD"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5014c79f1c22dfde670b3044",
+        "source": "The New York Times",
+        "word_count": 1124,
+        "lead_paragraph": null
+      }
+    ],
+    "meta": {
+      "time": 13,
+      "hits": 167,
+      "offset": 120
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

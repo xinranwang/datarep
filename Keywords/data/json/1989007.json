@@ -1,0 +1,570 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "UPHEAVAL IN CHINA",
+          "main": "Reluctant Rebel Joins Students' Cause"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "GAO XIQING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNIVERSITY OF INTERNATIONAL BUSINESS AND ECONOMICS"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "16",
+        "pub_date": "1989-05-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/28/world/upheaval-in-china-reluctant-rebel-joins-students-cause.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: When Gao Xiqing, a former Wall Street lawyer, spent the night on Tiananmen Square in solidarity with students of his who were demonstrating for democracy, he was shaken awake at 2 A.M. by a friend who told him that armed troops were trying to m",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd183bd8eb7c8105d681957",
+        "source": "The New York Times",
+        "word_count": 1010,
+        "lead_paragraph": "LEAD: When Gao Xiqing, a former Wall Street lawyer, spent the night on Tiananmen Square in solidarity with students of his who were demonstrating for democracy, he was shaken awake at 2 A.M. by a friend who told him that armed troops were trying to move in on them."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Quotation of the Day"},
+        "keywords": [
+          {
+            "name": "creative_works",
+            "value": "QUOTATION OF THE DAY"
+          },
+          {
+            "name": "persons",
+            "value": "WUER KAIXI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "2",
+        "pub_date": "1989-05-28T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/28/nyregion/quotation-of-the-day-784589.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": "LEAD: ''It is very difficult to continue our sit-in. As leaders, we have responsibility for students' health, and the difficulties are obvious. Hygiene is extremely bad and the food is insufficient.''  - Wuer Kaixi,  a student leader in Beijing.  [ 1",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "New York and Region",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd185848eb7c8105d684d13",
+        "source": "The New York Times",
+        "word_count": 83,
+        "lead_paragraph": "LEAD: ''It is very difficult to continue our sit-in. As leaders, we have responsibility for students' health, and the difficulties are obvious. Hygiene is extremely bad and the food is insufficient.'' - Wuer Kaixi, a student leader in Beijing. [ 1:3. ]"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "STUDENTS RENEW CALL FOR CHANGE IN BEIJING MARCH"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "LI PENG"
+          },
+          {
+            "name": "glocations",
+            "value": "HONG KONG"
+          },
+          {
+            "name": "glocations",
+            "value": "AUSTRALIA"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TAIWAN"
+          },
+          {
+            "name": "subject",
+            "value": "MARTIAL LAW"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/29/world/students-renew-call-for-change-in-beijing-march.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: About 100,000 people on foot and on bicycles streamed through the capital today to demand more democracy and the resignation of Prime Minister Li Peng. The police and soldiers made no move to interfere despite martial law restrictions and the G",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a59b8eb7c8105d6beccd",
+        "source": "The New York Times",
+        "word_count": 1179,
+        "lead_paragraph": "LEAD: About 100,000 people on foot and on bicycles streamed through the capital today to demand more democracy and the resignation of Prime Minister Li Peng. The police and soldiers made no move to interfere despite martial law restrictions and the Government's strict warnings against demonstrations."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Reporter's Notebook; Spies Learn Students Can Be Stern Teachers"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "7",
+        "pub_date": "1989-05-29T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/29/world/reporter-s-notebook-spies-learn-students-can-be-stern-teachers.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: A young secret policeman, or perhaps he was just an innocent student, held a banner the wrong way during today's demonstration.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "WuDUNN",
+              "role": "reported",
+              "firstname": "Sheryl"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By SHERYL WuDUNN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18af08eb7c8105d68d1c1",
+        "source": "The New York Times",
+        "word_count": 818,
+        "lead_paragraph": "LEAD: A young secret policeman, or perhaps he was just an innocent student, held a banner the wrong way during today's demonstration."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "In Beijing Shouting Match, Students Are Overpowered"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "PROPAGANDA"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "11",
+        "pub_date": "1989-05-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/30/world/in-beijing-shouting-match-students-are-overpowered.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: For the first time in years, propaganda loudspeakers boomed out today over the low-slung houses and orange-tiled imperial monuments of Beijing, all but submerging with the sheer power of sonic amplification the lesser loudspeaker belonging to p",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "rank": 1,
+              "organization": "",
+              "lastname": "BERNSTEIN",
+              "role": "reported",
+              "firstname": "Richard"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By RICHARD BERNSTEIN, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd184138eb7c8105d682944",
+        "source": "The New York Times",
+        "word_count": 1168,
+        "lead_paragraph": "LEAD: For the first time in years, propaganda loudspeakers boomed out today over the low-slung houses and orange-tiled imperial monuments of Beijing, all but submerging with the sheer power of sonic amplification the lesser loudspeaker belonging to pro-democracy protesters still occupying Tiananmen Square."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Chinese Students, in About-Face, Will Continue Occupying Square"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "COLLEGES AND UNIVERSITIES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/30/world/chinese-students-in-about-face-will-continue-occupying-square.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Reversing their earlier position, thousands of university students resolved on Monday to maintain pressure on the Government by continuing their round-the-clock occupation of Tiananmen Square for at least three more weeks.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page; Education",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd183248eb7c8105d680c23",
+        "source": "The New York Times",
+        "word_count": 1004,
+        "lead_paragraph": "LEAD: Reversing their earlier position, thousands of university students resolved on Monday to maintain pressure on the Government by continuing their round-the-clock occupation of Tiananmen Square for at least three more weeks."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Reports Arrest of 11 Protesters"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "STATUE OF LIBERTY"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1989-05-31T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/31/world/beijing-reports-arrest-of-11-protesters.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: The Government said today that it had arrested 11 workers involved in China's democracy movement, and official news programs bitterly condemned a copy of the Statue of Liberty that students put up in Tiananmen Square in central Beijing.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd185858eb7c8105d684e6a",
+        "source": "The New York Times",
+        "word_count": 1048,
+        "lead_paragraph": "LEAD: The Government said today that it had arrested 11 workers involved in China's democracy movement, and official news programs bitterly condemned a copy of the Statue of Liberty that students put up in Tiananmen Square in central Beijing."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "As a Symbol of Freedom Is Unveiled, Beijing Announces 11 Arrests"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "STATUE OF LIBERTY"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1989-05-31T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/05/31/world/as-a-symbol-of-freedom-is-unveiled-beijing-announces-11-arrests.html",
+        "news_desk": "Foreign Desk",
+        "snippet": null,
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": "Front Page",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd183208eb7c8105d6808e0",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "WHY DENG TREMBLES",
+          "main": "A Leader Equates Protest and Chaos"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO ZIYANG"
+          },
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "CULTURAL REVOLUTION"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "1989-06-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/01/world/why-deng-trembles-a-leader-equates-protest-and-chaos.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: For many Chinese and foreign viewers of the latest upheavals, China's script in the last few weeks has resembled a Greek tragedy: Deng Xiaoping is cast as the once-heroic leader whose intolerance and hubris cause him to destroy much of what he ",
+        "type_of_material": "An Analysis; News Analysis",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1a4028eb7c8105d6bbf4f",
+        "source": "The New York Times",
+        "word_count": 1409,
+        "lead_paragraph": "LEAD: For many Chinese and foreign viewers of the latest upheavals, China's script in the last few weeks has resembled a Greek tragedy: Deng Xiaoping is cast as the once-heroic leader whose intolerance and hubris cause him to destroy much of what he has accomplished. What impels a man like"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "2,000 Protest in Beijing At Public Security Office"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "CHILDREN AND YOUTH"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "8",
+        "pub_date": "1989-06-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1989/06/01/world/2000-protest-in-beijing-at-public-security-office.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: About 2,000 students and workers protested in front of the Public Security Ministry tonight, and three union leaders were released after two days of interrogation.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By NICHOLAS D. KRISTOF, Special to The New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18bf98eb7c8105d68f534",
+        "source": "The New York Times",
+        "word_count": 647,
+        "lead_paragraph": "LEAD: About 2,000 students and workers protested in front of the Public Security Ministry tonight, and three union leaders were released after two days of interrogation."
+      }
+    ],
+    "meta": {
+      "time": 31,
+      "hits": 187,
+      "offset": 70
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

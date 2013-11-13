@@ -1,0 +1,563 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Journal; In Baldness War, Rumors of Advance for Hairline"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ZHAO ZHANGGUNG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HAIR"
+          },
+          {
+            "name": "subject",
+            "value": "BALDNESS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1988-01-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1988/01/26/world/beijing-journal-in-baldness-war-rumors-of-advance-for-hairline.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: His pate gleaming like a freshly peeled potato, the man waited expectantly in the whitewashed room, the buoyant confidence of a lottery ticket buyer lighting his eyes.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "A.",
+              "role": "reported",
+              "lastname": "GARGAN",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By EDWARD A. GARGAN, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd184f08eb7c8105d683a70",
+        "source": "The New York Times",
+        "word_count": 1184,
+        "lead_paragraph": "LEAD: His pate gleaming like a freshly peeled potato, the man waited expectantly in the whitewashed room, the buoyant confidence of a lottery ticket buyer lighting his eyes."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "BEIJING JOURNAL",
+          "main": "China's Fallen Hero: A Hair Shirt's Not His Style"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BU XINSHENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1988-02-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1988/02/19/world/beijing-journal-china-s-fallen-hero-a-hair-shirt-s-not-his-style.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: Success was, for Bu Xinsheng, so sweet.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "A.",
+              "role": "reported",
+              "lastname": "GARGAN",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By EDWARD A. GARGAN, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd177808eb7c8105d66dd79",
+        "source": "The New York Times",
+        "word_count": 1180,
+        "lead_paragraph": "LEAD: Success was, for Bu Xinsheng, so sweet."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "TRAVEL ADVISORY"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "INTERNATIONAL SOS ASSISTANCE"
+          },
+          {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+          },
+          {
+            "name": "subject",
+            "value": "TRAVEL AND VACATIONS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1988-04-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1988/04/17/travel/travel-advisory-751688.html",
+        "news_desk": "Travel Desk",
+        "snippet": "LEAD:  Health Center Opens in Beijing",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd18cf48eb7c8105d690cc1",
+        "source": "The New York Times",
+        "word_count": 1420,
+        "lead_paragraph": "LEAD: Health Center Opens in Beijing"
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China Business Program Is Set"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNIVERSITY OF INTERNATIONAL BUSINESS AND ECONOMICS"
+          },
+          {
+            "name": "organizations",
+            "value": "COLUMBIA BUSINESS SCHOOL"
+          },
+          {
+            "name": "subject",
+            "value": "JOINT VENTURES AND CONSORTIUMS"
+          },
+          {
+            "name": "subject",
+            "value": "CORPORATIONS"
+          }
+        ],
+        "print_page": "48",
+        "pub_date": "1988-04-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1988/04/30/business/china-business-program-is-set.html",
+        "news_desk": "Financial Desk",
+        "snippet": "LEAD: The Columbia Business School is cooperating with the University of International Business and Economics in Beijing to establish an executive program on joint-ventures management in China.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd17f398eb7c8105d67a1ec",
+        "source": "The New York Times",
+        "word_count": 193,
+        "lead_paragraph": "LEAD: The Columbia Business School is cooperating with the University of International Business and Economics in Beijing to establish an executive program on joint-ventures management in China."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "CHINESE DISSIDENT DERIDES A DOGMA"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "FANG LIZHI"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "ECONOMIC CONDITIONS AND TRENDS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "13",
+        "pub_date": "1988-05-05T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1988/05/05/world/chinese-dissident-derides-a-dogma.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: In his first public political remarks to students since his expulsion from the Communist Party, China's most prominent dissident spoke to a gathering of 300 students today about democracy and modernization.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "A.",
+              "role": "reported",
+              "lastname": "GARGAN",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By EDWARD A. GARGAN, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd177cf8eb7c8105d66e772",
+        "source": "The New York Times",
+        "word_count": 599,
+        "lead_paragraph": "LEAD: In his first public political remarks to students since his expulsion from the Communist Party, China's most prominent dissident spoke to a gathering of 300 students today about democracy and modernization."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Journal; Where the Price of Vegetables Only Feeds Despair"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HOT LINES"
+          },
+          {
+            "name": "subject",
+            "value": "PRICES"
+          },
+          {
+            "name": "subject",
+            "value": "FOOD"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1988-05-19T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1988/05/19/world/beijing-journal-where-the-price-of-vegetables-only-feeds-despair.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: At the Yong An Li food market in eastern Beijing last Saturday, lines of anxious shoppers stretched into the street. Inside, harried shop assistants shouted at customers and at one another in an effort to cope with the panic buying that engulfe",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "A.",
+              "role": "reported",
+              "lastname": "GARGAN",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By EDWARD A. GARGAN, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd17f3e8eb7c8105d67a5d6",
+        "source": "The New York Times",
+        "word_count": 1082,
+        "lead_paragraph": "LEAD: At the Yong An Li food market in eastern Beijing last Saturday, lines of anxious shoppers stretched into the street. Inside, harried shop assistants shouted at customers and at one another in an effort to cope with the panic buying that engulfed the Chinese capital before sharply higher food prices took effect."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Journal; Out She Goes, Again, Miss Ideological Impurity"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "BEAUTY CONTESTS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1988-05-25T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1988/05/25/world/beijing-journal-out-she-goes-again-miss-ideological-impurity.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: In 1947, Daisy Wang walked away with Shanghai's last beauty crown.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "A.",
+              "role": "reported",
+              "lastname": "GARGAN",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By EDWARD A. GARGAN, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd177cc8eb7c8105d66e484",
+        "source": "The New York Times",
+        "word_count": 912,
+        "lead_paragraph": "LEAD: In 1947, Daisy Wang walked away with Shanghai's last beauty crown."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "BEIJING STUDENTS MARCH IN PROTEST"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "BEIJING UNIVERSITY"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1988-06-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1988/06/04/world/beijing-students-march-in-protest.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "LEAD: About 1,000 students from Beijing University marched to Tian An Men Square in the heart of the capital early today to protest the death of a fellow student in a brawl.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "A.",
+              "role": "reported",
+              "lastname": "GARGAN",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By EDWARD A. GARGAN, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd177278eb7c8105d66d1c6",
+        "source": "The New York Times",
+        "word_count": 594,
+        "lead_paragraph": "LEAD: About 1,000 students from Beijing University marched to Tian An Men Square in the heart of the capital early today to protest the death of a fellow student in a brawl."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Auction a Failure; Antiques Priced Too High"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "PRICES"
+          },
+          {
+            "name": "subject",
+            "value": "AUCTIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ANTIQUES"
+          }
+        ],
+        "print_page": "15",
+        "pub_date": "1988-06-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1988/06/04/arts/beijing-auction-a-failure-antiques-priced-too-high.html",
+        "news_desk": "Cultural Desk",
+        "snippet": "LEAD: Beijing's first large-scale auction of antiques ended today with overpriced items going once, going twice and gone back to the warehouse.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [],
+          "organization": "AP",
+          "original": "AP"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd17f358eb7c8105d679f55",
+        "source": "The New York Times",
+        "word_count": 391,
+        "lead_paragraph": "LEAD: Beijing's first large-scale auction of antiques ended today with overpriced items going once, going twice and gone back to the warehouse."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "AMERICAN ARTIST GETS MIXED REACTION IN BEIJING"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA, PEOPLE'S REPUBLIC OF"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "MUSEUM OF THE REVOLUTION"
+          },
+          {
+            "name": "subject",
+            "value": "CULTURAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ART SHOWS"
+          },
+          {
+            "name": "subject",
+            "value": "ART"
+          }
+        ],
+        "print_page": "13",
+        "pub_date": "1988-06-06T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1988/06/06/arts/american-artist-gets-mixed-reaction-in-beijing.html",
+        "news_desk": "Cultural Desk",
+        "snippet": "LEAD: Frederick J. Brown, a 43-year-old painter from SoHo in New York City, brought his bold, loudly colored canvases to Beijing this week, to the mystification and the delight of museumgoers.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "rank": 1,
+              "middlename": "A.",
+              "role": "reported",
+              "lastname": "GARGAN",
+              "firstname": "Edward"
+            },
+            {
+              "rank": 2,
+              "organization": "",
+              "role": "reported"
+            }
+          ],
+          "original": "By EDWARD A. GARGAN, Special to the New York Times"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd191118eb7c8105d6989bd",
+        "source": "The New York Times",
+        "word_count": 926,
+        "lead_paragraph": "LEAD: Frederick J. Brown, a 43-year-old painter from SoHo in New York City, brought his bold, loudly colored canvases to Beijing this week, to the mystification and the delight of museumgoers."
+      }
+    ],
+    "meta": {
+      "time": 120,
+      "hits": 19,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

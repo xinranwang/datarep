@@ -1,0 +1,556 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Fate of remnants of 870-acre imperial estate on Beijing outskirts, known in English as Old Summer Palace, is subject of angry public and private debate; debate pits those who want to re-create splendors of former estate as for-profit tourist attraction against those who believe in quiet power of ruins; debate is particularly emotional because anger over 1860 sacking of estate by British and French troops continues to sizzle in China; grounds have been allowed to deteriorate; photo (M)",
+        "headline": {"main": "Beijing Journal; A Glorious Ruin and a Face-Lift Furor"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "GREAT BRITAIN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "FRANCE"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "HISTORIC BUILDINGS AND SITES"
+          },
+          {
+            "name": "subject",
+            "value": "HISTORY"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1999-08-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/08/10/world/beijing-journal-a-glorious-ruin-and-a-face-lift-furor.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "On the northwestern outskirts of Beijing there once existed a vast, enchanting playground of imperial halls and gardens, artificial lakes and even a cluster of rococo palaces designed by European Jesuits in the 18th century.    Before it was sacked b",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd214af8eb7c8105d78d57a",
+        "source": "The New York Times",
+        "word_count": 1053,
+        "lead_paragraph": "On the northwestern outskirts of Beijing there once existed a vast, enchanting playground of imperial halls and gardens, artificial lakes and even a cluster of rococo palaces designed by European Jesuits in the 18th century. Before it was sacked by British and French troops in 1860 -- to the continuing outrage and shame of the Chinese -- the 870-acre estate included more than a thousand bridges, re-creations of China's finest landscapes and, for royal amusement, a make-believe town populated by eunuchs. The emperors who had this fantasy land built named it Yuanmingyuan -- the Garden of Perfect Brightness."
+      },
+      {
+        "abstract": "Surprising number of construction projects in Beijing set for completion by Oct 1 to mark 50th anniversary of People's Republic of China seem to be on schedule as city spruces up for event; wax statue of Pres Jiang Zemin made for museum exhibition depicting China's great men has been rejected as unacceptable; photo (M)",
+        "headline": {"main": "Beijing Journal; Birthday Party in Wax: Guest of Honor Is Missing"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "JIANG ZEMIN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "1999-09-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/09/02/world/beijing-journal-birthday-party-in-wax-guest-of-honor-is-missing.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China's Communist leaders have always loved a good anniversary, which gives them a chance to portray the country exactly as they want and to mobilize a good share of the population.    Naturally, the 50th birthday of the People's Republic of China th",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd20fb58eb7c8105d782cdc",
+        "source": "The New York Times",
+        "word_count": 1097,
+        "lead_paragraph": "China's Communist leaders have always loved a good anniversary, which gives them a chance to portray the country exactly as they want and to mobilize a good share of the population. Naturally, the 50th birthday of the People's Republic of China this Oct. 1 has been vested with special value by leaders who want to assure their people that the revolution has indeed been a success. In addition, the extravaganzas have clearly been designed to build up President Jiang Zemin as one of the titans of Communist Party history."
+      },
+      {
+        "abstract": "Chinese officials settle on stark modern design by French architect Paul Andreu for new national theater complex in Beijing, a project first proposed in 1958; design, a titanium and glass bubble-shaped structure that sits in middle of vast lake and is entered via an underwater tunnel, will quickly redefine landscape in sedate, conservative political heart of Beijing, adding the first touch of modern Western architecture; artist's rendering of theater; photo of Andreu (M)",
+        "headline": {"main": "Beijing Picks Frenchman's Plan for Theater Complex"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "ANDREU, PAUL"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARCHITECTURE"
+          },
+          {
+            "name": "subject",
+            "value": "THEATER"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1999-09-07T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/09/07/theater/beijing-picks-frenchman-s-plan-for-theater-complex.html",
+        "news_desk": "The Arts/Cultural Desk",
+        "snippet": "Chinese officials have settled on a stark modern French design for China's new national theater complex here in a startling denouement to an epic decision-making process that has lasted 40 years.     The design, a titanium and glass bubble-shaped str",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts; Theater",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2016c8eb7c8105d7659f7",
+        "source": "The New York Times",
+        "word_count": 962,
+        "lead_paragraph": "Chinese officials have settled on a stark modern French design for China's new national theater complex here in a startling denouement to an epic decision-making process that has lasted 40 years. The design, a titanium and glass bubble-shaped structure that sits in the middle of a vast lake and is entered via an underwater tunnel, most resembles a giant sleek U.F.O. Sitting next to the Greco-Stalinist architecture of Tiananmen Square and catty-cornered from the Qing facade of the Forbidden City, the new structure will certainly seem otherworldly."
+      },
+      {
+        "abstract": "A M Rosenthal Op-Ed column says more than 200 American CEO's have signed up to attend economic forum in Shanghai sponsored by Fortune magazine, with plans to then travel to Beijing for Chinese Communist Politburo's national celebration of 50th anniversary of People's Republic; says while it is damaging for any member of press to organize party for government dictatorship, basic problem is that American business leaders cannot see obligation of American corporations to use their economic power to help viciously oppressed in China; says everything having to do with business and profits is on Shanghai agenda, except human rights of Chinese who are buying products and providing cheap labor (M)",
+        "headline": {"main": "On My Mind; Partying In China"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "FORTUNE"
+          },
+          {
+            "name": "subject",
+            "value": "FOREIGN INVESTMENTS"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES INTERNATIONAL RELATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "23",
+        "pub_date": "1999-09-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/09/17/opinion/on-my-mind-partying-in-china.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "Riding with the waves, Fortune magazine in New York has come up with a terrific, with-it, win-win idea.    For Oct. 1 the Chinese Communist Politburo has organized a national celebration of the 50th anniversary of the People's Republic following the ",
+        "type_of_material": "Op-Ed",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "role": "reported"
+          }],
+          "original": "By A. M. ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1edff8eb7c8105d7411a2",
+        "source": "The New York Times",
+        "word_count": 703,
+        "lead_paragraph": "Riding with the waves, Fortune magazine in New York has come up with a terrific, with-it, win-win idea. For Oct. 1 the Chinese Communist Politburo has organized a national celebration of the 50th anniversary of the People's Republic following the military triumph of Mao Zedong. Everybody knows where office and factory workers will stand, precisely what slogans to shout, and which Chinese with a dissident political or religious record the police will take off the streets during the celebration."
+      },
+      {
+        "abstract": "Shangri-La Hotels and Resorts of Hong Kong opens Kerry Center Hotel, its fourth hotel in Beijing and 15th in China (S)",
+        "headline": {
+          "kicker": "TRAVEL ADVISORY",
+          "main": "A New Hotel Near the Forbidden City"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "SHANGRI-LA HOTELS AND RESORTS"
+          },
+          {
+            "name": "subject",
+            "value": "HOTELS AND MOTELS"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1999-09-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/09/26/travel/travel-advisory-a-new-hotel-near-the-forbidden-city.html",
+        "news_desk": "Travel Desk",
+        "snippet": "Shangri-La Hotels and Resorts, a Hong Kong company, has opened its fourth hotel in Beijing and its 15th in China: the 487-room Kerry Center Hotel in the heart of the Chaoyang Commercial District, near the Forbidden City, Tiananmen Square and the Grea",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd214b48eb7c8105d78d99c",
+        "source": "The New York Times",
+        "word_count": 118,
+        "lead_paragraph": "Shangri-La Hotels and Resorts, a Hong Kong company, has opened its fourth hotel in Beijing and its 15th in China: the 487-room Kerry Center Hotel in the heart of the Chaoyang Commercial District, near the Forbidden City, Tiananmen Square and the Great Hall of the People. The hotel has a sports and recreation center with an outdoor jogging and roller track, indoor tennis courts, a 114-foot heated lap pool and full gym. Three restaurants offer Cantonese and regional specialties and international fare."
+      },
+      {
+        "abstract": "Article on events surrounding 50th anniversary of People's Republic of China, including gathering of half million invitees in Tiananmen Square in Beijing for military parade, dance performance, fireworks display and performing arts festival; photos (M)",
+        "headline": {
+          "kicker": "MUSIC",
+          "main": "On a Golden Anniversary, A Leaden Yoke Of Ideology"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "PARADES"
+          },
+          {
+            "name": "subject",
+            "value": "HOLIDAYS AND SPECIAL OCCASIONS"
+          },
+          {
+            "name": "subject",
+            "value": "CULTURE"
+          },
+          {
+            "name": "subject",
+            "value": "DANCING"
+          },
+          {
+            "name": "subject",
+            "value": "FIREWORKS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1999-09-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/09/26/arts/music-on-a-golden-anniversary-a-leaden-yoke-of-ideology.html",
+        "news_desk": "Arts and Leisure Desk",
+        "snippet": "THE 50th anniversary of the People's Republic of China is being heralded here with a celebration intended by the Government to top all celebrations. On Friday morning, half a million invited citizens will gather in Tiananmen Square in Beijing for a s",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Arts",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MELVIN",
+            "role": "reported",
+            "firstname": "Sheila"
+          }],
+          "original": "By SHEILA MELVIN"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd230e78eb7c8105d7bfd57",
+        "source": "The New York Times",
+        "word_count": 3216,
+        "lead_paragraph": "THE 50th anniversary of the People's Republic of China is being heralded here with a celebration intended by the Government to top all celebrations. On Friday morning, half a million invited citizens will gather in Tiananmen Square in Beijing for a speech by President Jiang Zemin, followed by the biggest military parade in the country's history, with 90 floats, 140,000 marchers, numerous tanks and weapons, and 130 sorties by Chinese Air Force planes. At dusk, 100,000 dancers and singers will perform. When darkness finally falls, fireworks displays with names like ''Chanting the Eulogy of the Motherland'' will burst forth simultaneously from 10 locations around the capital. Meanwhile, a performing-arts festival in Beijing, which began an Aug. 1 and runs until Oct. 15, is presenting theatrical and operatic groups from around the country. Organized by the Ministry of Culture, it includes 100 different productions of traditional opera, Western opera, drama, dance, symphonic music, puppetry, acrobatics and more."
+      },
+      {
+        "abstract": "China celebrates 50th anniversary of Communist rule with grand parade in Beijing featuring new missiles, shiny tanks and gaudy floats; Pres Jiang Zemin presides over festivities; 500,000 people participate in celebration, which is perceived by authorities as so important that it becomes significant political event in itself (M)",
+        "headline": {
+          "kicker": "A HALF-CENTURY IN CHINA: THE CELEBRATION",
+          "main": "A Day of Joy and Jubilation, All Very Carefully Staged"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "JIANG ZEMIN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "PARADES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "HOLIDAYS AND SPECIAL OCCASIONS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1999-10-01T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/10/01/world/half-century-china-celebration-day-joy-jubilation-all-very-carefully-staged.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "China celebrated the 50th anniversary of Communist rule today, orchestrating a nationwide festival of patriotic pride that presented a seamless-looking display of political unity and popular happiness.    With a grand parade rolling into central Beij",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FAISON",
+            "role": "reported",
+            "firstname": "Seth"
+          }],
+          "original": "By SETH FAISON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd231098eb7c8105d7bff9a",
+        "source": "The New York Times",
+        "word_count": 889,
+        "lead_paragraph": "China celebrated the 50th anniversary of Communist rule today, orchestrating a nationwide festival of patriotic pride that presented a seamless-looking display of political unity and popular happiness. With a grand parade rolling into central Beijing this morning, crowned by gleaming new missiles, shiny tanks and gaudy floats, China's leaders put together a show intended to look like a jubilant manifestation of national strength and tranquillity."
+      },
+      {
+        "abstract": "China holds military parade in Beijing to mark 50th anniversary of Communist rule; photo (M)2",
+        "headline": {"main": "Beijing Shows Off Military Weapons to Impress the Chinese and Others"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+          },
+          {
+            "name": "subject",
+            "value": "PARADES"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "1999-10-02T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/10/02/world/beijing-shows-off-military-weapons-to-impress-the-chinese-and-others.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "With a Soviet-style procession of goose-stepping troops, tanks, missiles and fighter jets setting the tone for the parade marking its 50 years of Communism, China showed off a formidable armory today, even if few of the weapons could match the latest",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd230e48eb7c8105d7bfbd4",
+        "source": "The New York Times",
+        "word_count": 896,
+        "lead_paragraph": "With a Soviet-style procession of goose-stepping troops, tanks, missiles and fighter jets setting the tone for the parade marking its 50 years of Communism, China showed off a formidable armory today, even if few of the weapons could match the latest Western models. There were no technological surprises to cause gasps in Taiwan or in Washington. Still, military attaches from foreign embassies here eagerly studied the display through binoculars, viewing some of China's best antiaircraft missiles and other systems for the first time."
+      },
+      {
+        "abstract": "Officials in Beijing, China, are cautious about new terminal at Beijing Capital Airport; terminal has opened quietly and flights by just one airline, China Southern, have begun; photo (S)",
+        "headline": {
+          "kicker": "TRAVEL ADVISORY",
+          "main": "Beijing and Shanghai Open Airports Slowly"
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "CHINA SOUTHERN"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES"
+          },
+          {
+            "name": "subject",
+            "value": "AIRPORTS"
+          },
+          {
+            "name": "subject",
+            "value": "BEIJING CAPITAL AIRPORT (CHINA)"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1999-10-10T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/10/10/travel/travel-advisory-beijing-and-shanghai-open-airports-slowly.html",
+        "news_desk": "Travel Desk",
+        "snippet": "Perhaps they drew a lesson from the disastrous opening days of Hong Kong's new airport, but for whatever reason, Beijing officials are being cautious and coy about the schedule of their own eagerly awaited new airport. The large, H-shaped new termina",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ECKHOLM",
+            "role": "reported",
+            "firstname": "Erik"
+          }],
+          "original": "By ERIK ECKHOLM"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd214b18eb7c8105d78d729",
+        "source": "The New York Times",
+        "word_count": 245,
+        "lead_paragraph": "Perhaps they drew a lesson from the disastrous opening days of Hong Kong's new airport, but for whatever reason, Beijing officials are being cautious and coy about the schedule of their own eagerly awaited new airport. The large, H-shaped new terminal of the Beijing Capital Airport has been built right next to the dingy old terminal, where travelers must often elbow their way through crowds to check in or find a taxi. Ribbons were cut on Sept. 17, and flights by just one airline, China Southern, began on Sept. 20. Airport officials said that other airlines would gradually move, and that they expected most airlines -- including major international carriers -- to be using the new terminal by the end of this month."
+      },
+      {
+        "abstract": "Sima Nan has waged decade-long campaign against Chinese groups that he says encourage superstition and mystical beliefs; he has been shunned by government as flamboyant upstart and beaten by members of sects he has denounced; but Sima's longstanding feud with Falun Gong has transformed him into establishment darling, featured in newspapers and sent to state companies around country to lecture; new role is unlikely and awkward for former liberal journalist who turned to cult bashing when he found himself out of job after 1989 government crackdown on protests in Tiananmen Square; photo (M)",
+        "headline": {"main": "A Star Turn for China's Cult Buster"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "SIMA NAN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "organizations",
+            "value": "FALUN GONG"
+          },
+          {
+            "name": "subject",
+            "value": "RELIGIOUS CULTS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "1999-11-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1999/11/20/world/a-star-turn-for-china-s-cult-buster.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "The animosity between Sima Nan and the Falun Gong spiritual movement goes back a few years, ever since Mr. Sima, China's one-man cult-bashing machine, denounced the group as a fraud in 1995, and the group's leader predicted that Mr. Sima would go bli",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ROSENTHAL",
+            "role": "reported",
+            "firstname": "Elisabeth"
+          }],
+          "original": "By ELISABETH ROSENTHAL"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd2019c8eb7c8105d7665d6",
+        "source": "The New York Times",
+        "word_count": 1071,
+        "lead_paragraph": "The animosity between Sima Nan and the Falun Gong spiritual movement goes back a few years, ever since Mr. Sima, China's one-man cult-bashing machine, denounced the group as a fraud in 1995, and the group's leader predicted that Mr. Sima would go blind and be crippled, Mr. Sima says. ''As you can see my eyes and legs are fine,'' Mr. Sima said recently, with the swagger of a man who routinely captivates audiences by eating glass shards and cracking chopsticks with paper bills, all to prove that supernatural powers do not really exist."
+      }
+    ],
+    "meta": {
+      "time": 26,
+      "hits": 55,
+      "offset": 40
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

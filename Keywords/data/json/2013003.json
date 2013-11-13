@@ -1,0 +1,962 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": "Widespread anecdotal evidence suggests that children are suffering as parents live the hard life in China\u2019s cities.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "City Life Takes a Toll on China's Children"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Parenting"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Children and Childhood"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-03-06T12:14:33Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/03/06/city-life-takes-a-toll-on-chinas-children/",
+        "news_desk": null,
+        "snippet": "Widespread anecdotal evidence suggests that children are suffering as parents live the hard life in China\u2019s cities.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "51379ea2cf28d009de003cd6",
+        "source": "The New York Times",
+        "word_count": "364",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "print_headline": "For Migrants, City Life Comes at a High Price",
+          "main": "For Migrants, City Life Comes at a High Price"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Economic Conditions and Trends",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "N"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Crime and Criminals",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Domestic Service",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Law and Legislation",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "",
+        "pub_date": "2013-03-07T13:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/03/07/world/asia/07iht-letter07.html",
+        "news_desk": "Foreign",
+        "snippet": "We were willing to overlook the drama in Shi Ayi's life, given how essential she was to the family as a caregiver. But I drew the line at murder.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "contributor": "",
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5137591bcf28d009de003c02",
+        "source": "International Herald Tribune",
+        "word_count": "894",
+        "lead_paragraph": "We were willing to overlook the drama in Shi Ayi's life, given how essential she was to the family as a caregiver. But I drew the line at murder."
+      },
+      {
+        "abstract": "Try your hand at logic with this poker puzzle from the 2012 World Puzzle Championship.",
+        "headline": {
+          "kicker": "Wordplay",
+          "main": "A Poker Puzzle From the Logic Olympics "
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Grossman, Lev"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Shortz, Will"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "Croatia"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Time (Magazine)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "KenKen (Puzzle)"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Crossword Puzzles"
+          },
+          {
+            "rank": "5",
+            "name": "subject",
+            "value": "Poker (Card Game)"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Mathematics"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Sudoku (Puzzle)"
+          },
+          {
+            "rank": "6",
+            "name": "subject",
+            "value": "Puzzles"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Cards and Card Games"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-03-11T11:00:29Z",
+        "web_url": "http://wordplay.blogs.nytimes.com/2013/03/11/wpc/",
+        "news_desk": null,
+        "snippet": "Try your hand at logic with this poker puzzle from the 2012 World Puzzle Championship.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Crosswords/Games",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "ANTONICK",
+            "role": "reported",
+            "firstname": "Gary"
+          }],
+          "original": "By GARY ANTONICK"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "width": 190,
+            "subtype": "wide",
+            "type": "image",
+            "url": "images/2013/03/09/crosswords/poker1/poker1-thumbWide.png",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/03/09/crosswords/poker1/poker1-thumbWide.png"
+            }
+          },
+          {
+            "height": 400,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2013/03/09/crosswords/US-Team/US-Team-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "400",
+              "xlarge": "images/2013/03/09/crosswords/US-Team/US-Team-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2013/03/18/crosswords/Poker3/Poker3-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/03/18/crosswords/Poker3/Poker3-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "513e0af9cf28d04ae0002291",
+        "source": "The New York Times",
+        "word_count": "1245",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "seo": "Unpopular Films Suggest Fading of Chinese Icon",
+          "print_headline": "In China, Cinematic Flops Suggest Fading of an Icon",
+          "kicker": "Beijing Journal",
+          "main": "In China, Cinematic Flops Suggest Fading of an Icon"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "Communist Party of China",
+            "is_major": "N"
+          },
+          {
+            "rank": "7",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Movies",
+            "is_major": "Y"
+          },
+          {
+            "rank": "6",
+            "name": "organizations",
+            "value": "National People's Congress (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Lei Feng",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Propaganda",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "2013-03-12T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/03/12/world/asia/in-china-unpopular-films-suggest-fading-of-icon.html",
+        "news_desk": "Foreign",
+        "snippet": "Celebrations of \u201cLearn from Lei Feng Day\u201d turned into something of a public relations debacle after three films about the propaganda hero bombed at the box office.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "LEVIN",
+            "role": "reported",
+            "firstname": "Dan"
+          }],
+          "contributor": "Amy Qin and Shi Da contributed research.",
+          "original": "By DAN LEVIN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "width": 190,
+            "subtype": "wide",
+            "type": "image",
+            "url": "images/2013/03/12/world/BEIJING/BEIJING-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/03/12/world/BEIJING/BEIJING-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 333,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2013/03/12/world/BEIJING/BEIJING-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "333",
+              "xlarge": "images/2013/03/12/world/BEIJING/BEIJING-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2013/03/12/world/BEIJING/BEIJING-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/03/12/world/BEIJING/BEIJING-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "513e80d5cf28d04ae0002440",
+        "source": "The New York Times",
+        "word_count": "1225",
+        "lead_paragraph": "Celebrations of \u201cLearn from Lei Feng Day\u201d turned into something of a public relations debacle after three films about the propaganda hero bombed at the box office."
+      },
+      {
+        "abstract": "As anger bubbles up about pollution in China, online posters are altering a sacrosanct image of Chairman Mao to channel their frustration into humor.",
+        "headline": {
+          "kicker": "IHT Rendezvous",
+          "main": "Mao's Anti-Pollution Face Mask"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Mao Zedong"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Tiananmen Square (Beijing)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "organizations",
+            "value": "Sina Weibo"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Masks"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Environment"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Air Pollution"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-03-12T01:17:45Z",
+        "web_url": "http://rendezvous.blogs.nytimes.com/2013/03/12/mao-zedongs-anti-pollution-face-mask/",
+        "news_desk": null,
+        "snippet": "As anger bubbles up about pollution in China, online posters are altering a sacrosanct image of Chairman Mao to channel their frustration into humor.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Kirsten",
+            "role": "reported",
+            "lastname": "TATLOW",
+            "firstname": "Didi"
+          }],
+          "original": "By DIDI KIRSTEN TATLOW"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "width": 190,
+            "subtype": "wide",
+            "type": "image",
+            "url": "images/2013/03/12/global-home/12rdv-mao/12rdv-mao-thumbWide-v2.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/03/12/global-home/12rdv-mao/12rdv-mao-thumbWide-v2.jpg"
+            }
+          },
+          {
+            "height": 270,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2013/03/12/global-home/12rdv-mao/12rdv-mao-articleLarge-v2.jpg",
+            "legacy": {
+              "xlargeheight": "270",
+              "xlarge": "images/2013/03/12/global-home/12rdv-mao/12rdv-mao-articleLarge-v2.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2013/03/12/global-home/12rdv-mao/12rdv-mao-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/03/12/global-home/12rdv-mao/12rdv-mao-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "513ebc19cf28d04ae00024ef",
+        "source": "The New York Times",
+        "word_count": "467",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "seo": "China\u2019s Non-Communist Parties Lend an Air of Pluralism",
+          "print_headline": "Non-Communist Parties Lend China an Air of Pluralism, Without the Mess",
+          "main": "Non-Communist Parties Lend China an Air of Pluralism, Without the Mess"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "persons",
+            "value": "Mao Zedong",
+            "is_major": "N"
+          },
+          {
+            "rank": "9",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "7",
+            "name": "subject",
+            "value": "Economic Conditions and Trends",
+            "is_major": "N"
+          },
+          {
+            "rank": "3",
+            "name": "organizations",
+            "value": "National People's Congress (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "6",
+            "name": "persons",
+            "value": "Chiang Kai-shek",
+            "is_major": "N"
+          },
+          {
+            "rank": "8",
+            "name": "subject",
+            "value": "Communism (Theory and Philosophy)",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Democracy (Theory and Philosophy)",
+            "is_major": "N"
+          },
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "Communist Party of China",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2013-03-13T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/03/13/world/asia/chinas-non-communist-parties-lend-an-air-of-pluralism.html",
+        "news_desk": "Foreign",
+        "snippet": "Every March at the National People\u2019s Congress in China\u2019s capital is an elaborate display of multiparty cooperation that critics call a sham.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "JACOBS",
+            "role": "reported",
+            "firstname": "Andrew"
+          }],
+          "contributor": "Patrick Zuo and Shi Da contributed research.",
+          "original": "By ANDREW JACOBS"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "width": 190,
+            "subtype": "wide",
+            "type": "image",
+            "url": "images/2013/03/13/world/asia/13beijing/13beijing-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/03/13/world/asia/13beijing/13beijing-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 400,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2013/03/13/world/asia/13beijing/13beijing-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "400",
+              "xlarge": "images/2013/03/13/world/asia/13beijing/13beijing-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          }
+        ],
+        "_id": "51409bb1cf28d02e3d000070",
+        "source": "The New York Times",
+        "word_count": "1126",
+        "lead_paragraph": "Every March at the National People\u2019s Congress in China\u2019s capital is an elaborate display of multiparty cooperation that critics call a sham."
+      },
+      {
+        "abstract": "Express train service from Beijing cuts hours off of travel time to some of China\u2019s most popular tourist sites.",
+        "headline": {
+          "print_headline": "Rail: Speeding Through China",
+          "kicker": "In Transit",
+          "main": "Speeding Through China"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "4",
+            "name": "glocations",
+            "value": "Hong Kong"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Guangzhou (China)"
+          },
+          {
+            "rank": "2",
+            "name": "glocations",
+            "value": "China"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-03-13T15:00:22Z",
+        "web_url": "http://intransit.blogs.nytimes.com/2013/03/13/speeding-through-china/",
+        "news_desk": null,
+        "snippet": "Express train service from Beijing cuts hours off of travel time to some of China\u2019s most popular tourist sites.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "MOHN",
+            "role": "reported",
+            "firstname": "Tanya"
+          }],
+          "original": "By TANYA MOHN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "width": 190,
+            "subtype": "wide",
+            "type": "image",
+            "url": "images/2013/03/17/travel/0317INTRANSIT06/0317INTRANSIT06-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/03/17/travel/0317INTRANSIT06/0317INTRANSIT06-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 600,
+            "width": 600,
+            "subtype": "xlarge",
+            "type": "image",
+            "url": "images/2013/03/17/travel/0317INTRANSIT06/0317INTRANSIT06-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "600",
+              "xlarge": "images/2013/03/17/travel/0317INTRANSIT06/0317INTRANSIT06-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "width": 75,
+            "subtype": "thumbnail",
+            "type": "image",
+            "url": "images/2013/03/17/travel/0317INTRANSIT06/0317INTRANSIT06-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/03/17/travel/0317INTRANSIT06/0317INTRANSIT06-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "5140cdf3cf28d02e3d0003e4",
+        "source": "The New York Times",
+        "word_count": "85",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "Cheryl Lu-Lien Tan reviews Kerry Hotel in Beijing.",
+        "headline": {
+          "seo": "In Beijing, the Kerry Hotel Puts Comfort in a Corporate Skin",
+          "print_headline": "Comfort and Coziness in a Corporate Skin",
+          "kicker": "Check In",
+          "main": "Hotel Review: Kerry Hotel in Beijing"
+        },
+        "keywords": [
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "Y"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Travel and Vacations",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Hotels and Travel Lodgings",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "4",
+        "pub_date": "2013-03-17T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/03/17/travel/in-beijing-the-kerry-hotel-puts-comfort-in-a-corporate-skin.html",
+        "news_desk": "Travel",
+        "snippet": "Despite its size, the Kerry Hotel offers comfort, attentive service and every amenity a guest could want.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Travel",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "Lu-lien",
+            "role": "reported",
+            "lastname": "TAN",
+            "firstname": "Cheryl"
+          }],
+          "contributor": "",
+          "original": "By CHERYL LU-LIEN TAN"
+        },
+        "subsection_name": null,
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/03/17/travel/0317CHECKIN01_SPAN/0317CHECKIN01-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/03/17/travel/0317CHECKIN01_SPAN/0317CHECKIN01-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 372,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/03/17/travel/0317CHECKIN01_SPAN/0317CHECKIN01-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "372",
+              "xlarge": "images/2013/03/17/travel/0317CHECKIN01_SPAN/0317CHECKIN01-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/03/17/travel/0317CHECKIN03/0317CHECKIN03-thumbStandard-v2.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/03/17/travel/0317CHECKIN03/0317CHECKIN03-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "5140de81cf28d02e3d00040d",
+        "source": "The New York Times",
+        "word_count": "607",
+        "lead_paragraph": "Despite its size, the Kerry Hotel offers comfort, attentive service and every amenity a guest could want."
+      },
+      {
+        "abstract": "Beijing is destroying its architectural heritage to make way for replicas, favoring shiny fakery over shabby authenticity.",
+        "headline": {
+          "print_headline": "Selling Out In Old Beijing",
+          "kicker": "Latitude",
+          "main": "False Historical Consciousness"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "name": "glocations",
+            "value": "Beijing (China)"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Historic Buildings and Sites"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Gentrification"
+          },
+          {
+            "rank": "1",
+            "name": "subject",
+            "value": "Area Planning and Renewal"
+          }
+        ],
+        "print_page": null,
+        "pub_date": "2013-03-19T04:49:54Z",
+        "web_url": "http://latitude.blogs.nytimes.com/2013/03/19/beijing-favors-the-fake-over-the-authentic-in-architecture/",
+        "news_desk": null,
+        "snippet": "Beijing is destroying its architectural heritage to make way for replicas, favoring shiny fakery over shabby authenticity.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "blogpost",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "SEBAG-MONTEFIORE",
+            "role": "reported",
+            "firstname": "Clarissa"
+          }],
+          "original": "By CLARISSA SEBAG-MONTEFIORE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "5148274efdc5926e77000d64",
+        "source": "The New York Times",
+        "word_count": "863",
+        "lead_paragraph": null
+      },
+      {
+        "abstract": "United States Treasury Sec Jacob J Lew meets with Chinese Pres Xi Jinping in first high-level encounter between American and Chinese officials since Xi assumed presidency; Xi, while indicating that he attaches great importance to relationship with United States, acknowledges divisions between countries, move unusual for Chinese leader.",
+        "headline": {
+          "seo": "U.S. Treasury Secretary and Chinese President Meet",
+          "print_headline": "U.S. Treasury Secretary and China\u2019s President Meet",
+          "main": "U.S. Treasury Secretary and Chinese President Meet"
+        },
+        "keywords": [
+          {
+            "rank": "5",
+            "name": "glocations",
+            "value": "China",
+            "is_major": "Y"
+          },
+          {
+            "rank": "3",
+            "name": "glocations",
+            "value": "Beijing (China)",
+            "is_major": "N"
+          },
+          {
+            "rank": "1",
+            "name": "persons",
+            "value": "Xi Jinping",
+            "is_major": "Y"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Lew, Jacob J",
+            "is_major": "Y"
+          },
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "United States International Relations",
+            "is_major": "N"
+          }
+        ],
+        "print_page": "6",
+        "pub_date": "2013-03-20T00:00:00Z",
+        "web_url": "http://www.nytimes.com/2013/03/20/world/asia/us-treasury-secretary-and-chinese-president-meet.html",
+        "news_desk": "Foreign",
+        "snippet": "A meeting between Secretary Jacob J. Lew and Xi Jinping was the first high-level encounter between U.S. and Chinese officials in Mr. Xi\u2019s presidency.",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "PERLEZ",
+            "role": "reported",
+            "firstname": "Jane"
+          }],
+          "contributor": "",
+          "original": "By JANE PERLEZ"
+        },
+        "subsection_name": "Asia Pacific",
+        "multimedia": [
+          {
+            "height": 126,
+            "subtype": "wide",
+            "width": 190,
+            "type": "image",
+            "url": "images/2013/03/20/world/20china/20china-thumbWide.jpg",
+            "legacy": {
+              "wideheight": "126",
+              "widewidth": "190",
+              "wide": "images/2013/03/20/world/20china/20china-thumbWide.jpg"
+            }
+          },
+          {
+            "height": 414,
+            "subtype": "xlarge",
+            "width": 600,
+            "type": "image",
+            "url": "images/2013/03/20/world/20china/20china-articleLarge.jpg",
+            "legacy": {
+              "xlargeheight": "414",
+              "xlarge": "images/2013/03/20/world/20china/20china-articleLarge.jpg",
+              "xlargewidth": "600"
+            }
+          },
+          {
+            "height": 75,
+            "subtype": "thumbnail",
+            "width": 75,
+            "type": "image",
+            "url": "images/2013/03/20/world/CHINA/CHINA-thumbStandard.jpg",
+            "legacy": {
+              "thumbnail": "images/2013/03/20/world/CHINA/CHINA-thumbStandard.jpg",
+              "thumbnailwidth": "75",
+              "thumbnailheight": "75"
+            }
+          }
+        ],
+        "_id": "5148680afdc5926e77000e04",
+        "source": "The New York Times",
+        "word_count": "845",
+        "lead_paragraph": "A meeting between Secretary Jacob J. Lew and Xi Jinping was the first high-level encounter between U.S. and Chinese officials in Mr. Xi\u2019s presidency."
+      }
+    ],
+    "meta": {
+      "time": 11,
+      "hits": 144,
+      "offset": 30
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

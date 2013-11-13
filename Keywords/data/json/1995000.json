@@ -1,0 +1,573 @@
+{
+  "response": {
+    "docs": [
+      {
+        "abstract": null,
+        "headline": {"main": "From Harlem to Beijing"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "NEW YORK CITY"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          }
+        ],
+        "print_page": "40",
+        "pub_date": "1995-03-26T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/03/26/nyregion/from-harlem-to-beijing.html",
+        "news_desk": "Metropolitan Desk",
+        "snippet": null,
+        "type_of_material": "Caption",
+        "blog": [],
+        "section_name": null,
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1cb7e8eb7c8105d701003",
+        "source": "The New York Times",
+        "word_count": 0,
+        "lead_paragraph": null
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Unofficial Groups Facing Barriers to U.N. Parley on Women"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          }
+        ],
+        "print_page": "3",
+        "pub_date": "1995-04-04T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/04/04/world/unofficial-groups-facing-barriers-to-un-parley-on-women.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  For nearly three weeks, thousands of women and men from around the world have been meeting here to complete a task that would seem simple enough: to draft an agenda and action plan for the fourth international conference on women to be held in Beij",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CROSSETTE",
+            "role": "reported",
+            "firstname": "Barbara"
+          }],
+          "original": "By BARBARA CROSSETTE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ff1e8eb7c8105d760588",
+        "source": "The New York Times",
+        "word_count": 560,
+        "lead_paragraph": "For nearly three weeks, thousands of women and men from around the world have been meeting here to complete a task that would seem simple enough: to draft an agenda and action plan for the fourth international conference on women to be held in Beijing in September. But the process has been marred from the start by sectarian or political disputes over women's rights, limits to free debate and barriers the Chinese and others have erected to keep nearly 500 unofficial organizations away from the conference."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China Suicide Linked To a Power Struggle"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN XITONG"
+          },
+          {
+            "name": "persons",
+            "value": "JIANG ZEMIN"
+          },
+          {
+            "name": "persons",
+            "value": "WANG BAOSEN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "SUICIDES AND SUICIDE ATTEMPTS"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1995-04-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/04/16/opinion/l-china-suicide-linked-to-a-power-struggle-740195.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "  To the Editor:   Your April 10 editorial \"Tremors in China\" acutely points out the reviving of \"the Stalinist ploy of targeting corruption investigations to damage rivals\" among competing factions in China in the wake of Deng Xiaoping's imminent de",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1cb7d8eb7c8105d700ee6",
+        "source": "The New York Times",
+        "word_count": 198,
+        "lead_paragraph": "To the Editor: Your April 10 editorial \"Tremors in China\" acutely points out the reviving of \"the Stalinist ploy of targeting corruption investigations to damage rivals\" among competing factions in China in the wake of Deng Xiaoping's imminent demise. One recent incident may serve to illustrate your thesis: the suicide of a Beijing Deputy Mayor, who was found shot dead by his own hand on April 5, at an official guest house where he had been detained for questioning of wrongdoing."
+      },
+      {
+        "abstract": null,
+        "headline": {
+          "kicker": "INTERNATIONAL BUSINESS",
+          "main": "President of Shanghai Firm Quits After Trading Scandal"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "GUAN JINSHENG"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "SHANGHAI (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "SHANGHAI INTERNATIONAL SECURITIES"
+          },
+          {
+            "name": "organizations",
+            "value": "SHANGHAI SECURITIES EXCHANGE"
+          },
+          {
+            "name": "subject",
+            "value": "SUSPENSIONS, DISMISSALS AND RESIGNATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "FUTURES TRADING"
+          },
+          {
+            "name": "subject",
+            "value": "STOCKS AND BONDS"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1995-04-27T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/04/27/business/international-business-president-of-shanghai-firm-quits-after-trading-scandal.html",
+        "news_desk": "Business/Financial Desk",
+        "snippet": "  Since late February, when financial scandal befell China's securities markets, talk among brokers and bankers here invariably turned to a favorite question: What will happen to Guan Jinsheng?   The answer came today. Mr. Guan, the nimble-minded and",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Business",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "FAISON",
+            "role": "reported",
+            "firstname": "Seth"
+          }],
+          "original": "By SETH FAISON"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ef128eb7c8105d74331c",
+        "source": "The New York Times",
+        "word_count": 540,
+        "lead_paragraph": "Since late February, when financial scandal befell China's securities markets, talk among brokers and bankers here invariably turned to a favorite question: What will happen to Guan Jinsheng? The answer came today. Mr. Guan, the nimble-minded and chain-smoking president of Shanghai International Securities, China's largest brokerage house, formally resigned his post."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "6 Years After the Tiananmen Massacre, Survivors Clash Anew on Tactics"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DOCUMENTARY FILMS AND PROGRAMS"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1995-04-30T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/04/30/world/6-years-after-the-tiananmen-massacre-survivors-clash-anew-on-tactics.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Six years after tanks and machine guns silenced their democracy movement, Chinese student leaders who rallied a nation during six weeks of protest at Tiananmen Square in 1989 are at odds with one another over the history of the event.   The product",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "Movies; World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1bbcc8eb7c8105d6e6da3",
+        "source": "The New York Times",
+        "word_count": 1595,
+        "lead_paragraph": "Six years after tanks and machine guns silenced their democracy movement, Chinese student leaders who rallied a nation during six weeks of protest at Tiananmen Square in 1989 are at odds with one another over the history of the event. The production of two new documentary films, both based on extensive reconstructions of the days leading up to the military assault on central Beijing on June 3-4, has resurrected the debate over whether the students should have surrendered the 99-acre square before the crackdown and thus avoided the bloodshed that claimed hundreds of lives."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Beijing Party 'Decapitated' By President"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "CHEN XITONG"
+          },
+          {
+            "name": "persons",
+            "value": "JIANG ZEMIN"
+          },
+          {
+            "name": "persons",
+            "value": "WANG BAOSEN"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "subject",
+            "value": "SUSPENSIONS, DISMISSALS AND RESIGNATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "ETHICS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          }
+        ],
+        "print_page": "10",
+        "pub_date": "1995-05-08T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/05/08/world/beijing-party-decapitated-by-president.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Facing the most significant political crisis of his tenure, President Jiang Zemin appears to have successfully \"decapitated\" the entrenched and powerful party organization that ran the capital here for seven years.   Dozens of top city officials, t",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1f2a38eb7c8105d74a579",
+        "source": "The New York Times",
+        "word_count": 829,
+        "lead_paragraph": "Facing the most significant political crisis of his tenure, President Jiang Zemin appears to have successfully \"decapitated\" the entrenched and powerful party organization that ran the capital here for seven years. Dozens of top city officials, their secretaries and, in some cases, their relatives are under arrest or investigation in a broadening anti-corruption campaign that has seized public attention. It began after the death, apparently by suicide, of the Executive Deputy Mayor, Wang Baosen, on April 4 and the dismissal of the Beijing Communist Party secretary, Chen Xitong, on April 27."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Global Women's Forum Fights China's Barriers"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "BOUTROS-GHALI, BOUTROS"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "organizations",
+            "value": "UNITED NATIONS"
+          },
+          {
+            "name": "subject",
+            "value": "WOMEN"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "5",
+        "pub_date": "1995-05-11T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/05/11/world/global-women-s-forum-fights-china-s-barriers.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Organizers of an international forum on women that was expected to draw more than 40,000 people to Beijing this summer are balking at a Chinese demand to move their conference 32 miles away from the Chinese capital and will ask Secretary General Bo",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "rank": 1,
+            "organization": "",
+            "lastname": "CROSSETTE",
+            "role": "reported",
+            "firstname": "Barbara"
+          }],
+          "original": "By BARBARA CROSSETTE"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1cb278eb7c8105d7005c8",
+        "source": "The New York Times",
+        "word_count": 468,
+        "lead_paragraph": "Organizers of an international forum on women that was expected to draw more than 40,000 people to Beijing this summer are balking at a Chinese demand to move their conference 32 miles away from the Chinese capital and will ask Secretary General Boutros Boutros-Ghali's help. The meeting, called the NGO Forum on Women, a nongovernmental organization, is scheduled to be held almost simultaneously with the official United Nations-sponsored Fourth World Conference on Women, also in Beijing. All large United Nations conferences now have parallel sessions for nongovernmental organizations, and no host government has tried to control them like this, organizers said today."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "Excerpts From Petition to China's Leaders"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF RELIGION"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "12",
+        "pub_date": "1995-05-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/05/16/world/excerpts-from-petition-to-china-s-leaders.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  Following are excerpts from a petition to Chinese leaders, signed today by 45 prominent intellectuals, urging that the \"counterrevolutionary\" verdict on the 1989 Tiananmen prodemocracy movement be retracted:   On Dec. 20, 1993, the United Nations G",
+        "type_of_material": "Text",
+        "blog": [],
+        "section_name": "World",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1cc708eb7c8105d702a7f",
+        "source": "The New York Times",
+        "word_count": 620,
+        "lead_paragraph": "Following are excerpts from a petition to Chinese leaders, signed today by 45 prominent intellectuals, urging that the \"counterrevolutionary\" verdict on the 1989 Tiananmen prodemocracy movement be retracted: On Dec. 20, 1993, the United Nations General Assembly passed resolution 48/126, proclaiming 1995 \"The United Nations Year of Tolerance,\" in order to commemorate the 50th anniversary of the founding of the United Nations and to promote the basic spirit of the aims of the United Nations: tolerance. Our country is a founding member of the United Nations and is a permanent, veto-bearing member of the Security Council. Thus it should conscientiously implement this resolution, so that this spirit of tolerance, a spirit with which our country is relatively unfamiliar, may take root and flourish in areas like our country's politics, thought, religion, culture and education."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "In Tiananmen Sq., Need for Bloodshed"},
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "20",
+        "pub_date": "1995-05-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/05/16/opinion/l-in-tiananmen-sq-need-for-bloodshed-199995.html",
+        "news_desk": "Editorial Desk",
+        "snippet": "  To the Editor:   Re \"Don't Blame the Victims of Tiananmen Sq.\" (letter, May 11): Chai Ling is quite right in explaining that the Chinese word \"qidai\" can have multiple translations that include: to hope for, to wait for, to expect and to anticipate",
+        "type_of_material": "Letter",
+        "blog": [],
+        "section_name": "Opinion",
+        "document_type": "article",
+        "byline": null,
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1cc708eb7c8105d702a84",
+        "source": "The New York Times",
+        "word_count": 266,
+        "lead_paragraph": "To the Editor: Re \"Don't Blame the Victims of Tiananmen Sq.\" (letter, May 11): Chai Ling is quite right in explaining that the Chinese word \"qidai\" can have multiple translations that include: to hope for, to wait for, to expect and to anticipate."
+      },
+      {
+        "abstract": null,
+        "headline": {"main": "China Is Urged By Its Scientists To Ease Curbs"},
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "WANG GANCHANG"
+          },
+          {
+            "name": "persons",
+            "value": "DENG XIAOPING"
+          },
+          {
+            "name": "glocations",
+            "value": "CHINA"
+          },
+          {
+            "name": "glocations",
+            "value": "BEIJING (CHINA)"
+          },
+          {
+            "name": "glocations",
+            "value": "TIANANMEN SQUARE (BEIJING)"
+          },
+          {
+            "name": "subject",
+            "value": "REFORM AND REORGANIZATION"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF RELIGION"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICAL PRISONERS"
+          },
+          {
+            "name": "subject",
+            "value": "POLITICS AND GOVERNMENT"
+          },
+          {
+            "name": "subject",
+            "value": "DEMONSTRATIONS AND RIOTS"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM OF SPEECH"
+          },
+          {
+            "name": "subject",
+            "value": "FREEDOM AND HUMAN RIGHTS"
+          }
+        ],
+        "print_page": "1",
+        "pub_date": "1995-05-16T00:00:00Z",
+        "web_url": "http://www.nytimes.com/1995/05/16/world/china-is-urged-by-its-scientists-to-ease-curbs.html",
+        "news_desk": "Foreign Desk",
+        "snippet": "  One of China's premier nuclear physicists and a designer of the country's first atomic bomb joined 44 other scientists and intellectuals today in calling on China's leaders to lift the \"counterrevolutionary\" verdict from those who took part in the ",
+        "type_of_material": "News",
+        "blog": [],
+        "section_name": "World; Front Page",
+        "document_type": "article",
+        "byline": {
+          "person": [{
+            "organization": "",
+            "rank": 1,
+            "middlename": "E.",
+            "role": "reported",
+            "lastname": "TYLER",
+            "firstname": "Patrick"
+          }],
+          "original": "By PATRICK E. TYLER"
+        },
+        "subsection_name": null,
+        "multimedia": [],
+        "_id": "4fd1ffed8eb7c8105d7626b6",
+        "source": "The New York Times",
+        "word_count": 1037,
+        "lead_paragraph": "One of China's premier nuclear physicists and a designer of the country's first atomic bomb joined 44 other scientists and intellectuals today in calling on China's leaders to lift the \"counterrevolutionary\" verdict from those who took part in the 1989 pro-democracy movement at Tiananmen Square. Thousands of Chinese lost their jobs, diplomas or freedom following the military suppression of the Tiananmen demonstrations on the ground that they had taken part in a \"counterrevolutionary rebellion.\""
+      }
+    ],
+    "meta": {
+      "time": 58,
+      "hits": 42,
+      "offset": 0
+    }
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}
