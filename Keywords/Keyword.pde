@@ -12,6 +12,11 @@ class Keyword implements Comparable {
 	float barSize;
 	float tbarSize;
 
+	int birthOrder;
+	int sortNumber;
+
+	int tempCount;
+
 	void update() {
 		pos.lerp(tpos, 0.1);
 		rot.lerp(trot, 0.1);
@@ -32,14 +37,26 @@ class Keyword implements Comparable {
 		rotateY(rot.y);
 		rotateZ(rot.z);
 
-		fill(c);
-		rect(0, 0, -barSize, 10);
-		fill(255);
-		text(keywordString, 5, 10);
+		if (!overview){
+			fill(c);
+			rect(0, 0, -barSize, 10);
+			fill(255);
+			text(keywordString, 5, 10);
+			textAlign(RIGHT);
+			text(tempCount, -barSize-10, 10);
+		} else {
+			for (Date d : this.dateList){
+				fill(c);
+				rect(map((float)(d.getTime() - beginTime), 0, (float)(endTime - beginTime), 400-width, 0), 0, 1, 10);
+			}
+			fill(255);
+			text(keywordString, 5, 10);
+		}
+		
 		popMatrix();
 	}
 
 	int compareTo(Object o) {
-		return int(((Keyword)o).tbarSize - tbarSize);
+		return ((Keyword)o).sortNumber - sortNumber;
 	}
 }

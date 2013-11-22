@@ -18,6 +18,9 @@ String filterQuery = "BEIJING (CHINA)";
 int beginYear = 1986;
 int endYear = 2013;
 
+long beginTime;
+long endTime;
+
 int threshold = 1;
 int index = 1986;
 
@@ -30,10 +33,6 @@ boolean useLocalData = true;
 
 PVector mousePos = new PVector();
 
-// HashMap<Integer, ArrayList> map = new HashMap();
-
-// ArrayList<Keyword> wordList = new ArrayList();
-
 HashMap<String, ArrayList<Date>> keywordMap = new HashMap(); 
 ArrayList<Keyword> keywordList = new ArrayList();
 //ArrayList<Keyword> showList = new ArrayList();
@@ -41,6 +40,7 @@ ArrayList<Keyword> keywordList = new ArrayList();
 //1986-11-26T00:00:00Z
 SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'");
 
+boolean overview = false;
 
 void setup() {
 	size(1280, 720, P3D);
@@ -48,9 +48,18 @@ void setup() {
 	colorMode(HSB, 360, 100, 100);
 	yearFont = createFont("Futura Condensed.ttf", 200);
 	labelFont = createFont("Futura Condensed.ttf", 14);
-	
-	
 
+	try {
+		beginTime = (sdf.parse(beginYear + "-01-01T00:00:00Z")).getTime();
+		endTime = (sdf.parse(endYear + "-12-01T23:59:59Z")).getTime();
+	} catch (Exception e) {
+		println(e);
+	}
+
+	println("beginTime: "+beginTime);
+	println("endTime: "+endTime);
+	
+	
 	for (int i = beginYear; i<=endYear; i++){
 		Query q = new Query(globalQuery);
 		q.filterType = filterType;
@@ -61,16 +70,17 @@ void setup() {
 
 		getKeywords(q, i);
 
-		// ArrayList<Keyword> l = getKeywords(q, i);
-		// sortWordList(l);
-		// if(l.get(0).count > mostCount) mostCount = l.get(0).count;
-		// map.put(i, l);
 	}
+
+	// add all keywords to arraylist
+	
 	for(Map.Entry me : keywordMap.entrySet()) {
 		Keyword k = new Keyword();
 		k.keywordString = (String)me.getKey();
 		k.dateList = (ArrayList<Date>)me.getValue();
+		k.birthOrder = k.dateList.size();
 		keywordList.add(k);
+		println(k.keywordString, k.dateList.size());
 	}
 	updateKeywordList();
 
@@ -83,15 +93,49 @@ void draw() {
 
 	mousePos.set(mouseX, mouseY);
 
-	for (Keyword k : keywordList){
-		k.update();
-		if(k.tbarSize > threshold) k.render();
+	//if(overview) positionOverview();
+	// if (overview){
+	// 	for (Keyword k : keywordList){
+	// 		if (mousePos.y > height * 2 / 3){
+	// 			k.tpos.y -= 5;
+	// 		} else if (mousePos.y < height / 3){
+	// 			k.tpos.y += 5;
+	// 		}
+	// 	}
+	// }
+
+
+	if (!overview){
+		fill(255);
+		textFont(yearFont, 200);
+		textAlign(RIGHT);
+		text(index, width - 10, height - 10);
+	} else {
+		fill(255, 128);
+
+		textFont(labelFont, 14);
+		for (int i = beginYear; i<=endYear; i++){
+			try {
+				long getTime = (sdf.parse(i + "-01-01T00:00:00Z")).getTime();
+				float x = map((float)(getTime - beginTime), 0, endTime - beginTime, 100, width - 300);
+				stroke(255, 128);
+				strokeWeight(0.5);
+				line(x, 50, x, height);
+				noStroke();
+				text(i, x, 40);
+			} catch (Exception e) {
+				println("e: "+e);
+			}
+		}
 	}
 
-	fill(255);
-	textFont(yearFont, 200);
-	textAlign(RIGHT);
-	text(index, width - 10, height - 10);
+	for (Keyword k : keywordList){
+		k.update();
+		if(k.tbarSize >= threshold || overview) k.render();
+	}
+
+
+
 }
 
 void getKeywords(Query q, int indexYear) {
@@ -138,7 +182,7 @@ void getKeywords(Query q, int indexYear) {
 					String keywordType = keywordObject.getString("name");
 					String keyword = keywordObject.getString("value").toUpperCase();
 					
-					if(keywordType.equals("subject")) {
+					if(keywordType.equals("subject") && !keyword.equals("")) {
 						//println(keywordType, keyword);
 
 						if (!tempDict.hasKey(keyword)){
@@ -167,21 +211,34 @@ String replaceSpace(String str) {
 }
 
 void updateKeywordList() {
-	for (Keyword k : keywordList){
-		int count = 0;
-		for (Date date : k.dateList){
-			if (date.getYear()+1900 == index){
-				count++;
+	if (!overview){
+		for (Keyword k : keywordList){
+			int count = 0;
+			for (Date date : k.dateList){
+				if (date.getYear()+1900 == index){
+					count++;
+				}
+			}
+			k.tbarSize = count==0 ? 0 : count;
+			k.tempCount = count;
+			k.sortNumber = count;
+		}
+	} else {
+		for (Keyword k : keywordList) {
+			k.sortNumber = k.birthOrder;
+			if (k.birthOrder == 0){
+				println("k.keywordString: "+k.keywordString);
 			}
 		}
-		k.tbarSize = count==0 ? 0 : count;
 	}
+
 	sortKeywords();
 }
 
 void sortKeywords() {
 	Collections.sort(keywordList);
-	positionLine();
+	if(!overview) positionLine();
+	else positionOverview();
 }
 
 void positionLine() {
@@ -190,18 +247,45 @@ void positionLine() {
 		float x = 50 + i * 20;
 		float y = height / 2;
 		k.tpos.set(x, y);
+		k.trot.set(0, 0, PI/2);
+	}
+}
+
+void positionOverview() {
+	for (int i = 0; i<keywordList.size(); i++){
+		Keyword k = keywordList.get(i);
+		float x = width - 300;
+		float y = 50 + i * 20;
+		k.tpos.set(x, y);
+		k.trot.set(0, 0, 0);
 	}
 }
 
 void keyPressed() {
-	if (key == CODED){
+	if (key == CODED && !overview){
 		if (keyCode == UP && index < endYear){
 			index++;
 			updateKeywordList();
 		}
-		if (keyCode == DOWN && index > beginYear){
+		else if (keyCode == DOWN && index > beginYear){
 			index--;
 			updateKeywordList();
 		}
+	} 
+	else if (key == CODED && overview) {
+		if (keyCode == UP){
+			for (Keyword k : keywordList){
+				k.tpos.y += 10;
+			}
+		}
+		else if (keyCode == DOWN) {
+			for (Keyword k : keywordList){
+				k.tpos.y -= 10;
+			}
+		}
+	}
+	else if (key == ' ') {
+		overview = !overview;
+		updateKeywordList();
 	}
 }
