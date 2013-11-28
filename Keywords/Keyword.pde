@@ -43,6 +43,7 @@ class Keyword implements Comparable {
 			fill(255);
 			text(keywordString, 5, 10);
 			textAlign(RIGHT);
+			fill(255, 128);
 			text(tempCount, -barSize-10, 10);
 		} else {
 			for (Date d : this.dateList){
