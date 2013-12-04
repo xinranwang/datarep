@@ -1,8 +1,10 @@
 import java.util.Map;
 import java.util.Date;
 import java.text.SimpleDateFormat;
-
+import java.util.TimeZone;
 import java.util.Collections;
+
+int timeSpeed = 100;
 
 PVector mousePos = new PVector();
 
@@ -18,19 +20,35 @@ HashMap<String, ArrayList<Stop_Time>> stoptimesMap = new HashMap();
 HashMap<String, ArrayList<Trip>> tripsMap = new HashMap();
 HashMap<String, Route> routesMap = new HashMap();
 
+// weekday - service
+HashMap<String, ArrayList<CalendarObject>> serviceMap = new HashMap();
+
+long now = 0;
+
+SimpleDateFormat sdf = new SimpleDateFormat("HH:mm:ss");
+
+boolean runOnce = true;
+
 void setup() {
 	size(1280, 720, P3D);
+	smooth();
+
+	sdf.setTimeZone(TimeZone.getTimeZone("UTC"));
 
 	loadStops();
 	loadStopTimes();
 	loadTrips();
 	loadRoutes();
+	loadCalendar();
 
 	plotMap();
 }
 
 void draw() {
 	mousePos.set(mouseX, mouseY);
+	now = millis()*timeSpeed;
+	Date nowDate = new Date(now);
+
 	background(0);
 	for (Map.Entry me : stopsMap.entrySet()) {
 		Stop s = (Stop)me.getValue();
@@ -38,9 +56,36 @@ void draw() {
 		//if(s.location_type == 1) 
 		s.render();
 	}
+
+	if (runOnce){
+		setupAllTrips();
+		runOnce = false;
+	}
 	for (Map.Entry me : tripsMap.entrySet()){
-		Trip t = ((ArrayList<Trip>)me.getValue()).get(0);
-		t.renderTrip();
+		ArrayList<Trip> l = (ArrayList<Trip>)me.getValue();
+		for (Trip t : l){
+			t.renderTrip();
+		}
+		// Trip t = ((ArrayList<Trip>)me.getValue()).get(0);
+		// println("t.index: "+t.index);
+		// t.renderTrip();
+	}
+
+	fill(255);
+	text(sdf.format(now), 50, 50);
+}
+
+void keyPressed() {
+	if (key == 'r'){
+		setupAllTrips();
+	}
+}
+
+void setupAllTrips() {
+	for (Map.Entry me : tripsMap.entrySet()){
+		for (Trip t : (ArrayList<Trip>)me.getValue()){
+			t.setupTrip();
+		}
 	}
 }
 
@@ -86,8 +131,7 @@ void loadStops() {
 }
 
 void loadStopTimes() {
-	SimpleDateFormat sdf = new SimpleDateFormat("HH:mm:ss");
-
+	
 	Table stoptimeTable = loadTable("google_transit/stop_times.txt", "header, csv");
 
 	for (TableRow row : stoptimeTable.rows()){
@@ -122,16 +166,21 @@ void loadTrips() {
 	Table tripsTable = loadTable("google_transit/trips.txt", "header, csv");
 	for (TableRow row : tripsTable.rows()){
 		String route_id = row.getString("route_id");
+		String service_id = row.getString("service_id");
 		String trip_id = row.getString("trip_id");
 		String trip_headsign = row.getString("trip_headsign");
 		int direction_id = row.getInt("direction_id");
 
 		Trip t = new Trip();
 		t.route_id = route_id;
+		t.service_id = service_id;
 		t.trip_id = trip_id;
 		t.trip_headsign = trip_headsign;
 		t.direction_id = direction_id;
 		t.stop_times = stoptimesMap.get(trip_id);
+
+		t.sortStopTimes();
+		t.setupTrip();
 
 		if (!tripsMap.containsKey(route_id)){
 			ArrayList<Trip> l = new ArrayList();
@@ -141,7 +190,7 @@ void loadTrips() {
 
 		//tripsList.add(t);
 	}
-	println("tripsMap.get: "+tripsMap.get("1").get(0).stop_times.get(0).stop.stop_id);
+	println("tripsMap.get: "+tripsMap.get("1").get(0).stop_times.get(0).arrival_time);
 	//println("tripsList.size(): "+tripsList.size());
 }
 
@@ -158,5 +207,60 @@ void loadRoutes() {
 		r.route_color = route_color;
 
 		routesMap.put(route_id, r);
+	}
+}
+
+void loadCalendar() {
+	Table calendarTable = loadTable("google_transit/calendar.txt", "header, csv");
+
+	String[] days = {"monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"};
+
+	for (String str : days){
+		ArrayList<CalendarObject> l = new ArrayList();
+		serviceMap.put(str, l);
+	}
+
+	for (TableRow row : calendarTable.rows()){
+		String service_id = row.getString("service_id");
+		int monday = row.getInt("monday");
+		int tuesday = row.getInt("tuesday");
+		int wednesday = row.getInt("wednesday");
+		int thursday = row.getInt("thursday");
+		int friday = row.getInt("friday");
+		int saturday = row.getInt("saturday");
+		int sunday = row.getInt("sunday");
+
+		CalendarObject cal = new CalendarObject();
+		cal.service_id = service_id;
+		cal.monday = monday;
+		cal.tuesday = tuesday;
+		cal.wednesday = wednesday;
+		cal.thursday = thursday;
+		cal.friday = friday;
+		cal.saturday = saturday;
+		cal.sunday = sunday;
+
+		if (monday == 1){
+			serviceMap.get("monday").add(cal);
+		}
+		if (tuesday == 1){
+			serviceMap.get("tuesday").add(cal);
+		}
+		if (wednesday == 1){
+			serviceMap.get("wednesday").add(cal);
+		}
+		if (thursday == 1){
+			serviceMap.get("thursday").add(cal);
+		}
+		if (friday == 1){
+			serviceMap.get("friday").add(cal);
+		}
+		if (saturday == 1){
+			serviceMap.get("saturday").add(cal);
+		}
+		if (sunday == 1){
+			serviceMap.get("sunday").add(cal);
+		}
+
 	}
 }
