@@ -7,30 +7,48 @@ import java.util.PriorityQueue;
 import java.util.LinkedList;
 
 SimpleDateFormat sdf = new SimpleDateFormat("HH:mm:ss");
+PFont font;
 
 HashMap<String, Cal> calendarMap = new HashMap(); // for construction only
 HashMap<String, Route> routeMap = new HashMap(); // for construction only
 HashMap<String, Stop> stopMap = new HashMap();
 HashMap<String, Trip> tripMap = new HashMap();
 
-
 Dijkstra d = new Dijkstra();
+
 StringList uptownStopPool = new StringList();
 StringList downtownStopPool = new StringList();
 StringList routePool = new StringList();
 
-HashMap<String, Vertex> uptownVertexMap = new HashMap();
-HashMap<String, Vertex> downtownVertexMap = new HashMap();
+StringList downtownPool = new StringList();
 
 ArrayList<Stop> myStops = new ArrayList();
 
-boolean showStopName = false; 
+boolean showStopName = true; 
+boolean showTrails = false;
+boolean renderAll = false;
 long now = 0;
+int day = 0;
+int timeSpeed = 100;
+
+boolean runOnce = true;
+
+Trail[] trails = new Trail[720]; // from 9 to 9
+long beginTime = 32400000;
+
+ArrayList<Trip> redDowntown = new ArrayList();
+
+ArrayList<Trip> allTrips = new ArrayList();
+
+PVector zoom = new PVector();
+PVector tzoom = new PVector();
 
 void setup() {
 	size(1280, 720, P3D);
 	smooth();
 	sdf.setTimeZone(TimeZone.getTimeZone("UTC"));
+	font = createFont("Helvetica.ttf", 14);
+	textFont(font, 14);
 
 	// load everything
 	loadCalendar();
@@ -44,39 +62,113 @@ void setup() {
 	getMyStops();
 	plotMap();
 
-	// dijkstra
-	long startTime = 0L;
-	int day = 0;
+	getSelectedTrips(day, routePool, 1);
+	getAllTrips(day);
 
-	Vertex startVertex = uptownVertexMap.get("127N");
-	startVertex.minDistance = 0; // very start
-	d.computePaths(startVertex, day, startTime, uptownVertexMap);
-
-	for (Map.Entry me : uptownVertexMap.entrySet()){
-		Vertex v = (Vertex)me.getValue();
-		println(d.getShortestPathEdgesTo(v), v, v.minDistance);
+	for (int i = 0; i<trails.length; i++){
+		trails[i] = new Trail(day, beginTime, "120", downtownPool, downtownPool);
+		Trail t = trails[i];
+		float x = map((float)i, 0, (float)trails.length, 500, width);
+		float y = height/2;
+		t.tpos.set(x, y);
+		t.setVertexPos();
+		beginTime+=60000;
+		t.downtown.printPaths();
 	}
+	
 
 }
 
 void draw() {
 	background(0);
-	// draw stops
+	now = millis()*timeSpeed;
+	zoom.lerp(tzoom, 0.1);
+	Date nowDate = new Date(now);
+	fill(255);
+	text(sdf.format(now) + " - MONDAY", 50, 50);
+
+	// translate(width / 2, height / 2);
+	// 	rotateX( map(mouseY, 0, height, 0, PI/2) );
+	// 	rotateZ( map(mouseX, 0, width, 0, TAU) ); // TWO_PI
+	// translate(-width / 2, -height);
+	translate(zoom.x, zoom.y, zoom.z);
+
+	//draw stops
 	for (Stop s : myStops){
 		s.update();
 		s.render();
 	}
+
+	if (showTrails){
+		for (Trail t : trails){
+			t.update();
+			t.render();
+		}
+	}
+
+
+	if (runOnce){
+		setupAllTrips();
+		runOnce = false;
+	}
+
+	if (renderAll){
+		for (Trip t : allTrips){
+			t.renderTrip();
+		}
+	} else {
+		for (Trip t : redDowntown){
+			t.renderTrip();
+
+		}
+	}
+
+
+
 }
+
 
 void keyPressed() {
 	if (key == 'n'){
 		showStopName = !showStopName;
+	} else if (key == 'a') {
+		renderAll = !renderAll;
+		setupAllTrips();
+	} else if (key == 'z') {
+		tzoom.z = -1000 - tzoom.z;
+	} else if (key == 't') {
+		showTrails = !showTrails;
+	}
+}
+
+void getSelectedTrips(int day, StringList routePool, int direction) {
+	for (Map.Entry me : tripMap.entrySet()){
+		Trip t = (Trip)me.getValue();
+		if (t.calendar[day] == 1 && routePool.hasValue(t.route_id) && t.direction_id == direction){
+			redDowntown.add(t);
+		}
+	}
+}
+
+void getAllTrips(int day) {
+	for (Map.Entry me : tripMap.entrySet()){
+		Trip t = (Trip)me.getValue();
+		if (t.calendar[day] == 1){
+			allTrips.add(t);
+		}
+	}
+}
+
+void setupAllTrips() {
+	for (Trip t : allTrips){
+		t.setupTrip();
 	}
 }
 
 void plotMap() {
 	// 40.8013, 40.7093, -74.0891, -73.8511
-	for (Stop s : myStops){
+	for (Map.Entry me : stopMap.entrySet()){
+		Stop s = (Stop)me.getValue();
 		float x = map(s.stop_lon, -74.0891, -73.8511, 0, width);
 		float y = map(s.stop_lat, 40.7093, 40.8013, height, 0);
 		s.tpos.set(x, y);
@@ -97,10 +189,10 @@ void setupPools() {
 	uptownStopPool.append("121N");
 	uptownStopPool.append("120N");
 
-	for (String stop_id : uptownStopPool){
-		Vertex v = new Vertex(stopMap.get(stop_id));
-		uptownVertexMap.put(stop_id, v);
-	}
+	// for (String stop_id : uptownStopPool){
+	// 	Vertex v = new Vertex(stopMap.get(stop_id));
+	// 	uptownVertexMap.put(stop_id, v);
+	// }
 
 	downtownStopPool.append("127S");
 	downtownStopPool.append("128S");
@@ -114,10 +206,29 @@ void setupPools() {
 	downtownStopPool.append("136S");
 	downtownStopPool.append("137S");
 
-	for (String stop_id : downtownStopPool){
-		Vertex v = new Vertex(stopMap.get(stop_id));
-		downtownVertexMap.put(stop_id, v);
-	}
+	downtownPool.append("120S");
+	downtownPool.append("121S");
+	downtownPool.append("122S");
+	downtownPool.append("123S");
+	downtownPool.append("124S");
+	downtownPool.append("125S");
+	downtownPool.append("126S");
+	downtownPool.append("127S");
+	downtownPool.append("128S");
+	downtownPool.append("129S");
+	downtownPool.append("130S");
+	downtownPool.append("131S");
+	downtownPool.append("132S");
+	downtownPool.append("133S");
+	downtownPool.append("134S");
+	downtownPool.append("135S");
+	downtownPool.append("136S");
+	downtownPool.append("137S");
+
+	// for (String stop_id : downtownStopPool){
+	// 	Vertex v = new Vertex(stopMap.get(stop_id));
+	// 	downtownVertexMap.put(stop_id, v);
+	// }
 }
 
 void getMyStops() {

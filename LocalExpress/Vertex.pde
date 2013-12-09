@@ -5,7 +5,10 @@ class Vertex implements Comparable<Vertex> {
   	Vertex previous;
   	Edge previousEdge;
 
-  	//boolean flag = false; // visited by local
+  	boolean isExpressFaster = false;
+
+  	PVector pos = new PVector();
+  	PVector tpos = new PVector();
 
   	Vertex(Stop s) {
   		stop = s;
@@ -37,24 +40,24 @@ class Vertex implements Comparable<Vertex> {
 		
 		Vertex v2;
 		Edge e2 = new Edge();
-		if (st2 != null && st3 != null){
+		if (st2 != null && st3 != null && vertexMap.containsKey(st2.nextStopTime.stop.stop_id) && vertexMap.containsKey(st3.nextStopTime.stop.stop_id)){
 			if (st2.departure_time.getTime() < st3.departure_time.getTime()){
-				if (vertexMap.containsKey(st2.nextStopTime.stop.stop_id)){
+				//if (vertexMap.containsKey(st2.nextStopTime.stop.stop_id)){
 					v2 = vertexMap.get(st2.nextStopTime.stop.stop_id);
 					e2.weight = st2.nextStopTime.arrival_time.getTime() - startTime;
 					e2.trip = st2.trip;
 					e2.target = v2;
 					adjacencies.add(e2);
-				}
+				//}
 				
 			} else {
-				if (vertexMap.containsKey(st3.nextStopTime.stop.stop_id)){
+				//if (vertexMap.containsKey(st3.nextStopTime.stop.stop_id)){
 					v2 = vertexMap.get(st3.nextStopTime.stop.stop_id);
 					e2.weight = st3.nextStopTime.arrival_time.getTime() - startTime;
 					e2.trip = st3.trip;
 					e2.target = v2;
 					adjacencies.add(e2);
-				}
+				//}
 			}
 		}
 		else if (st2 != null && vertexMap.containsKey(st2.nextStopTime.stop.stop_id)) {
@@ -82,10 +85,29 @@ class Vertex implements Comparable<Vertex> {
 		// }
 	}
 
-	void printPathsToAdjacencies() {
-		for (Edge e : adjacencies){
-			Vertex v = e.target;
-			println(d.getShortestPathEdgesTo(v), v.minDistance, e.target.stop.stop_name);
+	// void printPathsToAdjacencies() {
+	// 	for (Edge e : adjacencies){
+	// 		Vertex v = e.target;
+	// 		println(d.getShortestPathEdgesTo(v), v.minDistance, e.target.stop.stop_name);
+	// 	}
+	// }
+
+	void update() {
+		pos.lerp(tpos, 0.1);
+	}
+
+	void render() {
+		pushMatrix();
+		translate(pos.x, pos.y, pos.z);
+		//fill(isExpressFaster?255:128);
+		// noStroke();
+		// rectMode(CENTER);
+		if (isExpressFaster){
+			stroke(0, 255, 0);
+		} else {
+			stroke(255, 0, 0);
 		}
+		point(0, 0, 0);
+		popMatrix();
 	}
 }

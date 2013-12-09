@@ -14,6 +14,8 @@ class Trip {
 	PVector vel = new PVector();
 	ArrayList<PVector> plots = new ArrayList();
 
+	boolean over = false;
+
 	void sortStopTimes() {
 		for (Stop_Time st : stop_times){
 			st.sortNumber = st.stop_sequence;
@@ -37,9 +39,12 @@ class Trip {
 	void renderTrip() {
 
 		if (now >= start){
-			getPlots();
+			if(!over) {
+				getPlots();
+				stroke(route.route_color);
+			} 
+			else stroke(route.route_color, 100);
 
-			stroke(route.route_color);
 			strokeWeight(3);
 			noFill();
 			beginShape();
@@ -48,13 +53,31 @@ class Trip {
 				vertex(pos.x, pos.y, pos.z);
 			}
 			endShape();
-			if (plots.size() > 0){
-				fill(route.route_color);
-				rect(plots.get(plots.size()-1).x, plots.get(plots.size()-1).y, 10, 10);
-			}
+			// if (plots.size() > 0 && !over){
+			// 	fill(route.route_color);
+			// 	ellipse(plots.get(plots.size()-1).x, plots.get(plots.size()-1).y, 20, 20);
+			// 	fill(255);
+			// 	//textAlign(CENTER, CENTER);
+			// 	text(route_id, plots.get(plots.size()-1).x - 5, plots.get(plots.size()-1).y + 5);
+			// }
 		}
+		renderSign();
+	}
 
-
+	void renderSign() {
+		if (plots.size() > 0 && !over){
+			noStroke();
+			fill(route.route_color);
+			if (route_id.equals("2") || route_id.equals("3")){
+				rect(plots.get(plots.size()-1).x, plots.get(plots.size()-1).y, 20, 20);
+			} else {
+				ellipse(plots.get(plots.size()-1).x, plots.get(plots.size()-1).y, 20, 20);
+			}
+			
+			// fill(255);
+			// //textAlign(CENTER, CENTER);
+			// text(route_id, plots.get(plots.size()-1).x - 5, plots.get(plots.size()-1).y + 5);
+		}
 	}
 
 	void getPlots() {
@@ -87,6 +110,8 @@ class Trip {
 			if (now > st2.arrival_time.getTime()) {
 				index++;
 			}
+		} else {
+			over = true;
 		}
 	}
 }

@@ -23,7 +23,9 @@ class Stop {
 		fill(255);
 		rectMode(CENTER);
 		rect(0, 0, 5, 5);
-		if(showStopName) text(stop_name, 5, 5);
+		textAlign(RIGHT);
+		if(showStopName) text(stop_name, -10, 5);
+		textAlign(LEFT);
 		popMatrix();
 	}
 
@@ -36,7 +38,7 @@ class Stop {
 
 	Stop_Time getComingTrainStopTime(int day, long startTime, String route_id) {
 		for (Stop_Time st : stList){
-			if (st.trip.calendar[day] == 1 && st.departure_time.getTime() >= startTime && st.trip.route_id.equals(route_id)){
+			if (st.trip.calendar[day] == 1 && st.departure_time.getTime() >= startTime && st.trip.route_id.equals(route_id) && st.nextStopTime != null){
 				return st;
 			}
 		}
